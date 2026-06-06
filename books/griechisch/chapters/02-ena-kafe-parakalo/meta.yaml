@@ -1,0 +1,102 @@
+chapter: 2
+slug: ena-kafe-parakalo
+status: draft-complete
+
+vocab_introduced:
+  - lemma: παρακαλώ
+    pos: verb
+    gloss_de: 'bitte (beim Bitten); gern geschehen (Antwort auf danke); wie bitte? (Nachfrage)'
+    notes: 'Drei feste Alltagsfunktionen, vorerst als Wendung gelernt.'
+
+  - lemma: όχι
+    pos: particle
+    gloss_de: 'nein'
+    notes: 'Wird im Alltag oft durch ein Heben des Kopfes nach hinten plus Zungenschnalzen ausgedrückt.'
+
+  - lemma: καφές
+    pos: noun
+    gender: m
+    gloss_de: 'Kaffee'
+    notes: 'Im Kapitel nur in der Bestellform έναν καφέ (als fester Chunk). Die Nennform καφές steht im Wortschatz, wird aber noch nicht aktiv gebraucht.'
+    inflected_forms:
+      - καφέ
+
+  - lemma: νερό
+    pos: noun
+    gender: n
+    gloss_de: 'Wasser'
+    notes: 'Im Kafenío gehört ein Glas Wasser dazu — oft ungefragt, manchmal fragt der Wirt nach (im Dialog: Και νερό;).'
+
+  - lemma: φραπές
+    pos: noun
+    gender: m
+    gloss_de: 'Frappé (kalter, schaumiger Instantkaffee auf Eis)'
+    notes: 'Nur in der Landeskunde, rezeptiv. Bestellform: έναν φραπέ.'
+    inflected_forms:
+      - φραπέ
+
+  - lemma: ένας
+    pos: num
+    gloss_de: 'ein, eine (Zahlwort/unbestimmter Artikel); beim Bestellen έναν/ένα + Getränk'
+    notes: 'A0: nur als Teil des Bestell-Chunks „έναν καφέ, παρακαλώ". Die Formen (ένας/έναν/ένα) werden noch nicht als Grammatik behandelt — das kommt in einem späteren Kapitel.'
+    inflected_forms:
+      - έναν
+      - ένα
+
+  - lemma: και
+    pos: conj
+    gloss_de: 'und'
+
+  - lemma: πολύ
+    pos: adv
+    gloss_de: 'sehr, viel (in ευχαριστώ πολύ = vielen Dank)'
+
+  - lemma: ωραία
+    pos: adv
+    gloss_de: 'schön, prima, gut (als zustimmende Reaktion)'
+
+  - lemma: ορίστε
+    pos: interj
+    gloss_de: 'bitte sehr, hier bitte (beim Servieren/Hinreichen)'
+    notes: 'Anders als im Deutschen: fürs Hinreichen sagt man ορίστε, nicht παρακαλώ.'
+
+  - lemma: τίποτα
+    pos: pron
+    gloss_de: 'nichts; hier: keine Ursache, gern geschehen (Antwort auf danke)'
+    notes: 'Lockerere Alternative zu παρακαλώ als Reaktion auf ευχαριστώ.'
+
+  - lemma: καλώς ήρθατε
+    pos: phrase
+    gloss_de: 'willkommen (höflich oder an mehrere; wörtlich: gut seid ihr gekommen)'
+    notes: 'Fester Block. Vertraute Form: καλώς ήρθες. Hier nur die σας-Form im Dialog.'
+
+  - lemma: τάβλι
+    pos: noun
+    gender: n
+    gloss_de: 'Távli, griechisches Backgammon (klassisches Kafenío-Spiel)'
+    notes: 'Nur in der Landeskunde, rezeptiv als Kulturwort.'
+
+grammar_introduced:
+  - id: hoeflichkeitsformeln
+    label_de: 'Höflichkeitsformeln: παρακαλώ, ευχαριστώ, ναι/όχι, ορίστε, τίποτα als feste Wendungen'
+
+exercises:
+  count: 7
+  types:
+    - matching
+    - situation-choice
+    - multiple-choice
+    - gap-fill
+    - free-production
+
+grammar_recycled:
+  - anrede-su-sas
+
+vocab_recycled:
+  - καλημέρα
+  - γεια
+  - σου
+  - σας
+  - ευχαριστώ
+  - ναι
+  - αντίο

@@ -11,8 +11,10 @@ from __future__ import annotations
 import re
 import unicodedata
 
-# Griechisch + Griechisch-Erweitert (Polytonisch), inkl. Apostroph-Elision (θ' αγαπώ)
-GREEK_TOKEN_RE = re.compile(r"[Ͱ-Ͽἀ-῿]+(?:['’][Ͱ-Ͽἀ-῿]+)*")
+# Griechisch + Griechisch-Erweitert (Polytonisch), inkl. Apostroph-Elision (θ' αγαπώ).
+# Negative Lookbehind auf "-": metalinguistische Endungs-Zitate wie „das -ς"
+# in deutschen Erklärungen sind keine Vokabel-Tokens.
+GREEK_TOKEN_RE = re.compile(r"(?<!-)[Ͱ-Ͽἀ-῿]+(?:['’][Ͱ-Ͽἀ-῿]+)*")
 
 _nlp = None
 
