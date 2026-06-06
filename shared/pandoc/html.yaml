@@ -1,0 +1,9 @@
+# Pandoc-Profil für die Web-Version (chunkedhtml: eine HTML-Datei pro Kapitel).
+to: chunkedhtml
+toc: true
+toc-depth: 1
+split-level: 1
+number-sections: false
+standalone: true
+css:
+  - site.css

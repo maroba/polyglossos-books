@@ -34,6 +34,16 @@ Erstes Buch: Neugriechisch für Deutschsprachige (`books/griechisch/`).
   Aufrufe immer via `.venv/bin/python`.
 - Schema-Validierung: `.venv/bin/python scripts/validate_schema.py`
 - Build: `make chapter/<buch>/<NN>` bzw. `make book/<buch>` (pandoc + xelatex).
+- Pandoc-Profile getrennt nach Format: `shared/pandoc/{pdf,epub,html}.yaml` —
+  niemals LaTeX-Spezifisches (header.tex) in epub/html-Profile mischen.
+
+## Veröffentlichung
+
+Alle Bücher teilen sich EINE GitHub-Pages-Site (`make site` → `_site/`,
+deployt via `.github/workflows/pages.yml`). CI baut nur HTML (kein LaTeX!) —
+`scripts/build_site.py` darf deshalb keine Abhängigkeit auf spacy oder
+xelatex bekommen. PDF/EPUB werden lokal mit `make release/<buch>` gebaut und
+in `books/<buch>/dist/` committet (einzige committeten Binärartefakte).
 
 ## Pipeline-Stop-Bedingungen (Hybrid-Modus)
 

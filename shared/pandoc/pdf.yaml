@@ -1,4 +1,4 @@
-# Pandoc-Defaults für alle Bücher. Buchspezifisches (Titel, Fonts, Sprachen)
+# Pandoc-Profil für PDF (xelatex). Buchspezifisches (Titel, Fonts, Sprachen)
 # kommt aus books/<buch>/book.yaml via --metadata-file.
 pdf-engine: xelatex
 toc: true

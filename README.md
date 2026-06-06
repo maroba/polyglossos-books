@@ -29,8 +29,22 @@ Für den PDF-Build werden `pandoc` und eine TeX-Distribution mit `xelatex` benö
 
 ```sh
 make chapter/griechisch/01    # einzelnes Kapitel (Smoke-Test)
-make book/griechisch          # ganzes Buch: PDF + EPUB
+make book/griechisch          # ganzes Buch: PDF + EPUB (nach build/)
+make release/griechisch       # PDF + EPUB nach dist/ (committet, Website-Downloads)
+make site                     # GitHub-Pages-Site nach _site/ (lokale Vorschau)
 ```
+
+## Veröffentlichung (GitHub Pages)
+
+Alle Bücher werden über **eine** GitHub-Pages-Site veröffentlicht:
+Landing-Page mit Buchliste, pro Buch eine HTML-Version (eine Seite pro
+Kapitel) plus PDF/EPUB-Download.
+
+- Die HTML-Site baut GitHub Actions bei jedem Push auf `main` automatisch
+  (`.github/workflows/pages.yml`) — nur pandoc, kein LaTeX in CI.
+- PDF/EPUB entstehen lokal mit `make release/<buch>` und werden in
+  `books/<buch>/dist/` committet; die Site verlinkt sie.
+- Einmalig im Repo aktivieren: Settings → Pages → Source: „GitHub Actions".
 
 ## Arbeitsweise
 

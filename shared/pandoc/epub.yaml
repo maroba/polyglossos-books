@@ -1,0 +1,6 @@
+# Pandoc-Profil für EPUB.
+toc: true
+toc-depth: 1
+number-sections: false
+css:
+  - shared/pandoc/epub.css

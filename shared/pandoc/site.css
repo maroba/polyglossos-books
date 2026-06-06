@@ -1,0 +1,36 @@
+/* Web-Version der Bücher (ergänzt Pandocs eingebaute chunkedhtml-Styles). */
+
+body {
+  font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  line-height: 1.55;
+  max-width: 42em;
+}
+
+h1, h2, h3 { font-family: inherit; line-height: 1.2; }
+h1 { border-bottom: 2px solid #8a8a8a; padding-bottom: 0.3em; }
+
+/* Vokabelboxen */
+table { border-collapse: collapse; width: 100%; margin: 1em 0; }
+th { text-align: left; border-bottom: 2px solid #555; padding: 0.4em 0.6em; }
+td { border-bottom: 1px solid #ddd; padding: 0.4em 0.6em; }
+
+/* Dialoge */
+blockquote {
+  border-left: 3px solid #9a9a9a;
+  margin-left: 0;
+  padding: 0.2em 0 0.2em 1em;
+  font-style: normal;
+  background: #f6f5f2;
+}
+
+/* Kapitel-Navigation (chunkedhtml) */
+div.sitenav {
+  margin: 2em 0 1em;
+  padding-top: 0.8em;
+  border-top: 1px solid #ccc;
+  font-size: 0.95em;
+}
+
+nav#TOC ul { list-style: none; padding-left: 1em; }
+nav#TOC a { text-decoration: none; }
+nav#TOC a:hover { text-decoration: underline; }
