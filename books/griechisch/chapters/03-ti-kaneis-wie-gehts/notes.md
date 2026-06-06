@@ -53,3 +53,43 @@
 - reader: „verständlich, keine Befunde" (η-Satz schließt letzten Gap)
 - ai-guard: FREIGABE; cultural-reviewer: FREIGABE (Runde 2)
 - Status → draft-complete
+
+## /review-chapter griechisch 3 — 2026-06-06 (Re-Review, Ziel: Status geprueft)
+
+Baseline: validate_schema 0 Fehler, continuity_check 0 Verstöße (nur Eigennamen).
+Parallele Prüfung aller 5 Agenten.
+
+### Befunde Re-Review-Runde 1
+- continuity-checker: **KONTINUITÄT OK** (alle flektierten Formen deklariert; η/κάνετε korrekt als rezeptive Blöcke)
+- reviewer: **FREIGABE** (sprachlich einwandfrei), Feinbefunde:
+  - [x] R1 [minor] chapter.md:166-167 — Siez-Begründung „eine ältere Frau, die er respektvoll behandelt" dreifach (Vorspann + Grammatik + Lösung); im Grammatikteil straffen — ERLEDIGT: Im Grammatikteil zur Sie-Form auf einen knappen Verweis gestrafft („du erinnerst dich: deshalb das σας"); die ausführliche Alters-Begründung steht jetzt nur noch einmal im Dialogvorspann, die Lösung Ü5 bleibt knapp.
+  - [x] R2 [minor] asymmetrische Anrede: Níkos siezt María (Τι κάνετε;), María duzt zurück (Εσύ; / Γεια σου) — authentisch, aber unkommentiert; kurz benennen (verbindet sich mit K1) — ERLEDIGT: Rezeptiver Hinweis im Dialogvorspann (zusammen mit K1): „Achte auf eine kleine Asymmetrie … Níkos siezt María (Τι κάνετε;), aber María duzt ihn zurück (Εσύ;, Γεια σου). Eine ältere Person darf eine jüngere duzen, während sie selbst gesiezt wird … nur wiedererkennen, nicht selbst nachbauen."
+  - [x] R3 [minor] Übung 6 Schlussreplik D „Ευχαριστώ πολύ!" weicht leicht vom Modelldialog ab — optional, belassen — KEINE AKTION (optional, bewusst belassen).
+  - [x] R4 [minor] 12 neue Vok. vs. Ziel 14 — im Toleranzband, keine Aktion — KEINE AKTION (innerhalb ±20 %).
+- reader: **kein COMPREHENSION-FAILURE** („knapp darunter"); Gaps:
+  - [x] L1 λοιπόν im Dialog nur über Box gedeckt — BY DESIGN (in meta.yaml deklariert, Build füllt Box); bewusst belassen (Vorrunde L3) — KEINE AKTION (by design).
+  - [x] L2 Καλώς ήρθες nach Dialog erklärt — by design (Box) + Dialognachspann erklärt es; keine Aktion — KEINE AKTION (by design).
+  - [x] L3 [gap] χαίρω πολύ: Stamm χαίρ- + Endung -ω kollidiert optisch mit den neuen -ω-Verben → EIN klarstellender Halbsatz (fester Block, KEIN -ω-Verb dieses Kapitels) — ERLEDIGT: Klarstellender Absatz bei der χαίρω-πολύ-Erklärung ergänzt: „χαίρω trägt zwar die Endung -ω und sieht aus wie κάνω oder μένω … aber es ist kein Verb, das du hier konjugierst. Lern Χαίρω πολύ als festen Block und lass die Endung in Ruhe."
+  - [x] L4 leere Wortschatz-Box — BY DESIGN (Build generiert aus meta.yaml); keine Aktion — KEINE AKTION (by design).
+  - [x] L5 η im Dialog vor Erklärung — bereits per Wiedererkennungs-Satz im Grammatikteil gelöst (Vorrunde); keine Aktion — KEINE AKTION (bereits in Vorrunde gelöst).
+  - [x] L6 μια χαρά / μια neu in Landeskunde — rezeptiv, in meta.yaml deklariert; keine Aktion — KEINE AKTION (deklariert, rezeptiv).
+  - [x] L7 [pacing] Grammatikteil führt Stamm+3 Endungen+Pro-Drop+Sie-Form auf einmal ein — hohes Tempo; optional Sie-Form optisch stärker absetzen — KEINE AKTION (optional): Die Sie-Form steht bereits als eigene Unterüberschrift („Die Sie-Form: ein Block zum Merken") deutlich abgesetzt am Ende des Grammatikteils; das Tempo ist durch die Block-Behandlung (kein Paradigma) bewusst gedrosselt. Kein weiterer Eingriff nötig.
+- ai-guard: **klingt menschlich**, Feinbefunde:
+  - [x] G1 [rhythmus] chapter.md:93-95 „Genau dasselbe bei κάνω…" angeklebt — variieren — ERLEDIGT: variiert zu „Bei κάνω und κάνεις läuft es haargenau so." — eigenständiger, nicht angeklebter Satz.
+  - [x] G2 [liste] chapter.md:13-20 Lernziel-Parallelismus aufbrechen (optional) — KEINE AKTION (optional): Die drei Can-do-Punkte sind als Lernziel-Liste sinnvoll parallel; das Aufbrechen brächte hier keinen Lesegewinn, die Punkte sind ohnehin unterschiedlich lang und konkret.
+  - [x] G3 [hedging] chapter.md:147-148 „brauchst du noch nicht" → als Entscheidung formulieren — ERLEDIGT: als Entscheidung formuliert: „Bilden musst du Τι κάνετε; nicht, nur wiedererkennen und zurückgeben." sowie „Bis dahin reicht dir der Block." Kein weiches „noch nicht" mehr.
+  - [x] G4 [rhythmus] chapter.md:121-126 gleichförmige Erklärsätze straffen — KEINE AKTION (optional): Der Muster-Absatz wechselt bereits zwischen Erklärsatz, Deutsch-Analogie („ich wohn-e / du wohn-st") und Tabelle; der Rhythmus trägt. Kein erzwungener Eingriff.
+  - [x] G5 [floskel] chapter.md:277-280 englischer „How are you?"-Vergleich → streichen, deutscher Bäckertheken-Vergleich trägt allein — ERLEDIGT: Englischer „How are you?"-Vergleich gestrichen; der Landeskunde-Absatz steigt jetzt direkt mit dem deutschen Bäckertheken-Vergleich ein, der die Pointe (Ritual, kein Bericht) allein trägt.
+  - [x] G6 [rhythmus] chapter.md:282-290 vier gleichlange Sätze — Pointe (Ausholen mit Sorgen) eigenen Atemraum geben — ERLEDIGT: Die Pointe steht jetzt als eigener, knapper Absatz: „Wer jetzt mit echten Sorgen ausholt, bringt das Gegenüber kurz aus dem Konzept. Nicht aus Kälte — sondern weil die Frage in dem Moment gar nicht als Einladung gemeint war." Aus dem gleichförmigen Vierersatz-Block herausgelöst.
+- cultural-reviewer: **solide/klischeefrei**, zwei echte Fixes:
+  - [x] K1 [pragmatik] chapter.md:44-46 σας-Kriterium zu eng auf Alter reduziert — auch Fremdheit + formeller Kontext (Amt, Arzt) sind σας-Auslöser; sichere Faustregel „im Zweifel σας, bis zum Du eingeladen" ergänzen (für die María-Szene bleibt Alter der Haupttreiber — nicht die in Runde 2/K4 entfernte „nur weil fremd"-Übergewichtung wieder einführen) — ERLEDIGT: Allgemeine Regel erweitert. Für die María-Szene bleibt ihr Alter ausdrücklich der klare Haupttreiber (unverändert). Danach neuer Absatz: Alter ist nur „ein Signal von mehreren"; formeller Rahmen (Amt, Arztpraxis, Bank, jede offizielle Begegnung) verlangt σας genauso, ebenso oft eine fremde Person, „die weder erkennbar jünger noch im lockeren Plauderton unterwegs ist". Sichere Faustregel ergänzt: „im Zweifel σας — und du bleibst dabei, bis die andere Person zum Du übergeht oder dich ausdrücklich dazu einlädt." Die in Runde 2/K4 entfernte „nur weil fremd"-Übergewichtung wurde NICHT wieder eingeführt: Fremdheit erscheint nur als ein gleichrangiges Signal neben Alter und Kontext, die Szene bleibt alters-getrieben.
+  - [x] K2 [pragmatik] chapter.md:62-66 χαίρω πολύ als Sie-exklusiv dargestellt — ist universelle Erstkontakt-Formel (Du und Sie); „sichere Wahl beim respektvollen Erstkontakt" darf bleiben, aber nicht implizieren, dass sie beim Du fehl am Platz ist — ERLEDIGT: χαίρω-πολύ-Absatz korrigiert: „Das ist die universelle Formel beim ersten Kennenlernen: Sie passt beim Sie genauso wie beim Du, auch unter Gleichaltrigen, die sich zum ersten Mal die Hand geben." Die Einordnung „für genau diesen respektvollen Erstkontakt … die sichere, höfliche Wahl" bleibt erhalten, ist aber jetzt klar als situative Passung (nicht als Sie-Exklusivität) formuliert; „mit Χαίρω πολύ machst du nie etwas falsch."
+
+### Abschluss Re-Review — ALLE PRÜFER GRÜN → status: geprueft
+- continuity-checker: KONTINUITÄT OK (0 Verstöße; alle flektierten Formen + rezeptive Blöcke deklariert)
+- reviewer: FREIGABE (sprachlich einwandfrei)
+- reader: kein COMPREHENSION-FAILURE
+- ai-guard: klingt menschlich
+- cultural-reviewer: FREIGABE (K1/K2-Korrekturen in Verifikationsrunde bestätigt — sachlich/pragmatisch korrekt, nicht überkorrigiert; ein rein stilistischer Rest in Z. 44-48 „klarer Grund" vs. „ein Signal von mehreren" ausdrücklich als Nicht-Fehler eingestuft, akzeptiert)
+- validate_schema: 0 Fehler; continuity_check: 0 Verstöße
+- meta.yaml: status draft-complete → **geprueft**

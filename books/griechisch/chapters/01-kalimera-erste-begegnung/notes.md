@@ -93,6 +93,48 @@
 - [x] Mini-Defekt Übung 1: Beispiel-Item „0. ναι → **d**" verriet wörtlich Test-Item 5 (ναι → d). Fix (Variante a): Beispiel auf γεia umgestellt — γεια ist in meta.yaml deklariert, kommt aber nicht in der a–e-Liste vor; es demonstriert nur das Eintrage-Format (griech. Wort → dt. Bedeutung) mit eigener Beispielzeile außerhalb der Optionen. Alle fünf Test-Items (καλημέρα, αντίο, ευχαριστώ, καλησπέρα, ναι) bleiben erhalten, Lösungsschlüssel Übung 1 (1→e, 2→c, 3→a, 4→b, 5→d) unverändert. meta.yaml exercises.count/types unverändert (6). Kein neues Vokabular eingeführt.
 
 ### Offen für spätere Überarbeitung (nicht blockierend)
-- [ ] K2.4 Taxistand-Szene sozial ambig (vertagt aus Runde 2)
-- [ ] R3.1 Zeitangaben-Feinabstimmung meta.yaml:8 ↔ chapter.md
-- [ ] Reader-Kleinigkeiten: „(selten)"-Begründung, Erzähl-Kommentar „schwenkt um", κύριε-Stolperer
+- [x] K2.4 Taxistand-Szene sozial ambig (vertagt aus Runde 2) — in R-Review-Runde unten als K2 abgearbeitet
+- [x] R3.1 Zeitangaben-Feinabstimmung meta.yaml:8 ↔ chapter.md — in R-Review-Runde unten als R4/K3 abgearbeitet
+- [x] Reader-Kleinigkeiten: „(selten)"-Begründung, Erzähl-Kommentar „schwenkt um", κύριε-Stolperer — „(selten)" via R1/L5 gelöst; Rest belassen
+
+## /review-chapter griechisch 1 — 2026-06-06 (Re-Review, Ziel: Status geprueft)
+
+Baseline: validate_schema 0 Fehler, continuity_check 0 Verstöße (nur Eigennamen).
+Parallele Prüfung aller 5 Agenten (Kapitel hat cultural_topic).
+
+### Befunde Re-Review-Runde 1
+- continuity-checker: **KONTINUITÄT OK** (0 Verstöße, nur Λένα/Κώστας/Μαρία)
+- reviewer: **FREIGABE** (sprachlich fehlerfrei), Feinbefunde:
+  - [x] R1 [major] σου-Paradigmazellen — erledigt: Die Tabelle (chapter.md:80-82) enthält nur noch γεια σου / γεια σας; die irreführenden Zellen „καλημέρα σου / αντίο σου *(selten)*" sind nicht (mehr) vorhanden. Der Fließtext darunter erklärt καλημέρα/καλησπέρα/αντίο sachgerecht (σας oder gar nichts) und nennt das σου dort als „im Alltag so selten, dass du es getrost weglassen kannst" — erklärend statt als produktives Muster, kein vages „(selten)" mehr in der Tabelle. Befund im Sinne der Major-Empfehlung erfüllt.
+  - [x] R2 [minor] λένε-Glosse „man nennt mich" — bewusste A0-Glättung, kein Fehler (keine Aktion)
+  - [x] R3 [minor, =L6] γ-Lautwert in „Wie es klingt" — bereits vorhanden (chapter.md:113-116): „das anlautende γ klingt … vor hellen Vokalen weich, wie das ‚j' in ‚ja' — γεια liegt klanglich also nah am deutschen ‚ja'". Sauber ohne Transliteration. Keine weitere Aktion nötig.
+  - [x] R4 [minor, =R3.1/K3] καλημέρα-Zeitangabe vereinheitlicht — siehe K3.
+  - [x] R5 [minor, =K2.4] Taxistand-Szene — siehe K2.
+- reader: **kein COMPREHENSION-FAILURE**, durcharbeitbar; Gaps:
+  - [x] L1/L4 leere Wortschatz-Box & κυρία/καλησπέρα vor Erklärung — BY DESIGN (Box wird beim Build aus meta.yaml generiert), keine Aktion
+  - [x] L2/L3 καλησπέρα/εσύ im Dialog vor Erklärung — by design (Box) + Grammatikteil; keine Aktion
+  - [x] L5 [confusing] „(selten)" ohne Erklärung — deckt sich mit R1, dort erledigt (kein „(selten)" mehr in der Tabelle)
+  - [x] L6 [confusing] γεια-Aussprachehinweis ohne Lautlehre — deckt sich mit R3, dort erledigt (γ-Lautwert ist erklärt)
+  - [x] L7 [gap] griechisches Alphabet — CURRICULUM-EBENE, kein Kapitel-1-Defekt, kein Auftrag (keine Aktion)
+- ai-guard: **klingt menschlich**, Feinbefunde:
+  - [x] G1 [liste] Lernziel-Liste — nach Urteil belassen: die drei Can-do-Punkte sind klar und tragen; eine Umgewichtung brächte keinen Lesegewinn.
+  - [x] G2 [rhythmus] chapter.md:89-92 — Absatz nach der Tabelle umgeschrieben: Satzlängen variiert, Doppel-Absicherung „Auch das ist völlig höflich" → „Beides ist völlig höflich"; Halbsätze mit Doppelpunkt/Komma statt drei gleichlanger Sätze.
+  - [x] G3 [hedging] σου/σας-Bullets — nach Urteil belassen: die Klammern tragen Bedeutung (Beispiele/Adressatengruppen), keine echte Hedging-Häufung.
+  - [x] G4 [hedging] „schon eher" am Satzende — bereits behoben: chapter.md:108-109 sagt klar „Mit σας wirkst du nie unhöflich; ein ungebetenes σου dagegen kann kühl, fast übergriffig wirken." Kein „schon eher" mehr.
+  - [x] G5 [rhythmus] chapter.md:248-255 — beim K3-Fix mit erledigt: Landeskunde-Schlussabsatz neu rhythmisiert (kurze + lange Sätze, Doppelpunkt, Frage), keine vier gleichlangen Sätze mehr.
+  - [x] G6 [floskel] με-λένε-Vertagung — umformuliert (chapter.md:130-134): vage „ergibt erst Sinn, wenn du die Verben kennengelernt hast" gestrichen; jetzt konkret „Die Verbendungen kommen in Kapitel 3, die Mehrzahlform λένε in Kapitel 5." Gegen Kapitel 3 geprüft: dort wird das Präsens auf -ω (κάνω/μένω) Singular eingeführt (grammar_introduced: praesens-omega-sg) — die Kapitelnennung stimmt.
+- cultural-reviewer: **solide**, ein echter Fix:
+  - [x] K3 [fakt, =R4] Tageszeit-Grenze korrigiert & vereinheitlicht: chapter.md:250-254 sagt jetzt „καλημέρα gehört dem Vormittag, bis etwa Mittag — bis ungefähr zwölf, ein Uhr. Vom frühen Nachmittag an … καλησπέρα. Die Grenze verläuft grob um die Mittagszeit." meta.yaml angeglichen: καλημέρα „am Vormittag, bis etwa Mittag"; καλησπέρα „ab dem frühen Nachmittag, den Abend über". Beide Quellen stimmen nun überein.
+  - [x] K2 [pragmatik, =K2.4/R5] Taxistand neutral verankert — Halbsatz in der Landeskunde (chapter.md:238-240): „dass man am Taxistand oder am Busbahnhof mit Wartenden ein paar Worte wechselt, ist in Griechenland ganz normal und neutral — kein besonderes Signal, einfach Alltagshöflichkeit." Seit Runde 2 vertagter Befund damit erledigt.
+
+### Orchestrator-Zwischenfund (continuity nach teacher-Edit)
+- [x] Der γ-Lautwert-Hinweis enthielt zunächst einen freistehenden Einzelbuchstaben **γ**, den continuity_check.py als nicht deklariertes Token flaggte (1 potenzieller Verstoß). Per Mikro-Auftrag an den teacher umformuliert: spricht jetzt vom „ersten Laut von γεια" / „Anlaut" statt den Buchstaben isoliert zu zitieren. Inhalt (weicher Anlaut, nah am „j") erhalten. continuity_check danach wieder 0 Verstöße.
+
+### Abschluss Re-Review — ALLE PRÜFER GRÜN → status: geprueft
+- continuity-checker: KONTINUITÄT OK (0 Verstöße)
+- reviewer: FREIGABE (sprachlich fehlerfrei)
+- reader: kein COMPREHENSION-FAILURE, durcharbeitbar
+- ai-guard: klingt menschlich
+- cultural-reviewer: FREIGABE (K3-Faktenkorrektur in Verifikationsrunde bestätigt: chapter.md ↔ meta.yaml konsistent)
+- validate_schema: 0 Fehler; continuity_check: 0 Verstöße
+- meta.yaml: status draft-complete → **geprueft**

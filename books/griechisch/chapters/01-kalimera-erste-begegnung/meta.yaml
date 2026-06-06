@@ -1,15 +1,15 @@
 chapter: 1
 slug: kalimera-erste-begegnung
-status: draft-complete
+status: geprueft
 
 vocab_introduced:
   - lemma: καλημέρα
     pos: interj
-    gloss_de: "guten Morgen (Gruß vom Morgen bis zum frühen Nachmittag)"
+    gloss_de: "guten Morgen (Gruß am Vormittag, bis etwa Mittag)"
 
   - lemma: καλησπέρα
     pos: interj
-    gloss_de: "guten Abend (Gruß ab dem späteren Nachmittag)"
+    gloss_de: "guten Abend (Gruß ab dem frühen Nachmittag, den Abend über)"
 
   - lemma: γεια
     pos: interj

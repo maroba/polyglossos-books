@@ -80,16 +80,12 @@ Viele griechische Grußformeln hängen sich ein **σου** oder **σας** an:
 | du (eine Person, vertraut) | Sie / ihr (höflich oder mehrere) |
 |----------------------------|----------------------------------|
 | γεια **σου**               | γεια **σας**                     |
-| καλημέρα **σου** *(selten)* | καλημέρα **σας**                 |
-| αντίο **σου** *(selten)*   | αντίο **σας**                    |
 
-Die mit *(selten)* markierten Formen musst du nicht aktiv lernen — es reicht,
-wenn du sie wiedererkennst, falls sie dir doch begegnen.
-
-Bei **γεια** hörst du beide Formen ständig. Bei **καλημέρα**, **καλησπέρα**
-und **αντίο** ist die höfliche Form mit **σας** die übliche. Oft hängt man aber
-gar nichts an und sagt einfach nur **καλημέρα** — auch das ist völlig in
-Ordnung und klingt keineswegs unhöflich.
+Bei **γεια** hörst du beide Formen ständig — daran machst du das Muster fest.
+Bei **καλημέρα**, **καλησπέρα** und **αντίο** liegt es anders. Hier hängt man
+entweder das höfliche **σας** an (**καλημέρα σας**) oder, weit häufiger, gar
+nichts: schlicht **καλημέρα**. Beides ist völlig höflich. Ein **σου** an diesen
+Wörtern ist im Alltag so selten, dass du es getrost weglassen kannst.
 
 ### Die Regel
 
@@ -108,13 +104,15 @@ Im Deutschen ist „Sie" ein eigenes Wort und großgeschrieben; man kann es kaum
 überhören. Im Griechischen verschwindet die ganze Höflichkeit in zwei
 unscheinbaren Silben am Satzende. Genau deshalb wird sie von Deutschsprachigen
 am Anfang gern verschluckt. Wenn du im Zweifel bist — ältere Person, Behörde,
-jemand im Dienst, ein erstes Treffen — nimm **σας**. Mit **σας** liegst du nie
-unhöflich daneben; mit einem zu frühen **σου** schon eher.
+jemand im Dienst, ein erstes Treffen — nimm **σας**. Mit **σας** wirkst du nie
+unhöflich; ein ungebetenes **σου** dagegen kann kühl, fast übergriffig wirken.
 
 ### Wie es klingt
 
-**γεια** wird zusammengezogen gesprochen, fast wie eine einzige Silbe. Und
-**σου** und **σας** haben keine eigene Betonung — sie lehnen sich klanglich an
+**γεια** wird zusammengezogen gesprochen, fast wie eine einzige Silbe. Der
+erste Laut von **γεια** ist kein hartes deutsches „g": Vor hellen Vokalen klingt
+der Anlaut weich, fast wie das „j" in „ja" — **γεια** liegt klanglich also nah
+am deutschen „ja". Und **σου** und **σας** haben keine eigene Betonung — sie lehnen sich klanglich an
 das Wort davor an und hängen sich leise an. Du sprichst also nicht „γεια — ΣΟΥ"
 mit zwei betonten Stellen, sondern lässt **γεια σου** in einem Zug ineinander
 laufen, als wäre es ein einziges Wort. Genau deshalb tragen **σου** und **σας**
@@ -129,8 +127,10 @@ nicht. Du steckst einfach deinen Namen ans Ende, etwa **Με λένε Μαρία
 **Με λένε Λένα**.
 
 Behandle **με λένε** vorerst als einen festen Block, einen Baustein, den du als
-Ganzes lernst. Warum da zwei Wörter stehen und was sie einzeln bedeuten, sehen
-wir uns später an — jetzt zählt nur, dass du dich damit vorstellen kannst.
+Ganzes lernst. Dass **λένε** eine Verbform ist („sie nennen") und das **με**
+davor ein eigenes kleines Wort, zerlegen wir hier noch nicht: Die Verbendungen
+kommen in Kapitel 3, die Mehrzahlform **λένε** in Kapitel 5. Jetzt zählt nur,
+dass du dich damit vorstellen kannst.
 
 ### Εσύ; — die Frage zurückgeben
 
@@ -234,7 +234,9 @@ bleibt für klar abgegrenzte Situationen reserviert: gegenüber deutlich ältere
 Menschen, in Ämtern und Banken, beim Arzt, gegenüber dem Schalterpersonal — und
 generell beim allerersten Kontakt mit Unbekannten, wenn du sichergehen willst.
 Lena macht es am Flughafen genau richtig: zur Frau im Dienst **σας**, zum
-jungen Mann am Taxistand **σου**.
+jungen Mann am Taxistand **σου**. Und dass man am Taxistand oder am
+Busbahnhof mit Wartenden ein paar Worte wechselt, ist in Griechenland ganz
+normal und neutral — kein besonderes Signal, einfach Alltagshöflichkeit.
 
 Hast du gemerkt, dass die Frau Lena mit **κυρία Λένα** anspricht — also „Frau"
 plus *Vorname*? Das ist kein Fehler, sondern in Griechenland verbreitet:
@@ -245,14 +247,13 @@ einem vorangestellten **κύριε** (für Männer) oder **κυρία** (für Fr
 Mischung aus Respekt und Vertrautheit überrascht uns am Anfang, weil bei uns
 „Frau" fast automatisch den Nachnamen nach sich zieht.
 
-Praktischer Hinweis für deine ersten Tage: **καλημέρα** gilt am Vormittag,
-**καλησπέρα** den Nachmittag und Abend über. Die Grenze dazwischen ist fließend
-— irgendwann im Laufe des Nachmittags wechseln die meisten, der eine früher, der
-andere später; das ist Gewohnheitssache und niemand nimmt es streng. Und wenn du
-unsicher bist, welche Tageszeit gerade „dran" ist: Mit **γεια σας** liegst du zu
-jeder Stunde richtig. Wichtiger als die richtige Formel ist ohnehin, dass du
-überhaupt grüßt: Wer einen Laden betritt, ohne ein Wort zu sagen, wirkt schnell
-unhöflich.
+Noch ein praktischer Hinweis für deine ersten Tage. **Καλημέρα** gehört dem
+Vormittag, bis etwa Mittag — also bis ungefähr zwölf, ein Uhr. Vom frühen
+Nachmittag an und den ganzen Abend über heißt es dann **καλησπέρα**. Die Grenze
+verläuft grob um die Mittagszeit, und niemand nimmt sie streng. Du bist
+unsicher, was gerade „dran" ist? Sag **γεια σας** — das passt zu jeder Stunde.
+Überhaupt zählt das Grüßen an sich mehr als die perfekt gewählte Formel: Wer
+einen Laden wortlos betritt, wirkt schnell unhöflich.
 
 <!-- @section: loesungen -->
 

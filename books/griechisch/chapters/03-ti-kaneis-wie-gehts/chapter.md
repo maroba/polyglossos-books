@@ -40,10 +40,23 @@ aus dem Kafenío. Sie kennen sich inzwischen — geduzt wird also längst.
 **Νίκος:** Ωραία, ωραία! Καλώς ήρθες, λοιπόν!
 
 Eine ältere Frau kommt aus dem Haus gegenüber, einen Korb am Arm. Níkos kennt
-sie — es ist **María**, die Nachbarin. Sie ist deutlich älter als Lena, und man
-sieht sich zum ersten Mal: Beides spricht fürs **σας**. (Wären die beiden
-gleichaltrig, ginge man in Griechenland schnell zum Du über — aber einer
-älteren Dame gegenüber bleibt man höflich.)
+sie — es ist **María**, die Nachbarin. Sie ist deutlich älter als Lena: Das ist
+hier der klare Grund fürs **σας**. (Wären die beiden gleichaltrig, ginge man in
+Griechenland schnell zum Du über — aber einer älteren Dame gegenüber bleibt man
+höflich.)
+
+Das Alter ist dabei nur *ein* Signal von mehreren. Genauso verlangt ein
+formeller Rahmen das **σας**: auf dem Amt, in der Arztpraxis, bei der Bank, in
+jeder offiziellen Begegnung — und oft auch gegenüber einer fremden Person, die
+weder erkennbar jünger noch im lockeren Plauderton unterwegs ist. Die sichere
+Faustregel für den Anfang: **im Zweifel σας** — und du bleibst dabei, bis die
+andere Person zum Du übergeht oder dich ausdrücklich dazu einlädt.
+
+Achte im Dialog auf eine kleine Asymmetrie, die völlig normal ist: Níkos siezt
+María (**Τι κάνετε;**), aber María duzt ihn zurück (**Εσύ;**, **Γεια σου**).
+Eine ältere Person darf eine jüngere duzen, während sie selbst gesiezt wird —
+das ist keine Unhöflichkeit, sondern die übliche Rangordnung nach Alter. Du
+musst das nicht selbst nachbauen, nur wiedererkennen, wenn es dir begegnet.
 
 **Νίκος:** Μαρία! Τι κάνετε;
 
@@ -59,11 +72,18 @@ Mehr braucht so ein Straßengruß nicht. Man fragt **Τι κάνεις;**, man a
 man wünscht sich einen schönen Tag — und geht weiter.
 
 Eine Wendung lohnt noch einen Blick: Lena sagt zur Nachbarin **Χαίρω πολύ** —
-*sehr erfreut*. Das ist die formelle Höflichkeitsformel beim ersten
-Kennenlernen, und sie passt genau hierher: Lena siezt die ältere Frau, und man
-sieht sich zum ersten Mal. Lockerere Varianten zum Sich-Vorstellen lernst du
-später; für den respektvollen Erstkontakt ist **Χαίρω πολύ** die sichere Wahl.
-Lern sie als festen Block.
+*sehr erfreut*. Das ist die universelle Formel beim ersten Kennenlernen: Sie
+passt beim Sie genauso wie beim Du, auch unter Gleichaltrigen, die sich zum
+ersten Mal die Hand geben. Hier in der Szene fügt sie sich nahtlos in den
+respektvollen Ton ein — Lena siezt die ältere Frau —, und für genau diesen
+respektvollen Erstkontakt ist **Χαίρω πολύ** die sichere, höfliche Wahl.
+Lockerere Varianten zum Sich-Vorstellen lernst du später; mit **Χαίρω πολύ**
+machst du nie etwas falsch.
+
+Eine Warnung fürs Auge: **χαίρω** trägt zwar die Endung **-ω** und sieht damit
+aus wie **κάνω** oder **μένω** aus diesem Kapitel — aber es ist **kein** Verb,
+das du hier konjugierst. Lern **Χαίρω πολύ** als festen Block und lass die
+Endung in Ruhe.
 
 Und das **Καλώς ήρθες**, mit dem Lena willkommen geheißen wird? Das ist dieselbe
 Willkommensformel wie **καλώς ήρθατε** in Kapitel 2 — nur eben zum Du. Die beiden
@@ -92,7 +112,7 @@ Sieh dir diese Zeilen aus dem Dialog noch einmal an:
 
 Fällt dir etwas auf? Bei **μένω** und **μένεις** ist der vordere Teil immer
 gleich — **μέν-** —, und hinten wechselt nur die Endung: einmal **-ω**, einmal
-**-εις**. Genau dasselbe bei **κάνω** und **κάνεις**.
+**-εις**. Bei **κάνω** und **κάνεις** läuft es haargenau so.
 
 ### Das Muster
 
@@ -144,8 +164,8 @@ es krampfhaft suchst, baust du dir nur einen Fehler. **Καλά. Πολύ καλ
 Eine kleine Beobachtung am Rande zu **πολύ**: Beim Befinden steht es *vor* dem
 Wort — **πολύ καλά**, „sehr gut". Aus Kapitel 2 kennst du aber **ευχαριστώ
 πολύ**, „vielen Dank", wo es *hinter* dem Wort steht. Merk dir die beiden
-Wendungen einfach so, wie sie sind; eine Regel zur Wortstellung brauchst du
-dafür noch nicht.
+Wendungen einfach so, wie sie sind — eine Regel zur Wortstellung sparen wir uns
+hier.
 
 ### Und wie geht's dir? — die Frage zurückgeben
 
@@ -162,8 +182,8 @@ den Ball zurück, ohne dass du die ganze Frage wiederholen musst.
 
 ### Die Sie-Form: ein Block zum Merken
 
-Als Níkos die Nachbarin **María** anspricht — eine ältere Frau, die er
-respektvoll behandelt —, fragt er nicht **Τι κάνεις;**, sondern **Τι κάνετε;**
+Als Níkos die ältere Nachbarin **María** anspricht (du erinnerst dich: deshalb
+das **σας**), fragt er nicht **Τι κάνεις;**, sondern **Τι κάνετε;**
 
 Das ist dieselbe Höflichkeits-Entscheidung wie **σου** gegenüber **σας** aus
 dem ersten Kapitel, nur jetzt an der Frage: **Τι κάνεις;** zu einer vertrauten
@@ -275,9 +295,8 @@ Griechisch — so kurz wie im echten Straßengruß.
 
 Hier lauert die feinste Falle des Kapitels, und sie ist keine grammatische,
 sondern eine kulturelle. **Τι κάνεις;** sieht aus wie eine Frage nach deinem
-Befinden — und meistens ist es keine. Es ist ein **Gruß**, ungefähr so, wie das
-englische „How are you?" zur Begrüßung gehört, ohne dass jemand einen
-Krankenbericht erwartet.
+Befinden — und meistens ist es keine. Es ist ein **Gruß**, und niemand erwartet
+darauf einen Krankenbericht.
 
 Im Prinzip kennen wir das auch: Wer an der Bäckertheke „Wie geht's?" sagt,
 erwartet selten einen ausführlichen Bericht — auch bei uns ist das oft ein
@@ -285,9 +304,11 @@ Ritual. **Τι κάνεις;**
 läuft in Griechenland noch beiläufiger und öfter mit: im Vorbeigehen, auf der
 Treppe, beim kurzen Stehenbleiben auf dem Gehweg. Die erwartete Antwort ist
 entsprechend knapp und freundlich: **Καλά, ευχαριστώ. Εσύ;** Damit ist das
-Ritual erfüllt, und beide gehen weiter. Wer in dieser Situation mit echten
-Sorgen ausholt, bringt das Gegenüber kurz in Verlegenheit — nicht aus Kälte,
-sondern weil die Frage in dem Moment gar nicht als Einladung dazu gemeint war.
+Ritual erfüllt, und beide gehen weiter.
+
+Wer jetzt mit echten Sorgen ausholt, bringt das Gegenüber kurz aus dem Konzept.
+Nicht aus Kälte — sondern weil die Frage in dem Moment gar nicht als Einladung
+gemeint war.
 
 Das heißt nicht, dass es nie ernst gemeint ist. Unter Freunden, bei einem
 Kaffee, mit Zeit und Ruhe, *will* man die richtige Antwort hören — dann ist
