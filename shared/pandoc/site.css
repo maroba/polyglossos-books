@@ -1,36 +1,188 @@
-/* Web-Version der Bücher (ergänzt Pandocs eingebaute chunkedhtml-Styles). */
+/* Web-Version der Bücher (pandoc chunkedhtml).
+   Achtung: Sobald ein eigenes CSS gesetzt ist, liefert Pandoc KEINE
+   Default-Styles mehr — diese Datei muss daher vollständig sein. */
+
+:root {
+  --paper: #faf8f4;
+  --ink: #26221c;
+  --muted: #7a7468;
+  --accent: #1e5f8e;        /* Ägäis-Blau */
+  --accent-dark: #164a70;
+  --rule: #d8d2c6;
+  --dialog-bg: #f1ede4;
+}
+
+html {
+  background: var(--paper);
+  color: var(--ink);
+}
 
 body {
-  font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
-  line-height: 1.55;
-  max-width: 42em;
+  margin: 0 auto;
+  max-width: 44em;
+  padding: 1.5em 1.5em 4em;
+  font-family: "Iowan Old Style", "Palatino Linotype", Palatino,
+               "Book Antiqua", Georgia, serif;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  hyphens: auto;
+  overflow-wrap: break-word;
+  text-rendering: optimizeLegibility;
+  font-kerning: normal;
 }
 
-h1, h2, h3 { font-family: inherit; line-height: 1.2; }
-h1 { border-bottom: 2px solid #8a8a8a; padding-bottom: 0.3em; }
-
-/* Vokabelboxen */
-table { border-collapse: collapse; width: 100%; margin: 1em 0; }
-th { text-align: left; border-bottom: 2px solid #555; padding: 0.4em 0.6em; }
-td { border-bottom: 1px solid #ddd; padding: 0.4em 0.6em; }
-
-/* Dialoge */
-blockquote {
-  border-left: 3px solid #9a9a9a;
-  margin-left: 0;
-  padding: 0.2em 0 0.2em 1em;
-  font-style: normal;
-  background: #f6f5f2;
+@media (max-width: 600px) {
+  body { font-size: 0.95rem; padding: 0.8em 1em 3em; }
 }
 
-/* Kapitel-Navigation (chunkedhtml) */
-div.sitenav {
-  margin: 2em 0 1em;
-  padding-top: 0.8em;
-  border-top: 1px solid #ccc;
+p { margin: 0.8em 0; }
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { color: var(--accent-dark); text-decoration: underline; }
+
+/* ── Überschriften ─────────────────────────────────────────────── */
+
+h1, h2, h3 { line-height: 1.25; font-weight: 700; }
+
+h1 {
+  font-size: 1.9em;
+  margin: 1.2em 0 0.8em;
+  padding-bottom: 0.35em;
+  border-bottom: 3px double var(--rule);
+}
+
+h2 {
+  font-size: 1.35em;
+  margin: 1.8em 0 0.6em;
+  color: var(--accent-dark);
+}
+
+h3 { font-size: 1.1em; margin: 1.5em 0 0.4em; }
+
+/* ── Kapitel-Navigation (chunkedhtml sitenav) ──────────────────── */
+
+nav#sitenav {
+  font-size: 0.85em;
+  color: var(--muted);
+  margin: 0 0 1.5em;
+  padding-bottom: 0.6em;
+  border-bottom: 1px solid var(--rule);
+}
+
+/* untere Navigation (nach dem Inhalt) */
+h1 ~ nav#sitenav, p ~ nav#sitenav, section ~ nav#sitenav {
+  margin: 3em 0 0;
+  padding: 0.8em 0 0;
+  border-bottom: none;
+  border-top: 1px solid var(--rule);
+}
+
+div.sitenav { display: flex; flex-direction: row; flex-wrap: wrap; gap: 0.5em 1.5em; }
+span.navlink { flex: 1 1 auto; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+span.navlink:empty { display: none; }
+span.navlink-label {
+  display: inline-block;
+  margin-right: 0.3em;
+  font-variant: small-caps;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+}
+
+/* ── Titelseite / Inhaltsverzeichnis (index.html eines Buches) ─── */
+
+header#title-block-header {
+  margin: 2.5em 0 2em;
+  text-align: center;
+}
+header#title-block-header h1.title {
+  border-bottom: none;
+  font-size: 2.2em;
+  margin-bottom: 0.2em;
+}
+header#title-block-header p.subtitle {
+  font-size: 1.15em;
+  color: var(--muted);
+  margin: 0.2em 0;
+}
+header#title-block-header p.author,
+header#title-block-header p.date {
+  color: var(--muted);
   font-size: 0.95em;
+  margin: 0.2em 0;
 }
 
-nav#TOC ul { list-style: none; padding-left: 1em; }
-nav#TOC a { text-decoration: none; }
-nav#TOC a:hover { text-decoration: underline; }
+nav#TOC {
+  margin: 1.5em 0;
+  padding: 1.2em 1.6em;
+  background: #fff;
+  border: 1px solid var(--rule);
+  border-radius: 8px;
+}
+nav#TOC ul { list-style: none; margin: 0; padding: 0; }
+nav#TOC ul ul { padding-left: 1.2em; }
+nav#TOC li { margin: 0.45em 0; }
+nav#TOC a { display: block; padding: 0.1em 0; }
+
+/* ── Vokabel- und andere Tabellen ──────────────────────────────── */
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.2em 0;
+  font-size: 0.98em;
+}
+th {
+  text-align: left;
+  border-bottom: 2px solid var(--ink);
+  padding: 0.45em 0.7em;
+  font-variant: small-caps;
+  letter-spacing: 0.03em;
+}
+td { border-bottom: 1px solid var(--rule); padding: 0.45em 0.7em; vertical-align: top; }
+tbody tr:nth-child(odd) { background: rgba(0, 0, 0, 0.025); }
+
+/* ── Dialoge ───────────────────────────────────────────────────── */
+
+blockquote {
+  margin: 1em 0;
+  padding: 0.6em 1.1em;
+  border-left: 4px solid var(--accent);
+  background: var(--dialog-bg);
+  border-radius: 0 6px 6px 0;
+  font-style: normal;
+}
+blockquote p { margin: 0.4em 0; }
+
+/* ── Übungen / Listen / Sonstiges ──────────────────────────────── */
+
+ol, ul { padding-left: 1.6em; margin: 0.8em 0; }
+li { margin: 0.25em 0; }
+
+hr { border: none; border-top: 1px solid var(--rule); margin: 2em 0; }
+
+code {
+  font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  font-size: 0.9em;
+  background: rgba(0, 0, 0, 0.05);
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+  white-space: pre-wrap;
+}
+
+strong { font-weight: 700; }
+
+/* ── Landing-Page-Karten (Buchliste) ───────────────────────────── */
+
+.card {
+  background: #fff;
+  border: 1px solid var(--rule);
+  border-radius: 10px;
+  padding: 1.2em 1.6em;
+  margin: 1.4em 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+.card h2 { margin-top: 0; }
+.card .links { color: var(--muted); }
+.card .links a.read { font-weight: 700; }
+
+footer { margin-top: 3.5em; font-size: 0.85em; color: var(--muted); }

@@ -97,13 +97,6 @@ def landing_page(cards: list[str]) -> str:
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Polyglossos — Sprachlehrbücher</title>
 <link rel="stylesheet" href="site.css">
-<style>
-  body {{ max-width: 46em; margin: 0 auto; padding: 2em 1em; }}
-  .card {{ border: 1px solid #ccc; border-radius: 6px; padding: 1em 1.4em; margin: 1.2em 0; }}
-  .card h2 {{ margin-top: 0; }}
-  .links a {{ margin-right: 0.3em; }}
-  footer {{ margin-top: 3em; font-size: 0.85em; color: #666; }}
-</style>
 </head>
 <body>
 <h1>Polyglossos</h1>
