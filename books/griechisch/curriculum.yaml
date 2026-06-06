@@ -1,0 +1,1625 @@
+book: griechisch
+l1: de
+l2: el
+target_cefr: C1
+
+units:
+  - level: A1
+    chapters: [1, 22]
+  - level: A2
+    chapters: [23, 40]
+  - level: B1
+    chapters: [41, 58]
+  - level: B2
+    chapters: [59, 74]
+  - level: C1
+    chapters: [75, 88]
+
+chapters:
+  # ─────────────────────────────────────────────────────────────────────
+  # Unit A0/A1 — Kapitel 1–22: Lena kommt in Athen an
+  # ─────────────────────────────────────────────────────────────────────
+
+  - id: 1
+    slug: kalimera-erste-begegnung
+    cefr: A0
+    title_de: "Καλημέρα! Lena landet in Athen"
+    can_do:
+      - "kann sich begrüßen und verabschieden (καλημέρα, γεια σου, αντίο)"
+      - "kann jemanden duzen oder siezen und den Unterschied σου/σας bewusst wählen"
+      - "kann sich mit dem Namen vorstellen (με λένε…)"
+    grammar_new:
+      - id: anrede-su-sas
+        label_de: "Anrede: γεια σου (du) vs. γεια σας (Sie/ihr) — Höflichkeit"
+    grammar_recycle: []
+    vocab_target: 12
+    vocab_themes: ["Begrüßung", "Verabschiedung", "Höflichkeit", "Vorstellung"]
+    vocab_recycle_min: 0
+    cultural_topic: "Anredekonventionen: wann γεια σου, wann γεια σας; Begrüßung mit Vornamen"
+    depends_on: []
+
+  - id: 2
+    slug: ena-kafe-parakalo
+    cefr: A0
+    title_de: "Ένα καφέ, παρακαλώ — im Kafenío von Níkos"
+    can_do:
+      - "kann im Kafenío ein Getränk bestellen (έναν καφέ, παρακαλώ)"
+      - "kann sich bedanken und höflich reagieren (ευχαριστώ, παρακαλώ)"
+      - "kann mit ναι und όχι zustimmen oder verneinen"
+    grammar_new:
+      - id: hoeflichkeitsformeln
+        label_de: "Höflichkeitsformeln: παρακαλώ, ευχαριστώ, ναι/όχι als feste Wendungen"
+    grammar_recycle: ["anrede-su-sas"]
+    vocab_target: 14
+    vocab_themes: ["Kafenío", "Getränke", "Bestellen", "Danken"]
+    vocab_recycle_min: 0
+    cultural_topic: "Kafenío-Kultur: ein Ort zum Verweilen; Níkos und sein Café im Viertel"
+    depends_on: [1]
+
+  - id: 3
+    slug: ti-kaneis-wie-gehts
+    cefr: A0
+    title_de: "Τι κάνεις; — Lena fragt, wie es geht"
+    can_do:
+      - "kann fragen, wie es jemandem geht, und auf dieselbe Frage antworten"
+      - "kann das eigene Befinden ausdrücken (καλά, πολύ καλά, έτσι κι έτσι)"
+      - "kann das Verb κάνω in der du- und ich-Form gebrauchen"
+    grammar_new:
+      - id: praesens-omega-sg
+        label_de: "Präsens regelmäßiger Verben auf -ω, Singular (κάνω, μένω)"
+    grammar_recycle: ["anrede-su-sas", "hoeflichkeitsformeln"]
+    vocab_target: 14
+    vocab_themes: ["Befinden", "Smalltalk", "Alltagsverben"]
+    vocab_recycle_min: 6
+    cultural_topic: "Smalltalk-Rituale: τι κάνεις als Gruß, nicht als echte Frage"
+    depends_on: [1, 2]
+
+  - id: 4
+    slug: o-i-to-der-die-das
+    cefr: A1
+    title_de: "ο, η, το — María stellt die Nachbarschaft vor"
+    can_do:
+      - "kann das Genus eines Nomens am Artikel erkennen (ο/η/το)"
+      - "kann einfache Dinge der Nachbarschaft benennen (η πλατεία, το μαγαζί)"
+      - "kann Personen und Dinge mit dem bestimmten Artikel benennen"
+    grammar_new:
+      - id: artikel-genus-nom-sg
+        label_de: "Bestimmter Artikel und Genus im Nominativ Singular (ο/η/το)"
+    grammar_recycle: ["praesens-omega-sg", "hoeflichkeitsformeln"]
+    vocab_target: 16
+    vocab_themes: ["Nachbarschaft", "Stadtviertel", "Orte", "Personen"]
+    vocab_recycle_min: 6
+    cultural_topic: "Die γειτονιά (Nachbarschaft): María als Nachbarin; soziales Netz im Viertel"
+    depends_on: [3]
+
+  - id: 5
+    slug: enas-mia-ena
+    cefr: A1
+    title_de: "ένας, μία, ένα — ein Tisch, eine Tasse"
+    can_do:
+      - "kann den unbestimmten Artikel passend zum Genus verwenden (ένας/μία/ένα)"
+      - "kann im Café konkret eine Sache benennen und erbitten (μία πορτοκαλάδα)"
+      - "kann nach dem Genus eines neuen Wortes fragen und es zuordnen"
+    grammar_new:
+      - id: artikel-unbestimmt-nom-sg
+        label_de: "Unbestimmter Artikel im Nominativ Singular (ένας/μία/ένα)"
+    grammar_recycle: ["artikel-genus-nom-sg", "praesens-omega-sg"]
+    vocab_target: 16
+    vocab_themes: ["Café", "Getränke", "Gegenstände", "Bestellen"]
+    vocab_recycle_min: 7
+    cultural_topic: "Bestellkultur: was man im Kafenío typischerweise trinkt"
+    depends_on: [4]
+
+  - id: 6
+    slug: eimai-apo-ti-germania
+    cefr: A1
+    title_de: "Είμαι από τη Γερμανία — woher kommst du?"
+    can_do:
+      - "kann sagen, woher man kommt und wo man wohnt (είμαι από…, μένω στην…)"
+      - "kann Länder und Nationalitäten benennen"
+      - "kann das Verb είμαι im Singular gebrauchen"
+    grammar_new:
+      - id: eimai-singular
+        label_de: "Das Verb είμαι (sein), Singular"
+    grammar_recycle: ["praesens-omega-sg", "artikel-genus-nom-sg"]
+    vocab_target: 16
+    vocab_themes: ["Herkunft", "Länder", "Nationalitäten", "Wohnort"]
+    vocab_recycle_min: 7
+    cultural_topic: "Griechenland und seine Nachbarn; Neugier auf Herkunft als Gastfreundschaft"
+    depends_on: [3, 4]
+
+  - id: 7
+    slug: i-oikogeneia-mou
+    cefr: A1
+    title_de: "Η οικογένειά μου — Lena zeigt María ein Foto"
+    can_do:
+      - "kann die nächsten Familienmitglieder benennen (μητέρα, πατέρας, αδελφός)"
+      - "kann Besitz ausdrücken (το σπίτι μου, η αδελφή σου)"
+      - "kann über die eigene Familie kurz sprechen"
+    grammar_new:
+      - id: possessiv-klitikon
+        label_de: "Besitz durch nachgestelltes Klitikon (μου, σου, του/της)"
+    grammar_recycle: ["artikel-genus-nom-sg", "eimai-singular"]
+    vocab_target: 16
+    vocab_themes: ["Familie", "Verwandtschaft", "Besitz"]
+    vocab_recycle_min: 7
+    cultural_topic: "Die Bedeutung der Großfamilie; Familie als Gesprächsthema"
+    depends_on: [4, 6]
+
+  - id: 8
+    slug: oraia-i-plateia
+    cefr: A1
+    title_de: "Ωραία η πλατεία! — Lena beschreibt das Viertel"
+    can_do:
+      - "kann Dinge und Orte mit Adjektiven beschreiben (ωραίος, μεγάλος, μικρός)"
+      - "kann das Adjektiv ans Genus des Nomens anpassen"
+      - "kann eine einfache Bewertung abgeben (πολύ ωραίο!)"
+    grammar_new:
+      - id: adjektiv-kongruenz-nom-sg
+        label_de: "Adjektiv-Kongruenz im Nominativ Singular (-ος/-η/-ο)"
+    grammar_recycle: ["artikel-genus-nom-sg", "possessiv-klitikon"]
+    vocab_target: 16
+    vocab_themes: ["Beschreibung", "Adjektive", "Stadtviertel", "Bewertung"]
+    vocab_recycle_min: 7
+    cultural_topic: "Die πλατεία als Herz des Viertels; öffentliches Leben im Freien"
+    depends_on: [4, 7]
+
+  - id: 9
+    slug: ti-einai-afto
+    cefr: A1
+    title_de: "Τι είναι αυτό; — auf dem Markt fragen"
+    can_do:
+      - "kann nach Dingen fragen (τι είναι αυτό;) und auf Dinge zeigen (αυτό, εκείνο)"
+      - "kann mit Fragewörtern einfache Fragen bilden (τι, ποιος, πού)"
+      - "kann auf dem Markt nach dem Namen einer Sache fragen"
+    grammar_new:
+      - id: fragewoerter-demonstrativa
+        label_de: "Fragewörter (τι, ποιος, πού) und Demonstrativa (αυτός/εκείνος)"
+    grammar_recycle: ["eimai-singular", "adjektiv-kongruenz-nom-sg"]
+    vocab_target: 16
+    vocab_themes: ["Markt", "Lebensmittel", "Fragen", "Zeigen"]
+    vocab_recycle_min: 7
+    cultural_topic: "Die λαϊκή αγορά (Wochenmarkt): frische Ware, Feilschen, Rhythmus"
+    depends_on: [6, 8]
+
+  - id: 10
+    slug: theloume-na-fame
+    cefr: A1
+    title_de: "Θέλουμε να φάμε — etwas essen gehen"
+    can_do:
+      - "kann sagen, was man möchte (θέλω…) und einen Wunsch mit να äußern (θέλω να φάω)"
+      - "kann das Präsens auf -ω im Plural gebrauchen (θέλουμε, μένουν)"
+      - "kann zu zweit eine Bestellung formulieren"
+    grammar_new:
+      - id: praesens-omega-pl
+        label_de: "Präsens regelmäßiger Verben auf -ω, Plural; θέλω να + Verb als Chunk"
+    grammar_recycle: ["praesens-omega-sg", "fragewoerter-demonstrativa"]
+    vocab_target: 16
+    vocab_themes: ["Essen", "Taverne", "Wünsche", "Bestellen"]
+    vocab_recycle_min: 8
+    cultural_topic: "Gemeinsam essen: μεζέδες teilen statt Einzelportionen"
+    depends_on: [3, 5]
+
+  - id: 11
+    slug: poso-kanei
+    cefr: A1
+    title_de: "Πόσο κάνει; — Zahlen und Preise"
+    can_do:
+      - "kann die Zahlen 0–100 verstehen und sagen"
+      - "kann nach dem Preis fragen und einen Preis verstehen (πόσο κάνει;)"
+      - "kann einen Einkauf bezahlen und das Wechselgeld prüfen"
+    grammar_new:
+      - id: zahlen-0-100
+        label_de: "Zahlen 0–100; Frage nach dem Preis (πόσο κάνει;)"
+    grammar_recycle: ["fragewoerter-demonstrativa", "artikel-unbestimmt-nom-sg"]
+    vocab_target: 16
+    vocab_themes: ["Zahlen", "Preise", "Einkaufen", "Geld"]
+    vocab_recycle_min: 8
+    cultural_topic: "Bezahlen auf dem Markt und im Kiosk (περίπτερο); Bargeldkultur"
+    depends_on: [9]
+
+  - id: 12
+    slug: ti-ora-einai
+    cefr: A1
+    title_de: "Τι ώρα είναι; — die Uhrzeit"
+    can_do:
+      - "kann die Uhrzeit erfragen und nennen (τι ώρα είναι; — στις τρεις)"
+      - "kann Tageszeiten benennen (πρωί, μεσημέρι, βράδυ)"
+      - "kann eine einfache Verabredung zeitlich festlegen"
+    grammar_new:
+      - id: uhrzeit-tageszeiten
+        label_de: "Uhrzeit (στη μία, στις δύο) und Tageszeiten"
+    grammar_recycle: ["zahlen-0-100", "eimai-singular"]
+    vocab_target: 14
+    vocab_themes: ["Uhrzeit", "Tageszeiten", "Verabredung"]
+    vocab_recycle_min: 8
+    cultural_topic: "Griechischer Tagesrhythmus: spätes Mittag- und Abendessen, μεσημεριανός ύπνος"
+    depends_on: [6, 11]
+
+  - id: 13
+    slug: pou-einai-i-trapeza
+    cefr: A1
+    title_de: "Πού είναι η τράπεζα; — sich orientieren"
+    can_do:
+      - "kann nach dem Weg fragen (πού είναι…;)"
+      - "kann Ortsangaben mit Präposition σε verstehen (στην πλατεία, στο κέντρο)"
+      - "kann eine einfache Wegauskunft verstehen (δεξιά, αριστερά, ευθεία)"
+    grammar_new:
+      - id: praeposition-se-akk
+        label_de: "Präposition σε + Akkusativ (Verschmelzung στον/στην/στο); Ortsangabe"
+    grammar_recycle: ["artikel-genus-nom-sg", "fragewoerter-demonstrativa"]
+    vocab_target: 16
+    vocab_themes: ["Orientierung", "Stadt", "Wege", "Gebäude"]
+    vocab_recycle_min: 8
+    cultural_topic: "Sich in Athen orientieren: Viertel, Plätze, Wahrzeichen"
+    depends_on: [4, 9]
+
+  - id: 14
+    slug: pao-sto-kentro
+    cefr: A1
+    title_de: "Πάω στο κέντρο — mit Metro und Bus"
+    can_do:
+      - "kann sagen, wohin man geht oder fährt (πάω στο…, πηγαίνω με το μετρό)"
+      - "kann Verkehrsmittel benennen und Präposition με + Akkusativ gebrauchen"
+      - "kann ein Ticket kaufen und eine kurze Fahrt planen"
+    grammar_new:
+      - id: praeposition-me-apo-akk
+        label_de: "Präpositionen με und από + Akkusativ (Mittel, Ausgangspunkt)"
+    grammar_recycle: ["praeposition-se-akk", "praesens-omega-sg"]
+    vocab_target: 16
+    vocab_themes: ["Verkehrsmittel", "Metro", "Reisen in der Stadt", "Ticket"]
+    vocab_recycle_min: 8
+    cultural_topic: "Öffentlicher Nahverkehr in Athen; Piräus als Tor zu den Inseln"
+    depends_on: [13]
+
+  - id: 15
+    slug: ta-magazia-plural
+    cefr: A1
+    title_de: "Τα μαγαζιά — viele Geschäfte, viele Dinge"
+    can_do:
+      - "kann den Plural von Nomen im Nominativ bilden und erkennen"
+      - "kann über mehrere Dinge oder Personen sprechen (τα μαγαζιά, οι φίλοι)"
+      - "kann eine Einkaufsliste mit mehreren Dingen formulieren"
+    grammar_new:
+      - id: nomen-plural-nom
+        label_de: "Pluralbildung der Nomen im Nominativ (-οι/-ες/-α)"
+    grammar_recycle: ["artikel-genus-nom-sg", "adjektiv-kongruenz-nom-sg"]
+    vocab_target: 16
+    vocab_themes: ["Geschäfte", "Einkaufen", "Stadt", "Mengen"]
+    vocab_recycle_min: 8
+    cultural_topic: "Kleine Fachgeschäfte vs. Supermarkt; das περίπτερο als Allzweck-Kiosk"
+    depends_on: [4, 8]
+
+  - id: 16
+    slug: den-exo-chrono
+    cefr: A1
+    title_de: "Δεν έχω χρόνο — verneinen und besitzen"
+    can_do:
+      - "kann Aussagen verneinen (δεν…)"
+      - "kann sagen, was man hat oder nicht hat (έχω, δεν έχω)"
+      - "kann das Verb έχω im Singular und Plural gebrauchen"
+    grammar_new:
+      - id: echo-negation-den
+        label_de: "Das Verb έχω (haben) und Verneinung mit δεν"
+    grammar_recycle: ["praesens-omega-pl", "praeposition-se-akk"]
+    vocab_target: 16
+    vocab_themes: ["Besitz", "Verneinung", "Alltag", "Zeit"]
+    vocab_recycle_min: 8
+    cultural_topic: "Zeitverständnis und σιγά σιγά: Entschleunigung im Alltag"
+    depends_on: [10, 7]
+
+  - id: 17
+    slug: agapao-tin-ellada
+    cefr: A1
+    title_de: "Αγαπάω την Ελλάδα — Verben auf -άω"
+    can_do:
+      - "kann Verben des Typs αγαπάω/μιλάω im Präsens gebrauchen"
+      - "kann sagen, welche Sprachen man spricht (μιλάω ελληνικά, αγγλικά)"
+      - "kann ausdrücken, was man mag (μου αρέσει… als Chunk)"
+    grammar_new:
+      - id: praesens-ao-verben
+        label_de: "Präsens der Verben auf -άω/-ώ (αγαπάω, μιλάω)"
+    grammar_recycle: ["praesens-omega-sg", "echo-negation-den"]
+    vocab_target: 16
+    vocab_themes: ["Sprachen", "Vorlieben", "Aktivitäten"]
+    vocab_recycle_min: 8
+    cultural_topic: "Mehrsprachigkeit im Alltag; Stolz auf die griechische Sprache"
+    depends_on: [3, 16]
+
+  - id: 18
+    slug: ton-tin-to-klitika
+    cefr: A1
+    title_de: "Τον ξέρω — Personen und Dinge als Objekt"
+    can_do:
+      - "kann auf Personen und Dinge mit Pronomen verweisen (τον, την, το)"
+      - "kann Wiederholungen vermeiden (Ξέρεις τον Νίκο; — Ναι, τον ξέρω)"
+      - "kann das Objektpronomen vor das Verb stellen"
+    grammar_new:
+      - id: klitika-akkusativ
+        label_de: "Akkusativ-Klitika als Objekt (τον/την/το, τους/τις/τα), Stellung vor dem Verb"
+    grammar_recycle: ["praesens-ao-verben", "nomen-plural-nom"]
+    vocab_target: 16
+    vocab_themes: ["Personen", "Bekanntschaften", "Alltag"]
+    vocab_recycle_min: 8
+    cultural_topic: "Über gemeinsame Bekannte sprechen; das enge soziale Netz im Viertel"
+    depends_on: [15, 17]
+
+  - id: 19
+    slug: kanei-zesti
+    cefr: A1
+    title_de: "Κάνει ζέστη — Wetter und Jahreszeiten"
+    can_do:
+      - "kann über das Wetter sprechen (κάνει ζέστη/κρύο, βρέχει)"
+      - "kann die Jahreszeiten und einfache Wetterlagen benennen"
+      - "kann sagen, welches Wetter man mag"
+    grammar_new:
+      - id: unpersoenliche-verben-wetter
+        label_de: "Unpersönliche Wetterverben (κάνει ζέστη, βρέχει, χιονίζει)"
+    grammar_recycle: ["praesens-ao-verben", "uhrzeit-tageszeiten"]
+    vocab_target: 16
+    vocab_themes: ["Wetter", "Jahreszeiten", "Klima"]
+    vocab_recycle_min: 8
+    cultural_topic: "Das Mittelmeerklima; Sommerhitze und das Leben am Abend"
+    depends_on: [12, 17]
+
+  - id: 20
+    slug: ti-tha-kaneis-simera
+    cefr: A1
+    title_de: "Τι θα κάνεις σήμερα; — Pläne mit María"
+    can_do:
+      - "kann über Vorhaben für heute und morgen sprechen (θα + Verb)"
+      - "kann eine einfache Verabredung treffen (πάμε για καφέ;)"
+      - "kann vorschlagen, etwas gemeinsam zu tun (πάμε…!)"
+    grammar_new:
+      - id: futur-tha-chunk
+        label_de: "Nahe Zukunft mit θα + Präsens (als Chunk, ohne Aspekt-Theorie)"
+    grammar_recycle: ["praesens-omega-pl", "klitika-akkusativ"]
+    vocab_target: 16
+    vocab_themes: ["Pläne", "Freizeit", "Verabredung", "Wochentage"]
+    vocab_recycle_min: 8
+    cultural_topic: "Spontane Verabredungen; βόλτα und der abendliche Bummel"
+    depends_on: [10, 18]
+
+  - id: 21
+    slug: boro-na-se-voithiso
+    cefr: A1
+    title_de: "Μπορώ να σε βοηθήσω; — höflich anbieten und bitten"
+    can_do:
+      - "kann höflich um etwas bitten und etwas anbieten (μπορώ να…, μπορείς να…)"
+      - "kann eine Bitte annehmen oder ablehnen"
+      - "kann Hilfe anbieten und Hilfe erbitten"
+    grammar_new:
+      - id: boro-na-chunk
+        label_de: "μπορώ να + Verb (Können/Bitte) als feste Wendung; Klitikon im να-Satz"
+    grammar_recycle: ["futur-tha-chunk", "klitika-akkusativ"]
+    vocab_target: 16
+    vocab_themes: ["Bitten", "Anbieten", "Hilfe", "Höflichkeit"]
+    vocab_recycle_min: 8
+    cultural_topic: "Hilfsbereitschaft als Selbstverständlichkeit; φιλοξενία im Alltag"
+    depends_on: [20, 1]
+
+  - id: 22
+    slug: mia-mera-stin-athina
+    cefr: A1
+    title_de: "Μια μέρα στην Αθήνα — Lenas Tag (Wiederholung)"
+    can_do:
+      - "kann den eigenen Tagesablauf in einfachen Sätzen erzählen"
+      - "kann Begrüßung, Bestellen, Orientierung und Pläne in einem zusammenhängenden Text verbinden"
+      - "kann eine kurze Postkarte oder Nachricht über einen Tag in Athen schreiben"
+    grammar_new:
+      - id: satzverknuepfung-und-aber
+        label_de: "Einfache Satzverknüpfung (και, αλλά, γιατί) für zusammenhängende Texte"
+    grammar_recycle: ["praesens-omega-pl", "praeposition-se-akk", "klitika-akkusativ", "boro-na-chunk"]
+    vocab_target: 14
+    vocab_themes: ["Tagesablauf", "Wiederholung", "Athen", "Erzählen"]
+    vocab_recycle_min: 12
+    cultural_topic: "Ein typischer Tag in Athen: vom καφές am Morgen bis zur βόλτα am Abend"
+    depends_on: [12, 14, 20, 21]
+
+  # ─────────────────────────────────────────────────────────────────────
+  # Unit A2 — Kapitel 23–40: Lena erzählt, reist nach Náxos, blickt zurück
+  # Dramaturgie: Náxos-Bogen (25–32, 40); María & Dimítris begleiten Lena
+  # ─────────────────────────────────────────────────────────────────────
+
+  - id: 23
+    slug: i-proti-mera-stin-paralia
+    cefr: A2
+    title_de: "Η πρώτη μέρα στην παραλία — Lena erzählt von gestern"
+    can_do:
+      - "kann über einen vergangenen Tag in einfachen Sätzen erzählen (χθες πήγα, έμεινα, αγόρασα)"
+      - "kann den Aorist regelmäßiger Verben auf -σα in der ich- und du-Form bilden"
+      - "kann eine kurze Abfolge vergangener Handlungen mit και verbinden"
+    grammar_new:
+      - id: aorist-regelmaessig-sa
+        label_de: "Aorist regelmäßiger Verben (Stamm + -σα: αγόρασα, έμεινα, μίλησα); Augment ε-"
+    grammar_recycle: ["praesens-omega-sg", "satzverknuepfung-und-aber"]
+    vocab_target: 20
+    vocab_themes: ["Strand", "Tagesablauf", "Erzählen", "Gestern"]
+    vocab_recycle_min: 8
+    cultural_topic: "Der Strandtag als Sommerritual; παραλία und das öffentliche Bad"
+    depends_on: [3, 22]
+
+  - id: 24
+    slug: ti-ekanes-chthes
+    cefr: A2
+    title_de: "Τι έκανες χθες; — was hast du gestern gemacht?"
+    can_do:
+      - "kann die häufigsten unregelmäßigen Aoriste verwenden (πήγα, είδα, έφαγα, ήρθα, είπα)"
+      - "kann fragen, was jemand gestern gemacht hat (τι έκανες χθες;)"
+      - "kann von einem erlebten Tag zusammenhängend berichten"
+    grammar_new:
+      - id: aorist-unregelmaessig
+        label_de: "Häufige unregelmäßige Aoriste (πήγα, είδα, έφαγα, ήρθα, είπα, έκανα)"
+    grammar_recycle: ["aorist-regelmaessig-sa", "praesens-omega-pl"]
+    vocab_target: 21
+    vocab_themes: ["Aktivitäten", "Erlebnisse", "Gestern", "Erzählen"]
+    vocab_recycle_min: 9
+    cultural_topic: "Wie man über den Tag plaudert; das Erzählen als soziale Geste"
+    depends_on: [10, 23]
+
+  - id: 25
+    slug: taxidi-sti-naxo
+    cefr: A2
+    title_de: "Ταξίδι στη Νάξο — mit der Fähre los"
+    can_do:
+      - "kann Fragen und Verneinungen im Aorist bilden (πήγες; — δεν πήγα)"
+      - "kann eine Fährfahrt organisieren: Ticket, Abfahrt, Gepäck"
+      - "kann von Reisevorbereitungen und der Abreise erzählen"
+    grammar_new:
+      - id: aorist-frage-verneinung
+        label_de: "Aorist in Frage und Verneinung (δεν + Aorist; Akzentverschiebung πήγα/πήγαμε)"
+    grammar_recycle: ["aorist-unregelmaessig", "echo-negation-den", "praeposition-me-apo-akk"]
+    vocab_target: 22
+    vocab_themes: ["Reise", "Fähre", "Hafen", "Gepäck"]
+    vocab_recycle_min: 9
+    cultural_topic: "Fähren als Lebensader der Inseln; Piräus, Tickets, Abfahrtszeiten"
+    depends_on: [14, 24]
+
+  - id: 26
+    slug: sto-limani-tis-naxou
+    cefr: A2
+    title_de: "Στο λιμάνι της Νάξου — Ankunft im Hafen"
+    can_do:
+      - "kann Besitz und Herkunft mit dem Genitiv Singular ausdrücken (το λιμάνι της Νάξου)"
+      - "kann den Genitiv des bestimmten Artikels (του/της/του) korrekt verwenden"
+      - "kann sagen, wem etwas gehört und woher etwas stammt"
+    grammar_new:
+      - id: genitiv-singular
+        label_de: "Genitiv Singular der Nomen und des bestimmten Artikels (του/της/του; -ου/-ης/-ας)"
+    grammar_recycle: ["artikel-genus-nom-sg", "aorist-frage-verneinung"]
+    vocab_target: 21
+    vocab_themes: ["Hafen", "Insel", "Ankunft", "Orte"]
+    vocab_recycle_min: 9
+    cultural_topic: "Νάξος: größte Kykladeninsel; Ankunft am Kástro über dem Hafen"
+    depends_on: [4, 25]
+
+  - id: 27
+    slug: to-spiti-tis-marias
+    cefr: A2
+    title_de: "Το σπίτι της Μαρίας — bei wem Lena wohnt"
+    can_do:
+      - "kann Besitz auf zwei Weisen ausdrücken und unterscheiden (το σπίτι της Μαρίας vs. το σπίτι της)"
+      - "kann den Genitiv von Eigennamen und Personen bilden (του πατέρα, της Μαρίας)"
+      - "kann beschreiben, wem ein Haus, ein Zimmer oder ein Gegenstand gehört"
+    grammar_new:
+      - id: genitiv-klitikon-kontrast
+        label_de: "Genitiv-Vollform vs. Possessiv-Klitikon im Kontrast (της Μαρίας / της; του πατέρα μου)"
+    grammar_recycle: ["genitiv-singular", "possessiv-klitikon"]
+    vocab_target: 20
+    vocab_themes: ["Wohnen", "Haus", "Familie", "Besitz"]
+    vocab_recycle_min: 10
+    cultural_topic: "φιλοξενία: Gast im Familienhaus sein; Maps Verwandtschaft auf Náxos"
+    depends_on: [7, 26]
+
+  - id: 28
+    slug: otan-imoun-mikri
+    cefr: A2
+    title_de: "Όταν ήμουν μικρή — wie es früher war"
+    can_do:
+      - "kann andauernde Zustände der Vergangenheit beschreiben (ήμουν, είχα, έμενα)"
+      - "kann den Paratatikos von είμαι, έχω und regelmäßigen Verben bilden (-ούσα)"
+      - "kann erzählen, wie etwas in der Kindheit oder früher war"
+    grammar_new:
+      - id: paratatikos-bildung
+        label_de: "Paratatikos: ήμουν/είχα + regelmäßige Bildung (έμενα, μιλούσα, αγαπούσα)"
+    grammar_recycle: ["eimai-singular", "echo-negation-den", "praesens-ao-verben"]
+    vocab_target: 21
+    vocab_themes: ["Kindheit", "Früher", "Beschreibung", "Erinnerung"]
+    vocab_recycle_min: 10
+    cultural_topic: "Erinnerungen ans Inselleben früher; Generationen und Wandel"
+    depends_on: [6, 24]
+
+  - id: 29
+    slug: kathe-mera-sti-thalassa
+    cefr: A2
+    title_de: "Κάθε μέρα στη θάλασσα — Gewohnheit und Ereignis"
+    can_do:
+      - "kann zwischen wiederholter Gewohnheit (Paratatikos) und einmaligem Ereignis (Aorist) wählen"
+      - "kann erkennen, warum κάθε μέρα κολυμπούσα und χθες κολύμπησα verschiedene Formen brauchen"
+      - "kann eine Erzählung mit Hintergrund und Ereignis aufbauen"
+    grammar_new:
+      - id: aspekt-perfektiv-imperfektiv
+        label_de: "Aspekt benannt: Paratatikos (imperfektiv, Gewohnheit/Dauer) vs. Aorist (perfektiv, Ereignis)"
+    grammar_recycle: ["paratatikos-bildung", "aorist-regelmaessig-sa", "aorist-unregelmaessig"]
+    vocab_target: 22
+    vocab_themes: ["Gewohnheiten", "Meer", "Sommeralltag", "Erzählen"]
+    vocab_recycle_min: 11
+    cultural_topic: "Sommerrhythmus auf der Insel: Bad, Siesta, abendliche βόλτα"
+    depends_on: [28, 19]
+
+  - id: 30
+    slug: o-giortazei-i-maria
+    cefr: A2
+    title_de: "Γιορτάζει η Μαρία — Namenstag auf Náxos"
+    can_do:
+      - "kann zum Namenstag gratulieren und passende Glückwünsche aussprechen (χρόνια πολλά, να χαίρεσαι)"
+      - "kann den Genitiv Plural bilden und verstehen (των παιδιών, των φίλων; χρόνια πολλά)"
+      - "kann an einer Feier teilnehmen und kleine Höflichkeiten austauschen"
+    grammar_new:
+      - id: genitiv-plural
+        label_de: "Genitiv Plural der Nomen und des Artikels (των; -ων/-ών) und feste Glückwunschformeln"
+    grammar_recycle: ["genitiv-singular", "nomen-plural-nom", "genitiv-klitikon-kontrast"]
+    vocab_target: 21
+    vocab_themes: ["Namenstag", "Feiern", "Glückwünsche", "Familie"]
+    vocab_recycle_min: 11
+    cultural_topic: "Η γιορτή (Namenstag) wichtiger als der Geburtstag; offenes Haus, χρόνια πολλά"
+    depends_on: [26, 27]
+
+  - id: 31
+    slug: tha-pame-tha-doume
+    cefr: A2
+    title_de: "Θα πάμε, θα δούμε — Pläne für die Insel"
+    can_do:
+      - "kann konkrete einmalige Vorhaben mit Futur ausdrücken (θα πάμε, θα δούμε, θα φάμε)"
+      - "kann das Futur mit perfektivem Stamm bilden und vom A1-Chunk θα + Präsens unterscheiden"
+      - "kann einen gemeinsamen Ausflug planen und vorschlagen"
+    grammar_new:
+      - id: futur-perfektiv
+        label_de: "Futur θα + perfektiver Stamm für einmalige Handlungen (θα πάω, θα δω, θα φάω) — löst den A1-Chunk ab"
+    grammar_recycle: ["futur-tha-chunk", "aspekt-perfektiv-imperfektiv", "aorist-unregelmaessig"]
+    vocab_target: 21
+    vocab_themes: ["Pläne", "Ausflug", "Insel", "Vorschläge"]
+    vocab_recycle_min: 11
+    cultural_topic: "Ausflüge ins Inselinnere: Bergdörfer, Apíranthos, gemeinsame Planung"
+    depends_on: [20, 29]
+
+  - id: 32
+    slug: tha-vrechei-avrio
+    cefr: A2
+    title_de: "Θα βρέχει αύριο; — Wetter und Aspekt im Futur"
+    can_do:
+      - "kann andauernde oder wiederholte Zukunft ausdrücken (θα βρέχει, θα κάνει ζέστη)"
+      - "kann im Futur zwischen perfektivem und imperfektivem Aspekt wählen (θα δω vs. θα βλέπω)"
+      - "kann eine Wettervorhersage verstehen und einen Plan vom Wetter abhängig machen"
+    grammar_new:
+      - id: futur-imperfektiv
+        label_de: "Futur θα + imperfektiver Stamm (Dauer/Wiederholung); Aspektwahl im Futur"
+    grammar_recycle: ["futur-perfektiv", "unpersoenliche-verben-wetter", "aspekt-perfektiv-imperfektiv"]
+    vocab_target: 20
+    vocab_themes: ["Wetter", "Vorhersage", "Pläne", "Meltémi"]
+    vocab_recycle_min: 11
+    cultural_topic: "Der μελτέμι auf den Kykladen; wie Wind und Wetter Fährpläne bestimmen"
+    depends_on: [19, 31]
+
+  - id: 33
+    slug: pio-oraia-apo-tin-athina
+    cefr: A2
+    title_de: "Πιο ωραία από την Αθήνα — vergleichen"
+    can_do:
+      - "kann zwei Dinge vergleichen (πιο μεγάλο από, πιο ωραία από)"
+      - "kann den Superlativ ausdrücken (το πιο ωραίο νησί, ο καλύτερος)"
+      - "kann eine begründete Vorliebe formulieren und Orte gegenüberstellen"
+    grammar_new:
+      - id: komparativ-superlativ
+        label_de: "Komparativ (πιο… από) und Superlativ (ο πιο…); häufige Sonderformen (καλύτερος, χειρότερος)"
+    grammar_recycle: ["adjektiv-kongruenz-nom-sg", "genitiv-singular", "praeposition-me-apo-akk"]
+    vocab_target: 21
+    vocab_themes: ["Vergleich", "Bewertung", "Orte", "Vorlieben"]
+    vocab_recycle_min: 12
+    cultural_topic: "Stadt vs. Insel: Lebensrhythmus, Ruhe und Anonymität im Vergleich"
+    depends_on: [8, 30]
+
+  - id: 34
+    slug: mou-poneei-to-kefali
+    cefr: A2
+    title_de: "Μου πονάει το κεφάλι — wenn etwas wehtut"
+    can_do:
+      - "kann Körperteile benennen und sagen, was wehtut (μου πονάει ο λαιμός)"
+      - "kann unpersönliche Konstruktionen mit Genitiv-Klitikon bilden (μου, σου, του + Verb)"
+      - "kann das eigene Befinden und Beschwerden beschreiben"
+    grammar_new:
+      - id: genitiv-klitikon-unpersoenlich
+        label_de: "Genitiv-Klitika mit unpersönlichen Verben (μου πονάει, μου αρέσει, σου χρειάζεται)"
+    grammar_recycle: ["possessiv-klitikon", "klitika-akkusativ", "unpersoenliche-verben-wetter"]
+    vocab_target: 22
+    vocab_themes: ["Körper", "Gesundheit", "Beschwerden", "Befinden"]
+    vocab_recycle_min: 12
+    cultural_topic: "Das φαρμακείο als erste Anlaufstelle; Hausmittel und Rat aus der Familie"
+    depends_on: [17, 27]
+
+  - id: 35
+    slug: ston-giatro
+    cefr: A2
+    title_de: "Στον γιατρό — beim Arzt auf Náxos"
+    can_do:
+      - "kann eine einmalige Aufforderung mit dem Imperativ geben (πάρε, κάτσε, πες μου)"
+      - "kann den perfektiven Imperativ häufiger Verben bilden (du- und ihr-Form)"
+      - "kann beim Arzt Beschwerden schildern und Anweisungen verstehen"
+    grammar_new:
+      - id: imperativ-perfektiv
+        label_de: "Imperativ perfektiv für einmalige Aufforderungen (πάρε/πάρτε, κάτσε, πες, δες)"
+    grammar_recycle: ["futur-perfektiv", "genitiv-klitikon-unpersoenlich", "aspekt-perfektiv-imperfektiv"]
+    vocab_target: 22
+    vocab_themes: ["Arzt", "Gesundheit", "Anweisungen", "Apotheke"]
+    vocab_recycle_min: 12
+    cultural_topic: "Medizinische Versorgung auf den Inseln: Landarztpraxis, Wege aufs Festland"
+    depends_on: [21, 34]
+
+  - id: 36
+    slug: min-anisychesis
+    cefr: A2
+    title_de: "Μην ανησυχείς — beruhigen und verbieten"
+    can_do:
+      - "kann allgemeine oder wiederholte Aufforderungen geben (πρόσεχε, πίνε νερό)"
+      - "kann ein Verbot mit μην ausdrücken (μην ανησυχείς, μην το κάνεις)"
+      - "kann zwischen perfektivem und imperfektivem Imperativ je nach Situation wählen"
+    grammar_new:
+      - id: imperativ-imperfektiv-verbot
+        label_de: "Imperativ imperfektiv (πρόσεχε, πίνε) und Verbot mit μην + Aspekt im Imperativ"
+    grammar_recycle: ["imperativ-perfektiv", "aspekt-perfektiv-imperfektiv", "echo-negation-den"]
+    vocab_target: 21
+    vocab_themes: ["Ratschläge", "Verbote", "Beruhigen", "Gesundheit"]
+    vocab_recycle_min: 12
+    cultural_topic: "Fürsorgliche Ratschläge unter Vertrauten; μην ανησυχείς als Geste der Nähe"
+    depends_on: [35, 16]
+
+  - id: 37
+    slug: mou-to-edose
+    cefr: A2
+    title_de: "Μου το έδωσε — wer gab wem was"
+    can_do:
+      - "kann zwei Objektpronomen kombinieren und richtig anordnen (μου το έδωσε, στο λέω)"
+      - "kann die Stellung der Klitika vor dem Verb und nach dem Imperativ unterscheiden (δώσε μου το)"
+      - "kann ein Geschenk oder eine Weitergabe knapp und klar berichten"
+    grammar_new:
+      - id: klitika-doppelung-stellung
+        label_de: "Klitika-Doppelung (Genitiv + Akkusativ: μου το) und Stellung vor Verb / nach Imperativ"
+    grammar_recycle: ["klitika-akkusativ", "genitiv-klitikon-unpersoenlich", "imperativ-perfektiv"]
+    vocab_target: 20
+    vocab_themes: ["Geben", "Geschenke", "Weitergeben", "Alltag"]
+    vocab_recycle_min: 13
+    cultural_topic: "Mitbringsel und kleine Gaben; man kommt nicht mit leeren Händen"
+    depends_on: [18, 36]
+
+  - id: 38
+    slug: thelo-na-sou-po
+    cefr: A2
+    title_de: "Θέλω να σου πω — Wünsche und Absichten"
+    can_do:
+      - "kann να-Sätze nach Wunsch-, Können- und Müssen-Verben bilden (θέλω να, πρέπει να, μπορώ να)"
+      - "kann nach να den passenden Aspekt wählen (να σου πω vs. να σου λέω)"
+      - "kann Absichten, Notwendigkeiten und höfliche Bitten zusammenhängend formulieren"
+    grammar_new:
+      - id: na-saetze-aspekt
+        label_de: "να-Sätze systematisch (θέλω/πρέπει/μπορώ να) und Aspektwahl nach να (perfektiv/imperfektiv)"
+    grammar_recycle: ["boro-na-chunk", "futur-perfektiv", "futur-imperfektiv", "klitika-doppelung-stellung"]
+    vocab_target: 22
+    vocab_themes: ["Wünsche", "Absichten", "Notwendigkeit", "Bitten"]
+    vocab_recycle_min: 13
+    cultural_topic: "Wünsche und Verpflichtungen höflich ausdrücken; indirekte Bitten"
+    depends_on: [21, 37]
+
+  - id: 39
+    slug: sto-tilefono-me-ton-dimitri
+    cefr: A2
+    title_de: "Στο τηλέφωνο με τον Δημήτρη — einen Termin machen"
+    can_do:
+      - "kann ein einfaches Telefongespräch führen (εμπρός, ποιος είναι; μισό λεπτό)"
+      - "kann einen Termin oder ein Treffen vereinbaren und verschieben"
+      - "kann jemanden indirekt um etwas bitten (να μου πεις, μπορείς να περάσεις;)"
+    grammar_new:
+      - id: indirekte-aufforderung
+        label_de: "Indirekte Aufforderung und Bitte über να-Satz (να μου πεις, θα ήθελα να) im Gespräch"
+    grammar_recycle: ["na-saetze-aspekt", "futur-perfektiv", "uhrzeit-tageszeiten"]
+    vocab_target: 21
+    vocab_themes: ["Telefon", "Termine", "Verabredung", "Gespräch"]
+    vocab_recycle_min: 13
+    cultural_topic: "Telefonkonventionen (εμπρός, ορίστε); flexible Verabredungen, σε λίγο"
+    depends_on: [12, 38]
+
+  - id: 40
+    slug: apocheretismos-sti-naxo
+    cefr: A2
+    title_de: "Αποχαιρετισμός στη Νάξο — Lena blickt zurück (Wiederholung)"
+    can_do:
+      - "kann einen längeren Rückblick erzählen und dabei Aorist und Paratatikos sicher kombinieren"
+      - "kann Hintergrund (ήταν, έκανε ζέστη) und Ereignisse (πήγαμε, είδαμε) in einer Geschichte verbinden"
+      - "kann sich verabschieden, danken und Pläne für ein Wiedersehen formulieren (θα ξανάρθω)"
+    grammar_new: []
+    grammar_recycle: ["aspekt-perfektiv-imperfektiv", "aorist-unregelmaessig", "paratatikos-bildung", "futur-perfektiv", "na-saetze-aspekt", "genitiv-singular"]
+    vocab_target: 18
+    vocab_themes: ["Abschied", "Rückblick", "Reise", "Dank"]
+    vocab_recycle_min: 14
+    cultural_topic: "Abschied und Wiedersehen; καλό ταξίδι, στο καλό und das Versprechen zurückzukehren"
+    depends_on: [29, 32, 33, 39]
+
+  # ─────────────────────────────────────────────────────────────────────
+  # Unit B1 — Kapitel 41–58: Lena beschließt zu bleiben
+  # Dramaturgie: Wohnungssuche, Behörden, Jobsuche in Athen;
+  # Dimítris in Thessaloniki (NGO/Reisebüro) als zweiter Pol;
+  # vertiefte Freundschaften, zarte Beziehungsgeschichte
+  # ─────────────────────────────────────────────────────────────────────
+
+  - id: 41
+    slug: tha-itheles-na-meinis
+    cefr: B1
+    title_de: "Θα ήθελες να μείνεις; — Lena überlegt zu bleiben"
+    can_do:
+      - "kann höfliche Wünsche und hypothetische Überlegungen ausdrücken (θα ήθελα να, θα μπορούσα να)"
+      - "kann mit ας einen Vorschlag oder eine Selbstaufforderung formulieren (ας δούμε, ας μείνω)"
+      - "kann Pro und Kontra einer Entscheidung abwägen und begründen"
+    grammar_new:
+      - id: na-tha-as-modalitaet
+        label_de: "Modalität voll ausgebaut: θα ήθελα να, ας + Verb (Wunsch, Vorschlag, Selbstaufforderung)"
+    grammar_recycle: ["na-saetze-aspekt", "futur-perfektiv", "indirekte-aufforderung"]
+    vocab_target: 22
+    vocab_themes: ["Entscheidung", "Abwägen", "Zukunftspläne", "Gefühle"]
+    vocab_recycle_min: 12
+    cultural_topic: "Auswandern und Bleiben: warum Menschen nach Griechenland ziehen und was sie hält"
+    depends_on: [38, 40]
+
+  - id: 42
+    slug: psachno-spiti-stin-athina
+    cefr: B1
+    title_de: "Ψάχνω σπίτι στην Αθήνα — Wohnungssuche"
+    can_do:
+      - "kann Wohnungsanzeigen verstehen und gezielt nach einer Wohnung fragen (πόσα τετραγωνικά, κοινόχρηστα)"
+      - "kann mit dem Partizip auf -οντας gleichzeitige Handlungen ausdrücken (ψάχνοντας σπίτι, βρήκα…)"
+      - "kann ein Besichtigungsgespräch führen und Bedingungen erfragen"
+    grammar_new:
+      - id: partizip-ontas
+        label_de: "Adverbiales Partizip auf -οντας (gleichzeitige Handlung: τρώγοντας, ψάχνοντας)"
+    grammar_recycle: ["praesens-ao-verben", "komparativ-superlativ", "na-tha-as-modalitaet"]
+    vocab_target: 26
+    vocab_themes: ["Wohnungssuche", "Miete", "Wohnung", "Anzeigen"]
+    vocab_recycle_min: 13
+    cultural_topic: "Wohnungsmarkt in Athen: κοινόχρηστα, ενοικιαστήριο, Makler und Mundpropaganda"
+    depends_on: [33, 41]
+
+  - id: 43
+    slug: sti-dimosia-ypiresia-afm
+    cefr: B1
+    title_de: "Στη δημόσια υπηρεσία — ein ΑΦΜ beantragen"
+    can_do:
+      - "kann auf einem Amt ein Anliegen vorbringen und Formulare verstehen (χρειάζομαι, συμπληρώνω την αίτηση)"
+      - "kann Mediopassiv-Verben im Präsens verwenden (χρειάζομαι, βρίσκομαι, ονομάζομαι)"
+      - "kann nach Unterlagen und Zuständigkeiten fragen (τι δικαιολογητικά χρειάζονται;)"
+    grammar_new:
+      - id: mediopassiv-praesens
+        label_de: "Mediopassiv/Deponens Präsens auf -μαι (χρειάζομαι, έρχομαι, κάθομαι, βρίσκομαι)"
+    grammar_recycle: ["genitiv-klitikon-unpersoenlich", "partizip-ontas", "praeposition-se-akk"]
+    vocab_target: 27
+    vocab_themes: ["Behörde", "Amt", "Formulare", "Steuernummer"]
+    vocab_recycle_min: 13
+    cultural_topic: "Bürokratie-Realität: ΑΦΜ, ΔΟΥ, ΚΕΠ; Warteschlangen, Stempel, Geduld"
+    depends_on: [34, 42]
+
+  - id: 44
+    slug: chreiastika-poll-chartia
+    cefr: B1
+    title_de: "Χρειάστηκα πολλά χαρτιά — der Behördengang danach"
+    can_do:
+      - "kann über einen erledigten Vorgang berichten (πήγα, χρειάστηκα, υπέγραψα)"
+      - "kann den Aorist von Mediopassiv-Verben bilden (-θηκα: χρειάστηκα, σηκώθηκα, κουράστηκα)"
+      - "kann einen bürokratischen Ablauf in der richtigen Reihenfolge nacherzählen"
+    grammar_new:
+      - id: mediopassiv-aorist
+        label_de: "Mediopassiv Aorist auf -θηκα (χρειάστηκα, σηκώθηκα, κουράστηκα)"
+    grammar_recycle: ["mediopassiv-praesens", "aorist-frage-verneinung", "satzverknuepfung-und-aber"]
+    vocab_target: 25
+    vocab_themes: ["Behörde", "Erledigungen", "Dokumente", "Ablauf"]
+    vocab_recycle_min: 14
+    cultural_topic: "Der Papierkrieg als Alltagserfahrung; informelle Wege und das ρουσφέτι"
+    depends_on: [25, 43]
+
+  - id: 45
+    slug: to-diamerisma-pou-noikiasa
+    cefr: B1
+    title_de: "Το διαμέρισμα που νοίκιασα — die neue Wohnung"
+    can_do:
+      - "kann Personen und Dinge mit Relativsätzen näher bestimmen (η γειτόνισσα που μένει δίπλα)"
+      - "kann das unveränderliche που als Relativpronomen sicher einsetzen"
+      - "kann die eingerichtete Wohnung und die Nachbarschaft beschreiben"
+    grammar_new:
+      - id: relativsatz-pou
+        label_de: "Relativsatz mit unveränderlichem που (Subjekt und Objekt)"
+    grammar_recycle: ["mediopassiv-aorist", "adjektiv-kongruenz-nom-sg", "klitika-akkusativ"]
+    vocab_target: 25
+    vocab_themes: ["Wohnung", "Einrichtung", "Nachbarschaft", "Zuhause"]
+    vocab_recycle_min: 14
+    cultural_topic: "Ankommen im Viertel: Nachbarn, das περίπτερο, der Kafenío-Stammplatz"
+    depends_on: [15, 44]
+
+  - id: 46
+    slug: psachno-douleia
+    cefr: B1
+    title_de: "Ψάχνω δουλειά — auf Jobsuche"
+    can_do:
+      - "kann Stellenanzeigen verstehen und über Berufe und Erfahrung sprechen (έχω εμπειρία ως…)"
+      - "kann Gründe und Absichten mit Konjunktionen ausdrücken (επειδή, για να, ώστε)"
+      - "kann das eigene Profil und die eigenen Stärken knapp darstellen"
+    grammar_new:
+      - id: konjunktionen-grund-zweck
+        label_de: "Konjunktionen für Grund und Zweck (επειδή, γιατί, για να, ώστε να)"
+    grammar_recycle: ["relativsatz-pou", "na-tha-as-modalitaet", "mediopassiv-praesens"]
+    vocab_target: 27
+    vocab_themes: ["Beruf", "Jobsuche", "Erfahrung", "Stellenanzeige"]
+    vocab_recycle_min: 14
+    cultural_topic: "Arbeitswelt: informelle Netze, Empfehlungen, Saisonarbeit, Selbstständigkeit"
+    depends_on: [22, 45]
+
+  - id: 47
+    slug: i-aitisi-mou-gia-douleia
+    cefr: B1
+    title_de: "Η αίτησή μου για δουλειά — die Bewerbung schreiben"
+    can_do:
+      - "kann eine formelle Bewerbung und einen Lebenslauf strukturieren (βιογραφικό, συνημμένα)"
+      - "kann Konditionalsätze für höfliche und hypothetische Aussagen bilden (θα μπορούσα, θα ήμουν διαθέσιμη)"
+      - "kann ein formelles Anschreiben mit angemessenem Register verfassen"
+    grammar_new:
+      - id: konditional-tha-paratatikos
+        label_de: "Konditional θα + Paratatikos (θα ήθελα, θα μπορούσα, θα ήταν) für Höflichkeit und Hypothese"
+    grammar_recycle: ["konjunktionen-grund-zweck", "paratatikos-bildung", "na-tha-as-modalitaet"]
+    vocab_target: 26
+    vocab_themes: ["Bewerbung", "Lebenslauf", "Formelles", "Beruf"]
+    vocab_recycle_min: 15
+    cultural_topic: "Bewerbungskultur: formelles Register, Empfehlungsschreiben, das persönliche Vorsprechen"
+    depends_on: [28, 46]
+
+  - id: 48
+    slug: i-synenteyxi
+    cefr: B1
+    title_de: "Η συνέντευξη — das Vorstellungsgespräch"
+    can_do:
+      - "kann in einem Gespräch berichten, was andere gesagt haben (μου είπε ότι, ρώτησε αν)"
+      - "kann indirekte Rede mit ότι und αν bilden und die Zeit anpassen"
+      - "kann ein Vorstellungsgespräch führen: Fragen beantworten und Rückfragen stellen"
+    grammar_new:
+      - id: indirekte-rede-oti-an
+        label_de: "Indirekte Rede mit ότι und αν (είπε ότι…, ρώτησε αν…); Zeitenverschiebung"
+    grammar_recycle: ["konditional-tha-paratatikos", "indirekte-aufforderung", "konjunktionen-grund-zweck"]
+    vocab_target: 26
+    vocab_themes: ["Vorstellungsgespräch", "Beruf", "Fragen", "Selbstdarstellung"]
+    vocab_recycle_min: 15
+    cultural_topic: "Was im Gespräch zählt: persönlicher Eindruck, Beziehungen, manchmal mehr als das βιογραφικό"
+    depends_on: [39, 47]
+
+  - id: 49
+    slug: o-dimitris-stin-thessaloniki
+    cefr: B1
+    title_de: "Ο Δημήτρης στη Θεσσαλονίκη — ein zweiter Pol"
+    can_do:
+      - "kann über das berufliche und private Umfeld einer anderen Person berichten"
+      - "kann mit ο οποίος präzisere Relativsätze bilden, wo που mehrdeutig wäre (το γραφείο στο οποίο δουλεύει)"
+      - "kann eine andere Stadt und ihren Charakter beschreiben und vergleichen"
+    grammar_new:
+      - id: relativsatz-o-opoios
+        label_de: "Relativsatz mit flektiertem ο οποίος / στον οποίο für Präzision und nach Präposition"
+    grammar_recycle: ["relativsatz-pou", "genitiv-singular", "komparativ-superlativ"]
+    vocab_target: 25
+    vocab_themes: ["Thessaloniki", "Stadt", "Arbeit", "NGO"]
+    vocab_recycle_min: 15
+    cultural_topic: "Thessaloniki als zweiter Pol: Hafenstadt, Geschichte, Dimítris' Arbeit zwischen NGO und Reisebüro"
+    depends_on: [45, 48]
+
+  - id: 50
+    slug: ti-ginetai-stin-ellada
+    cefr: B1
+    title_de: "Τι γίνεται στην Ελλάδα; — Nachrichten und Medien"
+    can_do:
+      - "kann Nachrichten und Presseüberschriften in Grundzügen verstehen"
+      - "kann ausdrücken, dass etwas getan wird, ohne den Urheber zu nennen (Passiv: αποφασίστηκε, ανακοινώθηκε)"
+      - "kann den Hauptpunkt eines kurzen Medienberichts wiedergeben"
+    grammar_new:
+      - id: passiv-unpersoenlich
+        label_de: "Unpersönliches Passiv und Mediopassiv 3. Person (γίνεται, αποφασίστηκε, ανακοινώθηκε)"
+    grammar_recycle: ["mediopassiv-aorist", "indirekte-rede-oti-an", "relativsatz-o-opoios"]
+    vocab_target: 28
+    vocab_themes: ["Medien", "Nachrichten", "Politik", "Gesellschaft"]
+    vocab_recycle_min: 16
+    cultural_topic: "Medienlandschaft: Fernsehen, Online-Portale, das Café-Gespräch über Politik"
+    depends_on: [44, 49]
+
+  - id: 51
+    slug: echo-zisei-edo-enan-chrono
+    cefr: B1
+    title_de: "Έχω ζήσει εδώ έναν χρόνο — Bilanz nach einem Jahr"
+    can_do:
+      - "kann über Erfahrungen mit Gegenwartsbezug sprechen (έχω ζήσει, έχω δουλέψει, δεν έχω πάει ποτέ)"
+      - "kann das Perfekt mit έχω + unveränderlicher Form bilden"
+      - "kann eine persönliche Bilanz ziehen und Erreichtes benennen"
+    grammar_new:
+      - id: perfekt-echo
+        label_de: "Perfekt mit έχω + unveränderlicher Verbform (έχω δει, έχω πάει, έχω ζήσει)"
+    grammar_recycle: ["echo-negation-den", "aspekt-perfektiv-imperfektiv", "passiv-unpersoenlich"]
+    vocab_target: 25
+    vocab_themes: ["Erfahrung", "Bilanz", "Lebensweg", "Rückblick"]
+    vocab_recycle_min: 16
+    cultural_topic: "Ein Jahr in Griechenland: was sich verändert hat, was vertraut geworden ist"
+    depends_on: [16, 50]
+
+  - id: 52
+    slug: prin-erthei-i-lena
+    cefr: B1
+    title_de: "Πριν έρθει η Λένα — wie es vorher war"
+    can_do:
+      - "kann eine Handlung als vor einer anderen abgeschlossen markieren (είχα φύγει πριν έρθεις)"
+      - "kann das Plusquamperfekt mit είχα + Verbform bilden"
+      - "kann eine Vorgeschichte erzählen und Ereignisse zeitlich staffeln"
+    grammar_new:
+      - id: plusquamperfekt-eicha
+        label_de: "Plusquamperfekt mit είχα + unveränderlicher Verbform (είχα πάει, είχε φύγει)"
+    grammar_recycle: ["perfekt-echo", "paratatikos-bildung", "konjunktionen-grund-zweck"]
+    vocab_target: 24
+    vocab_themes: ["Vorgeschichte", "Zeitfolge", "Erinnerung", "Erzählen"]
+    vocab_recycle_min: 16
+    cultural_topic: "Lebensläufe und Wendepunkte; wie man die eigene Geschichte erzählt"
+    depends_on: [29, 51]
+
+  - id: 53
+    slug: an-eicha-perissotero-chrono
+    cefr: B1
+    title_de: "Αν είχα περισσότερο χρόνο — Bedingungen und Wünsche"
+    can_do:
+      - "kann reale und irreale Bedingungen unterscheiden (αν έχω… / αν είχα…)"
+      - "kann irreale Bedingungssätze mit αν + Paratatikos und θα + Paratatikos bilden"
+      - "kann Wünsche und Was-wäre-wenn-Überlegungen formulieren"
+    grammar_new:
+      - id: bedingungssatz-real-irreal
+        label_de: "Bedingungssätze: real (αν + Präsens/Futur) vs. irreal (αν + Paratatikos, θα + Paratatikos)"
+    grammar_recycle: ["konditional-tha-paratatikos", "plusquamperfekt-eicha", "na-tha-as-modalitaet"]
+    vocab_target: 24
+    vocab_themes: ["Bedingungen", "Wünsche", "Hypothesen", "Pläne"]
+    vocab_recycle_min: 17
+    cultural_topic: "Zwischen Wunsch und Wirklichkeit: Lebensplanung in unsicheren Zeiten"
+    depends_on: [47, 52]
+
+  - id: 54
+    slug: pos-niotheis
+    cefr: B1
+    title_de: "Πώς νιώθεις; — über Gefühle sprechen"
+    can_do:
+      - "kann Gefühle und Stimmungen differenziert benennen (νιώθω, στενοχωριέμαι, χαίρομαι)"
+      - "kann Mediopassiv-Verben der Emotion im Präsens und Aorist verwenden (θύμωσα, ερωτεύτηκα)"
+      - "kann über Beziehungen und das eigene Befinden offen sprechen"
+    grammar_new:
+      - id: mediopassiv-gefuehlsverben
+        label_de: "Mediopassiv-Gefühlsverben (χαίρομαι, στενοχωριέμαι, θυμώνω/θύμωσα, ερωτεύομαι)"
+    grammar_recycle: ["mediopassiv-praesens", "mediopassiv-aorist", "genitiv-klitikon-unpersoenlich"]
+    vocab_target: 27
+    vocab_themes: ["Gefühle", "Beziehungen", "Stimmung", "Nähe"]
+    vocab_recycle_min: 17
+    cultural_topic: "Nähe und Direktheit im Gefühlsausdruck; παρέα und Vertrautheit unter Freunden"
+    depends_on: [34, 53]
+
+  - id: 55
+    slug: nomizo-oti-echeis-dikio
+    cefr: B1
+    title_de: "Νομίζω ότι έχεις δίκιο — eine Meinung begründen"
+    can_do:
+      - "kann eine Meinung äußern, begründen und höflich widersprechen (νομίζω ότι, διαφωνώ επειδή)"
+      - "kann Argumente mit Konnektoren strukturieren (από τη μία…, από την άλλη, ωστόσο)"
+      - "kann in einer Diskussion Position beziehen und auf Gegenargumente eingehen"
+    grammar_new:
+      - id: meinung-argumentation
+        label_de: "Meinungs- und Argumentationsmittel (νομίζω/πιστεύω ότι, συμφωνώ/διαφωνώ, ωστόσο, αν και)"
+    grammar_recycle: ["indirekte-rede-oti-an", "konjunktionen-grund-zweck", "bedingungssatz-real-irreal"]
+    vocab_target: 27
+    vocab_themes: ["Meinung", "Diskussion", "Argumente", "Gesellschaft"]
+    vocab_recycle_min: 17
+    cultural_topic: "Diskussionskultur: lebhafte Debatte als Geselligkeit, nicht als Streit"
+    depends_on: [50, 54]
+
+  - id: 56
+    slug: spoudes-kai-morfosi
+    cefr: B1
+    title_de: "Σπουδές και μόρφωση — Bildung und Werdegang"
+    can_do:
+      - "kann über Schule, Studium und Ausbildung sprechen (πανεπιστήμιο, πτυχίο, σπούδασα)"
+      - "kann mit zusammengesetzten Sätzen einen Bildungsweg zusammenhängend darstellen"
+      - "kann Bildungswege vergleichen und über das griechische System sprechen"
+    grammar_new:
+      - id: satzgefuege-temporal
+        label_de: "Temporale und konzessive Satzgefüge (όταν, αφού, μόλις, πριν, ενώ, αν και) im Zusammenspiel"
+    grammar_recycle: ["plusquamperfekt-eicha", "relativsatz-o-opoios", "meinung-argumentation"]
+    vocab_target: 28
+    vocab_themes: ["Bildung", "Studium", "Werdegang", "Schule"]
+    vocab_recycle_min: 17
+    cultural_topic: "Bildungssystem: Πανελλήνιες, φροντιστήριο, Stellenwert akademischer Titel"
+    depends_on: [52, 55]
+
+  - id: 57
+    slug: i-giorti-tou-pasxa
+    cefr: B1
+    title_de: "Η γιορτή του Πάσχα — Ostern bei der Familie"
+    can_do:
+      - "kann über Feste, Bräuche und die Rolle der Kirche im Alltag sprechen"
+      - "kann einen Ablauf mit Passiv und temporalen Konnektoren beschreiben (βάφονται τα αυγά, αφού γυρίσουμε από την εκκλησία)"
+      - "kann an einem Familienfest teilnehmen und Bräuche erfragen und erklären"
+    grammar_new:
+      - id: passiv-vorgangsbeschreibung
+        label_de: "Passiv in Vorgangs- und Ablaufbeschreibungen (3. Person Plural Mediopassiv: ψήνονται, ετοιμάζονται)"
+    grammar_recycle: ["passiv-unpersoenlich", "satzgefuege-temporal", "genitiv-plural"]
+    vocab_target: 28
+    vocab_themes: ["Ostern", "Feste", "Kirche", "Familie"]
+    vocab_recycle_min: 18
+    cultural_topic: "Orthodoxe Kirche im Alltag: Πάσχα als wichtigstes Fest, Fasten, Auferstehungsnacht, Familientafel"
+    depends_on: [30, 56]
+
+  - id: 58
+    slug: enas-chronos-stin-ellada
+    cefr: B1
+    title_de: "Ένας χρόνος στην Ελλάδα — Lena zieht Bilanz (Wiederholung)"
+    can_do:
+      - "kann einen längeren zusammenhängenden Text über das eigene Jahr verfassen und dabei Zeiten und Aspekt sicher mischen"
+      - "kann Meinung, Erfahrung, Bedingung und Bericht in einem Text verbinden (Perfekt, Konditional, Relativ- und Bedingungssätze)"
+      - "kann einen persönlichen Brief schreiben, der erzählt, bewertet und nach vorn blickt"
+    grammar_new: []
+    grammar_recycle: ["perfekt-echo", "plusquamperfekt-eicha", "bedingungssatz-real-irreal", "relativsatz-pou", "passiv-unpersoenlich", "meinung-argumentation", "konditional-tha-paratatikos"]
+    vocab_target: 22
+    vocab_themes: ["Bilanz", "Brief", "Rückblick", "Zukunft"]
+    vocab_recycle_min: 18
+    cultural_topic: "Ankommen und Dazugehören: was es heißt, in Griechenland ein Zuhause zu finden"
+    depends_on: [51, 53, 55, 57]
+
+  # ─────────────────────────────────────────────────────────────────────
+  # Unit B2 — Kapitel 59–74: Lena im Berufsleben; Athen öffnet sich
+  # Dramaturgie: Büro, Universität, Medienwelt; Lena hat einen Job gefunden
+  # und diskutiert Gesellschaftsthemen. Kyría Eléni (formelles Register) und
+  # Dimítris (Gesellschaftsthemen) bekommen mehr Raum.
+  # Fokus: Konsolidierung statt neuer Struktur — Register, Passiv-Vollausbau,
+  # komplexe Hypotaxe, feine Aspektkontraste; Textarbeit (verstehen, zusammen-
+  # fassen, Position halten) rückt ins Zentrum.
+  # ─────────────────────────────────────────────────────────────────────
+
+  - id: 59
+    slug: i-anafora-einai-grammeni
+    cefr: B2
+    title_de: "Η αναφορά είναι γραμμένη — der erste Bericht im Büro"
+    can_do:
+      - "kann den Zustand eines Ergebnisses beschreiben (η αναφορά είναι γραμμένη, η πόρτα είναι κλειστή)"
+      - "kann das Passiv-Partizip auf -μένος/-η/-ο bilden und attributiv wie prädikativ kongruent verwenden"
+      - "kann eine kurze Statusmeldung im Büro verstehen und geben (τι είναι έτοιμο, τι έχει ολοκληρωθεί)"
+    grammar_new:
+      - id: passiv-partizip-zustand
+        label_de: "Passiv-Partizip auf -μένος/-η/-ο als Zustand (είναι γραμμένο, κλεισμένος, βαμμένα); Kongruenz"
+    grammar_recycle: ["passiv-vorgangsbeschreibung", "adjektiv-kongruenz-nom-sg", "perfekt-echo"]
+    vocab_target: 26
+    vocab_themes: ["Büro", "Arbeitsalltag", "Bericht", "Status"]
+    vocab_recycle_min: 16
+    cultural_topic: "Lenas erster Bürojob: Hierarchie, Anrede der Kollegen, das formelle Register von Kyría Eléni"
+    depends_on: [57, 58]
+
+  - id: 60
+    slug: echei-graftei-i-symfonia
+    cefr: B2
+    title_de: "Έχει γραφτεί η συμφωνία — was schon erledigt wurde"
+    can_do:
+      - "kann ausdrücken, dass etwas (von jemandem) abgeschlossen wurde, ohne Zustand zu meinen (έχει γραφτεί, έχουν σταλεί τα έγγραφα)"
+      - "kann das Mediopassiv-Perfekt mit έχω + -θεί bilden und vom Zustands-Partizip unterscheiden (έχει γραφτεί vs. είναι γραμμένο)"
+      - "kann den Bearbeitungsstand eines Vorgangs präzise mitteilen"
+    grammar_new:
+      - id: perfekt-mediopassiv
+        label_de: "Mediopassiv-Perfekt mit έχω + -θεί (έχω γραφτεί, έχουν σταλεί) im Kontrast zum Zustands-Partizip"
+    grammar_recycle: ["passiv-partizip-zustand", "perfekt-echo", "mediopassiv-aorist"]
+    vocab_target: 27
+    vocab_themes: ["Vorgänge", "Verwaltung", "Abschluss", "Büro"]
+    vocab_recycle_min: 16
+    cultural_topic: "Arbeitsabläufe und Zuständigkeiten; wie viel über Beziehungen statt über Formulare läuft"
+    depends_on: [50, 59]
+
+  - id: 61
+    slug: i-axiologisi-ton-protaseon
+    cefr: B2
+    title_de: "Η αξιολόγηση των προτάσεων — sachlich und schriftlich"
+    can_do:
+      - "kann einen schriftlich-sachlichen Text mit Nominalstil verstehen (η υλοποίηση του σχεδίου, η αύξηση των τιμών)"
+      - "kann Verben in Substantive umformen, um dichter und formeller zu schreiben (αυξάνω → η αύξηση, αποφασίζω → η απόφαση)"
+      - "kann eine kurze sachliche Notiz oder Aktennotiz im Nominalstil verfassen"
+    grammar_new:
+      - id: nominalstil-substantivierung
+        label_de: "Nominalstil und Verb-Substantivierung (-ση, -μα, -ία) für dichtes Schreibregister; Genitiv-Attribut"
+    grammar_recycle: ["genitiv-plural", "passiv-partizip-zustand"]
+    vocab_target: 28
+    vocab_themes: ["Bewertung", "Schriftverkehr", "Projekt", "Verwaltung"]
+    vocab_recycle_min: 17
+    cultural_topic: "Schriftliches Register im Berufsleben: καθαρεύουσα-Erbe in der Amtssprache, formelle Wendungen"
+    depends_on: [56, 60]
+
+  - id: 62
+    slug: afenos-afeterou-keimena
+    cefr: B2
+    title_de: "Αφενός… αφετέρου — einen Text strukturieren"
+    can_do:
+      - "kann längere Argumentationen mit register-passenden Konnektoren gliedern (αφενός… αφετέρου, εντούτοις, κατά συνέπεια)"
+      - "kann formelle von informellen Konnektoren unterscheiden und situationsgerecht wählen (όμως vs. εντούτοις, γι' αυτό vs. ως εκ τούτου)"
+      - "kann einen Zeitungskommentar in seiner Gliederung nachvollziehen und die Hauptaussage zusammenfassen"
+    grammar_new:
+      - id: konnektoren-register-formell
+        label_de: "Konnektoren im Registerkontrast (εντούτοις, ωστόσο, κατά συνέπεια, αφενός/αφετέρου, εξάλλου)"
+    grammar_recycle: ["meinung-argumentation", "satzgefuege-temporal"]
+    vocab_target: 28
+    vocab_themes: ["Argumentation", "Zeitungskommentar", "Struktur", "Medien"]
+    vocab_recycle_min: 17
+    cultural_topic: "Medienlandschaft: Meinungsstärke der Presse, Kommentar vs. Bericht, Vertrauen in Quellen"
+    depends_on: [55, 61]
+
+  - id: 63
+    slug: an-kai-iparchei-krisi
+    cefr: B2
+    title_de: "Αν και υπάρχει κρίση — Einräumung und Widerspruch"
+    can_do:
+      - "kann einen Sachverhalt einräumen und ihm dennoch widersprechen (αν και, μολονότι, παρόλο που, μ' όλο που)"
+      - "kann Konzessivsätze mit unterschiedlichem Register bilden und vom kausalen/adversativen Satz abgrenzen"
+      - "kann über die griechische Wirtschaftskrise differenziert sprechen und Ursachen wie Folgen einräumend gewichten"
+    grammar_new:
+      - id: konzessivsatz-an-kai-molonoti
+        label_de: "Konzessivsätze (αν και, μολονότι, παρόλο που, μ' όλο που, παρά + Substantiv) im Registerkontrast"
+    grammar_recycle: ["konnektoren-register-formell", "bedingungssatz-real-irreal", "meinung-argumentation"]
+    vocab_target: 29
+    vocab_themes: ["Wirtschaftskrise", "Gesellschaft", "Einräumen", "Folgen"]
+    vocab_recycle_min: 18
+    cultural_topic: "Die Krise (κρίση) ab 2010 in Grundzügen: Sparpolitik, Auswanderung junger Menschen, Alltag dazwischen — Dimítris erklärt"
+    depends_on: [53, 62]
+
+  - id: 64
+    slug: pairno-meros-stin-agora-ergasias
+    cefr: B2
+    title_de: "Παίρνω μέρος στην αγορά εργασίας — feste Wendungen der Arbeitswelt"
+    can_do:
+      - "kann feste Präpositional- und Funktionsverbgefüge der Arbeitswelt verwenden (παίρνω μέρος σε, κάνω αίτηση για, είμαι υπεύθυνος για)"
+      - "kann typische Kollokationen statt wörtlicher Übersetzungen wählen (anders als im Deutschen) und Idiomatik erkennen"
+      - "kann ein differenziertes Gespräch über Arbeitsbedingungen, Verträge und Rechte führen"
+    grammar_new:
+      - id: feste-praepositionalgefuege
+        label_de: "Feste Präpositional- und Funktionsverbgefüge / Kollokationen (παίρνω μέρος σε, κάνω χρήση, με βάση, σε σχέση με)"
+    grammar_recycle: ["mediopassiv-praesens", "konjunktionen-grund-zweck"]
+    vocab_target: 30
+    vocab_themes: ["Arbeitswelt", "Vertrag", "Rechte", "Kollokationen"]
+    vocab_recycle_min: 18
+    cultural_topic: "Arbeitswelt differenziert: befristete Verträge, μπλοκάκι-Selbstständigkeit, Gewerkschaften, Überstunden"
+    depends_on: [46, 63]
+
+  - id: 65
+    slug: einai-pithano-na-allaxei
+    cefr: B2
+    title_de: "Είναι πιθανό να αλλάξει — Wertung und Zweifel"
+    can_do:
+      - "kann nach Ausdrücken der Wertung, Wahrscheinlichkeit und des Zweifels den να-Satz korrekt anschließen (είναι πιθανό να, αμφιβάλλω αν, αξίζει να)"
+      - "kann zwischen behauptender ότι-Aussage und wertendem/zweifelndem να-Satz sicher wählen (ξέρω ότι vs. φοβάμαι μήπως)"
+      - "kann eine Einschätzung mit angemessener Modalität und Distanz formulieren"
+    grammar_new:
+      - id: konjunktiv-wertung-zweifel
+        label_de: "να/μήπως nach Wertung, Wahrscheinlichkeit, Zweifel (είναι πιθανό/κρίμα/σημαντικό να, αμφιβάλλω αν, φοβάμαι μήπως)"
+    grammar_recycle: ["na-saetze-aspekt", "indirekte-rede-oti-an"]
+    vocab_target: 28
+    vocab_themes: ["Einschätzung", "Wahrscheinlichkeit", "Zweifel", "Zukunft"]
+    vocab_recycle_min: 17
+    cultural_topic: "Über Zukunft und Unsicherheit sprechen; vorsichtige Prognosen statt großer Versprechen"
+    depends_on: [38, 64]
+
+  - id: 66
+    slug: synithos-pinei-alla-simera-ipie
+    cefr: B2
+    title_de: "Συνήθως πίνει, αλλά σήμερα ήπιε — feine Aspektkontraste"
+    can_do:
+      - "kann Gewohnheit, einmaliges Ereignis und Verlauf in einem Text fein gegeneinander absetzen (συνήθως έπινε / εκείνη τη μέρα ήπιε / έπινε όταν χτύπησε το τηλέφωνο)"
+      - "kann den Aspekt auch in komplexen Zeitgefügen bewusst steuern (Hintergrund vs. Vordergrund, Iteration vs. Punktuell)"
+      - "kann eine Erzählung mit dichter Verschachtelung von Hintergrund und Ereignis verstehen und nachbilden"
+    grammar_new:
+      - id: aspekt-feinkontraste
+        label_de: "Aspekt in feinen Kontrasten: Gewohnheit vs. Einzelereignis vs. Verlauf im verschachtelten Erzählgefüge"
+    grammar_recycle: ["aspekt-perfektiv-imperfektiv", "paratatikos-bildung", "aorist-unregelmaessig"]
+    vocab_target: 27
+    vocab_themes: ["Erzählung", "Alltag", "Verlauf", "Gewohnheit"]
+    vocab_recycle_min: 18
+    cultural_topic: "Mündliches Erzählen als Kunst: wie Griechen Anekdoten ausschmücken; Pointe und Timing"
+    depends_on: [29, 65]
+
+  - id: 67
+    slug: ta-pirame-ola-strava
+    cefr: B2
+    title_de: "Τα πήραμε όλα στραβά — Redewendungen und Idiomatik"
+    can_do:
+      - "kann häufige Redewendungen und idiomatische Verbgefüge verstehen und gebrauchen (τα βρίσκω με κάποιον, βάζω τα δυνατά μου, μου τη σπάει)"
+      - "kann erkennen, dass Idiome nicht wörtlich übersetzbar sind, und sie registergerecht (umgangssprachlich) einsetzen"
+      - "kann ein lockeres Gespräch unter Freunden mit idiomatischer Färbung führen und verstehen"
+    grammar_new:
+      - id: idiomatik-feste-wendungen
+        label_de: "Idiomatische Verbgefüge und Redewendungen (τα βρίσκω, βάζω τα δυνατά μου, κάνω πλάκα, μου τη σπάει) im umgangssprachlichen Register"
+    grammar_recycle: ["feste-praepositionalgefuege", "klitika-doppelung-stellung"]
+    vocab_target: 29
+    vocab_themes: ["Redewendungen", "Umgangssprache", "Freundeskreis", "Alltag"]
+    vocab_recycle_min: 18
+    cultural_topic: "Registerwechsel im Alltag: vom formellen Büro zur παρέα; griechischer Humor und Selbstironie"
+    depends_on: [54, 66]
+
+  - id: 68
+    slug: opoios-erthei-oti-thelei
+    cefr: B2
+    title_de: "Όποιος έρθει, ό,τι θέλει — verallgemeinernde Relativsätze"
+    can_do:
+      - "kann verallgemeinernde Aussagen mit όποιος, ό,τι, όσος, οπουδήποτε bilden (όποιος θέλει, ό,τι χρειαστεί, όσο μπορώ)"
+      - "kann freie Relativsätze ohne Bezugswort verstehen und das passende Aspekt-/Modusmuster wählen"
+      - "kann Regeln, Rechte und Bedingungen allgemein formulieren (jeder, der…; was auch immer…)"
+    grammar_new:
+      - id: relativsatz-verallgemeinernd
+        label_de: "Verallgemeinernde / freie Relativa (όποιος, ό,τι, όσος, όπου, οπουδήποτε) mit Aspekt- und Moduswahl"
+    grammar_recycle: ["relativsatz-o-opoios", "na-tha-as-modalitaet"]
+    vocab_target: 28
+    vocab_themes: ["Regeln", "Universität", "Bedingungen", "Allgemeines"]
+    vocab_recycle_min: 18
+    cultural_topic: "Lena an der Universität: ein Gastvortrag, Einschreibung als Hörerin, akademische Konventionen"
+    depends_on: [49, 67]
+
+  - id: 69
+    slug: meso-diadiktiou-kai-vasei-stoicheion
+    cefr: B2
+    title_de: "Μέσω διαδικτύου — Technik, Digitales und gehobene Präpositionen"
+    can_do:
+      - "kann gehobene und zweigliedrige Präpositionen mit Genitiv verstehen und gebrauchen (μέσω, βάσει, λόγω, εξαιτίας, εκτός από)"
+      - "kann über Technik, Internet und digitale Dienste sachlich sprechen (μέσω εφαρμογής, βάσει στοιχείων, λόγω βλάβης)"
+      - "kann eine technische oder verfahrensbezogene Erklärung verstehen und wiedergeben"
+    grammar_new:
+      - id: praepositionen-gehoben-genitiv
+        label_de: "Gehobene Präpositionen mit Genitiv (μέσω, βάσει, λόγω, εξαιτίας, χάρη σε, εκτός από) — Schriftregister"
+    grammar_recycle: ["genitiv-singular", "nominalstil-substantivierung"]
+    vocab_target: 30
+    vocab_themes: ["Technik", "Digitales", "Internet", "Dienste"]
+    vocab_recycle_min: 19
+    cultural_topic: "Digitalisierung Griechenlands: gov.gr, Taxisnet, e-Banking; Generationenkluft beim Digitalen"
+    depends_on: [61, 68]
+
+  - id: 70
+    slug: den-xero-pou-pige
+    cefr: B2
+    title_de: "Δεν ξέρω πού πήγε — eingebettete Fragen und komplexe Hypotaxe"
+    can_do:
+      - "kann indirekte Fragen tiefer einbetten (δεν ξέρω πού πήγε, με ρώτησε πότε θα τελειώσω, αναρωτιέμαι κατά πόσο…)"
+      - "kann mehrgliedrige Satzgefüge mit verschachtelten Neben- und Relativsätzen verstehen und bauen"
+      - "kann einen längeren Zeitungsartikel im Detail verstehen und seine Argumentationskette wiedergeben"
+    grammar_new:
+      - id: indirekte-frage-hypotaxe
+        label_de: "Eingebettete indirekte Fragen (πού/πότε/κατά πόσο/αν) und mehrgliedrige Hypotaxe / Satzschachtelung"
+    grammar_recycle: ["indirekte-rede-oti-an", "satzgefuege-temporal"]
+    vocab_target: 29
+    vocab_themes: ["Medien", "Zeitungsartikel", "Diaspora", "Bericht"]
+    vocab_recycle_min: 19
+    cultural_topic: "Die griechische Diaspora: Ομογένεια in Deutschland, USA, Australien; Generationen zwischen zwei Heimaten"
+    depends_on: [62, 69]
+
+  - id: 71
+    slug: oute-poli-oute-ligo
+    cefr: B2
+    title_de: "Ούτε πολύ ούτε λίγο — differenzierte Verneinung"
+    can_do:
+      - "kann differenziert und mehrteilig verneinen (ούτε… ούτε, μήτε, παρά μόνο, καθόλου, σε καμία περίπτωση)"
+      - "kann Verneinung emphatisch und registergerecht abstufen und doppelte Negation korrekt einsetzen"
+      - "kann in einer Diskussion eine Position abgrenzen und Missverständnisse präzise ausräumen"
+    grammar_new:
+      - id: negation-differenziert
+        label_de: "Differenzierte und emphatische Negation (ούτε… ούτε, μήτε, παρά μόνο, καθόλου, σε καμία περίπτωση, διόλου)"
+    grammar_recycle: ["echo-negation-den", "konzessivsatz-an-kai-molonoti"]
+    vocab_target: 27
+    vocab_themes: ["Diskussion", "Abgrenzung", "Umwelt", "Position"]
+    vocab_recycle_min: 19
+    cultural_topic: "Umweltdebatte in Griechenland: Waldbrände, Küstenschutz, Tourismusdruck, Energiewende"
+    depends_on: [55, 70]
+
+  - id: 72
+    slug: xanagrafo-parakano-wortbildung
+    cefr: B2
+    title_de: "Ξαναγράφω, παρακάνω — Wortbildung verstehen"
+    can_do:
+      - "kann Wörter über Präfixe und Suffixe erschließen und bilden (ξανα-, παρα-, υπερ-, ξε-, αντι-; -ποιώ, -ωση)"
+      - "kann unbekannte Wörter im Text durch Wortbildungslogik selbstständig entschlüsseln"
+      - "kann den Wortschatz produktiv erweitern und Nuancen über Wortbildung ausdrücken (κάνω vs. ξανακάνω vs. παρακάνω)"
+    grammar_new:
+      - id: wortbildung-praefixe-suffixe
+        label_de: "Wortbildung: produktive Präfixe (ξανα-, παρα-, υπερ-, ξε-, αντι-) und Suffixe (-ποιώ, -ωση, -ιστής) zur Worterschließung"
+    grammar_recycle: ["nominalstil-substantivierung", "aspekt-feinkontraste"]
+    vocab_target: 30
+    vocab_themes: ["Wortbildung", "Sprache", "Wortschatz", "Erschließen"]
+    vocab_recycle_min: 19
+    cultural_topic: "Griechisch als Wortbildungssprache: wie aus Wurzeln neue Begriffe entstehen; internationale Gräzismen"
+    depends_on: [61, 71]
+
+  - id: 73
+    slug: afto-akrivos-ennoo
+    cefr: B2
+    title_de: "Αυτό ακριβώς εννοώ — Hervorhebung und Wortstellung"
+    can_do:
+      - "kann durch Wortstellung gezielt hervorheben und gewichten (Topikalisierung, Voranstellung des Objekts mit Klitik-Wiederaufnahme: το βιβλίο το διάβασα)"
+      - "kann emphatische Mittel und Fokuspartikeln einsetzen (μάλιστα, ακριβώς, και μόνο, ο ίδιος) und das Register steuern"
+      - "kann in einer Diskussion die eigene Position pointiert und nuanciert vertreten und halten"
+    grammar_new:
+      - id: emphase-wortstellung
+        label_de: "Emphase und Topikalisierung: markierte Wortstellung mit Klitik-Wiederaufnahme (το βιβλίο το διάβασα), Fokuspartikeln (ακριβώς, και, ο ίδιος)"
+    grammar_recycle: ["klitika-doppelung-stellung", "meinung-argumentation"]
+    vocab_target: 28
+    vocab_themes: ["Diskussion", "Hervorhebung", "Musik und Film", "Position"]
+    vocab_recycle_min: 20
+    cultural_topic: "Griechische Musik und Film: ρεμπέτικο, έντεχνο, das Kino von Angelopoulos und Lanthimos; Streitgespräch über Geschmack"
+    depends_on: [67, 72]
+
+  - id: 74
+    slug: i-lena-vriskei-ti-foni-tis
+    cefr: B2
+    title_de: "Η Λένα βρίσκει τη φωνή της — Lena hält Position (Wiederholung)"
+    can_do:
+      - "kann einen längeren Zeitungsartikel verstehen, schriftlich zusammenfassen und kritisch kommentieren"
+      - "kann in einer Diskussion eine Position über mehrere Beiträge hinweg halten und dabei Register, Passiv, Aspekt und komplexe Hypotaxe sicher verbinden"
+      - "kann einen strukturierten Meinungstext (Leserbrief, Stellungnahme) im angemessenen Register verfassen"
+    grammar_new: []
+    grammar_recycle: ["perfekt-mediopassiv", "konzessivsatz-an-kai-molonoti", "konjunktiv-wertung-zweifel", "aspekt-feinkontraste", "konnektoren-register-formell", "indirekte-frage-hypotaxe", "emphase-wortstellung"]
+    vocab_target: 25
+    vocab_themes: ["Stellungnahme", "Zusammenfassung", "Diskussion", "Bilanz"]
+    vocab_recycle_min: 20
+    cultural_topic: "Teilhaben statt nur dabei sein: Lena mischt sich ein — als Stimme in der Debatte, nicht mehr als Gast"
+    depends_on: [63, 66, 70, 73]
+
+  # ─────────────────────────────────────────────────────────────────────
+  # Unit C1 — Kapitel 75–88: Lena ist angekommen
+  # Dramaturgie-Finale: Lena diskutiert auf Augenhöhe, liest Literatur,
+  # versteht die Sprachfrage (Δημοτική/Καθαρεύουσα) und das gelehrte Erbe
+  # im Gegenwartsgriechisch. Schauplätze: Redaktion/Verlag, Universität,
+  # Lesekreis, öffentliche Debatte; Dimítris, Kyría Eléni und eine neue
+  # Figur — der Sprachwissenschaftler Professor Vasilíou — begleiten sie.
+  # Fokus: text- statt regelgetrieben. Wenig neue Kerngrammatik; Kapitel
+  # ohne grammar_new sind hier gewollt (dann reichhaltiges Recycling).
+  # 75–80: B2→C1-Übergang (Argumentation, Register, Modus/Aspekt-Nuancen).
+  # 81–88: Kern-C1 (Katharévousa-Reste, gelehrte Formen, Wortbildung,
+  # Sprachgeschichte, Literatur, abstrakte Debatte).
+  # ─────────────────────────────────────────────────────────────────────
+
+  - id: 75
+    slug: ektos-apo-afto-epipleon
+    cefr: C1
+    title_de: "Εκτός από αυτό, επιπλέον… — Argumente präzise verketten"
+    can_do:
+      - "kann eine längere Argumentation mit fein abgestuften Konnektoren der Steigerung, Einschränkung und Schlussfolgerung verketten (επιπλέον, εξάλλου, ωστόσο, κατ' επέκταση, εν τέλει)"
+      - "kann implizite Bedeutung und Sprecherhaltung in einem komplexen Meinungstext erschließen, auch wo sie nicht explizit gemacht wird"
+      - "kann in einer Redaktionssitzung eine differenzierte Position aufbauen und über mehrere Beiträge hinweg konsistent halten"
+    grammar_new:
+      - id: konnektoren-argumentation-c1
+        label_de: "Konnektoren der Argumentation auf C1-Niveau: Steigerung/Hinzufügung (επιπλέον, εξάλλου, πέραν τούτου), Schluss (κατ' επέκταση, εν τέλει, συνεπώς), Relativierung (ως έναν βαθμό, εν μέρει)"
+    grammar_recycle: ["konnektoren-register-formell", "meinung-argumentation", "nominalstil-substantivierung"]
+    vocab_target: 30
+    vocab_themes: ["Argumentation", "Redaktion", "Meinungsbildung", "Diskurs"]
+    vocab_recycle_min: 19
+    cultural_topic: "Lena in der Redaktion: wie eine griechische Redaktionssitzung abläuft, wer das Wort führt, wie Dissens ausgetragen wird"
+    depends_on: [62, 74]
+
+  - id: 76
+    slug: alli-glossa-grafis-alli-omilias
+    cefr: C1
+    title_de: "Άλλη γλώσσα της γραφής, άλλη της ομιλίας — Register wechseln"
+    can_do:
+      - "kann denselben Inhalt bewusst in gesprochenem und in geschriebenem Register formulieren und die Mittel benennen (Wortwahl, Satzbau, Nominalstil vs. Verbalstil)"
+      - "kann an Lexik, Syntax und Konnektoren erkennen, ob ein Text mündlich-spontan oder schriftlich-geplant ist, und die Wirkung beschreiben"
+      - "kann eine mündlich erzählte Geschichte in einen schriftlich-sachlichen Text umformen und umgekehrt einen Bericht mündlich zusammenfassen"
+    grammar_new:
+      - id: register-muendlich-schriftlich
+        label_de: "Registersteuerung gesprochen↔geschrieben: Verbalstil vs. Nominalstil, parataktisch-spontan vs. hypotaktisch-geplant, umgangssprachliche vs. gehobene Lexik bewusst wählen"
+    grammar_recycle: ["nominalstil-substantivierung", "passiv-partizip-zustand", "idiomatik-feste-wendungen"]
+    vocab_target: 31
+    vocab_themes: ["Register", "Stil", "Mündlichkeit", "Schriftlichkeit"]
+    vocab_recycle_min: 20
+    cultural_topic: "Diglossie im Alltag: warum dieselbe Person im Café anders spricht als sie eine E-Mail an die Behörde schreibt — historische Wurzeln im Sprachgegensatz"
+    depends_on: [61, 75]
+
+  - id: 77
+    slug: makari-na-itan-etsi
+    cefr: C1
+    title_de: "Μακάρι να ήταν έτσι — Wunsch, Bedauern und feine Modusnuancen"
+    can_do:
+      - "kann Wunsch, Bedauern, Hoffnung und vorsichtige Annahme fein abstufen (μακάρι να, είθε να, ας ήταν, θα 'πρεπε, να 'ξερες)"
+      - "kann den Aspekt im να-/θα-Satz gezielt zur Bedeutungsnuance einsetzen (μακάρι να έρθει vs. μακάρι να ερχόταν)"
+      - "kann emotionale und hypothetische Haltungen (Sehnsucht, Reue, Resignation) sprachlich differenziert ausdrücken"
+    grammar_new:
+      - id: modus-aspekt-nuancen
+        label_de: "Feine Modus-/Aspektnuancen: Wunsch- und Optativwendungen (μακάρι/είθε/ας + Tempus-Aspekt), irreale Wünsche (μακάρι να ερχόταν), Bedauern (θα 'πρεπε, να 'ξερες) mit bewusster Aspektwahl"
+    grammar_recycle: ["bedingungssatz-real-irreal", "na-tha-as-modalitaet", "konjunktiv-wertung-zweifel", "aspekt-feinkontraste"]
+    vocab_target: 29
+    vocab_themes: ["Wunsch", "Bedauern", "Hoffnung", "Innere Haltung"]
+    vocab_recycle_min: 20
+    cultural_topic: "μακάρι, ας όψεται, καλώς να ορίσεις: Wunschformeln zwischen Volksglauben und Alltag; das Verhältnis zu Fügung und Schicksal"
+    depends_on: [53, 76]
+
+  - id: 78
+    slug: i-leptes-diafores-ton-synonymon
+    cefr: C1
+    title_de: "Οι λεπτές διαφορές των συνωνύμων — Nuancen und Kollokationen"
+    can_do:
+      - "kann zwischen nah verwandten Synonymen nach Konnotation und Register unterscheiden (μιλάω/συνομιλώ/συζητώ, σπίτι/κατοικία/οικία)"
+      - "kann implizite Wertungen und Ironie über Wortwahl erkennen und selbst gezielt einsetzen"
+      - "kann einen literarisch-essayistischen Text auf seine stilistischen Mittel hin lesen und kommentieren"
+    grammar_new: []
+    grammar_recycle: ["register-muendlich-schriftlich", "wortbildung-praefixe-suffixe", "feste-praepositionalgefuege", "emphase-wortstellung"]
+    vocab_target: 32
+    vocab_themes: ["Synonyme", "Konnotation", "Ironie", "Stil"]
+    vocab_recycle_min: 21
+    cultural_topic: "Lena im Lesekreis: über Wörter streiten als intellektuelles Vergnügen; warum Griechen Sprachsensibilität schätzen"
+    depends_on: [72, 77]
+
+  - id: 79
+    slug: i-axia-tis-paideias-genitiki
+    cefr: C1
+    title_de: "Η αξία της παιδείας — der gehobene Genitiv-Stil"
+    can_do:
+      - "kann mehrgliedrige Genitiv-Attributketten des Schriftregisters verstehen und bilden (η ενίσχυση της ανταγωνιστικότητας της οικονομίας)"
+      - "kann den Genitiv in gehobenen festen Wendungen und Funktionsverbgefügen sicher gebrauchen (τυγχάνει αναγνωρίσεως, χρήζει προσοχής, αξίζει λόγου)"
+      - "kann einen dicht nominalisierten Sachtext (Leitartikel, Gutachten) im Detail verstehen und seine Aussage entflechten"
+    grammar_new:
+      - id: genitiv-stil-gehoben
+        label_de: "Gehobener Genitiv-Stil: mehrgliedrige Genitiv-Attributketten, objektiver/subjektiver Genitiv, gelehrte Genitiv-Funktionsverbgefüge (χρήζει, τυγχάνει + Genitiv)"
+    grammar_recycle: ["genitiv-plural", "nominalstil-substantivierung", "praepositionen-gehoben-genitiv", "genitiv-singular"]
+    vocab_target: 31
+    vocab_themes: ["Bildung", "Wirtschaft", "Sachtext", "Genitiv"]
+    vocab_recycle_min: 21
+    cultural_topic: "παιδεία als Schlüsselwort: Bildung zwischen humanistischem Ideal und Bildungspolitik; Professor Vasilíou erklärt den Begriff"
+    depends_on: [69, 78]
+
+  - id: 80
+    slug: apo-tin-omilia-sto-dokimio
+    cefr: C1
+    title_de: "Από την ομιλία στο δοκίμιο — Übergang zum gehobenen Schreiben (Wiederholung)"
+    can_do:
+      - "kann einen längeren komplexen Text mündlich flüssig zusammenfassen und dann schriftlich-sachlich umformulieren, mit bewusstem Registerwechsel"
+      - "kann Argumentation, Konzession, Modusnuance und gehobenen Genitiv-Stil in einem zusammenhängenden Essay verbinden"
+      - "kann eine erste kurze essayistische Stellungnahme (δοκίμιο) im Schriftregister verfassen"
+    grammar_new: []
+    grammar_recycle: ["konnektoren-argumentation-c1", "register-muendlich-schriftlich", "modus-aspekt-nuancen", "genitiv-stil-gehoben", "konzessivsatz-an-kai-molonoti"]
+    vocab_target: 28
+    vocab_themes: ["Essay", "Zusammenfassung", "Schreiben", "Register"]
+    vocab_recycle_min: 22
+    cultural_topic: "Das δοκίμιο als griechische Form intellektueller Auseinandersetzung; von der Kaffeehaus-Debatte zur geschriebenen Stellungnahme"
+    depends_on: [75, 76, 77, 79]
+
+  - id: 81
+    slug: tou-logou-to-asfales-katharevousa
+    cefr: C1
+    title_de: "Του λόγου το ασφαλές — Katharévousa-Wendungen im Heute"
+    can_do:
+      - "kann erstarrte Katharévousa-Genitivwendungen in Verwaltung, Recht und Presse erkennen und deuten (τη συναινέσει, εν πάση περιπτώσει, τοις εκατό, ελλείψει χρόνου)"
+      - "kann -ων-Formen des gelehrten Genitiv Plural verstehen (των ωφελουμένων, των εργαζομένων, των ενδιαφερομένων)"
+      - "kann formelle Schriftstücke (Bescheid, Vertrag, Aushang) mit gelehrten Resten korrekt verstehen"
+    grammar_new:
+      - id: katharevousa-genitivwendungen
+        label_de: "Erstarrte Katharévousa-Wendungen: gelehrte Genitive (τη συναινέσει, ελλείψει, λόγω) und -ων/-ούντων-Genitiv-Plural-Formen (των εργαζομένων, των ωφελουμένων) als lexikalisierte Reste"
+    grammar_recycle: ["genitiv-stil-gehoben", "praepositionen-gehoben-genitiv", "genitiv-plural"]
+    vocab_target: 32
+    vocab_themes: ["Amtssprache", "Recht", "Katharévousa", "Formelles"]
+    vocab_recycle_min: 21
+    cultural_topic: "Καθαρεύουσα-Reste im Alltag: warum auf dem Bescheid εν πάση περιπτώσει steht und im Café όπως και να 'χει; das gelehrte Erbe als Prestigemarker"
+    depends_on: [61, 80]
+
+  - id: 82
+    slug: o-grafon-kai-o-ypografon
+    cefr: C1
+    title_de: "Ο γράφων και ο υπογράφων — archaisierende Partizipien"
+    can_do:
+      - "kann archaisierende Aktiv-Partizipien auf -ων/-ούσα/-ον und -ών verstehen und einordnen (ο ενδιαφερόμενος, ο παρών, η μέλλουσα, τα δεδομένα)"
+      - "kann substantivierte gelehrte Partizipien als feste Begriffe deuten (οι αρμόδιοι, ο υπεύθυνος, τα προαναφερθέντα)"
+      - "kann einen juristisch-administrativen oder wissenschaftlichen Text mit Partizipialkonstruktionen entschlüsseln"
+    grammar_new:
+      - id: partizip-archaisierend
+        label_de: "Archaisierende Partizipien: gelehrte Aktiv-Partizipien (-ων/-ούσα/-ον, ο παρών, η τρέχουσα) und lexikalisierte Perfekt-Partizipien (τα δεδομένα, τα προαναφερθέντα) im Schriftregister"
+    grammar_recycle: ["passiv-partizip-zustand", "partizip-ontas", "katharevousa-genitivwendungen", "nominalstil-substantivierung"]
+    vocab_target: 31
+    vocab_themes: ["Wissenschaft", "Recht", "Partizip", "Fachsprache"]
+    vocab_recycle_min: 21
+    cultural_topic: "Wissenschaftssprache und Amtsstil: das gelehrte Partizip als Erbe der attischen Tradition; wo es heute noch lebendig ist"
+    depends_on: [59, 81]
+
+  - id: 83
+    slug: tilescopio-kai-grafomichani-synthesi
+    cefr: C1
+    title_de: "Τηλεσκόπιο και γραφομηχανή — Komposita produktiv bilden"
+    can_do:
+      - "kann Komposita aus zwei Wortstämmen mit Bindevokal -ο- analysieren und produktiv bilden (νεο-, γεω-, βιβλιο-; -λογία, -γραφία, -φιλος)"
+      - "kann gelehrte und internationale Gräzismen über ihre Bausteine erschließen (δημοκρατία, βιβλιογραφία, φιλοσοφία)"
+      - "kann den Wortschatz produktiv über Komposition erweitern und Fachbegriffe selbstständig entschlüsseln"
+    grammar_new:
+      - id: wortbildung-komposita
+        label_de: "Komposition: zweistämmige Komposita mit Bindevokal -ο- (gebundene Wurzeln νεο-/γεω-/βιβλιο-/-λογία/-φιλος), Determinativ- vs. Kopulativkomposita, Akzentverschiebung im Kompositum"
+    grammar_recycle: ["wortbildung-praefixe-suffixe", "register-muendlich-schriftlich"]
+    vocab_target: 33
+    vocab_themes: ["Wortbildung", "Komposita", "Fachwortschatz", "Gräzismen"]
+    vocab_recycle_min: 20
+    cultural_topic: "Griechisch als Wortlieferant der Welt: wie aus altgriechischen Wurzeln moderne Wissenschaftsbegriffe entstehen — und wie das Neugriechische selbst Komposita schmiedet"
+    depends_on: [72, 82]
+
+  - id: 84
+    slug: to-glossiko-zitima
+    cefr: C1
+    title_de: "Το γλωσσικό ζήτημα — die Sprachfrage verstehen"
+    can_do:
+      - "kann einen längeren wissenschaftlich-historischen Text über die griechische Sprachfrage verstehen und seine Argumentationslinie zusammenfassen (Δημοτική vs. Καθαρεύουσα, διγλωσσία, das Jahr 1976)"
+      - "kann implizite ideologische Haltungen in einem Sprachgeschichtstext erkennen und kritisch einordnen"
+      - "kann die historische Schichtung des Gegenwartsgriechischen erklären und an Beispielen aus den vorigen Kapiteln belegen"
+    grammar_new: []
+    grammar_recycle: ["katharevousa-genitivwendungen", "partizip-archaisierend", "register-muendlich-schriftlich", "konnektoren-argumentation-c1", "indirekte-frage-hypotaxe"]
+    vocab_target: 33
+    vocab_themes: ["Sprachgeschichte", "Sprachfrage", "Identität", "Diglossie"]
+    vocab_recycle_min: 22
+    cultural_topic: "Το γλωσσικό ζήτημα: von Korais über die Ευαγγελικά bis 1976; warum die Sprachwahl jahrzehntelang politisch war — Professor Vasilíou im Gespräch mit Lena"
+    depends_on: [76, 83]
+
+  - id: 85
+    slug: efxaristos-kai-os-ek-toutou
+    cefr: C1
+    title_de: "Ευχαρίστως και ως εκ τούτου — gelehrte Adverbien und Wendungen"
+    can_do:
+      - "kann gelehrte Adverbien auf -ως und feste λόγιες-Wendungen registergerecht verstehen und gebrauchen (ευχαρίστως, ασφαλώς, ως εκ τούτου, εν τω μεταξύ, εκ των πραγμάτων)"
+      - "kann gelehrte Reste der Flexion in erstarrten Formeln einordnen (εις, εκ, προς + Akkusativ in festen Wendungen) ohne sie produktiv zu übergeneralisieren"
+      - "kann das Register eines Textes an der Dichte gelehrter Adverbien und Formeln einschätzen und nachbilden"
+    grammar_new:
+      - id: logia-typen-katharevousa
+        label_de: "Gelehrte (λόγιοι) Typen: Adverbien auf -ως (ευχαρίστως, ασφαλώς, αναμφιβόλως), erstarrte Präpositionalformeln (εις, εκ, προς, διά in festen Wendungen wie ως εκ τούτου, εν τω μεταξύ) als lexikalisierte Reste"
+    grammar_recycle: ["katharevousa-genitivwendungen", "partizip-archaisierend", "konnektoren-register-formell", "register-muendlich-schriftlich"]
+    vocab_target: 32
+    vocab_themes: ["Adverbien", "Gehobenes Register", "Formeln", "Stil"]
+    vocab_recycle_min: 21
+    cultural_topic: "Das Spiel mit dem Register: wann ein gelehrtes ως εκ τούτου wirkt und wann es prätentiös klingt; Sprachgefühl als soziales Kapital"
+    depends_on: [82, 84]
+
+  - id: 86
+    slug: i-poli-tou-kavafi
+    cefr: C1
+    title_de: "Η πόλις του Καβάφη — Literatur lesen (Kaváfis, Seféris)"
+    can_do:
+      - "kann ein Gedicht von Kaváfis oder Seféris im Original lesen, seine zentralen Bilder deuten und die sprachliche Schichtung (volkssprachlich/gelehrt) erkennen"
+      - "kann implizite, übertragene und symbolische Bedeutung in einem literarischen Text erschließen und in eigenen Worten interpretieren"
+      - "kann eine kurze literarische Deutung mündlich vortragen und schriftlich festhalten"
+    grammar_new: []
+    grammar_recycle: ["logia-typen-katharevousa", "partizip-archaisierend", "modus-aspekt-nuancen", "emphase-wortstellung", "aspekt-feinkontraste"]
+    vocab_target: 31
+    vocab_themes: ["Literatur", "Lyrik", "Interpretation", "Symbolik"]
+    vocab_recycle_min: 22
+    cultural_topic: "Καβάφης und Σεφέρης: zwei Nobelpreis-Welten der Neogräzistik; Ιθάκη, Περιμένοντας τους βαρβάρους und warum diese Verse zum kulturellen Allgemeingut gehören"
+    depends_on: [73, 85]
+
+  - id: 87
+    slug: i-ennoia-tis-tautotitas
+    cefr: C1
+    title_de: "Η έννοια της ταυτότητας — abstrakt debattieren"
+    can_do:
+      - "kann eine abstrakte Debatte über Begriffe wie Identität, Heimat, Zugehörigkeit flüssig und differenziert führen (η έννοια του ανήκειν, το ζήτημα της ταυτότητας)"
+      - "kann komplexe abstrakte Diskursmittel einsetzen: substantivierte Infinitiv-Ersätze, Distanzmarker und Versachlichung (το γεγονός ότι, υπό την έννοια ότι, σε ό,τι αφορά)"
+      - "kann in einer öffentlichen Diskussion eine nuancierte, durchgehaltene Position zu einem abstrakten gesellschaftlichen Thema vertreten"
+    grammar_new:
+      - id: diskursmittel-abstrakt
+        label_de: "Abstrakte Diskursmittel: substantivierte Satzkomplemente (το γεγονός ότι, το να + Verb), Versachlichungs- und Distanzmarker (υπό την έννοια ότι, σε ό,τι αφορά, καθ' όσον), gehobene Verweis- und Gliederungsformeln"
+    grammar_recycle: ["nominalstil-substantivierung", "konnektoren-argumentation-c1", "konjunktiv-wertung-zweifel", "relativsatz-verallgemeinernd", "genitiv-stil-gehoben"]
+    vocab_target: 33
+    vocab_themes: ["Identität", "Gesellschaft", "Abstrakte Debatte", "Werte"]
+    vocab_recycle_min: 22
+    cultural_topic: "Identität und Zugehörigkeit: Ελληνικότητα, Diaspora, Europa — Lena diskutiert auf einem Podium mit, als Stimme zwischen den Kulturen"
+    depends_on: [68, 86]
+
+  - id: 88
+    slug: i-lena-vrethike-spiti-tis
+    cefr: C1
+    title_de: "Η Λένα βρήκε το σπίτι της — Ankommen und Ausblick (Wiederholung)"
+    can_do:
+      - "kann einen komplexen längeren Text jeglichen Registers verstehen, zusammenfassen und kritisch kommentieren und dabei alle C1-Mittel souverän verbinden"
+      - "kann flüssig, präzise und registergerecht über ein anspruchsvolles Thema sprechen und schreiben, mit bewusster Wahl zwischen volkssprachlichem und gelehrtem Stil"
+      - "kann den eigenen Sprachweg reflektieren und einen Ausblick auf das selbstständige Weiterlernen formulieren (Literatur, Medien, Fachsprache)"
+    grammar_new: []
+    grammar_recycle: ["konnektoren-argumentation-c1", "register-muendlich-schriftlich", "genitiv-stil-gehoben", "katharevousa-genitivwendungen", "partizip-archaisierend", "wortbildung-komposita", "diskursmittel-abstrakt"]
+    vocab_target: 28
+    vocab_themes: ["Bilanz", "Ausblick", "Sprachreflexion", "Abschluss"]
+    vocab_recycle_min: 22
+    cultural_topic: "Ankommen: Lena liest, diskutiert und schreibt auf Griechisch wie eine, die dazugehört — kein Gast mehr, sondern Teil des Gesprächs. Ausblick auf ein Leben mit der Sprache"
+    depends_on: [80, 84, 86, 87]

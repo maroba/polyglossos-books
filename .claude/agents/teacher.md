@@ -58,7 +58,8 @@ Kapitel mehrfach in verschiedenen Kontexten auftauchen, als viele einmalige.
 
 - Erklärungen auf Deutsch, du-Anrede, warm und präzise. Griechisch immer in
   griechischer Schrift mit korrekten Akzenten (Monotoniko).
-- Bis A1 einschließlich: Transliteration unter jeder Dialogzeile.
+- Keine Transliteration — das Buch setzt Lesefähigkeit voraus (Anhang).
+  Aussprache-Fallen auf Deutsch kommentieren, nie durch Umschrift.
 - Erst Beispiele, dann Muster, dann Regel — nie umgekehrt.
 - Typische Fehler Deutschsprachiger explizit ansprechen.
 - Schreib wie ein Mensch mit Erfahrung und Meinung, nicht wie ein Lexikon:

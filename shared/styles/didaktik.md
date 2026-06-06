@@ -43,8 +43,10 @@ einem Satz erklären.
 ## Zielsprache im Text
 
 - Griechisch immer in griechischer Schrift mit korrekten Akzenten.
-- Bis einschließlich Niveau A1: Transliteration unter Dialogzeilen und in der
-  Wortschatz-Box. Ab A2 nur noch bei Aussprache-Fallen.
+- **Keine Transliteration.** Das Buch setzt voraus, dass der Lernende das
+  Alphabet und die Aussprache beherrscht (kompakter Referenz-Anhang im Buch).
+  Aussprache-Fallen (Betonungsverschiebung, Digraphen) werden, wo nötig, auf
+  Deutsch kommentiert — nie durch Umschrift.
 - Jede griechische Passage muss mit dem bis dahin eingeführten Material
   verstehbar sein — keine „Dekoration" mit unbekannten Wörtern.
 
