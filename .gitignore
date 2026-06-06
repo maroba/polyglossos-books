@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+books/*/build/
+*.pdf
+*.epub
+.DS_Store

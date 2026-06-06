@@ -1,0 +1,67 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Kapitel-Sidecar (meta.yaml)",
+  "type": "object",
+  "required": ["chapter", "slug", "status", "vocab_introduced", "grammar_introduced"],
+  "additionalProperties": false,
+  "properties": {
+    "chapter": { "type": "integer", "minimum": 1 },
+    "slug": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "status": {
+      "enum": ["geplant", "entwurf", "draft-complete", "geprueft", "fertig"]
+    },
+    "vocab_introduced": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["lemma", "pos", "gloss_de"],
+        "additionalProperties": false,
+        "properties": {
+          "lemma": { "type": "string", "description": "Griechisches Lemma mit Akzenten" },
+          "pos": {
+            "enum": ["noun", "verb", "adj", "adv", "pron", "prep", "conj",
+                     "art", "num", "interj", "particle", "phrase"]
+          },
+          "gloss_de": { "type": "string" },
+          "translit": { "type": ["string", "null"] },
+          "gender": { "enum": ["m", "f", "n", null] },
+          "notes": { "type": ["string", "null"] },
+          "inflected_forms": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Flektierte Formen, die der Lemmatizer nicht zuordnet (Backstop)"
+          }
+        }
+      }
+    },
+    "grammar_introduced": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "label_de"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9-]+$", "description": "Muss einer grammar_new-ID im Curriculum entsprechen" },
+          "label_de": { "type": "string" }
+        }
+      }
+    },
+    "vocab_recycled": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Lemmata aus Vorkapiteln, die hier gezielt wiederverwendet werden"
+    },
+    "grammar_recycled": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "exercises": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "count": { "type": "integer", "minimum": 0 },
+        "types": { "type": "array", "items": { "type": "string" } }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+# Pandoc-Defaults für alle Bücher. Buchspezifisches (Titel, Fonts, Sprachen)
+# kommt aus books/<buch>/book.yaml via --metadata-file.
+pdf-engine: xelatex
+toc: true
+toc-depth: 1
+number-sections: false
+include-in-header:
+  - shared/pandoc/header.tex
+variables:
+  documentclass: book
+  fontsize: 11pt
+  geometry: a4paper, margin=2.5cm
+  linkcolor: black

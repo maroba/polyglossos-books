@@ -1,0 +1,6 @@
+pyyaml
+jsonschema
+regex
+spacy
+click
+typer
