@@ -26,9 +26,6 @@ ein Wort, ein **παρακαλώ** und ein Lächeln reichen vollkommen.
 
 ## Dialog — Lena im Kafenío von Níkos
 
-Schau dir den Dialog erst einmal im Ganzen an. Jedes neue Wort findest du gleich
-darunter in der Wortschatz-Box.
-
 Es ist später Vormittag. Lena tritt in das kleine Kafenío an der Ecke. Níkos,
 der Wirt, steht hinter dem Tresen. Lena kennt ihn noch nicht — sie bleibt also
 beim höflichen **σας**. Níkos dagegen ist die herzliche Sorte Wirt, die jeden
@@ -63,11 +60,15 @@ kleinen Stamm-Kafenío ist das typisch; eine feste Regel ist es nicht.
 **Λένα:** Γεια σας! Αντίο, Νίκο. Ευχαριστώ!
 
 Eine Kleinigkeit zum Wiedererkennen: Beim Abschied ruft Lena **Αντίο, Νίκο** —
-nicht **Νίκος**. Wenn man jemanden direkt anspricht, verliert sein Name auf
-Griechisch oft das **-ς** am Ende — du hast das schon gesehen, ohne es zu
-merken: das höfliche **κύριε** aus dem ersten Kapitel funktioniert genauso
-(statt **κύριος**). Du musst das jetzt nicht selbst bilden — erkenn es nur
-wieder; das System dahinter sehen wir uns später an.
+nicht **Νίκος**. Wenn man jemanden direkt anspricht, verändert sich sein Name auf
+Griechisch oft am Ende; bei **Νίκος** fällt dabei das **-ς** weg, übrig bleibt
+**Νίκο**. Eine veränderte Anredeform hast du übrigens schon im ersten Kapitel
+gesehen, ohne dass es groß auffiel: das höfliche **κύριε**. Dort liegt die
+Veränderung an einer anderen Stelle als bei **Νίκο** — das musst du jetzt nicht
+auseinanderhalten, merk dir nur, dass solche Anredeformen existieren. Wichtig
+fürs Bestellen und für Übung 7: Wenn du Níkos direkt ansprichst, sagst du
+**Νίκο**. Selbst bilden musst du diese Formen noch nicht — erkenn sie nur wieder;
+das System dahinter sehen wir uns später an.
 
 <!-- @section: vokabeln -->
 
@@ -79,18 +80,17 @@ wieder; das System dahinter sehen wir uns später an.
 
 Statt Tabellen und Endungen lernst du in diesem Kapitel die vier, fünf
 Wörtchen, mit denen du in einem griechischen Café von der Begrüßung bis zum
-Abschied durchkommst. Lern sie als feste Bausteine — das Zerlegen heben wir uns
+Abschied durchkommst. Lern sie als feste Bausteine; das Zerlegen heben wir uns
 für später auf.
 
 Gleich in Níkos' erstem Satz steckt so ein Baustein: **Καλώς ήρθατε** heißt
-„willkommen" (wörtlich etwa „gut, dass ihr gekommen seid"). Auch das nimmst du
-als Ganzes, ohne es zu zerlegen — es ist die freundliche Begrüßung, die dir
-fast überall beim Hereinkommen entgegenschallt.
+„willkommen" (wörtlich etwa „gut, dass ihr gekommen seid"). Es ist die
+freundliche Begrüßung, die dir fast überall beim Hereinkommen entgegenschallt.
 
 ### παρακαλώ — ein Wort, drei Situationen
 
-**παρακαλώ** ist das nützlichste Wort dieses Kapitels, denn es passt an gleich
-drei ganz verschiedenen Stellen. Beim **Bestellen oder Bitten** heißt es
+**παρακαλώ** taucht in diesem Kapitel an drei verschiedenen Stellen auf. Beim
+**Bestellen oder Bitten** heißt es
 schlicht „bitte", genau wie bei uns am Ende einer Bestellung — Lena sagt
 **Έναν καφέ, παρακαλώ**, „Einen Kaffee, bitte". Dasselbe Wort dreht sich um,
 sobald sich jemand bei *dir* bedankt: Auf ein **ευχαριστώ** antwortest du mit
@@ -121,14 +121,12 @@ herzlicher bedanken, hängst du **πολύ** („sehr") an:
 Lena macht das genau so, als Níkos ihr den Kaffee bringt. Und wie reagiert
 Níkos? Er sagt nicht etwa **παρακαλώ**, sondern winkt ab mit **Τίποτα,
 τίποτα.** — wörtlich „nichts, nichts", also „keine Ursache, nicht der Rede
-wert". Beides geht; **τίποτα** klingt nur noch eine Spur lockerer und
-selbstverständlicher. Beide Antworten — **παρακαλώ** und **τίποτα** — sind im
-Alltag völlig üblich.
+wert". Eine Spur lockerer als παρακαλώ, sonst gleichwertig.
 
 ### ναι und όχι — ja und nein
 
-**ναι** („ja") hattest du schon. Sein Gegenstück lernst du jetzt: **όχι**
-(„nein"). Damit kannst du auf jede Ja-oder-Nein-Frage reagieren:
+**ναι** („ja") kennst du bereits. Jetzt kommt sein Gegenstück dazu: **όχι**
+(„nein"). Zu zweit decken die beiden jede Ja-oder-Nein-Frage ab:
 
 > — Και νερό; *(Auch Wasser?)*
 > — **Ναι**, παρακαλώ. *(Ja, bitte.)* — oder — **Όχι**, ευχαριστώ. *(Nein,
@@ -142,7 +140,7 @@ Alltag völlig üblich.
 > schnalzen leise mit der Zunge. Wenn dir jemand scheinbar wortlos „den Kopf in
 > den Nacken wirft", ist das ein **όχι**, kein Nicken.
 
-### Wie man bestellt: ein Baustein zum Mitnehmen
+### Wie man bestellt
 
 Lena bestellt mit **Έναν καφέ, παρακαλώ.** Das **έναν** davor ist das Wörtchen
 für „ein(en)". Lern die ganze Wendung vorerst als einen festen Block:
@@ -150,20 +148,26 @@ für „ein(en)". Lern die ganze Wendung vorerst als einen festen Block:
 > **Έναν** + Getränk + **, παρακαλώ.**
 
 So bestellst du den Kaffee: **έναν καφέ**. Beim Wasser heißt es **ένα νερό** —
-ohne **-ν** am **ένα** und am Getränkewort. Warum mal **έναν**, mal **ένα**, und
-warum **καφέ**, nicht **καφές**? Das hat seinen Grund. Der gehört aber in ein
-späteres Kapitel; mit Tabellen würde ich dich hier nur aufhalten. Für jetzt
-reicht: Lern **έναν καφέ** und **ένα νερό** als zwei fertige Bausteine, sag den
-passenden, häng **παρακαλώ** an — und du wirst verstanden. Dass „ein Kaffee"
-allein noch nicht verrät, *welcher* — heiß, kalt, mit oder ohne Zucker —, stört
-niemanden: Notfalls fragt der Wirt nach. Die Kaffeesorten heben wir uns für ein
-eigenes Kapitel auf.
+mit **ένα** statt **έναν**. Der Unterschied liegt allein am Wörtchen davor; das
+Getränkewort selbst bleibt gleich. Warum mal **έναν**, mal **ένα**, und warum
+**καφέ**, nicht **καφές**? Das hat seinen Grund. Der gehört aber in ein späteres Kapitel; mit
+Tabellen würde ich dich hier nur aufhalten. Für jetzt reicht: Lern **έναν καφέ**
+und **ένα νερό** als zwei fertige Bausteine, sag den passenden, häng
+**παρακαλώ** an — und du wirst verstanden.
+
+Eins solltest du nur wissen: Bestellst du den klassischen griechischen Kaffee,
+fragt der Wirt fast sicher nach, wie süß du ihn magst — ungezuckert, mittelsüß
+oder süß. Das ist keine Ausnahme und kein Zeichen, dass du dich unklar
+ausgedrückt hast, sondern Standard. Der Zucker wird nämlich schon beim Kochen
+mit eingerührt und lässt sich hinterher nicht mehr ändern; deshalb *muss* die
+Frage vor dem Kochen kommen. Lass dich davon nicht aus der Ruhe bringen — die
+griechischen Wörter für die Süßegrade lernst du in einem späteren Kapitel, dort
+auch die übrigen Kaffeesorten.
 
 ### Recycling: γεια σου oder γεια σας?
 
-Hast du beim Lesen den feinen Wechsel bemerkt? Am Anfang siezt Lena den
-fremden Wirt mit **Καλημέρα σας**. Doch als sie geht, sagt Níkos **Γεια σου** —
-er duzt sie längst. Das ist genau die Entscheidung aus dem ersten Kapitel:
+Am Anfang siezt Lena den fremden Wirt mit **Καλημέρα σας**. Als sie geht, sagt
+Níkos **Γεια σου** — er duzt sie längst. Das ist genau die Entscheidung aus dem ersten Kapitel:
 **σου** unter Vertrauten, **σας** beim höflichen ersten Kontakt. Im Kafenío
 kippt das oft schon nach einer einzigen Tasse Kaffee. Mehr dazu gleich in der
 Landeskunde.
@@ -270,9 +274,12 @@ kurzen Wortwechsel — so wie Lena es im Dialog gemacht hat. Bring unter:
 
 Ein Kafenío ist kein Café im deutschen Sinne, und schon gar kein Coffee-Shop, in
 dem man den Becher mitnimmt und weiterhetzt. Es ist ein Ort zum *Bleiben*. Man
-bestellt ein Getränk — klassisch einen griechischen Kaffee, im Sommer einen
-schäumenden **φραπέ** oder, seit Jahren mindestens ebenso beliebt, einen
-Freddo Espresso auf Eis — und sitzt dann, wenn man mag, eine Stunde oder zwei.
+bestellt ein Getränk — klassisch einen griechischen Kaffee, einen schäumenden
+**φραπέ** oder, heute mit Abstand am häufigsten, einen Freddo auf Eis — und sitzt
+dann, wenn man mag, eine Stunde oder zwei. Der Freddo hat den älteren φραπέ
+inzwischen weit überholt; er ist das meistbestellte Kaltgetränk, und zwar nicht
+nur im Sommer, sondern das ganze Jahr über. (Diese Kaffeenamen gehören nur zur
+Landeskunde; für die Übungen brauchst du sie nicht.)
 Niemand drängt, niemand legt dir nach zehn Minuten wortlos die Rechnung hin.
 Genau das ist der Punkt: Du zahlst nicht für den Kaffee, du zahlst für den
 Platz und die Zeit.

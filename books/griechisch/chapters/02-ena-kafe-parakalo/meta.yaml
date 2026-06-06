@@ -1,6 +1,6 @@
 chapter: 2
 slug: ena-kafe-parakalo
-status: draft-complete
+status: geprueft
 
 vocab_introduced:
   - lemma: παρακαλώ
@@ -54,6 +54,7 @@ vocab_introduced:
   - lemma: ωραία
     pos: adv
     gloss_de: 'schön, prima, gut (als zustimmende Reaktion)'
+    notes: 'Im Dialog als Bewertungs-Ausruf („prima!", „in Ordnung!") nach der Bestellung.'
 
   - lemma: ορίστε
     pos: interj

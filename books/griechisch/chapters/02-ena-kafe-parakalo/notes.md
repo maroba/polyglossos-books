@@ -61,3 +61,44 @@
 - continuity_check.py: 0 Verstöße (Tokenizer ignoriert jetzt „-ς"-Zitate via Lookbehind)
 - ai-guard, cultural-reviewer: Freigabe bereits in Runde 2
 - Status → draft-complete
+
+## /review-chapter griechisch 2 — 2026-06-06 (Re-Review, Ziel: Status geprueft)
+
+Baseline: validate_schema 0 Fehler, continuity_check 0 Verstöße (nur Eigennamen).
+Parallele Prüfung aller 5 Agenten (Kapitel hat cultural_topic Kafenío).
+
+### Befunde Re-Review-Runde 1
+- continuity-checker: **KONTINUITÄT OK** (alle Tokens deklariert/recycelt; Vokativ Νίκο + φραπέ rezeptiv abgedeckt)
+- reviewer: **überarbeitung nötig** (sonst sprachlich sauber):
+  - [x] R1 [blocker] Bestell-Abschnitt präzisiert: „Der Unterschied liegt allein am Wörtchen davor; das Getränkewort selbst bleibt gleich." Damit ist jede Andeutung getilgt, das Getränkewort verlöre auch ein -ν. (Im Text stand bereits „nicht am Getränk selbst" — jetzt explizit und unmissverständlich, dass nur der Artikel έναν/ένα variiert.)
+  - [x] R2 [minor, optional] meta.yaml ωραία-notes bereits vorhanden („Im Dialog als Bewertungs-Ausruf ‚prima!', ‚in Ordnung!' nach der Bestellung"). Erfüllt, keine weitere Aktion.
+- reader: **kein COMPREHENSION-FAILURE**; Befunde:
+  - [x] L1 ήρθατε im Dialog vor Erklärung — BY DESIGN (Box + Erklärung folgt); keine Aktion
+  - [x] L2 [reader irrt] κύριε steht tatsächlich in Kap. 1 (Landeskunde); Querverweis bleibt berechtigt. Echte Unschärfe über R-extra behoben (s. u.).
+  - [x] R-extra [precision] Vokativ-Hinweis umformuliert: Νίκος→Νίκο bleibt das saubere -ς-Wegfall-Beispiel; κύριε wird nur noch als „eine veränderte Anredeform, die du schon gesehen hast" referenziert, mit dem ausdrücklichen Zusatz, dass die Veränderung dort „an einer anderen Stelle liegt als bei Νίκο". Der falsche „genauso/-ς-weg"-Mechanismus für κύριε ist damit getilgt. A0-Linie („nur wiedererkennen, nicht selbst bilden") bleibt.
+  - [x] L3 [gap, optional] Griechisches Fragezeichen im Klammersatz (jetzt Z. ~98) bleibt — reader fand es gut erklärt; keine Aktion.
+  - [x] L4 έναν/ένα bewusst auf später vertagt — BY DESIGN (Block-Didaktik); keine Aktion
+  - [x] L5 [confusing] Vokativ-Hinweis aktiv ergänzt: „Wichtig fürs Bestellen und für Übung 7: Wenn du Níkos direkt ansprichst, sagst du Νίκο." Damit ist die freie Produktion in Übung 7 gedeckt.
+  - [x] L6 [pacing, optional] Klammervermerk in der Landeskunde bereits vorhanden: „(Diese Kaffeenamen gehören nur zur Landeskunde; für die Übungen brauchst du sie nicht.)". Erfüllt.
+- ai-guard: **klingt überwiegend menschlich**, Feinbefunde:
+  - [x] G1 [floskel] Meta-Logistik-Satz war bereits in einer früheren Runde gestrichen; die Dialog-Einleitung enthält keine „Schau dir … Wortschatz-Box"-Anweisung mehr. Kein Eingriff nötig.
+  - [x] G2 [rhythmus] Grammatik-Einleitung: „Lern sie als feste Bausteine — das Zerlegen heben wir uns für später auf" zu „Lern sie als feste Bausteine; das Zerlegen heben wir uns für später auf" gestrafft (nur noch eine Nennung des Bausteine-Motivs an dieser Stelle).
+  - [x] G3 [hedging] παρακαλώ-Einstieg entwerbt: „taucht in diesem Kapitel an drei verschiedenen Stellen auf" statt „passt an drei verschiedene Stellen — ein Wort, das du oft brauchen wirst".
+  - [x] G4 [rhythmus] τίποτα-Echosatz gestrafft: „Eine Spur lockerer als παρακαλώ, sonst gleichwertig." statt „Beides geht; τίποτα klingt nur noch eine Spur lockerer und selbstverständlicher."
+  - [x] G5 [floskel] Überschrift war bereits „Wie man bestellt" (Zusatz „ein Baustein zum Mitnehmen" in früherer Runde entfernt). Kein Eingriff nötig.
+  - [x] G6 [rhythmus] ναι/όχι-Kurzsätze variiert: „kennst du bereits. Jetzt kommt sein Gegenstück dazu: όχι … Zu zweit decken die beiden jede Ja-oder-Nein-Frage ab" (Satzlängen entzerrt).
+  - [x] G7 [generisch] Recycling-Einstieg direkter: rhetorische Frage entfällt, Einstieg jetzt unmittelbar bei „Am Anfang siezt Lena …".
+- cultural-reviewer: **solide/klischeefrei**, drei Faktenfixes:
+  - [x] K1 [fakt] Landeskunde benennt den Vorrang korrekt: „heute mit Abstand am häufigsten, einen Freddo auf Eis" und „Der Freddo hat den älteren φραπέ inzwischen weit überholt; er ist das meistbestellte Kaltgetränk." Kein „mindestens ebenso beliebt" mehr.
+  - [x] K2 [fakt] Saisonmarkierung relativiert: „und zwar nicht nur im Sommer, sondern das ganze Jahr über." Freddo ist als ganzjährig dominant beschrieben.
+  - [x] K3 [fakt/nutzen, wichtig] Süße-Rückfrage präzisiert: „fragt der Wirt fast sicher nach … Das ist keine Ausnahme … sondern Standard. Der Zucker wird nämlich schon beim Kochen mit eingerührt und lässt sich hinterher nicht mehr ändern; deshalb *muss* die Frage vor dem Kochen kommen." Süßegrade auf Deutsch (ungezuckert/mittelsüß/süß), griechische Wörter ausdrücklich auf späteres Kapitel verschoben — keine neuen griechischen Tokens im Text.
+  - [x] K4-K8: korrekt, keine Aktion (differenziertes, stereotypenfreies Kafenío-Bild bestätigt)
+
+### Abschluss Re-Review — ALLE PRÜFER GRÜN → status: geprueft
+- continuity-checker: KONTINUITÄT OK (0 Verstöße; keine neuen griechischen Tokens, σκέτο/μέτριο/γλυκό NICHT eingeführt)
+- reviewer: FREIGABE — R1-Blocker behoben (Bestell-Unterschied korrekt nur am Artikel έναν/ένα; Getränkewort unverändert) und κύριε-Präzisierung in Verifikationsrunde bestätigt (Νίκος→Νίκο sauberer -ς-Wegfall; κύριε „Veränderung an anderer Stelle", keine falsche Gleichsetzung mehr)
+- reader: kein COMPREHENSION-FAILURE (κύριε steht tatsächlich in Kap.1:246; L5 durch aktiven „sag Νίκο"-Hinweis gedeckt)
+- ai-guard: klingt menschlich (G2/G3/G4/G6/G7 gestrafft)
+- cultural-reviewer: FREIGABE — K1/K2/K3 in Verifikationsrunde sachlich bestätigt (Freddo weit vor φραπέ & ganzjährig; griechischer Kaffee: Süße-Rückfrage ist Standard)
+- validate_schema: 0 Fehler; continuity_check: 0 Verstöße
+- meta.yaml: status draft-complete → **geprueft**
