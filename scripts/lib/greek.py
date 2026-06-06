@@ -12,9 +12,12 @@ import re
 import unicodedata
 
 # Griechisch + Griechisch-Erweitert (Polytonisch), inkl. Apostroph-Elision (θ' αγαπώ).
-# Negative Lookbehind auf "-": metalinguistische Endungs-Zitate wie „das -ς"
-# in deutschen Erklärungen sind keine Vokabel-Tokens.
-GREEK_TOKEN_RE = re.compile(r"(?<!-)[Ͱ-Ͽἀ-῿]+(?:['’][Ͱ-Ͽἀ-῿]+)*")
+# Guards gegen metalinguistische Zitate: kein Match nach/vor Bindestrich
+# (Endungs- und Stamm-Zitate wie „-εις", „μέν-") und keine Teil-Matches
+# mitten im Wort (sonst matcht „-εις" ab dem ι als „ις").
+GREEK_TOKEN_RE = re.compile(
+    r"(?<![Ͱ-Ͽἀ-῿-])[Ͱ-Ͽἀ-῿]+(?:['’][Ͱ-Ͽἀ-῿]+)*(?![Ͱ-Ͽἀ-῿-])"
+)
 
 _nlp = None
 
@@ -33,8 +36,13 @@ def strip_accents(s: str) -> str:
 
 
 def tokenize(text: str) -> list[str]:
-    """Alle griechisch-schriftlichen Tokens im Text (Reihenfolge erhalten)."""
-    return GREEK_TOKEN_RE.findall(text)
+    """Alle griechisch-schriftlichen Tokens im Text (Reihenfolge erhalten).
+
+    Markdown-Hervorhebungen werden vorher entfernt, damit κάν**ω** als ein
+    Token gelesen wird und Endungs-Zitate wie **-εις** dem Lookbehind nicht
+    entwischen."""
+    cleaned = text.replace("**", "").replace("__", "")
+    return GREEK_TOKEN_RE.findall(cleaned)
 
 
 def get_nlp():

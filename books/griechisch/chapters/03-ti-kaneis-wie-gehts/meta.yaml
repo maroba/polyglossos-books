@@ -1,0 +1,106 @@
+chapter: 3
+slug: ti-kaneis-wie-gehts
+status: draft-complete
+
+vocab_introduced:
+  - lemma: τι
+    pos: pron
+    gloss_de: 'was; in Τι κάνεις; = wie (geht es)'
+    notes: 'Hier vor allem im Gruß Τι κάνεις; (wörtlich „was machst du?"). Eigenständiges Fragewort, hier zunächst als Teil dieser Wendung.'
+
+  - lemma: κάνω
+    pos: verb
+    gloss_de: 'machen, tun; in Τι κάνεις; = wie geht es (dir)'
+    notes: 'Erstes Verb auf -ω. Singular: κάνω/κάνεις/κάνει. Form κάνετε nur als Höflichkeits-Block (Sie/ihr), nicht als aktives Paradigma.'
+    inflected_forms:
+      - κάνεις
+      - κάνει
+      - κάνετε
+
+  - lemma: μένω
+    pos: verb
+    gloss_de: 'wohnen; bleiben'
+    notes: 'Zweites Verb auf -ω, parallel zu κάνω im Singular: μένω/μένεις/μένει.'
+    inflected_forms:
+      - μένεις
+      - μένει
+
+  - lemma: καλά
+    pos: adv
+    gloss_de: 'gut (als Antwort auf Τι κάνεις;); auch: πολύ καλά = sehr gut'
+    notes: 'Antwort ohne Verb „sein": Καλά, ευχαριστώ. Kein „bin/ich bin" davor — είμαι kommt erst später.'
+
+  - lemma: εδώ
+    pos: adv
+    gloss_de: 'hier'
+
+  - lemma: τώρα
+    pos: adv
+    gloss_de: 'jetzt, nun'
+
+  - lemma: έτσι κι έτσι
+    pos: phrase
+    gloss_de: 'so lala, es geht (zurückhaltende Antwort auf Τι κάνεις;)'
+    notes: 'Feste Wendung. Das κι ist eine vor Vokal verkürzte Form von και („und"); hier als Teil des Blocks gelernt, nicht zerlegt.'
+    inflected_forms:
+      - κι
+
+  - lemma: μια χαρά
+    pos: phrase
+    gloss_de: 'bestens, prima (häufige Antwort auf Τι κάνεις;; wörtlich „eine Freude")'
+    notes: 'Rezeptiv. Eine der häufigsten echten Antworten auf Τι κάνεις;; hier nur zum Wiedererkennen, nicht zur aktiven Produktion. In Landeskunde eingeführt.'
+
+  - lemma: λοιπόν
+    pos: particle
+    gloss_de: 'also, na dann (Gesprächswort, leitet einen Abschluss oder eine Folgerung ein)'
+    notes: 'Im Dialog: Καλώς ήρθες, λοιπόν! = „Na dann, willkommen!". Vorerst rezeptiv als typisches Füllwort.'
+
+  - lemma: χαίρω πολύ
+    pos: phrase
+    gloss_de: 'sehr erfreut, freut mich (höfliche Formel beim ersten Kennenlernen)'
+    notes: 'Fester Block. χαίρω ist eine Verbform (sich freuen), die hier nicht als Verb eingeführt wird; πολύ kennst du schon aus Kapitel 2.'
+    inflected_forms:
+      - χαίρω
+
+  - lemma: καλώς ήρθες
+    pos: phrase
+    gloss_de: 'willkommen (an eine vertraute Person; wörtlich: gut bist du gekommen)'
+    notes: 'Du-Variante zu καλώς ήρθατε aus Kapitel 2. Hier zum ersten Mal aktiv im Dialog (Níkos und María heißen Lena willkommen).'
+
+  - lemma: η
+    pos: art
+    gender: f
+    gloss_de: 'die (bestimmter Artikel, weiblich); steht im Griechischen auch vor Namen: η Λένα'
+    notes: 'Nur rezeptiv. Dass vor Eigennamen ein Artikel steht (η Λένα = „die Lena"), ist normal und wird hier nur erkannt, nicht systematisch behandelt — das Artikelsystem kommt später.'
+
+grammar_introduced:
+  - id: praesens-omega-sg
+    label_de: 'Präsens regelmäßiger Verben auf -ω, Singular: -ω (ich), -εις (du), -ει (er/sie/es) — κάνω, μένω'
+
+grammar_recycled:
+  - anrede-su-sas
+  - hoeflichkeitsformeln
+
+vocab_recycled:
+  - καλημέρα
+  - γεια
+  - σου
+  - σας
+  - εσύ
+  - ευχαριστώ
+  - ναι
+  - πολύ
+  - ωραία
+  - καλώς ήρθατε
+  - κυρία
+
+exercises:
+  count: 7
+  types:
+    - form-recognition
+    - matching
+    - multiple-choice
+    - conjugation-gap-fill
+    - situation-choice
+    - dialogue-ordering
+    - free-production
