@@ -1,6 +1,12 @@
 % Gemeinsamer LaTeX-Header für alle Bücher (xelatex).
 % Schriften kommen aus book.yaml (mainfont); hier nur Feinschliff.
 
+% Checkbox-Zeichen (in Übungen) fehlen in vielen Brotschriften → LaTeX-Symbole
+\usepackage{amssymb}
+\usepackage{newunicodechar}
+\newunicodechar{☐}{\ensuremath{\square}}
+\newunicodechar{☒}{\ensuremath{\boxtimes}}
+
 % Etwas Luft in Tabellen (Vokabelboxen)
 \renewcommand{\arraystretch}{1.3}
 

@@ -1,0 +1,75 @@
+chapter: 1
+slug: kalimera-erste-begegnung
+status: draft-complete
+
+vocab_introduced:
+  - lemma: καλημέρα
+    pos: interj
+    gloss_de: "guten Morgen (Gruß vom Morgen bis zum frühen Nachmittag)"
+
+  - lemma: καλησπέρα
+    pos: interj
+    gloss_de: "guten Abend (Gruß ab dem späteren Nachmittag)"
+
+  - lemma: γεια
+    pos: interj
+    gloss_de: "hallo / tschüss (mit σου bzw. σας, je nach Anrede)"
+    notes: "Wird zusammengezogen gesprochen, fast einsilbig."
+
+  - lemma: αντίο
+    pos: interj
+    gloss_de: "tschüss, auf Wiedersehen"
+
+  - lemma: ευχαριστώ
+    pos: verb
+    gloss_de: "danke (wörtlich: ich danke)"
+
+  - lemma: ναι
+    pos: particle
+    gloss_de: "ja"
+
+  - lemma: σου
+    pos: pron
+    gloss_de: "dir / dich (Anrede an eine vertraute Person; in γεια σου)"
+
+  - lemma: σας
+    pos: pron
+    gloss_de: "Ihnen/euch (höfliche Anrede oder Mehrzahl; in γεια σας)"
+
+  - lemma: εσύ
+    pos: pron
+    gloss_de: 'du (betont; hier als Rückfrage „und du?")'
+
+  - lemma: κυρία
+    pos: noun
+    gender: f
+    gloss_de: "Frau, Dame (höfliche Anrede, auch mit Vornamen)"
+
+  - lemma: κύριος
+    pos: noun
+    gender: m
+    gloss_de: "Herr (höfliche Anrede für Männer); Anredeform κύριε"
+    notes: "nur rezeptiv (Landeskunde)"
+    inflected_forms:
+      - κύριε
+
+  - lemma: με λένε
+    pos: phrase
+    gloss_de: "ich heiße (wörtlich: man nennt mich); Name folgt"
+    notes: "Vorerst als fester Block gelernt. λένε ist eine Form von λέω (nennen/sagen), das hier noch nicht als Verb eingeführt wird."
+    inflected_forms:
+      - λένε
+
+grammar_introduced:
+  - id: anrede-su-sas
+    label_de: "Anrede: γεια σου (du) vs. γεια σας (Sie/ihr) — Höflichkeit"
+
+exercises:
+  count: 6
+  types:
+    - matching
+    - multiple-choice
+    - gap-fill
+    - situation-choice
+    - dialogue-ordering
+    - free-production
