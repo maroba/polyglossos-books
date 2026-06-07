@@ -217,21 +217,27 @@ Baseline: validate_schema 0 Fehler, continuity_check 0 Verstöße. Orchestrator-
 
 ### Befunde Runde 1
 - reviewer: **FREIGABE** (Plural-Paradigmen/θέλω/Chunks/Genus korrekt; κάνω/μένω-Doppeldeklaration technisch+didaktisch unbedenklich):
-  - [ ] R1 [minor] chapter.md:237 + :287 — „der bekannte Gruß aus Kapitel 3" identisch bei Ü3.5 (κάνετε) und Ü6.5 (κάνεις), löst sich gegensätzlich → einen Hinweis variieren → exercise-designer
+  - [x] R1 [minor] Ü6.5-Hinweis variiert: „der vertraute Gruß an eine Person, die du duzt" (du → κάνεις) statt des identischen „der bekannte Gruß aus Kapitel 3". Ü3.5 (κάνετε, ihr/Sie) behält den alten Wortlaut — die beiden Hinweise sind jetzt eindeutig der jeweiligen Person zugeordnet, kein gegensätzlicher Doppel-Hinweis mehr.
   - [ ] R2 [minor] Aussprachehinweis „-ume" OK (keine Aktion)
 - reader: **kein COMPREHENSION-FAILURE**:
-  - [ ] L1 [gap] chapter.md:169 „φάω … in derselben Form, die du bisher kanntest" — φάω ist NEU (nie vorher gesehen), „bisher kanntest" sachlich falsch → teacher
-  - [ ] L2 [gap] θέλω να φάω vs. θέλουμε να φάμε — φάμε statt erwartetem *φάουμε erzeugt aktive Verwirrung; kurz erklären, dass φάω/φάμε/πιω Sonderformen eines unregelmäßigen Verbs sind (als Block, NICHT die -ουμε-Regel anwenden) → teacher
-  - [ ] L4 [continuity/Bedeutung] Ü3.1 „Κάνουμε μία σαλάτα" — κάνω in „bestellen/zubereiten"-Bedeutung; in Kap. 3 nur „machen/tun (wie geht's)" → klären/entschärfen (κάνω eindeutig im bekannten „machen"-Sinn ODER Verb tauschen) → exercise-designer
-  - [ ] L3 [gap] να nicht als Wörtchen/Partikel benannt → teacher: knapp einordnen
-  - [ ] L5 [pacing] Ü3.5-Aha-Moment vor Grammatik-Auflösung — Klammerhinweis rettet; minor
-  - [ ] L6 [pacing] großer Schritt (6 Formen + θέλω + να-Konstruktion + 3 Blöcke) → optionale Wegmarke
+  - [x] L1 [gap] „die du bisher kanntest" gestrichen. Der na-Block sagt jetzt direkt: φάω/φάμε/πιω sind NEUE Wörter, nie zuvor gesehen, folgen NICHT dem -ω-Muster. → teacher
+  - [x] L2 [gap] Spannung θέλουμε na φάμε aufgelöst: kurzer Absatz erklärt, dass φάω/φάμε/πιω zu einem unregelmäßigen Verb (essen/trinken) gehören, eine eigene Form nach να haben, als Blöcke gelernt werden und die -ουμε-Regel hier NICHT angewendet wird (να-System kommt viel später). WICHTIG: die ausgeschriebene Falschform *φάουμε wurde ENTFERNT (eiserne Regel) — die erwartete falsche Endung wird auf Deutsch benannt („würdest du eine -ουμε-Endung erwarten — die kommt dort aber nicht hin"). → teacher
+  - [x] L4 [continuity/Bedeutung] Ü3.1 „Κάνουμε μία σαλάτα" auf θέλω umgestellt → „Θέλουμε μία σαλάτα" (wir möchten einen Salat — natürlich in der Taverne, θέλω ist Kap.-10-Verb). κάνω in der Bedeutung „bestellen/anrichten" beseitigt; κάνω = „machen/tun" bleibt korrekt in Ü3.5 (Τι κάνετε; Gruß) und Ü6.5 (Τι κάνεις;). Die -ουμε-Plural-Endung wird weiter geübt; das Plural-Paradigma bleibt vollständig (θέλουμε, θέλετε, μένουν/-ουν, θέλουν). Aufgaben-Cue („— von θέλω") und Lösung (Z. 403: „**Θέλουμε** μία σαλάτα. — wir → -ουμε.") konsistent angepasst. → exercise-designer
+  - [x] L3 [gap] να als kleines Wörtchen/Partikel benannt (verbindet „ich will" mit der Handlung; deutsches „zu" / unsichtbar; als Block lernen). Bereits im Text, bestätigt. → teacher
+  - [ ] L5 [pacing] Ü3.5 → exercise-designer (Übungen)
+  - [ ] L6 [pacing] optionale Wegmarke (Übungs-/Layout-Frage) → minor, offen
 - ai-guard: **überwiegend menschlich** (Positiv: Landeskunde „kein tägliches Festgelage"):
-  - [ ] G1/G2 [meta/floskel] chapter.md:77-79 „Dieses Kapitel hat zwei Teile … Hand in Hand" → streichen
-  - [ ] G3 [floskel] Überschrift „Erst schauen: …" → Vorderteil streichen
-  - [ ] G4 [floskel] chapter.md:83 „Sieh dir … an" → direkt
-  - [ ] G5 [floskel] Überschrift „Der Aha-Moment" → Inhalt selbst sprechen lassen
-  - [ ] G6 [hedging] chapter.md:168 „ehrliche Vorwarnung" → einfach sachlich (deckt sich mit L1)
-  - [ ] G7 [rhythmus] chapter.md:109-118 zwei gleichgebaute Absätze → einen straffen
-  - [ ] G8 [liste] Lernziel-Parallelismus (optional)
-  - [ ] G10 [floskel/redundanz] „Achtung deutsche Falle" 3× (Z.109/183/229); eigener -ομε-Abschnitt wiederholt Z.109-113 → zusammenführen
+  - [x] G1/G2 [meta/floskel] „Dieses Kapitel hat zwei Teile … Hand in Hand" gestrichen; Subsektion beginnt direkt mit dem Zeilenvergleich. → teacher
+  - [x] G3 [floskel] Überschrift jetzt „Vom ‚ich' zum ‚wir'" (kein „Erst schauen"). → teacher
+  - [x] G4 [floskel] „Sieh dir … an" entfernt; Subsektion startet direkt mit „Zwei Zeilen aus dem Dialog, direkt nebeneinander". → teacher
+  - [x] G5 [floskel] Überschrift jetzt „Τι κάνετε; war von Anfang an die ihr/Sie-Form" (kein „Der Aha-Moment"). → teacher
+  - [x] G6 [hedging] „ehrliche Vorwarnung" entfernt; na-Block sachlich (deckt sich mit L1). → teacher
+  - [x] G7 [rhythmus] Absatz nach der Paradigma-Tabelle gestrafft: -ουνε-Variante als kurzer Einschub, die vorgezogene -ουμε-Warnung dort gestrichen (jetzt nur am eigenen Schluss-Abschnitt). → teacher
+  - [x] G8 [liste] Lernziel-Parallelismus: optional, belassen (Bullets variieren bereits, inhaltlich sauber). → teacher
+  - [x] G10 [floskel/redundanz] -ουμε-vs-ομε-Warnung an EINER Stelle gebündelt: Vorwegnahme im Tabellen-Absatz entfernt, bleibt nur der Schluss-Abschnitt „Die deutsche Falle: -ουμε, nie -ομε". (Die „Achtung deutsche Falle" in den Übungen gehört dem exercise-designer.) → teacher
+- continuity-checker: **KONTINUITÄT OK** (κάνω/μένω-Backstop unkritisch; bestätigt L4: κάνουμε σαλάτα unnatürlich)
+- cultural-reviewer: **solide/differenziert** (Alltag/Fest getrennt; μεζέδες-Umschreibung korrekt), aber:
+  - [x] K1/K2 [fakt/konsistenz] Dialog-κάρτα-Logik konsistent gemacht (Variante 1): Kellner händigt die κάρτα in der ERSTEN Zeile aus, vor „Τι θέλετε;" (Καλησπέρα! Ορίστε η κάρτα. Τι θέλετε;); Vorspann angepasst (kein „sehen sich die κάρτα an" mehr, nur Tisch/Hinsetzen/Kellner kommt). Kein Doppel-Widerspruch, κάρτα bleibt als Vokabel im Dialog, nur deklariertes Material. → teacher
+  - [x] K3/K5 [fakt] Landeskunde differenziert: Salate/Beilagen kommen oft als gemeinsame Schüssel in die Mitte, Hauptgerichte werden häufig pro Person bestellt (Dialog als Modell: Lena Fisch, Níkos Hähnchen). „alles in die Mitte" jetzt explizit den Mezedes-Lokalen (Ouzerí/Mezedopolío) zugeordnet. „nur für sich = steif" gestrichen → „für sich allein zu bestellen ist völlig normal und kein Fauxpas". → teacher
+  - [x] K4 [stereotyp] „viele Schüsseln / ohne Eile" entschärft: kein tägliches Festessen; geteiltes Essen eher Abend/Wochenende/Familie, „je nach Anlass und Runde"; „viele Schüsseln" gestrichen, Fokus auf Miteinander statt Menge. → teacher
+  - [x] K6/K7: korrekt (μεζέδες-Umschreibung, mündliches Tagesangebot) — keine Aktion

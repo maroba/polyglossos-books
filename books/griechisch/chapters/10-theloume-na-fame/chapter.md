@@ -35,9 +35,9 @@ Lies den Dialog erst im Ganzen. Alle neuen Wörter findest du gleich darunter in
 der Wortschatz-Box.
 
 Abend in der **ταβέρνα** am Platz. Lena, Níkos und María haben einen Tisch
-draußen und sehen sich die **κάρτα** an. Der Kellner kommt.
+draußen und setzen sich. Der Kellner kommt.
 
-**Σερβιτόρος:** Καλησπέρα! Τι θέλετε;
+**Σερβιτόρος:** Καλησπέρα! Ορίστε η κάρτα. Τι θέλετε;
 
 **Νίκος:** Καλησπέρα. Θέλουμε να φάμε. Τι είναι φρέσκο εδώ;
 
@@ -60,7 +60,6 @@ draußen und sehen sich die **κάρτα** an. Der Kellner kommt.
 **Μαρία:** Εγώ θέλω να πιω κρασί. Ναι, κρασί!
 
 **Σερβιτόρος:** Ωραία. Ψάρι, κοτόπουλο, σαλάτα, ψωμί. Νερό, μπίρα και κρασί.
-Ορίστε η κάρτα.
 
 Drei Leute, ein Tisch, ein paar Sätze — und das Essen ist bestellt. Achte
 darauf, wie oft das **wir** auftaucht: **θέλουμε** kommt gleich mehrfach, denn
@@ -74,13 +73,9 @@ am Tisch entscheidet man gemeinsam.
 
 ## Grammatik: die Mehrzahl der Verben und der Wunsch mit να
 
-Dieses Kapitel hat zwei Teile, die im Dialog Hand in Hand gehen. Erst
-vervollständigst du das Verb-Muster aus Kapitel 3 — die Mehrzahl. Dann lernst
-du, wie man einen Wunsch ausdrückt: **θέλω να** + Verb.
+### Vom „ich" zum „wir"
 
-### Erst schauen: vom „ich" zum „wir"
-
-Sieh dir diese beiden Zeilen aus dem Dialog nebeneinander an:
+Zwei Zeilen aus dem Dialog, direkt nebeneinander:
 
 > Lena über sich: **Θέλω να φάω ψάρι.** — *Ich möchte Fisch essen.*
 > Lena und María zusammen: **Θέλουμε φρέσκο ψάρι.** — *Wir möchten frischen Fisch.*
@@ -106,18 +101,11 @@ sagt **-ουμε** *wir*, **-ετε** *ihr* oder höflich *Sie*, und **-ουν**
 | ihr / Sie | -ετε | κάν**ετε** | μέν**ετε** |
 | sie | -ουν | κάν**ουν** | μέν**ουν** |
 
-Die wir-Form schreibt man **-ουμε**, gesprochen *-ume*. Eine deutsche Falle
-lauert hier: Auf Deutsch hört man im Wort „machen" oder „wir" kein *u*, und der
-Reflex ist, ein knapperes Ende zu sprechen. Im Griechischen gehört der volle
-*u*-Laut dazu — sprich die Endung **-ουμε** ruhig ein bisschen breit aus:
-**θέλ-ου-με**.
+Die sie-Form **-ουν** hörst du im Alltag oft auch mit angehängtem **-ε**
+(**μένουνε**, **κάνουνε**) — dieselbe Form, nur etwas weicher gesprochen, beides
+richtig; im Buch schreiben wir durchgängig **-ουν**.
 
-Die sie-Form **-ουν** hörst du im Alltag oft auch mit einem angehängten **-ε**:
-**μένουνε**, **κάνουνε**. Das ist dieselbe Form, nur etwas weicher gesprochen;
-beides ist richtig. Im Buch schreiben wir durchgängig die kürzere Form
-**-ουν**.
-
-### Der Aha-Moment: Τι κάνετε; war schon die ihr/Sie-Form
+### Τι κάνετε; war von Anfang an die ihr/Sie-Form
 
 Erinnerst du dich an **Τι κάνετε;** aus Kapitel 3? Das hast du damals als festen
 Höflichkeits-Block gelernt — als das „Wie geht es Ihnen?", das du nur
@@ -160,34 +148,44 @@ ein kleines **να**:
 > **Θέλω να πιω.** — *Ich möchte trinken.*
 > **Θέλουμε να φάμε.** — *Wir möchten essen.*
 
-Das **να** ist das Scharnier zwischen „ich will" und der Handlung, die ich will.
-Im Deutschen steckt diese Verbindung im „zu" („etwas **zu** essen") oder ist
-ganz unsichtbar („ich möchte essen"). Im Griechischen steht dafür immer das
-**να**.
+**να** ist ein kleines Wörtchen, eine Partikel, die „ich will" mit der Handlung
+verbindet, die ich will. Im Deutschen steckt diese Verbindung im „zu" („etwas
+**zu** essen") oder ist ganz unsichtbar („ich möchte essen"). Im Griechischen
+steht dafür immer das **να** — lern es am besten gleich mit als Teil der ganzen
+Wendung.
 
-Und jetzt die ehrliche Vorwarnung: Das Wort hinter **να** ist nicht einfach
-**φάω = essen** in derselben Form, die du bisher kanntest. **φάω**, **φάμε**,
-**πιω** sind eine eigene Verbform, die nach **να** verlangt wird — eine Form, die
-du erst viel später systematisch lernst. Bis dahin merkst du dir die folgenden
-Blöcke einfach als Ganzes, so wie du **Τι κάνετε;** lange als Block hattest:
+Bleibt die Frage, was eigentlich hinter dem **να** steht. **φάω**, **φάμε** und
+**πιω** sind neue Wörter — du hast sie nie zuvor gesehen, und sie folgen nicht
+dem **-ω**-Muster, das du gerade gelernt hast. Sie gehören zu einem
+unregelmäßigen Verb (essen bzw. trinken) und haben eine eigene Form, die nur
+nach **να** auftritt. Du lernst sie hier als feste Blöcke — genau so, wie du
+**Τι κάνετε;** lange als Block im Ohr hattest, bevor wir es erklärt haben:
 
 > **θέλω να φάω** — ich möchte essen
 > **θέλουμε να φάμε** — wir möchten essen
 > **θέλω να πιω** — ich möchte trinken
 
-Bau diese Wendungen nicht selbst aus Einzelteilen zusammen und versuch nicht,
-**φάω** in andere Personen zu setzen — lern die drei Blöcke als feste
-Bausteine. Damit kommst du am Esstisch sicher durch: für dich allein **θέλω να
-φάω**, für die Runde **θέλουμε να φάμε**, und fürs Trinken **θέλω να πιω**.
+Ein Punkt, der gern stolpern lässt: Die wir-Form heißt **θέλουμε να φάμε**. Nach
+der frisch gelernten **-ουμε**-Regel würdest du an der zweiten Stelle vielleicht
+eine **-ουμε**-Endung erwarten — die kommt dort aber nicht hin. Die
+**-ουμε**-Regel gilt für **θέλω** (deshalb **θέλουμε**), aber **nicht** für die
+Form hinter **να**. Dort steht im Plural einfach **φάμε**, ohne
+**-ουμε**. Wende die Plural-Endung auf die Form hinter **να** also gar nicht
+erst an — das **να**-System hat seine eigenen Regeln, die viel
+später kommen. Bis dahin nimmst du die ganzen Blöcke, wie sie sind: für dich
+allein **θέλω να φάω**, für die Runde **θέλουμε να φάμε**, fürs Trinken **θέλω να
+πιω**. Bau sie nicht aus Teilen zusammen und setz **φάω** nicht in andere
+Personen.
 
-### Achtung, deutsche Falle: nicht auf -ομε
+### Die deutsche Falle: -ουμε, nie -ομε
 
-Die wir-Endung ist **-ουμε**. Wer vom Deutschen oder vom Schriftbild herkommt,
-ist versucht, sie kürzer zu schreiben — also auf **-ομε** statt auf **-ουμε**.
-Das ist falsch: Die richtige Endung trägt immer den vollen *u*-Laut, also
-**-ουμε**, wie in **θέλουμε**, **κάνουμε**, **μένουμε**. Wenn du beim Schreiben
-kurz stockst, denk an das gesprochene *-ume*, dann landest du automatisch bei
-**-ουμε**.
+Zum Schluss noch einmal zurück zur wir-Endung, denn hier verschreibt man sich
+leicht. Sie heißt **-ουμε**, gesprochen mit vollem *u*-Laut (*-ume*). Auf
+Deutsch hört man in „machen" oder „wir" kein solches *u*, und der Reflex ist,
+es kürzer zu schreiben — also **-ομε** statt **-ουμε**. Das ist falsch. Richtig
+ist immer das volle **-ουμε**, wie in **θέλουμε**, **κάνουμε**, **μένουμε**.
+Wenn du beim Schreiben kurz stockst, denk an das gesprochene *-ume*, dann
+landest du von selbst bei **-ουμε**.
 
 <!-- @section: uebungen -->
 
@@ -230,7 +228,7 @@ die deutsche Falle: Die wir-Endung schreibt man **-ουμε**, nie auf **-ομε
 
 > **Beispiel:** ______ νερό. *(wir — von θέλω)* → **Θέλουμε** νερό. *(wir → -ουμε)*
 
-1. ______ μία σαλάτα. *(wir — von κάνω)*
+1. ______ μία σαλάτα. *(wir — von θέλω)*
 2. Τι ______; *(ihr / Sie — von θέλω; der Kellner fragt am Tisch)*
 3. Η Λένα και η Μαρία ______ εδώ. *(sie, mehrere — von μένω)*
 4. ______ φρέσκο ψάρι. *(wir — von θέλω)*
@@ -284,7 +282,7 @@ Personalendung. Die deutsche Angabe sagt dir, wer gemeint ist.
    a) μένουν · b) μένουμε · c) μένει
 4. Εγώ ______ να πιω μία μπίρα. *(ich)*
    a) θέλουμε · b) θέλω · c) θέλουν
-5. Τι ______; — *der bekannte Gruß aus Kapitel 3* *(du)*
+5. Τι ______; — *der vertraute Gruß an eine Person, die du duzt* *(du)*
    a) κάνεις · b) κάνουμε · c) κάνετε
 6. ______ να φάμε κοτόπουλο. *(wir)*
    a) θέλω · b) θέλουμε · c) θέλουν
@@ -346,27 +344,35 @@ einem deutschen Restaurant kennt. Dort bestellt typischerweise jeder seinen
 eigenen Teller: eine Vorspeise, ein Hauptgericht, fertig — und was auf dem
 Teller liegt, gehört dem, der ihn bestellt hat.
 
-In der **ταβέρνα** ist das häufig gerade umgekehrt. Statt drei abgegrenzter
-Einzelportionen ordert eine Runde eine ganze Reihe kleiner Gerichte und stellt
-sie in die **Mitte des Tisches**. Jeder nimmt sich von allem ein bisschen: ein
-Stück Fisch, etwas Salat, ein Löffel von dieser, eine Gabel von jener Schüssel.
-Diese kleinen Teilgerichte zum gemeinsamen Probieren haben einen eigenen Namen,
-den du später noch lernst; das Prinzip dahinter ist das, worauf es ankommt — man
-teilt, man reicht herum, man kostet quer über den Tisch.
+In der **ταβέρνα** wird vieles geteilt — aber nicht alles, und es lohnt sich,
+genau hinzusehen. Salate und Beilagen kommen oft als gemeinsame Schüssel in die
+Mitte des Tisches, von der sich jeder nimmt: ein Salat für die Runde, ein Teller
+Pommes, etwas Brot. Bei den Hauptgerichten dagegen bestellt häufig jeder sein
+eigenes — genau wie im Dialog, wo Lena Fisch nimmt und Níkos Hähnchen. Das eine
+schließt das andere nicht aus: Man teilt die Beilagen und hat trotzdem jeder
+seinen eigenen Hauptgang.
 
-Das hat Folgen für die Sprache. Deshalb fällt am Tisch so oft das **wir**:
-**θέλουμε να φάμε**, nicht „ich nehme dies, du nimmst das". Man entscheidet
-gemeinsam, was auf den Tisch kommt, und teilt es dann. Wer als Gast partout nur
-für sich allein bestellt, wirkt schnell ein wenig steif — nicht falsch, aber
-eben nicht ganz im Geist der Runde.
+Das durchgängige „alles in die Mitte", bei dem die ganze Runde aus denselben
+Schüsseln isst, gehört eher in eine andere Sorte Lokal — das Ouzerí oder
+Mezedopolío, wo man von vornherein viele kleine Gerichte zum gemeinsamen
+Probieren bestellt. Diese kleinen Teilgerichte haben einen eigenen Namen, den du
+später noch lernst.
 
-Damit kein falscher Eindruck entsteht: Das ist kein tägliches Festgelage. Unter
+Das hat Folgen für die Sprache. Beim gemeinsam Bestellten fällt am Tisch oft das
+**wir**: **θέλουμε να φάμε**, **θέλουμε μία σαλάτα**. Beim eigenen Hauptgang oder
+beim Getränk wechselt man dann ganz selbstverständlich zum **εγώ** — **εγώ θέλω
+να φάω ψάρι**, **εγώ θέλω να πιω κρασί** —, genau wie im Dialog. Für sich allein
+zu bestellen ist also völlig normal und kein Fauxpas; das **wir** kommt einfach
+dort dazu, wo man gemeinsam entscheidet.
+
+Damit kein falscher Eindruck entsteht: Das ist kein tägliches Festessen. Unter
 der Woche, mittags zwischen Arbeit und Erledigungen, isst man auch in
-Griechenland schnell und schlicht, oft jeder für sich. Das gemeinsame, geteilte
-Essen gehört eher zum Abend, zum Wochenende, zum Beisammensein mit Familie oder
-Freunden — dann aber mit Zeit, vielen Schüsseln in der Mitte und ohne Eile. Es
-geht weniger um die Menge als um das Miteinander: Der Tisch ist der Ort, an dem
-man zusammenkommt, und das Teilen ist der sichtbare Ausdruck davon.
+Griechenland schnell und schlicht, oft jeder für sich. Das ausgiebigere,
+geteilte Essen gehört eher zum Abend, zum Wochenende, zum Beisammensein mit
+Familie oder Freunden — und auch dann fällt es ganz unterschiedlich aus, je nach
+Anlass und Runde. Es geht weniger um die Menge als um das Miteinander: Der Tisch
+ist der Ort, an dem man zusammenkommt, und das Teilen ist der sichtbare Ausdruck
+davon.
 
 <!-- @section: loesungen -->
 
@@ -394,7 +400,7 @@ Die **-ετε**-Form trägt zwei Bedeutungen: *ihr* (mehrere) und höfliches *Si
 
 ### Übung 3
 
-1. **Κάνουμε** μία σαλάτα. — wir → -ουμε.
+1. **Θέλουμε** μία σαλάτα. — wir → -ουμε.
 2. Τι **θέλετε**; — ihr / Sie → -ετε.
 3. Η Λένα και η Μαρία **μένουν** εδώ. — zwei Personen → sie → -ουν.
 4. **Θέλουμε** φρέσκο ψάρι. — wir → -ουμε.
