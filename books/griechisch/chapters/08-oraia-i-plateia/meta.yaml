@@ -1,0 +1,114 @@
+chapter: 8
+slug: oraia-i-plateia
+status: entwurf
+
+vocab_introduced:
+  # ── Adjektive vom Typ -ος/-η/-ο (Grammatik-Neueinführung; Kern des Kapitels) ──
+  # Jedes Adjektiv mit seinen drei Nominativ-Singular-Formen als inflected_forms.
+  # ωραίος ist NICHT hier deklariert: das Adverb/der Ausruf ωραία ist seit Kap. 2
+  # bekannt; in diesem Kapitel wird ωραία als weibliche Adjektivform erkannt und
+  # das Adjektiv-Paradigma ωραίος/ωραία/ωραίο dazu eröffnet. ωραία steht daher in
+  # vocab_recycled (Kap. 2) mit Doppelrollen-Hinweis; ωραίος/ωραίο als neue
+  # inflected_forms hier mitgeführt.
+  - lemma: μεγάλος
+    pos: adj
+    gloss_de: 'groß (μεγάλος m / μεγάλη f / μεγάλο n)'
+    notes: 'Adjektiv vom Typ -ος/-η/-ο. Kernbeispiel des Kapitels: ο μεγάλος δρόμος, η μεγάλη πλατεία, το μεγάλο σπίτι. Endung richtet sich nach dem Genus des Nomens (= nach dem Artikel ο/η/το). Nur Nominativ Singular.'
+    inflected_forms:
+      - μεγάλη
+      - μεγάλο
+
+  - lemma: μικρός
+    pos: adj
+    gloss_de: 'klein (μικρός m / μικρή f / μικρό n)'
+    notes: 'Adjektiv -ος/-η/-ο. Gegenstück zu μεγάλος, oft als Paar gelernt. Hinter είναι volle Form mit Endung: ο δρόμος είναι μικρός (deutsche Falle: nicht endungslos *μικρ-).'
+    inflected_forms:
+      - μικρή
+      - μικρό
+
+  - lemma: καλός
+    pos: adj
+    gloss_de: 'gut (καλός m / καλή f / καλό n)'
+    notes: 'Adjektiv -ος/-η/-ο. Vom bekannten Adverb καλά (gut, Kap. 3) zu unterscheiden: καλά antwortet auf Τι κάνεις;, καλός/καλή/καλό beschreibt ein Nomen (καλό μαγαζί). Im Dialog: Καλό μαγαζί.'
+    inflected_forms:
+      - καλή
+      - καλό
+
+  - lemma: παλιός
+    pos: adj
+    gloss_de: 'alt (von Dingen/Orten); παλιός m / παλιά f / παλιό n'
+    notes: 'Adjektiv -ος/-η/-ο. Im Dialog: το μαγαζί … παλιό; η εκκλησία είναι παλιά. Gegenstück zu καινούριος.'
+    inflected_forms:
+      - παλιά
+      - παλιό
+
+  - lemma: καινούριος
+    pos: adj
+    gloss_de: 'neu (καινούριος m / καινούρια f / καινούριο n)'
+    notes: 'Adjektiv -ος/-η/-ο. Gegenstück zu παλιός. Auch καινούργιος geschrieben; im Buch durchgängig καινούριος. Im Dialog: Είναι καινούριο;'
+    inflected_forms:
+      - καινούρια
+      - καινούριο
+
+  - lemma: ήσυχος
+    pos: adj
+    gloss_de: 'ruhig, still (ήσυχος m / ήσυχη f / ήσυχο n)'
+    notes: 'Adjektiv -ος/-η/-ο. Auf der drittletzten Silbe betont (ΗΣΥ-χος); der Akzent bleibt in allen drei Formen an derselben Stelle. Im Dialog beschreibt es die πλατεία (ήσυχη) und die γάτα (ήσυχη); in der Landeskunde ήσυχος δρόμος.'
+    inflected_forms:
+      - ήσυχη
+      - ήσυχο
+
+  # ── Adjektiv-Paradigma zu bekanntem ωραία (recycelt, Paradigma hier eröffnet) ──
+  - lemma: ωραίος
+    pos: adj
+    gloss_de: 'schön (ωραίος m / ωραία f / ωραίο n)'
+    notes: 'Die Form ωραία ist seit Kap. 2 als Ausruf/Adverb bekannt — hier als weibliche Adjektivform erkannt (Ωραία η πλατεία! = der weibliche Platz). Neu sind die Formen ωραίος (m) und ωραίο (n). Aha-Moment des Kapitels. Nur Nominativ Singular.'
+    inflected_forms:
+      - ωραία
+      - ωραίο
+
+  # ── Nomen zur Beschreibung (Themen: Stadtviertel, Beschreibung) ──
+  - lemma: γάτα
+    pos: noun
+    gender: f
+    gloss_de: 'Katze'
+    notes: 'Endung -α → weiblich: η γάτα. Im Dialog mit Adjektiven beschrieben (μικρή, ήσυχη) — neues Beschreibungsobjekt neben den schon bekannten Orten.'
+
+grammar_introduced:
+  - id: adjektiv-kongruenz-nom-sg
+    label_de: 'Adjektiv-Kongruenz im Nominativ Singular (-ος männlich / -η weiblich / -ο sächlich); Adjektiv richtet sich nach dem Genus des Nomens, parallel zum Artikel ο/η/το. Attributiv (ο μεγάλος δρόμος) und prädikativ mit είναι (ο δρόμος είναι μεγάλος); Bewertung mit πολύ + Adjektiv. Nur Typ -ος/-η/-ο, nur Nominativ Singular, kein Plural, kein anderer Kasus.'
+
+grammar_recycled:
+  - artikel-genus-nom-sg
+  - possessiv-klitikon
+
+vocab_recycled:
+  - ωραία        # Kap. 2 — jetzt als weibliche Form von ωραίος erkannt (Doppelrolle Ausruf/Adjektiv)
+  - πολύ         # Kap. 2 — πολύ + Adjektiv (Bewertung): πολύ ωραίο, πολύ παλιό
+  - και          # Kap. 2
+  - ναι          # Kap. 1
+  - όχι          # Kap. 2
+  - ο            # Kap. 4 — Artikel-Genus als Anker für die Adjektiv-Endung
+  - η            # Kap. 3/4
+  - το           # Kap. 4
+  - πλατεία      # Kap. 4 — Kernbeispiel η (μεγάλη/ωραία) πλατεία
+  - δρόμος       # Kap. 4 — ο (μεγάλος/μικρός) δρόμος
+  - μαγαζί       # Kap. 4 — το (καινούριο/παλιό/καλό) μαγαζί
+  - εκκλησία     # Kap. 4 — η εκκλησία είναι παλιά
+  - σπίτι        # Kap. 4 — το (μεγάλο/παλιό) σπίτι
+  - γειτονιά     # Kap. 4 — Ωραία γειτονιά
+  - εκεί         # Kap. 4
+  - μου          # Kap. 7 — η γάτα μου (possessiv-klitikon, recycelt)
+  - είμαι        # Kap. 6 — είναι trägt die prädikative Stellung (ο δρόμος είναι μεγάλος)
+
+exercises:
+  count: 8
+  types:
+    - ending-genus-matching
+    - form-table-completion
+    - adjective-agreement-gapfill
+    - contrast-multiple-choice
+    - predicative-gapfill
+    - evaluation-poli-adjective
+    - dialogue-gapfill
+    - free-production

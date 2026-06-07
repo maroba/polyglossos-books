@@ -1,0 +1,463 @@
+# Ωραία η πλατεία! — Lena beschreibt das Viertel
+
+<!-- @section: lernziele -->
+
+## Lernziele
+
+Schon auf dem allerersten Rundgang mit María, in Kapitel 4, ist Lena ein Wort
+herausgerutscht: **Ωραία η πλατεία!** Sie hat es benutzt, ohne nachzudenken —
+schön, der Platz! Damals war **ωραία** für dich einfach ein Ausruf, ein Wort,
+das man sagt, wenn einem etwas gefällt. Jetzt kommst du dahinter, warum dort
+gerade **ωραία** steht und nicht etwa **ωραίο** oder **ωραίος**. Denn dieses
+eine Wort hat drei Gestalten, und welche davon du brauchst, hängt am Genus des
+Dings, das du beschreibst.
+
+Bisher hast du Dinge nur benannt — **η πλατεία**, **το σπίτι**, **ο δρόμος**.
+In diesem Kapitel sagst du auch, *wie* sie sind: groß oder klein, alt oder neu,
+schön oder ruhig. Lena setzt sich abends auf die Bank am Platz, schaut sich um
+und beschreibt María, was sie sieht.
+
+Wenn du dieses Kapitel durch hast, kannst du
+
+- Dinge und Orte mit einem Adjektiv beschreiben — **ο μεγάλος δρόμος**, **η
+  μικρή πλατεία**, **το παλιό σπίτι**,
+- das Adjektiv ans Genus des Nomens anpassen, also zwischen den drei Formen auf
+  **-ος**, **-η** und **-ο** wählen,
+- eine kurze Bewertung abgeben, wie María sie liebt: **πολύ ωραίο!**
+
+<!-- @section: dialog lang=el -->
+
+## Dialog — Lena beschreibt den Platz
+
+Lies den Dialog erst im Ganzen. Alle neuen Wörter findest du gleich darunter in
+der Wortschatz-Box.
+
+Früher Abend. Lena und María sitzen auf einer Bank an der Platía. Es ist ruhig,
+ein paar Kinder spielen, eine Katze schläft unter einem Baum.
+
+**Λένα:** Ωραία η πλατεία, Μαρία!
+
+**Μαρία:** Ναι, πολύ ωραία. Και ήσυχη.
+
+**Λένα:** Εκεί ο δρόμος. Είναι μεγάλος;
+
+**Μαρία:** Όχι, μικρός. Ο μεγάλος δρόμος είναι εκεί.
+
+**Λένα:** Και το μαγαζί; Είναι καινούριο;
+
+**Μαρία:** Όχι, παλιό. Πολύ παλιό! Καλό μαγαζί.
+
+**Λένα:** Και η εκκλησία;
+
+**Μαρία:** Η εκκλησία είναι παλιά. Πολύ ωραία εκκλησία.
+
+Eine Katze streckt sich und kommt langsam näher.
+
+**Λένα:** Ωραία η γάτα!
+
+**Μαρία:** Ναι. Η γάτα μου! Είναι μικρή και ήσυχη.
+
+**Λένα:** Ωραία γειτονιά, Μαρία. Πολύ ωραία.
+
+Mehr braucht eine Beschreibung am Anfang nicht: ein Nomen, ein Adjektiv und das
+kleine **πολύ**, wenn es dir besonders gut gefällt.
+
+<!-- @section: vokabeln -->
+
+## Wortschatz
+
+<!-- @section: grammatik -->
+
+## Grammatik: ο μεγάλος δρόμος — das Adjektiv passt sich an
+
+Ein Adjektiv ist ein Beschreibungswort: *groß, klein, alt, schön*. Im Deutschen
+verändert sich so ein Wort je nach Nomen ein bisschen — *der groß**e** Platz*,
+*ein groß**er** Tag*. Das Griechische macht etwas Ähnliches, aber nach einer
+klaren, gut greifbaren Regel: Das Adjektiv richtet sich nach dem **Genus** des
+Nomens, das es beschreibt.
+
+### Erst schauen: dasselbe Wort, drei Endungen
+
+Sieh dir an, wie **groß** im Dialog und in den Beispielen auftritt:
+
+> **ο μεγάλος δρόμος** — die große Straße *(ο δρόμος ist männlich)*
+> **η μεγάλη πλατεία** — der große Platz *(η πλατεία ist weiblich)*
+> **το μεγάλο σπίτι** — das große Haus *(το σπίτι ist sächlich)*
+
+Dreimal steht da dasselbe Beschreibungswort, und dreimal sieht das Ende ein
+wenig anders aus: **μεγάλος**, **μεγάλη**, **μεγάλο**. Das ist kein Zufall und
+keine Laune. Die Endung des Adjektivs greift das Genus des Nomens auf — und der
+Artikel davor tut ohnehin schon dasselbe. So zeigen Artikel **und** Adjektiv
+gemeinsam an, welches Genus das Nomen hat.
+
+### Das Muster
+
+| Genus | Artikel | Adjektiv | Nomen |
+| --- | --- | --- | --- |
+| männlich | **ο** | μεγάλ**ος** | δρόμος |
+| weiblich | **η** | μεγάλ**η** | πλατεία |
+| sächlich | **το** | μεγάλ**ο** | σπίτι |
+
+Die drei Endungen folgen demselben Muster, das du schon vom Artikel kennst:
+männlich endet auf **-ος**, weiblich auf **-η**, sächlich auf **-ο**. Wer den
+Artikel **ο/η/το** sicher wählt, hat die halbe Arbeit getan — denn das Adjektiv
+folgt genau derselben Genus-Entscheidung. Hör beim Lesen auf das Auge, nicht
+aufs Ohr: Die weibliche Endung **-η** und das sächliche **-ο** klingen für ein
+deutsches Ohr ähnlich kurz, aber im Schriftbild sind sie klar verschieden, und
+nur das Schriftbild zählt.
+
+### Der alte Bekannte: ωραίος
+
+Jetzt klärt sich das Rätsel aus den Lernzielen. **ωραία** war für dich seit
+Kapitel 2 ein fester Ausruf — *schön!*, *prima!* In Wahrheit ist es die
+**weibliche** Form des Adjektivs **ωραίος**. In **Ωραία η πλατεία!** beschreibt
+es **η πλατεία**, und weil der Platz weiblich ist, heißt es **ωραία**. Stünde da
+ein männliches Nomen, müsste es **ωραίος** heißen, bei einem sächlichen
+**ωραίο**:
+
+> **ο δρόμος** ist schön → **ωραίος** ο δρόμος
+> **η πλατεία** ist schön → **ωραία** η πλατεία
+> **το σπίτι** ist schön → **ωραίο** το σπίτι
+
+Dasselbe Wort, dieselbe drei Endungen wie bei μεγάλος. Du hast also schon die
+ganze Zeit eine Adjektivform benutzt, ohne es zu wissen.
+
+### Zwei Plätze für das Adjektiv
+
+Das Adjektiv kann an zwei Stellen stehen, und beide hast du im Dialog gesehen.
+
+Es kann **vor** dem Nomen stehen, zwischen Artikel und Nomen, so wie im
+Deutschen: **ο μεγάλος δρόμος**, **το παλιό σπίτι**. Das nennt man die
+attributive Stellung — das Adjektiv klebt direkt am Nomen.
+
+Oder es steht **hinter** dem Verb **είναι** (sein), das du aus Kapitel 6 kennst.
+Dann sagst du nicht *was* etwas ist, sondern *wie* es ist: **ο δρόμος είναι
+μεγάλος** — die Straße ist groß. **Η εκκλησία είναι παλιά** — die Kirche ist
+alt. Auch hier richtet sich das Adjektiv nach dem Genus des Nomens, an dem nichts
+anderes hängt.
+
+Marías knappes **Ωραία η πλατεία!** ist im Grunde dieselbe Sache, nur ohne
+**είναι**: *Schön (ist) der Platz!* Im gesprochenen Griechisch lässt man das
+*ist* in solchen Ausrufen gern weg. Gemeint und gebaut ist es wie **η πλατεία
+είναι ωραία**.
+
+### Vorsicht, deutsche Falle: das Genus entscheidet, nicht die Bedeutung
+
+Hier lauert derselbe Fehler wie schon beim Artikel: nach dem deutschen Gefühl zu
+raten. **η πλατεία** ist weiblich, also **η μεγάλη πλατεία** — auch wenn der
+Platz auf Deutsch männlich ist. **ο δρόμος** ist männlich, also **ο μεγάλος
+δρόμος** — obwohl die Straße auf Deutsch weiblich ist. Das Adjektiv folgt dem
+griechischen Genus, nie der deutschen Übersetzung. Wer das Nomen mit seinem
+Artikel gelernt hat, wählt automatisch richtig: Der Artikel **η** zieht das
+Adjektiv auf **-η**, das **ο** zieht es auf **-ος**, das **το** auf **-ο**.
+
+Und noch eine Kleinigkeit, an der sich Deutschsprachige oft verschlucken: Wenn
+das Adjektiv hinter **είναι** steht, bleibt es trotzdem in der vollen Form mit
+Endung. Es heißt **ο δρόμος είναι μικρός**, nicht ein endungsloses *μικρ-*. Im
+Deutschen verkürzt sich das Adjektiv hinter *ist* zu *klein* — im Griechischen
+bleibt die Genus-Endung erhalten: **μικρός**, **μικρή**, **μικρό**.
+
+### Eine Bewertung dazu: πολύ
+
+Das kleine **πολύ** kennst du seit Kapitel 2 (πολύ καλά, ευχαριστώ πολύ). Vor
+ein Adjektiv gestellt verstärkt es genau wie das deutsche *sehr*: **πολύ
+μεγάλος** — sehr groß, **πολύ παλιό** — sehr alt, **πολύ ωραία** — sehr schön.
+**πολύ** selbst verändert sich nie, egal welches Genus das Adjektiv dahinter
+hat. So gibst du mit zwei Wörtern ein Urteil ab — **πολύ ωραίο!** —, und genau
+das tut María im Dialog am laufenden Band.
+
+> **Das Wichtigste für den Anfang:** Ein Adjektiv vom Typ μεγάλος hat drei
+> Gestalten — **-ος** für männliche, **-η** für weibliche, **-ο** für sächliche
+> Nomen. Welche du brauchst, sagt dir der Artikel, den du beim Nomen ohnehin
+> schon kennst. Und **ωραία** war von Anfang an eine davon.
+
+<!-- @section: uebungen -->
+
+## Übungen
+
+### Übung 1 — Welche Endung gehört wozu? (das Muster erkennen)
+
+Die Adjektive haben drei Endungen, genau wie der Artikel **ο / η / το**.
+Verbinde jede Endung mit dem Genus, zu dem sie gehört.
+
+| | | |
+| --- | --- | --- |
+| a) Endung **-ος** | | 1. weiblich (wie **η**) |
+| b) Endung **-η** | | 2. sächlich (wie **το**) |
+| c) Endung **-ο** | | 3. männlich (wie **ο**) |
+
+### Übung 2 — Ein Adjektiv, drei Gestalten (Formen zuordnen)
+
+Jedes Adjektiv hat eine männliche, eine weibliche und eine sächliche Form.
+Ordne die drei Formen jeweils dem richtigen Genus zu. Geh nach der Endung:
+**-ος** männlich, **-η** weiblich, **-ο** sächlich.
+
+> **Beispiel:** μεγάλος / μεγάλη / μεγάλο →
+> männlich **μεγάλος**, weiblich **μεγάλη**, sächlich **μεγάλο**
+
+| | männlich (-ος) | weiblich (-η) | sächlich (-ο) |
+| --- | --- | --- | --- |
+| a) klein | μικρός / μικρή / μικρό | | |
+| b) alt | παλιός / παλιά / παλιό | | |
+| c) ruhig | ήσυχος / ήσυχη / ήσυχο | | |
+| d) schön | ωραίος / ωραία / ωραίο | | |
+
+Trag in jede Zelle die passende Form ein.
+
+### Übung 3 — μεγάλος, μεγάλη oder μεγάλο? (Adjektiv ans Nomen anpassen)
+
+Setz das Adjektiv **groß** vor das Nomen. Der Artikel verrät dir das Genus
+und damit die Endung: **ο** zieht **-ος**, **η** zieht **-η**, **το** zieht
+**-ο**. Die Nomen kennst du aus Kapitel 4.
+
+> **Beispiel:** ο __________ δρόμος → ο **μεγάλος** δρόμος
+> *(ο → männlich → -ος)*
+
+1. η __________ πλατεία
+2. το __________ σπίτι
+3. ο __________ φούρνος
+4. η __________ εκκλησία
+5. το __________ μαγαζί
+6. η __________ αγορά
+
+### Übung 4 — Wie heißt es richtig? (Multiple Choice)
+
+Lena beschreibt, was sie auf dem Platz sieht. Welche Adjektivform passt zum
+Nomen? Kreuze die richtige an. Nur eine Form hat die Endung, die zum Genus
+des Nomens passt.
+
+> **Beispiel:** το __________ σπίτι
+> a) παλιός · b) παλιά · c) **παλιό** ✓ *(το → sächlich → -ο)*
+
+1. η __________ εκκλησία
+   a) παλιός · b) παλιά · c) παλιό
+2. ο __________ δρόμος
+   a) μικρός · b) μικρή · c) μικρό
+3. το __________ μαγαζί
+   a) καινούριος · b) καινούρια · c) καινούριο
+4. η __________ γάτα
+   a) ήσυχος · b) ήσυχη · c) ήσυχο
+5. ο __________ φούρνος
+   a) καλός · b) καλή · c) καλό
+6. η __________ γειτονιά
+   a) ωραίος · b) ωραία · c) ωραίο
+
+### Übung 5 — Hinter είναι bleibt die Endung (prädikativ)
+
+Jetzt sagst du nicht *welches*, sondern *wie* etwas ist — mit **είναι** aus
+Kapitel 6. Das Adjektiv steht hinter **είναι** und behält trotzdem seine
+Genus-Endung. Setz die richtige Form ein; das Adjektiv in Klammern steht in
+der männlichen Grundform.
+
+> **Beispiel:** Η πλατεία είναι __________ . *(μεγάλος)*
+> → Η πλατεία είναι **μεγάλη** . *(η πλατεία → weiblich → -η)*
+
+1. Ο δρόμος είναι __________ . *(μικρός)*
+2. Η εκκλησία είναι __________ . *(παλιός)*
+3. Το μαγαζί είναι __________ . *(καινούριος)*
+4. Η γάτα είναι __________ . *(ήσυχος)*
+5. Το σπίτι είναι __________ . *(μεγάλος)*
+6. Ο φούρνος είναι __________ . *(καλός)*
+
+### Übung 6 — πολύ + Adjektiv: eine Bewertung abgeben
+
+María lobt alles, was sie sieht, mit **πολύ** (*sehr*) — so wie im Dialog
+(**πολύ ωραία**, **πολύ παλιό**). **πολύ** selbst verändert sich nie; nur das
+Adjektiv dahinter passt sich ans Genus an. Schreib Marías Lob in der Form
+**πολύ + Adjektiv**.
+
+> **Beispiel:** Η πλατεία; → **Πολύ ωραία!** *(η πλατεία → weiblich → ωραία)*
+
+1. Η εκκλησία; → Πολύ __________ ! *(schön)*
+2. Το μαγαζί; → Πολύ __________ ! *(alt)*
+3. Ο δρόμος; → Πολύ __________ ! *(ruhig)*
+4. Η γάτα; → Πολύ __________ ! *(klein)*
+
+### Übung 7 — Lena beschreibt den Platz (Mini-Dialog)
+
+Lena und María sitzen wie im Kapitel auf der Bank. Setz in jede Lücke die
+passende Adjektivform. Achte jedes Mal auf den Artikel oder auf das Nomen
+hinter **είναι** — er sagt dir das Genus.
+
+> **Λένα:** Ωραία η πλατεία! Είναι πολύ __________ . *(ruhig)*
+>
+> **Μαρία:** Ναι. Και ο δρόμος εκεί είναι __________ . *(klein)*
+>
+> **Λένα:** Και το μαγαζί; Είναι __________ ; *(neu)*
+>
+> **Μαρία:** Όχι, είναι __________ . Πολύ __________ μαγαζί! *(alt / gut)*
+>
+> **Λένα:** Ωραία η γάτα! Είναι __________ . *(klein)*
+>
+> **Μαρία:** Ναι, η γάτα μου. Πολύ __________ γειτονιά! *(schön)*
+
+### Übung 8 — Dein Viertel, dein Zimmer (freie Produktion)
+
+Jetzt bist du dran. Setz dich wie Lena auf eine Bank und beschreib dein
+eigenes Viertel oder dein Zimmer — in drei oder vier kurzen Sätzen, so knapp
+wie María. Bau jeden Satz nach einem der beiden Muster:
+
+> **Artikel + Adjektiv + Nomen** — z. B. **ο μικρός δρόμος**
+> **Artikel + Nomen + είναι + Adjektiv** — z. B. **η πλατεία είναι μεγάλη**
+
+Und gib mindestens einmal ein Urteil mit **πολύ** ab, wie María: **πολύ
+ωραίο!**
+
+Such dir die Bausteine aus den Kästen. Denk dran: Der Artikel entscheidet die
+Endung — **ο → -ος**, **η → -η**, **το → -ο**.
+
+**Nomen (mit Artikel und Genus)**
+> η πλατεία · ο δρόμος · το μαγαζί · η εκκλησία · το σπίτι · η γειτονιά ·
+> η αγορά · ο φούρνος · η γάτα
+
+**Adjektive (männliche Grundform — Endung anpassen!)**
+> μεγάλος · μικρός · καλός · παλιός · καινούριος · ήσυχος · ωραίος
+
+> **Beispiel:** **Η γειτονιά μου είναι ήσυχη. Εδώ η πλατεία, μεγάλη και ωραία.
+> Ο δρόμος είναι μικρός. Πολύ ωραία γειτονιά!**
+
+<!-- @section: landeskunde -->
+
+## Landeskunde: η πλατεία — der Platz als Herz des Viertels
+
+Fast jedes griechische Viertel hat seinen Platz, seine **πλατεία**, und oft ist
+sie mehr als nur eine Fläche zwischen Häusern. Sie ist der Ort, an dem das
+Leben des Viertels für alle sichtbar wird: ein paar Bäume, Bänke, vielleicht ein
+Brunnen, ringsum ein Kafenío, eine Bäckerei, ein Kiosk. Wer auf einer solchen
+Bank sitzt, sieht über den Tag verteilt halb sein Viertel vorbeikommen.
+
+Was sich dort abspielt, wechselt mit der Tageszeit. Am Vormittag ist die πλατεία
+oft ruhig — ein paar ältere Leute auf den Bänken, jemand mit Einkaufstüten, der
+kurz verschnauft. Am späten Nachmittag und am Abend, vor allem wenn es im Sommer
+endlich kühler wird, füllt sie sich: Kinder spielen Ball, Jugendliche treffen
+sich, Familien drehen ihre Runde, und an den Cafétischen wird ein einziger Kaffee
+gern zwei Stunden lang getrunken. Dieses unaufgeregte Draußensein im
+halböffentlichen Raum gehört zum Alltag — nicht als Folklore, sondern weil ein
+mildes Klima und enge Wohnungen das Leben ohnehin nach draußen verlagern.
+
+Wie stark eine πλατεία das Viertel prägt, hängt stark vom Ort ab. In einem Dorf
+oder auf einer Insel ist der zentrale Platz oft wirklich der eine Treffpunkt:
+Hier steht die Kirche, hier wird gefeiert, hier weiß man, wer gekommen und wer
+gegangen ist. In den großen Städten ist das Bild gemischter. Manche Athener
+Plätze sind elegant und touristisch, andere laut und vom Verkehr umtost, wieder
+andere ein ruhiger Anker mitten im dichten Häusermeer. In den letzten Jahren sind
+einige vernachlässigte Plätze neu gestaltet und begrünt worden, andere wurden zum
+Streitpunkt zwischen Anwohnern, Lokalen und Stadtverwaltung — ein Platz ist
+selten nur Idylle, er ist auch ein Stück umkämpfter öffentlicher Raum.
+
+Für dich als Lernenden ist die πλατεία ein dankbarer Ort. Setz dich auf eine
+Bank, schau dich um und beschreib im Kopf, was du siehst — **μεγάλη πλατεία**,
+**παλιά εκκλησία**, **ήσυχος δρόμος**. Genau dieses Beschreiben hast du gerade
+gelernt, und kaum ein Ort liefert mehr Anschauungsmaterial.
+
+<!-- @section: loesungen -->
+
+## Lösungen
+
+### Übung 1
+
+a) **-ος** → **3. männlich** (wie **ο**) ·
+b) **-η** → **1. weiblich** (wie **η**) ·
+c) **-ο** → **2. sächlich** (wie **το**)
+
+Die drei Adjektiv-Endungen folgen demselben Genus-Muster wie der Artikel
+**ο / η / το**.
+
+### Übung 2
+
+| | männlich (-ος) | weiblich (-η) | sächlich (-ο) |
+| --- | --- | --- | --- |
+| a) klein | μικρός | **μικρή** | **μικρό** |
+| b) alt | παλιός | **παλιά** | **παλιό** |
+| c) ruhig | ήσυχος | **ήσυχη** | **ήσυχο** |
+| d) schön | ωραίος | **ωραία** | **ωραίο** |
+
+Bei **παλιός** und **ωραίος** lautet die weibliche Endung wegen des Vokals
+davor **-α** statt **-η** (παλιά, ωραία); die sächliche bleibt **-ο**. Bei
+**ήσυχος** bleibt der Akzent in allen drei Formen auf derselben Silbe
+(**ΗΣΥ**-): ήσυχος, ήσυχη, ήσυχο.
+
+### Übung 3
+
+1. η **μεγάλη** πλατεία — **η** → weiblich → -η.
+2. το **μεγάλο** σπίτι — **το** → sächlich → -ο.
+3. ο **μεγάλος** φούρνος — **ο** → männlich → -ος.
+4. η **μεγάλη** εκκλησία — **η** → weiblich → -η.
+5. το **μεγάλο** μαγαζί — **το** → sächlich → -ο.
+6. η **μεγάλη** αγορά — **η** → weiblich → -η.
+
+Der Artikel verrät jedes Mal das Genus und damit die Endung. Achtung: **ο
+δρόμος** und **ο φούρνος** sind männlich, obwohl die deutschen Wörter „die
+Straße" und „die Bäckerei" weiblich sind — es zählt das griechische Genus.
+
+### Übung 4
+
+1. **b) παλιά** — η εκκλησία → weiblich → -η/-α. *(παλιός wäre männlich,
+   παλιό sächlich.)*
+2. **a) μικρός** — ο δρόμος → männlich → -ος. *(μικρή weiblich, μικρό
+   sächlich.)*
+3. **c) καινούριο** — το μαγαζί → sächlich → -ο. *(καινούριος männlich,
+   καινούρια weiblich.)*
+4. **b) ήσυχη** — η γάτα → weiblich → -η. *(ήσυχος männlich, ήσυχο
+   sächlich.)*
+5. **a) καλός** — ο φούρνος → männlich → -ος. *(καλή weiblich, καλό
+   sächlich.)*
+6. **b) ωραία** — η γειτονιά → weiblich → -α. *(ωραίος männlich, ωραίο
+   sächlich.)*
+
+Die falschen Optionen sind jeweils dasselbe Adjektiv mit der falschen
+Genus-Endung — also der typische Fehler **η μεγάλος** statt **η μεγάλη**.
+
+### Übung 5
+
+1. Ο δρόμος είναι **μικρός** . — ο δρόμος → männlich → -ος.
+2. Η εκκλησία είναι **παλιά** . — η εκκλησία → weiblich → -α.
+3. Το μαγαζί είναι **καινούριο** . — το μαγαζί → sächlich → -ο.
+4. Η γάτα είναι **ήσυχη** . — η γάτα → weiblich → -η.
+5. Το σπίτι είναι **μεγάλο** . — το σπίτι → sächlich → -ο.
+6. Ο φούρνος είναι **καλός** . — ο φούρνος → männlich → -ος.
+
+Auch hinter **είναι** behält das Adjektiv die volle Genus-Endung — nicht
+endungslos. Es heißt **ο δρόμος είναι μικρός**, nicht *μικρ-*.
+
+### Übung 6
+
+1. Πολύ **ωραία** ! — η εκκλησία → weiblich → ωραία.
+2. Πολύ **παλιό** ! — το μαγαζί → sächlich → παλιό.
+3. Πολύ **ήσυχος** ! — ο δρόμος → männlich → ήσυχος.
+4. Πολύ **μικρή** ! — η γάτα → weiblich → μικρή.
+
+**πολύ** verändert sich nie; nur das Adjektiv dahinter passt sich ans Genus
+des gemeinten Nomens an.
+
+### Übung 7
+
+> **Λένα:** Ωραία η πλατεία! Είναι πολύ **ήσυχη** . *(η πλατεία → weiblich)*
+>
+> **Μαρία:** Ναι. Και ο δρόμος εκεί είναι **μικρός** . *(ο δρόμος → männlich)*
+>
+> **Λένα:** Και το μαγαζί; Είναι **καινούριο** ; *(το μαγαζί → sächlich)*
+>
+> **Μαρία:** Όχι, είναι **παλιό** . Πολύ **καλό** μαγαζί! *(το μαγαζί →
+> sächlich, beide Male -ο)*
+>
+> **Λένα:** Ωραία η γάτα! Είναι **μικρή** . *(η γάτα → weiblich)*
+>
+> **Μαρία:** Ναι, η γάτα μου. Πολύ **ωραία** γειτονιά! *(η γειτονιά →
+> weiblich)*
+
+Jede Lücke folgt dem Genus des Nomens, an dem das Adjektiv hängt — egal ob
+attributiv (καλό μαγαζί) oder hinter είναι (είναι μικρός).
+
+### Übung 8
+
+Musterlösung — andere Kombinationen sind möglich, solange Artikel, Adjektiv
+und Nomen im Genus zusammenpassen und mindestens einmal **πολύ** vorkommt.
+
+> **Η γειτονιά μου είναι ήσυχη. Εδώ η πλατεία, μεγάλη και ωραία. Ο δρόμος
+> είναι μικρός. Πολύ ωραία γειτονιά!**
+
+Prüf bei jedem Satz: Steht vor dem Nomen **ο**, endet das Adjektiv auf
+**-ος** (ο μικρός δρόμος); steht **η**, auf **-η** oder **-α** (η μεγάλη
+πλατεία, η ωραία γειτονιά); steht **το**, auf **-ο** (το μεγάλο σπίτι). Hinter
+**είναι** gilt dieselbe Endung.
