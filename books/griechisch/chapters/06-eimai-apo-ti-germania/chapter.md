@@ -245,14 +245,14 @@ María, Kostas, ο κύριος) → είναι.
 5. Εσύ ________ Ελληνίδα;
 6. Ο κύριος εκεί ________ ο Κώστας.
 
-### Übung 4 — Woher oder wo? Wähle die ganze Wendung (από… / στη(ν)…)
+### Übung 4 — Woher oder wo? Wähle die ganze Wendung (από… / στην/στη…)
 
 *Woher* jemand kommt, sagst du mit **είμαι από** + Land; *wo* jemand wohnt, mit
-**μένω στη(ν)** + Ort. Such dir für jede Lücke die passende **ganze Wendung**
+**μένω στην/στη** + Ort. Such dir für jede Lücke die passende **ganze Wendung**
 aus dem Kasten daneben aus und setze sie als Block ein — die kleinen Wörter
 **από / στη / στην** sind in jeder Wendung schon fertig dabei, du musst sie
 nicht selbst bilden. Entscheide nur: geht es ums **Woher** (από…) oder ums
-**Wo wohnen** (στη(ν)…)?
+**Wo wohnen** (στην/στη…)?
 
 > **Beispiel:** Ο Κώστας είναι ________ . *(woher? — από τη Θεσσαλονίκη /
 > στη Θεσσαλονίκη)* → **από τη Θεσσαλονίκη** *(woher = από)*
@@ -387,14 +387,14 @@ Für Mann und Frau gibt es je ein eigenes Wort, kein angepasstes — Lena sagt
 ### Übung 4
 
 1. **από την Ελλάδα** — nach **είμαι** geht es ums *Woher* → die από-Wendung.
-2. **στην Αθήνα** — nach **μένω** geht es ums *Wo wohnen* → die στη(ν)-Wendung
+2. **στην Αθήνα** — nach **μένω** geht es ums *Wo wohnen* → die στην/στη-Wendung
    (στην Αθήνα, wie im Dialog).
 3. **από τη Θεσσαλονίκη** — *Woher bist du?* → από-Wendung.
-4. **στη γειτονιά** — **μένει** = *wo sie wohnt* → στη(ν)-Wendung, genau wie
+4. **στη γειτονιά** — **μένει** = *wo sie wohnt* → στην/στη-Wendung, genau wie
    María es im Dialog sagt.
 5. **από τη Γερμανία** — Lena ist *aus* Deutschland → από-Wendung. Die kleinen
    Wörter από / στη / στην stecken jeweils fertig in der Wendung; du wählst nur
-   zwischen *woher* (από) und *wo* (στη(ν)) und sortierst στη / στην nicht
+   zwischen *woher* (από) und *wo* (στην/στη) und sortierst στη / στην nicht
    selbst.
 
 ### Übung 5
