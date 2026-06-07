@@ -198,3 +198,12 @@ Orchestrator-Vorab-Fixes: meta exercises items→types (Schema); Übung-6-Item �
   - [x] K1 [optional] Namenstag/Geburtstag ergänzt: „war lange wichtiger als der Geburtstag; inzwischen feiern Jüngere zunehmend auch den Geburtstag, manche beides." (chapter.md ~Z. 356-358)
   - [x] K9 [optional] Krisen-/Rückkehr-Trend bereits im Mittelteil enthalten (junge Erwachsene zogen nach 2010 zurück zu den Eltern / wurden unterstützt). Keine weitere Aktion.
   - [x] K2-K7: korrekt — keine Aktion.
+
+## Phase 4 — Re-Review Runde 1 + Abschluss
+- continuity-checker: **KONTINUITÄT OK** (C7 behoben — kein attributives ωραία/Adjektiv mehr, Dialog + Übungen)
+- reviewer: R2/R3 vollständig gelöst; R1-Rest („(*dir*)" in Übung 6) → auf „(das *du*)" korrigiert (Orchestrator-Mikrofix) → FREIGABE
+- reader: **kein COMPREHENSION-FAILURE, keine gaps** — alle 8 Übungen lösbar
+- ai-guard: **FREIGABE** (G9 Landeskunde-Absatz-3-Rhythmus optional/non-blocking, vertagt)
+- cultural: solide (K8 Setting konsistenzhalber belassen, K1 Geburtstag ergänzt)
+- validate_schema 0 Fehler, continuity_check 0 Verstöße
+- **Status → draft-complete** (volle Pipeline, 1 Überarbeitungsrunde + Mikrofix; C7-Grammatik-Verstoß behoben)

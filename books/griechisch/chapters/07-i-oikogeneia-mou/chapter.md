@@ -273,7 +273,7 @@ Verwandten, steht **σου** (*dein*). Die Frage erkennst du am Fragezeichen.
 ### Übung 6 — σου: Gruß oder „dein"? (die Doppelrolle)
 
 Das Wörtchen **σου** kennst du aus zwei Rollen. Steht es allein im Gruß **γεια
-σου**, ist es die vertraute Anrede (*dir*). Klebt es hinten an einem Nomen
+σου**, ist es die vertraute Anrede (das *du*). Klebt es hinten an einem Nomen
 (**η αδελφή σου**), heißt es *dein*. Entscheide für jeden Satz, welche Rolle
 **σου** hat: **Anrede** (Gruß) oder **Besitz** (*dein*).
 
