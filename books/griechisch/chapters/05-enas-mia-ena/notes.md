@@ -124,3 +124,58 @@
   - Vollständiger Lösungsschlüssel mit kurzen deutschen Begründungen; freie
     Aufgabe mit Musterlösung + Varianten-Hinweis.
   - meta.yaml exercises: count 7 + 7 types eingetragen.
+
+### Audit Übungen (exercise-designer, 2026-06-07, Nachprüfung)
+
+- [x] Alle griechischen Tokens in @section: uebungen + @section: loesungen
+  Token für Token gegen das kumulative Vokabular (Kap. 1–4) + die 15
+  Kap.-5-Neudeklarationen + Eigennamen (Λένα/Νίκο/Κώστας/María) abgeglichen —
+  kein Restbefund. In den Lösungen verwendete Vergleichswörter (ο δρόμος,
+  η πλατεία, το σπίτι) stammen aus Kap. 4 → zulässig.
+- [x] Durchgehend Nominativ Singular bestätigt. Kein Plural, kein aktives
+  Akkusativ-/Genitiv-Paradigma. έναν καφέ nur in Üb. 6/Üb. 7 als bekannter
+  Kap.-2-Bestell-Block; Lösung erklärt έναν (bestellen) vs. ένας (benennen),
+  ohne neue Morphologie abzufragen.
+- [x] Distraktoren in Üb. 1/4 ausschließlich bekannte Artikelformen
+  (ένας/μία/ένα), diagnostisch = deutsche Genus-Falle (η μπίρα, το τραπέζι,
+  η καρέκλα, το φλιτζάνι). Üb. 4 Item 4–6 als ehrliche Treffer → kein
+  Ratemuster über Widerspruch.
+- [x] Kontrast best./unbest. Artikel: Üb. 5 (ο/η/το → ένας/μία/ένα), zugleich
+  reine Recycling-Übung von artikel-genus-nom-sg (Kap. 4). Kommunikative
+  Café-Bestellung: Üb. 6. Freie Produktion: Üb. 7.
+- [x] Keine Transliteration; nur griechische Schrift, Monotoniko geprüft.
+  ή (oder) kommt in den Übungen nicht vor; η als Artikel überall unakzentuiert.
+- [x] Keine Platzhalter mehr (Grep negativ); Lückenstruktur eindeutig (________),
+  Beispiel-Item bei jedem neuen Übungstyp. Endungs-Hervorhebung nur am ganzen
+  Wort.
+
+## /new-chapter griechisch 5 — Phase 2 (parallele Prüfung) — 2026-06-07
+Baseline: validate_schema 0 Fehler, continuity_check 0 Verstöße (nur Eigennamen).
+
+### Befunde Runde 1
+- continuity-checker: **KONTINUITÄT OK** (Nominativ Singular gewahrt; έναν καφέ nur als Kap.-2-Chunk rezeptiv; ή/η-Akzent korrekt; alle Tokens deklariert)
+- reviewer: **FREIGABE** (sprachlich tadellos; Genus + ένας/μία/ένα korrekt; έναν-vs-ένας vorbildlich ohne Kasus-Paradigma):
+  - [ ] R1 [minor] Το μενού statt τον κατάλογο — Register-Feinheit, μενού umgeht Akkusativ elegant, vertretbar (keine Aktion)
+  - [ ] R2 [minor] „Όχι καφέ τώρα" telegrammhaft — A1-bedingt; siehe reader L4 (dort echter Klärungsbedarf)
+- reader: **kein COMPREHENSION-FAILURE**; Befunde:
+  - [x] L1 [gap, ECHT] Übung 1.3 „καφές → ένας": Endung -ές von den Kap.-4-Faustregeln (-ος/-α/-ι/-ο) nicht abgedeckt; Lösung „endet wie ο χυμός" ist schief (χυμός=-ός ≠ καφές=-ές) → exercise-designer: Begründung auf bekanntes Maskulinum ο καφές (Kap.2) stützen statt falscher Endungs-Analogie, ODER Item tauschen — ERLEDIGT (exercise-designer, Option a): Item 3 (καφές) bleibt erhalten (didaktisch wertvolle Brücke zu Kap. 2). Lösung Üb. 1.3 begründet jetzt mit „καφές ist ein bekanntes männliches Wort (ο καφές aus Kap. 2, Bestell-Block έναν καφέ)" — keine -ός/-ές-Endungsanalogie mehr. Zweite schiefe Stelle gefunden und korrigiert: Lösung Üb. 2 fasste „χυμός und καφές enden wie ο δρόμος" zusammen → καφές dort herausgelöst und ebenfalls als bekanntes Maskulinum begründet. Üb. 5.5 war bereits sauber (stützt sich auf den Artikel ο, keine Endung).
+  - [ ] L2 καρέκλα/φλιτζάνι neu im Fließtext, Box leer → BY DESIGN (Box build-generiert; Übersetzungen stehen inline); keine Aktion
+  - [x] L3 [gap] Nomenflexion-Konzept (Kasus) kommt unvorbereitet (benennen vs. bestellen) → teacher: Einstieg behutsamer rahmen (Substantive können Form ändern — neu nach Verben aus Kap.3) — ERLEDIGT (teacher, Phase-2-Überarbeitung): Abschnitt „Die alte Bestellung wiedergesehen" beginnt jetzt mit Rückgriff auf die wechselnden Verbendungen aus Kap. 3, erkennt an, dass auch Hauptwörter ihre Form leicht ändern können, betont „kein neues System, nur wiedererkennen".
+  - [x] L4 [confusing, ECHT] Dialog Z.41 „Όχι καφέ τώρα": bloßes καφέ (ohne Artikel, ohne -ς) — weder ένας καφές noch έναν καφέ, unerklärt → teacher: Dialog auf eine erklärte/saubere Form bringen oder kurz decken — ERLEDIGT: Lenas Replik lautet jetzt „Όχι, ευχαριστώ. Μία πορτοκαλάδα, παρακαλώ." — saubere Verneinung mit bekanntem Material (όχι/ευχαριστώ aus Kap. 1/2), keine vierte unerklärte Form mehr.
+  - [x] L5 [pacing] έναν-καφέ-Abschnitt dicht (3 Konzepte) → mit L3 entzerren — ERLEDIGT: drei Konzepte entzerrt — (1) sanfte Rahmung/Anerkennung (Form ändert sich, nur wiedererkennen), (2) benennen ένας vs. bestellen έναν nur beim männlichen Wort, (3) weiblich/sächlich bleiben gleich — in eigenen Absätzen; Begriff Kasus erst am Schluss und nur benannt, kein Paradigma.
+  - [x] L6 τσίπουρο im Dialog vor Erklärung, in Übungen genutzt → Box deckt Bedeutung (by design); ggf. Landeskunde-Verweis; minor — BESTÄTIGT (exercise-designer): keine Aktion nötig. τσίπουρο kommt in Üb. 1.5, 3.2, 6.3 und 7 vor; alle vier Stellen sind reine Genus-/Artikelaufgaben, die nur das Wortbild το τσίπουρο (-ο → sächlich → ένα) brauchen, nicht die genaue Bedeutung. Üb. 6.3 liefert die Situation („Du zeigst auf den Nebentisch und fragst nach dem Getränk dort") komplett auf Deutsch; gefragt ist nur die Artikelform. Keine Übung setzt die Bedeutung voraus.
+- ai-guard: **überwiegend menschlich**, Reste:
+  - [x] G1 [liste] Lernziel-Dreierliste sehr parallel → 3. Punkt konkreter/variieren — ERLEDIGT: 3. Lernziel jetzt „bei einem unbekannten Wort nachfragen — Ένας, μία ή ένα; — und aus der Antwort das Genus heraushören" (konkrete Handlung + Deutung statt paralleler Artikel-Aufzählung).
+  - [x] G2 [rhythmus] chapter.md:105-110 dreifach „Ist … nimmst du …" → straffen (Tabelle trägt) — ERLEDIGT: dreifache „mit … kommt …"-Reihe ersetzt durch „Die Tabelle oben hält das fest: zu jedem ο/η/το gehört genau eine unbestimmte Form."; die Systematik trägt jetzt die Tabelle.
+  - [x] G3 [rhythmus] chapter.md:112-117 vier Sätze „X ist Genus — Artikel Wort, also …" → Fließtext mit Haltung — ERLEDIGT: Absatz als zusammenhängender Fließtext mit Haltung umgesetzt („erste kleine Überraschung", „überrascht gleich noch einmal", „wird es dann ruhig") statt parallel reihender Aufzählung.
+  - [x] G4 [hedging] chapter.md:119 „Zwei Hinweise fürs Auge" Meta-Ankündigung → direkt — ERLEDIGT: Meta-Ankündigung entfernt; Absatz steigt direkt mit „Das μία sprichst du betont …" ein.
+  - [x] G5 [floskel] chapter.md:291 „jetzt ein Blick auf …" → direkt mit These — ERLEDIGT: Floskel weg; Landeskunde-Getränketeil beginnt direkt mit der These „Tagsüber dreht sich vieles um Kaffee, und der hat zwei Gesichter …".
+  - [x] G6 [liste] chapter.md:299-307 Getränke-Aufzählung (7 in 4 Sätzen) → 2 raus, einen Kontrast (ελληνικός vs φραπές) schärfen — ERLEDIGT (überschneidet K1): Aufzählung entschlackt, Kontrast ελληνικός (langsames Ritual, Satz am Boden, Ältere/Vormittag) vs. freddo (jung, sommerlich, meistbestellt) geschärft; φραπές als älterer, noch präsenter Klassiker eingeordnet.
+  - [x] G8 [floskel] chapter.md:316 „Ein praktischer Hinweis zum Schluss" → streichen, direkt — ERLEDIGT: Floskel gestrichen; Schlussabsatz beginnt direkt mit „Bezahlt wird am Ende, am Tisch, nicht an der Theke."
+- cultural-reviewer: **Befunde** (solide/klischeearm, aber Fakten + interne Konsistenz):
+  - [x] K1 [fakt, WICHTIG] chapter.md:302-303 — φραπές als heutiger Hauptvertreter dargestellt; falsch + WIDERSPRUCH zu Kap. 2 (dort: freddo hat φραπές überholt). → freddo als meistbestelltes Kaltgetränk, φραπές als älterer Klassiker — ERLEDIGT: freddo jetzt als „mit Abstand meistbestelltes Kaltgetränk", φραπές als „älterer Klassiker, vom freddo längst überholt, aber noch überall präsent, besonders bei den Stammgästen" — konsistent mit Kap. 2.
+  - [x] K2 [fakt] chapter.md:309-314 — τσίπουρο: (a) Zeitrahmen zu eng; (b) mit Ouzo gleichgesetzt ohne regionale Verortung → regionale Herkunft kurz andeuten — ERLEDIGT: Zeitrahmen jetzt „Ab dem Nachmittag"; regionale Verortung auf Deutsch ergänzt (τσίπουρο = Festland/Nordgriechenland/Thessalien, Ouzo = Inseln/Süden); beide „nie allein, sondern in Gesellschaft und zu kleinen, geteilten Häppchen" (kein griechisches Pluralwort, keine Umschrift).
+  - [x] K3 [konsistenz] interner Widerspruch: Dialog „später Nachmittag" vs. Landeskunde „Abendroutine" → angleichen — ERLEDIGT: jetzt „feste Nachmittags- oder Abendroutine"; deckt den Dialog-Zeitpunkt (später Nachmittag) ab.
+  - [x] K4 [fakt] chapter.md:304-307 — Wasser „oft umsonst" → „kostenlos" — ERLEDIGT: jetzt „ein Glas Wasser, ένα ποτήρι νερό, kostenlos" — konsistent mit Kap. 2 („kostet nichts").
+  - [x] K6 [wiederholung] „Platz und Zeit"-Satz fast wörtlich aus Kap. 2 → leicht variieren oder Rückverweis — ERLEDIGT: variiert + bewusster Rückverweis: „die schon aus Kapitel 2 bekannte Logik des Ortes: Du zahlst hier weniger für das Getränk als für den Platz und die Zeit."
+  - [ ] K5 Bezahlen/Schreibgeste: korrekt, neu ggü. Kap. 2 — keine Aktion
