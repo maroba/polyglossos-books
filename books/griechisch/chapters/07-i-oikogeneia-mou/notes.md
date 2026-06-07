@@ -164,3 +164,26 @@
   Demonstrativa (αυτός/αυτή). Distraktoren in Ü3/Ü5/Ü6 ausschließlich aus
   bekanntem Material (του/της, μου/σου, Anrede vs. Besitz). Eigennamen
   (Λένα, Μαρία, Σοφία, Μάρκος, Δημήτρης) erlaubt; στη/στην/Αθήνα/Νάξο aus Kap. 6.
+
+## /new-chapter griechisch 7 — Phase 2 (parallele Prüfung) — 2026-06-07
+Baseline: validate_schema 0 Fehler (nach items→types-Fix), continuity_check 0 Verstöße.
+Orchestrator-Vorab-Fixes: meta exercises items→types (Schema); Übung-6-Item „Ωραίο το σπίτι σου" → „Εκεί είναι το σπίτι σου" (Adjektiv-Kongruenz ωραίο gehört zu Kap. 8).
+
+### Befunde Runde 1
+- reviewer: **überarbeitung nötig** (Akzente/Klitika/Genus sonst sehr sauber):
+  - [ ] R1 [major] σου-Glosse im Gruß „dir/Hallo dir" widerspricht Kap. 1 (dort σου = „du"/Duz-Anrede) → angleichen
+  - [ ] R2 [major] Übung 3 + Übung 7 Lösungen: το όνομα + του/της OHNE zweiten Akzent → muss το όνομά του / το όνομά της (Doppelakzent) zeigen, sonst falsches Schriftbild
+  - [ ] R3 [minor] Akzentregel „kurz vs. lang" unpräzise (eigentlich Proparoxytona/Akzent auf drittletzter Silbe) → präzisieren oder als bewusste Eselsbrücke kennzeichnen
+- reader: **kein COMPREHENSION-FAILURE** (σου-Doppelrolle gut gelöst):
+  - [ ] L1 [gap] Begriff „Genitiv" fällt erstmals unerklärt → knapp einordnen oder vermeiden
+  - [ ] L2 της/του im Dialog vor Grammatik (zwei neue Formen) → leichter Pacing-Hinweis, by-design-nah; keine harte Aktion
+  - [ ] L3 [gap] = R3 (zweiter Akzent „lange Wörter" unscharf)
+  - [ ] L4 [confusing] = R2 (Übung 7 „Το όνομα ____" ohne Doppelakzent)
+  - [ ] L5 [confusing, ECHT] Begriff „Klitikon" in Übung 5 + 7 ohne Einführung → teacher: Begriff einmal im Grammatikteil einführen („diese Wörtchen nennt man Klitika") ODER exercise-designer: durch „Besitzwörtchen" ersetzen
+  - [ ] L6 Lernziele nennen nur μου/σου, Grammatik/Dialog haben 4 (του/της) → Lernziel anpassen
+- ai-guard: **überwiegend menschlich** (Vorkapitel-Floskeln NICHT wiedergekehrt):
+  - [ ] G4 [floskel] „Bauplan ist immer derselbe" 4× (Z. 98/166/225/392) → auf 2× reduzieren
+  - [ ] G5/G7 [floskel] Doppel-Entwarnung „der Zusammenhang sagt dir jedes Mal" (122/421) + „fertig/und gut" (159-163) → je einmal
+  - [ ] G1/G2/G3/G6/G8 [rhythmus] Dreier-Parallelismen/gleichlange Sätze (Lernziel, Bauplan-Absatz, του/της, Landeskunde-Schluss) → auflockern
+- continuity-checker: **3 VERSTÖSSE (GRAMMATIK)** — ωραία attributiv vor Nomen:
+  - [ ] C7 [GRAMMATIK-VERSTOSS] chapter.md:37 „Ωραία φωτογραφία!", :50 „Ωραία οικογένεια!", :57 „Πολύ ωραία οικογένεια" — attributiver Adjektivgebrauch mit Genuskongruenz; Adjektiv-Kongruenz ist erst Kap. 8 (in Kap.5/6-meta ausdrücklich vertagt). Wortform ωραία zwar identisch mit dem Ausruf (Kap.2), aber die Struktur Adjektiv+Nomen ist nicht eingeführt. → teacher: in standalone-Ausrufe ändern (Ωραία! / Πολύ ωραία!), NICHT attributiv vor einem Nomen. Danach continuity erneut prüfen.
