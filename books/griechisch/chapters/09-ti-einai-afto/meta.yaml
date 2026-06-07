@@ -1,6 +1,6 @@
 chapter: 9
 slug: ti-einai-afto
-status: entwurf
+status: draft-complete
 
 vocab_introduced:
   # ── Demonstrativa (Grammatik-Neueinführung; Kern des Kapitels) ──
@@ -27,16 +27,16 @@ vocab_introduced:
   - lemma: ποιος
     pos: pron
     gloss_de: 'wer? / welcher? (ποιος m / ποια f / ποιο n)'
-    notes: 'Fragewort nach Person oder Auswahl. Richtet sich wie ein Adjektiv nach Genus der gemeinten Person/Sache, dieselben -ος/-η/-ο-Endungen wie αυτός. Ποιος είναι αυτός; (ein Mann) / Ποια είναι αυτή; (eine Frau) / Ποιο είναι το ψωμί; (sächlich). Akzent auf dem ersten ο (ποιος), nicht mit dem Artikel zu verwechseln. Nur Nominativ Singular.'
+    notes: 'Fragewort nach Person oder Auswahl. Richtet sich wie ein Adjektiv nach Genus der gemeinten Person/Sache, dieselben -ος/-η/-ο-Endungen wie αυτός. Ποιος είναι αυτός; (ein Mann) / Ποια είναι αυτή; (eine Frau) / Ποιο είναι το ψωμί; (sächlich). Wird einsilbig gesprochen (οι+ο verschmelzen) und steht im Monotoniko OHNE Akzent: ποιος/ποια/ποιο. Nur Nominativ Singular.'
     inflected_forms:
       - ποια
       - ποιο
 
-  # ── Adjektiv φρέσκος (Markt; -ος/-η/-ο-Typ, recycelt das Kap.-8-Muster) ──
+  # ── Adjektiv φρέσκος (Markt; Sondertyp -ος/-ια/-ο, Ausnahme zur Kap.-8-Regel) ──
   - lemma: φρέσκος
     pos: adj
     gloss_de: 'frisch (φρέσκος m / φρέσκια f / φρέσκο n)'
-    notes: 'Adjektiv -ος/-η/-ο (Muster aus Kap. 8). Markt-Schlüsselwort. Die weibliche Form lautet φρέσκια (-ια nach Vokal, wie καινούρια aus Kap. 8): φρέσκια ντομάτα. Sächlich φρέσκο: φρέσκο ψάρι, φρέσκο ψωμί. Nur Nominativ Singular.'
+    notes: 'Markt-Schlüsselwort. Eigener kleiner Sondertyp -ος/-ια/-ο: m φρέσκος, n φρέσκο folgen Kap. 8, aber die weibliche Form ist AUSNAHME — trotz Konsonant vor der Endung nicht das erwartete -η, sondern echtes -ια: φρέσκια ντομάτα. NICHT mit καινούρια gleichsetzen — dort endet der Stamm auf Vokal (καινούρι-) und das -α ist reguläre Kap.-8-Form (wie παλιά/ωραία). φρέσκια als Block lernen. Sächlich φρέσκο: φρέσκο ψάρι, φρέσκο ψωμί. Nur Nominativ Singular.'
     inflected_forms:
       - φρέσκια
       - φρέσκο

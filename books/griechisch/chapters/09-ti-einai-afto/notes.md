@@ -179,19 +179,34 @@ Baseline: validate_schema 0 Fehler, continuity_check 0 Verstöße. Orchestrator-
   - [x] R2 [minor] Dialog geglättet auf „Αυτή είναι η Ελένη. Εκεί, εκείνο το μικρό μαγαζί." (kein unverbundenes Person-f + Ding-n mehr). Deckt sich mit L1.
   - [x] R3 [minor] ποιος-Akzent: falscher „Artikel"-Vergleich entfernt; jetzt betontes Fragewort vs. unbetonter Namensvetter (πού/που-Analogie).
 - reader: **kein COMPREHENSION-FAILURE**:
-  - [ ] L2 [gap, KRITISCH] φρέσκια (weibl. von φρέσκος) endet auf -ια — von Kap. 8 (-η/-α) nicht abgedeckt, unerklärt im Dialog+Übungen → teacher: φρέσκος-Femininum φρέσκια kurz als Sonderform erklären (als Block lernen)
-  - [ ] L5 [confusing] τι vs. ποιο bei Sachen nicht erklärt, aber abgefragt → teacher: kurze Abgrenzung (τι = was ist das (unbekannt) / ποιο = welches (Auswahl aus Bekanntem))
-  - [ ] L1 [gap] εκείνη im Dialog vor Grammatik-Tabelle; Lernziel nennt nur αυτό/εκείνο → Lernziel/Vorab leicht anpassen (deckt sich mit R2)
+  - [x] L2 [gap, KRITISCH] Eigener Grammatik-Abschnitt „Ein Markt-Adjektiv mit Eigenheit: φρέσκος": weibliche Form φρέσκια (-ια statt -η) als Block-Sonderform erklärt, ans Wortbild geknüpft, Querverweis καινούρια (Kap. 8); sächlich regulär φρέσκο. Falschform NICHT ausgeschrieben („die Form auf -η").
+  - [x] L5 [confusing] Abgrenzung „τι oder ποιο?" ergänzt: τι = noch unbekannte Sache (Τι είναι αυτό;); ποιο = Auswahl aus Bekanntem (Ποιο είναι το ψωμί;), mit Faustregel.
+  - [x] L1 [gap] Lernziele-Vorspann nennt jetzt αυτή/εκείνη und dass Zeigewörter sich nach Genus richten; εκείνη kommt im Dialog nicht mehr unangekündigt. Deckt sich mit R2.
   - [x] L3 [confusing] Übung 1 Kopf „-ος / -ς" — bloßes -ς unerklärt/verwirrend → exercise-designer: streichen, nur -ος — erledigt: „/ -ς" in Aufgabenstellung (a) UND in der Lösung zu Ü1 gestrichen; männliche Endung steht jetzt nur als **-ος** (konsistent mit Kap. 8 und Grammatikteil Kap. 9, αυτός/εκείνος/ποιος enden alle auf -ος).
-  - [ ] L4 [pacing] Demonstrativ+Artikel+Nomen schon im Dialog, in Grammatik als „Blick voraus" vertagt → Hinweis früher/klarer; optional
-  - [ ] L6 [pacing] viel auf einmal (6 Demonstrativformen + ποιος + τι/πού-Abgrenzung) → optional entzerren
+  - [ ] L4 [pacing] optional — „Blick voraus" auf Demonstrativ+Artikel+Nomen beibehalten; früher Genus-Hinweis steht bereits im Lernziele-Vorspann (αυτή/εκείνη). Bewusst nicht weiter vorgezogen.
+  - [ ] L6 [pacing] optional, nicht umgesetzt (Stoffmenge entspricht der Curriculum-Vorgabe fragewoerter-demonstrativa).
 - ai-guard: **überwiegend menschlich** (Positiv: Landeskunde Zugaben/Beziehung):
-  - [ ] G1 [floskel] chapter.md:76 „Das Schöne daran ist, dass…" → direkt
-  - [ ] G4 [hedging] chapter.md:143-145 „frag ruhig … kein Fehler, sondern genau richtig" Doppel-Absicherung → einmal
-  - [ ] G5 [floskel] chapter.md:190-192 „staune nur darüber" → konkreter Voraus-Verweis
-  - [ ] G6 [symmetrie] zwei aufeinanderfolgende Abschnitte enden mit Mini-Formel → einen variieren
-  - [ ] G2/G3 [rhythmus] gleichförmige Erklärsätze / verkappte Listenprose bei den Fragewörtern → auflockern
+  - [x] G1 [floskel] „Das Schöne daran ist, dass…" entfernt → direkte Formulierung im Grammatik-Vorspann.
+  - [x] G4 [hedging] Doppel-Absicherung im φρέσκος-Abschnitt auf eine direkte Aussage reduziert („Lern φρέσκια einfach als festen Block …").
+  - [x] G5 [floskel] „staune nur darüber" → konkreter Voraus-Verweis („nimmst du dir später als ganzes System vor: Demonstrativ + Artikel + Nomen").
+  - [x] G6 [symmetrie] aufeinanderfolgende Mini-Formeln variiert/aufgelöst.
+  - [x] G2/G3 [rhythmus] Fragewörter-Erklärung asymmetrisch (τι/πού invariabel vs. ποιος beugt sich); verkappte Listenprose aufgelockert.
 - cultural-reviewer: **solide** (Feilschen/χάρισμα vorbildlich, anti-Basar-Klischee):
-  - [ ] K5 [stereotyp] chapter.md:369-371 Stadt/Insel-Dichotomie (Athen/Thessaloniki vs. Inseldorf) blendet Festland-Kleinstadt/Nordgriechenland aus → umformulieren (große Stadt vs. kleinerer Ort auf Festland ODER Insel)
-  - [ ] K3 [fakt, optional] ψωμί auf der λαϊκή weniger typisch als Gemüse/Fisch → optionaler Mini-Hinweis
+  - [x] K5 [stereotyp] Stadt/Insel-Dichotomie umformuliert: „In einer großen Stadt … anonymer Betrieb — in einem kleineren Ort, ob auf dem Festland oder auf einer Insel, kennt man die Händler oft seit Jahren." Festland-Kleinstädte nicht mehr ausgeblendet.
+  - [x] K3 [fakt, optional] Mini-Hinweis ergänzt: Herz der λαϊκή sind Gemüse/Obst/Fisch; ψωμί holt man eher beim Bäcker (natürlich an den Marktruf φρέσκο ψάρι angeschlossen). Nur deklarierte Tokens (ψωμί, φρέσκο ψάρι, λαϊκή).
   - [ ] K1/K2/K4/K6/K7/K8: korrekt — keine Aktion
+
+## Phase 4 — Re-Review Runde 1
+- cultural: **FREIGABE** (K5 gelöst); reader: kein COMPREHENSION-FAILURE (φρέσκια/τι-ποιο jetzt durcharbeitbar); ai-guard: FREIGABE nach G1-Fix
+- reviewer: **überarbeitung nötig — 2 neue Sachfehler aus Runde 1:**
+  - [x] RB1 [blocker, fakt] ποιος-Akzenterklärung korrigiert: falsche Akzent-Behauptung + πού-Parallele gestrichen. Steht jetzt: ποιος wird einsilbig gesprochen (οι+ο verschmelzen) und im Monotoniko OHNE Akzent geschrieben — ποιος/ποια/ποιο alle akzentlos. meta.yaml-Notiz zu ποιος ebenfalls von „Akzent auf dem ersten ο" auf „akzentlos, einsilbig" umgestellt.
+  - [x] RB2 [blocker, fakt] φρέσκος neu formuliert: nicht mehr mit καινούρια gleichgesetzt. Dargestellt als eigener Sondertyp -ος/-ια/-ο, dessen weibliche Form trotz Konsonant vor der Endung auf echtes -ια geht statt des erwarteten -η — Ausnahme zur Kap.-8-Regel, als Block lernen. Abgrenzung zu καινούρια ergänzt (Vokalstamm καινούρι- → reguläres -α wie παλιά/ωραία). meta.yaml-Notiz zu φρέσκος ebenfalls korrigiert (Sondertyp + „NICHT mit καινούρια gleichsetzen").
+- ai-guard: **FREIGABE nach Fix:**
+  - [x] G1 [meta] Meta-Floskel chapter.md:116 ersetzt durch „Kapitel 8 nimmt dir hier die Arbeit ab:" (direkt).
+- reader: L1 (= RB2, καινούρια-Gleichsetzung stimmt nicht); L2/L3 Lob/Pacing, keine Aktion
+
+## Phase 4 — Re-Review Runde 2 + Abschluss
+- teacher Runde 2: RB1 (ποιος akzentlos, falscher Akzent-Claim + πού-Parallele entfernt), RB2 (φρέσκος als eigener -ος/-ια/-ο-Sondertyp, von καινούρια/Vokalstamm abgegrenzt), G1 (Meta-Floskel Z.116) — alle behoben; meta.yaml-notes angepasst
+- Verifikation (Orchestrator + Tooling): beide Sachfehler sprachlich korrekt gelöst; continuity_check 0 Verstöße, validate_schema 0 Fehler
+- reviewer Runde 1: FREIGABE bis auf die zwei Blocker (jetzt behoben); reader: kein COMPREHENSION-FAILURE; ai-guard: FREIGABE (G1 erledigt); cultural: FREIGABE (K5)
+- **Status → draft-complete** (volle Pipeline, 2 Überarbeitungsrunden; σε-Fusionen, φρέσκη-Falschformen, ποιος-Akzent, φρέσκος-Morphologie korrigiert)

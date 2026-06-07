@@ -113,7 +113,7 @@ verstärkt das andere.
 
 ### Das Muster, das du schon kennst
 
-Jetzt kommt der Punkt, an dem dir Kapitel 8 die Arbeit abnimmt. Die Adjektive
+Kapitel 8 nimmt dir hier die Arbeit ab: Die Adjektive
 dort hatten drei Endungen, je nach Genus des Nomens: **μεγάλος** (männlich),
 **μεγάλη** (weiblich), **μεγάλο** (sächlich). Genau diese drei Endungen tragen
 auch **αυτός** und **εκείνος**:
@@ -137,18 +137,23 @@ sagt **αυτός**:
 
 ### Ein Markt-Adjektiv mit Eigenheit: φρέσκος
 
-Auf dem Markt fällt ein Wort ständig: **φρέσκος** — *frisch*. Es folgt dem
--ος/-η/-ο-Muster aus Kapitel 8, mit einer kleinen Abweichung bei der
-weiblichen Form. Männlich **φρέσκος**, sächlich regulär **φρέσκο** (**φρέσκο
-ψάρι**, **φρέσκο ψωμί**). Die weibliche Form aber endet nicht auf -η, sondern
-auf **-ια**: **φρέσκια**:
+Auf dem Markt fällt ein Wort ständig: **φρέσκος** — *frisch*. Männlich
+**φρέσκος**, sächlich **φρέσκο** (**φρέσκο ψάρι**, **φρέσκο ψωμί**) — so weit
+genau das -ος/-ο-Muster aus Kapitel 8. Die weibliche Form aber tanzt aus der
+Reihe. Nach der Kapitel-8-Regel müsste sie auf **-η** enden, denn vor der
+Endung steht ein Konsonant. Tatsächlich endet sie auf **-ια**: **φρέσκια**:
 
 > **φρέσκια ντομάτα** — eine frische Tomate
 
-Das ist dieselbe kleine Sonderform, die du bei **καινούρια** aus Kapitel 8
-schon gesehen hast: Bei manchen Adjektiven endet die weibliche Form auf **-ια**
-statt auf **-η**. Lern **φρέσκια** einfach als festen Block — wenn du es als
-Wortbild vor Augen hast, schreibst du nicht versehentlich die Form auf -η.
+**φρέσκος** ist damit ein eigener kleiner Sondertyp: ein Adjektiv auf
+**-ος / -ια / -ο**, dessen weibliche Form trotz des Konsonanten vor der Endung
+nicht auf -η geht, sondern auf echtes **-ια**. Das ist eine Ausnahme zur
+Kapitel-8-Regel — verwechsle es nicht mit **καινούρια**: dort endet der Stamm
+auf einen Vokal (**καινούρι-**), und das -α folgt ganz regulär der
+Kapitel-8-Regel, genau wie bei **παλιά** oder **ωραία**. Bei **φρέσκος** ist
+das -ια dagegen echte Ausnahme. Lern **φρέσκια** deshalb einfach als festen
+Block — wenn du es als Wortbild vor Augen hast, schreibst du nicht versehentlich
+die Form auf -η.
 
 ### Eine Falle für deutsche Ohren: αυτό als Standardform
 
@@ -173,10 +178,9 @@ dieselben drei Endungen wie **αυτός** — also auch hier kein neues Muster:
 
 Die Form richtet sich nach dem Ding oder der Person, nach denen du fragst:
 **ποιος** für einen Mann, **ποια** für eine Frau, **ποιο** für eine sächliche
-Sache. Der Akzent sitzt auf dem ersten der beiden Schlussvokale (**ποιος**) und
-macht das Wort hörbar zum betonten Fragewort — wie schon bei **πού**, das du
-am Akzent von seinem unbetonten Namensvetter unterscheidest, der erst später
-kommt.
+Sache. Beachte die Aussprache: **ποιος** wird einsilbig gesprochen, das οι und
+das ο verschmelzen zu einem Laut. Geschrieben trägt das Wort deshalb keinen
+Akzent — **ποιος**, **ποια**, **ποιο** stehen alle ohne Akzentzeichen.
 
 **τι oder ποιο?** Beide können sich auf eine Sache beziehen, fragen aber nach
 Verschiedenem. **τι** fragt nach etwas, das du noch gar nicht kennst — du weißt
