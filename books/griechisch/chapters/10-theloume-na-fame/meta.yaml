@@ -1,0 +1,153 @@
+chapter: 10
+slug: theloume-na-fame
+status: entwurf
+
+vocab_introduced:
+  # ── Verb θέλω (neues Verb; Kern des Kapitels) mit vollem Paradigma ──
+  - lemma: θέλω
+    pos: verb
+    gloss_de: 'wollen, möchten. Singular: θέλω/θέλεις/θέλει — Plural: θέλουμε/θέλετε/θέλουν'
+    notes: 'Wichtigstes Verb am Esstisch. Läuft ganz regelmäßig nach dem -ω-Muster (Singular Kap. 3, Plural hier neu). Kann direkt eine Sache regieren (θέλω νερό) oder mit να + Verb einen Wunsch ausdrücken (θέλω να φάω, siehe die drei Chunks unten). θέλετε deckt höfliches Sie und ihr ab — wie das bekannte Τι κάνετε; aus Kap. 3.'
+    inflected_forms:
+      - θέλεις
+      - θέλει
+      - θέλουμε
+      - θέλετε
+      - θέλουν
+
+  # ── θέλω-να-Chunks (Grammatik-Neueinführung als feste Blöcke) ──
+  # Die να-Form (φάω/φάμε/πιω) ist eine eigene Verbform (Aorist-/Konjunktivstamm),
+  # die hier NICHT systematisch eingeführt wird — nur als ganzer Baustein gelernt.
+  - lemma: θέλω να φάω
+    pos: phrase
+    gloss_de: 'ich möchte essen (fester Block; να + eigene Verbform φάω)'
+    notes: 'Wunsch-Chunk. φάω ist eine eigene Verbform (nach να verlangt), die erst später systematisch kommt — hier als Ganzes gelernt, nicht aus Teilen gebaut, nicht in andere Personen gesetzt. Gegenstück im Plural: θέλουμε να φάμε. να als Scharnier zwischen Wunschverb und Handlung.'
+    inflected_forms:
+      - να φάω
+      - φάω
+
+  - lemma: θέλουμε να φάμε
+    pos: phrase
+    gloss_de: 'wir möchten essen (fester Block; wir-Form des Ess-Wunsches)'
+    notes: 'Plural-Pendant zu θέλω να φάω; am Tisch die häufigste Form (gemeinsam entscheiden). φάμε ist die wir-Form der eigenen να-Verbform, hier als Block gelernt.'
+    inflected_forms:
+      - να φάμε
+      - φάμε
+
+  - lemma: θέλω να πιω
+    pos: phrase
+    gloss_de: 'ich möchte trinken (fester Block; να + eigene Verbform πιω)'
+    notes: 'Wunsch-Chunk fürs Trinken. πιω ist die να-Verbform von „trinken", hier als Ganzes gelernt; nicht in andere Personen setzen. Im Dialog: Εγώ θέλω να πιω μία μπίρα / κρασί.'
+    inflected_forms:
+      - να πιω
+      - πιω
+
+  # ── Pluralformen bekannter -ω-Verben (Grammatik-Kern: Paradigma vervollständigt) ──
+  # Die Lemmata κάνω/μένω sind aus Kap. 3 (dort nur Singular deklariert). Hier werden
+  # AUSSCHLIESSLICH die neuen Pluralformen als inflected_forms/Backstop nachgereicht,
+  # damit der Tokenizer κάνουμε/μένουν usw. als bekannt erkennt. Kein neues Lemma —
+  # Recycling mit erweitertem Paradigma.
+  - lemma: κάνω
+    pos: verb
+    gloss_de: 'machen, tun (Lemma aus Kap. 3); hier neu: Plural κάνουμε/κάνετε/κάνουν'
+    notes: 'Bereits Kap. 3 eingeführt (Singular κάνω/κάνεις/κάνει + Block Τι κάνετε;). Hier nur die Pluralformen als Backstop ergänzt: κάνουμε (wir), κάνετε (ihr/Sie — jetzt ins System eingeordnet), κάνουν (sie). Umgangssprachliche Variante κάνουνε mitgeführt.'
+    inflected_forms:
+      - κάνουμε
+      - κάνουν
+      - κάνουνε
+
+  - lemma: μένω
+    pos: verb
+    gloss_de: 'wohnen, bleiben (Lemma aus Kap. 3); hier neu: Plural μένουμε/μένετε/μένουν'
+    notes: 'Bereits Kap. 3 eingeführt (Singular μένω/μένεις/μένει). Hier nur die Pluralformen als Backstop ergänzt: μένουμε (wir), μένετε (ihr/Sie), μένουν (sie). Umgangssprachliche Variante μένουνε mitgeführt.'
+    inflected_forms:
+      - μένουμε
+      - μένετε
+      - μένουν
+      - μένουνε
+
+  # ── Taverne / Bestellen (Themen: Taverne, Bestellen) ──
+  - lemma: ταβέρνα
+    pos: noun
+    gender: f
+    gloss_de: 'Taverne (einfaches Speiselokal)'
+    notes: 'Endung -α → weiblich: η ταβέρνα. Schauplatz des Kapitels; im Dialog-Vorspann und in der Landeskunde.'
+
+  - lemma: κάρτα
+    pos: noun
+    gender: f
+    gloss_de: 'Karte; hier: Speisekarte (η κάρτα)'
+    notes: 'Endung -α → weiblich: η κάρτα. Gebräuchliche Alternative zum schon bekannten μενού (Kap. 5). Im Dialog: sehen sich die κάρτα an; Ορίστε η κάρτα.'
+
+  - lemma: σερβιτόρος
+    pos: noun
+    gender: m
+    gloss_de: 'Kellner'
+    notes: 'Endung -ος → männlich: ο σερβιτόρος. Im Dialog die Sprecherrolle des Kellners; weibliche Form (Kellnerin) nicht eingeführt.'
+
+  # ── Speisen / Getränke (Themen: Essen, Wünsche) — alle Nominativ Singular ──
+  - lemma: σαλάτα
+    pos: noun
+    gender: f
+    gloss_de: 'Salat'
+    notes: 'Endung -α → weiblich: μία σαλάτα. In der Taverne oft die geteilte Schüssel in der Tischmitte. Im Dialog zweimal (Bestellung + Zusammenfassung des Kellners).'
+
+  - lemma: κοτόπουλο
+    pos: noun
+    gender: n
+    gloss_de: 'Hähnchen, Huhn (als Gericht)'
+    notes: 'Endung -ο → sächlich: το κοτόπουλο. Häufiges Tavernengericht neben Fisch. Im Dialog dreimal (Angebot des Kellners, Bestellung, Zusammenfassung).'
+
+  - lemma: κρασί
+    pos: noun
+    gender: n
+    gloss_de: 'Wein'
+    notes: 'Endung -ί → sächlich, auf der letzten Silbe betont: το κρασί. Im Dialog als Getränkewunsch (θέλω να πιω κρασί); dreimal belegt.'
+
+grammar_introduced:
+  - id: praesens-omega-pl
+    label_de: 'Präsens regelmäßiger Verben auf -ω, Plural: -ουμε (wir) / -ετε (ihr/Sie) / -ουν(ε) (sie). Vervollständigt das Singular-Paradigma aus Kap. 3 an κάνω/μένω; die ihr/Sie-Form -ετε ordnet das in Kap. 3 rezeptiv gelernte Τι κάνετε; ins System ein. Neues Verb θέλω voll durchkonjugiert. Wunsch mit να: θέλω να + Verb als feste Chunks (θέλω να φάω, θέλουμε να φάμε, θέλω να πιω); die να-Verbform (φάω/φάμε/πιω) NICHT systematisch eingeführt — kommt später. Plural nur bei den Verbformen; Nomen bleiben im Nominativ Singular (Nomen-Plural erst Kap. 15).'
+
+grammar_recycled:
+  - praesens-omega-sg
+  - fragewoerter-demonstrativa
+
+vocab_recycled:
+  - κάνω          # Kap. 3 — Singular bekannt, Τι κάνετε; als Block; hier ins Plural-System eingeordnet
+  - μένω          # Kap. 3 — Singular bekannt; hier Pluralformen ergänzt
+  - τι            # Kap. 3/9 — Τι θέλετε; (Fragewort, unveränderlich)
+  - είμαι         # Kap. 6 — είναι in Τι είναι φρέσκο εδώ;
+  - εγώ           # Kap. 6 — Εγώ θέλω … (betontes Subjekt am Tisch)
+  - εσύ           # Kap. 1 — Εσύ, Λένα; (Frage zurückgeben)
+  - εδώ           # Kap. 3 — Τι είναι φρέσκο εδώ;
+  - ναι           # Kap. 1
+  - και           # Kap. 2 — Reihung der Gerichte
+  - πολύ          # Kap. 2 — πολύ φρέσκο ψάρι
+  - ωραία         # Kap. 2 — zustimmende Reaktion
+  - ευχαριστώ     # Kap. 1
+  - παρακαλώ      # Kap. 2 — beim Bestellen
+  - ορίστε        # Kap. 2 — Ορίστε η κάρτα (beim Hinreichen)
+  - μία           # Kap. 5 — μία σαλάτα, μία μπίρα (unbestimmter Artikel f)
+  - καλησπέρα     # Kap. 1 — Abendgruß in der Taverne
+  - νερό          # Kap. 2 — Getränkewahl
+  - μπίρα         # Kap. 5 — θέλω να πιω μία μπίρα
+  - ψάρι          # Kap. 9 — φρέσκο ψάρι (Kernspeise)
+  - ψωμί          # Kap. 9 — φρέσκο ψωμί
+  - πατάτα        # Kap. 9 — Beilage
+  - φέτα          # Kap. 9 — Beilage
+  - φρέσκος       # Kap. 9 — φρέσκο ψάρι / φρέσκο ψωμί (sächliche Form)
+  - ο             # Kap. 4 — ο σερβιτόρος (Genus-Anker)
+  - η             # Kap. 4 — η ταβέρνα, η κάρτα
+  - το            # Kap. 4 — το ψάρι, το κοτόπουλο, το κρασί
+
+exercises:
+  count: 8
+  types:
+    - matching
+    - form-recognition
+    - conjugation-gap-fill
+    - conjugation-gap-fill
+    - chunk-gap-fill
+    - multiple-choice
+    - dialogue-gap-fill
+    - free-production
