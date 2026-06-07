@@ -175,14 +175,14 @@ Baseline: validate_schema 0 Fehler, continuity_check 0 Verstöße. Orchestrator-
 ### Befunde Runde 1
 - continuity-checker: **KONTINUITÄT OK** (Demonstrativa/ποιος Nom Sg, 3 Formen deklariert; nur στη/στην-Chunks; kein Plural/Kasus)
 - reviewer: **FREIGABE** (Akzente/Genus/φρέσκια korrekt):
-  - [ ] R1 [minor] chapter.md:14 πού-Beleg „Από πού είσαι;" = „woher", passt nicht zur Glosse „wo" → Beleg „Πού μένεις;" (Kap. 6)
-  - [ ] R2 [minor] chapter.md:55 „Εκείνη εκεί, εκείνο το μικρό μαγαζί" holprig (Person f + Ding n unverbunden) → glätten (deckt sich mit L1)
-  - [ ] R3 [minor] chapter.md:159-161 „ποιος … nicht als Artikel zu lesen" sachlich schief → korrigieren (betontes Fragewort vs. unbetont; πού/που-Kontrast)
+  - [x] R1 [minor] πού-Beleg im Lernziele-Vorspann auf „Πού μένεις;" (Kap. 6) geändert; passt jetzt zur Glosse „wo".
+  - [x] R2 [minor] Dialog geglättet auf „Αυτή είναι η Ελένη. Εκεί, εκείνο το μικρό μαγαζί." (kein unverbundenes Person-f + Ding-n mehr). Deckt sich mit L1.
+  - [x] R3 [minor] ποιος-Akzent: falscher „Artikel"-Vergleich entfernt; jetzt betontes Fragewort vs. unbetonter Namensvetter (πού/που-Analogie).
 - reader: **kein COMPREHENSION-FAILURE**:
   - [ ] L2 [gap, KRITISCH] φρέσκια (weibl. von φρέσκος) endet auf -ια — von Kap. 8 (-η/-α) nicht abgedeckt, unerklärt im Dialog+Übungen → teacher: φρέσκος-Femininum φρέσκια kurz als Sonderform erklären (als Block lernen)
   - [ ] L5 [confusing] τι vs. ποιο bei Sachen nicht erklärt, aber abgefragt → teacher: kurze Abgrenzung (τι = was ist das (unbekannt) / ποιο = welches (Auswahl aus Bekanntem))
   - [ ] L1 [gap] εκείνη im Dialog vor Grammatik-Tabelle; Lernziel nennt nur αυτό/εκείνο → Lernziel/Vorab leicht anpassen (deckt sich mit R2)
-  - [ ] L3 [confusing] Übung 1 Kopf „-ος / -ς" — bloßes -ς unerklärt/verwirrend → exercise-designer: streichen, nur -ος
+  - [x] L3 [confusing] Übung 1 Kopf „-ος / -ς" — bloßes -ς unerklärt/verwirrend → exercise-designer: streichen, nur -ος — erledigt: „/ -ς" in Aufgabenstellung (a) UND in der Lösung zu Ü1 gestrichen; männliche Endung steht jetzt nur als **-ος** (konsistent mit Kap. 8 und Grammatikteil Kap. 9, αυτός/εκείνος/ποιος enden alle auf -ος).
   - [ ] L4 [pacing] Demonstrativ+Artikel+Nomen schon im Dialog, in Grammatik als „Blick voraus" vertagt → Hinweis früher/klarer; optional
   - [ ] L6 [pacing] viel auf einmal (6 Demonstrativformen + ποιος + τι/πού-Abgrenzung) → optional entzerren
 - ai-guard: **überwiegend menschlich** (Positiv: Landeskunde Zugaben/Beziehung):
@@ -191,3 +191,7 @@ Baseline: validate_schema 0 Fehler, continuity_check 0 Verstöße. Orchestrator-
   - [ ] G5 [floskel] chapter.md:190-192 „staune nur darüber" → konkreter Voraus-Verweis
   - [ ] G6 [symmetrie] zwei aufeinanderfolgende Abschnitte enden mit Mini-Formel → einen variieren
   - [ ] G2/G3 [rhythmus] gleichförmige Erklärsätze / verkappte Listenprose bei den Fragewörtern → auflockern
+- cultural-reviewer: **solide** (Feilschen/χάρισμα vorbildlich, anti-Basar-Klischee):
+  - [ ] K5 [stereotyp] chapter.md:369-371 Stadt/Insel-Dichotomie (Athen/Thessaloniki vs. Inseldorf) blendet Festland-Kleinstadt/Nordgriechenland aus → umformulieren (große Stadt vs. kleinerer Ort auf Festland ODER Insel)
+  - [ ] K3 [fakt, optional] ψωμί auf der λαϊκή weniger typisch als Gemüse/Fisch → optionaler Mini-Hinweis
+  - [ ] K1/K2/K4/K6/K7/K8: korrekt — keine Aktion
