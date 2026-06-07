@@ -1,0 +1,140 @@
+chapter: 7
+slug: i-oikogeneia-mou
+status: entwurf
+
+vocab_introduced:
+  # ── Possessiv-Klitika (Grammatik-Neueinführung; Kern des Kapitels) ──
+  # σου ist NICHT hier deklariert: es ist bereits in Kap. 1 (Anrede γεια σου)
+  # eingeführt und wird hier nur in zweiter Funktion (Possessiv „dein") recycelt.
+  - lemma: μου
+    pos: pron
+    gloss_de: 'mein (nachgestellt: το σπίτι μου = mein Haus); unbetont, steht hinter Artikel + Nomen'
+    notes: 'Possessiv-Klitikon. Unbetont, klebt hinten an: Artikel + Nomen + μου (η μητέρα μου). Anders als deutsch „mein", das vorn steht. Bei lang/weit vorn betonten Wörtern tritt ein zweiter Akzent auf das Nomen (η οικογένειά μου, το όνομά μου) — als Form gelernt, nicht als Regel.'
+
+  - lemma: του
+    pos: pron
+    gloss_de: 'sein (nachgestellt: το όνομά του = sein Name; ein Mann besitzt)'
+    notes: 'Possessiv-Klitikon, männlicher Besitzer. Vom weiblichen της durch den letzten Buchstaben unterschieden (-υ vs. -ς). Kein Genitiv-Paradigma — fester Baustein.'
+
+  - lemma: της
+    pos: pron
+    gloss_de: 'ihr (nachgestellt: το σπίτι της = ihr Haus; eine Frau besitzt)'
+    notes: 'Possessiv-Klitikon, weiblicher Besitzer. Gegenstück zu του. Kein Genitiv-Paradigma — fester Baustein.'
+
+  # ── Familie / Verwandtschaft (Themen: Familie, Verwandtschaft) ──
+  - lemma: οικογένεια
+    pos: noun
+    gender: f
+    gloss_de: 'Familie'
+    notes: 'Endung -α → weiblich: η οικογένεια. Weit vorn betont (-γέ-); mit Klitikon zweiter Akzent: η οικογένειά μου. Diese Klitikon-Form als Block gelernt.'
+    inflected_forms:
+      - οικογένειά
+
+  - lemma: μητέρα
+    pos: noun
+    gender: f
+    gloss_de: 'Mutter'
+    notes: 'Endung -α → weiblich: η μητέρα μου. Kurz genug, kein zweiter Akzent mit Klitikon.'
+
+  - lemma: πατέρας
+    pos: noun
+    gender: m
+    gloss_de: 'Vater'
+    notes: 'Endung -ας → männlich: ο πατέρας μου.'
+
+  - lemma: αδελφός
+    pos: noun
+    gender: m
+    gloss_de: 'Bruder'
+    notes: 'Endung -ος → männlich: ο αδελφός μου. Auch αδερφός geschrieben/gesprochen; im Buch durchgängig αδελφός.'
+
+  - lemma: αδελφή
+    pos: noun
+    gender: f
+    gloss_de: 'Schwester'
+    notes: 'Endung -ή → weiblich: η αδελφή μου. Weibliches Gegenstück zu ο αδελφός, als Paar gelernt.'
+
+  - lemma: γιαγιά
+    pos: noun
+    gender: f
+    gloss_de: 'Großmutter, Oma'
+    notes: 'Endung -ά (auf der letzten Silbe betont) → weiblich: η γιαγιά μου.'
+
+  - lemma: παππούς
+    pos: noun
+    gender: m
+    gloss_de: 'Großvater, Opa'
+    notes: 'Männlich: ο παππούς μου. Doppel-π gesprochen wie einfaches p.'
+
+  - lemma: γιος
+    pos: noun
+    gender: m
+    gloss_de: 'Sohn'
+    notes: 'Männlich: ο γιος μου. Einsilbig (gjos).'
+
+  - lemma: κόρη
+    pos: noun
+    gender: f
+    gloss_de: 'Tochter'
+    notes: 'Endung -η → weiblich: η κόρη μου. Bedeutet auch „Mädchen/junge Frau".'
+
+  # ── Besitz / Foto (Thema: Besitz) ──
+  - lemma: όνομα
+    pos: noun
+    gender: n
+    gloss_de: 'Name'
+    notes: 'Sächlich (το όνομα) trotz Endung -α — wie το γάλα aus Kap. 5 eine Ausnahme. Weit vorn betont; mit Klitikon zweiter Akzent: το όνομά μου, το όνομά του. Klitikon-Form als Block gelernt.'
+    inflected_forms:
+      - όνομά
+
+  - lemma: φωτογραφία
+    pos: noun
+    gender: f
+    gloss_de: 'Foto, Fotografie'
+    notes: 'Endung -α → weiblich: η φωτογραφία. Im Dialog als Benennung des Bildes auf dem Handy.'
+
+grammar_introduced:
+  - id: possessiv-klitikon
+    label_de: 'Besitz durch nachgestelltes Klitikon (μου/σου/του/της): Artikel + Nomen + Klitikon, unbetont, hinter dem Nomen (το σπίτι μου, η αδελφή σου). σου in zweiter Rolle (Possessiv neben der Anrede γεια σου). Kein Genitiv-/Kasus-Paradigma.'
+
+grammar_recycled:
+  - artikel-genus-nom-sg
+  - eimai-singular
+
+vocab_recycled:
+  - σου          # Kap. 1 — jetzt zusätzlich als Possessiv „dein" (Doppelrolle)
+  - γεια         # Kap. 1 — γεια σου als Anker für die σου-Doppelrolle
+  - ναι          # Kap. 1
+  - ο            # Kap. 4
+  - η            # Kap. 3/4
+  - το           # Kap. 4
+  - σπίτι        # Kap. 4 — Kernbeispiel το σπίτι μου / το σπίτι της
+  - γειτονιά     # Kap. 4
+  - άντρας       # Kap. 4 — ο άντρας μου (Ehemann)
+  - παιδί        # Kap. 4 (im Lernziel-Kontext als bekanntes Familienwort)
+  - και          # Kap. 2
+  - ωραία        # Kap. 2
+  - πολύ         # Kap. 2
+  - εδώ          # Kap. 3
+  - εκεί         # Kap. 4
+  - τώρα         # Kap. 3
+  - μένω         # Kap. 3 — Μένει (στην Αθήνα)
+  - είμαι        # Kap. 6 — είναι (το όνομά του είναι …)
+  - πού          # Kap. 6 — Πού είναι το σπίτι της;
+  - σε           # Kap. 6 — στην/στη als Chunk (στην Αθήνα, στη Νάξο, στη γειτονιά)
+  - Αθήνα        # Kap. 6
+  - Νάξος        # Kap. 6 — στη Νάξο
+  - Γερμανία     # Kap. 6 — είμαι από τη Γερμανία (Lernziel-Anknüpfung)
+  - από          # Kap. 6
+
+exercises:
+  count: 8
+  types:
+    - zuordnung
+    - lueckentext
+    - lueckentext
+    - lueckentext
+    - lueckentext
+    - unterscheidung
+    - lueckendialog
+    - freie-produktion
