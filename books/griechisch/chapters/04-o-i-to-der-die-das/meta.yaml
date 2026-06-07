@@ -1,0 +1,152 @@
+chapter: 4
+slug: o-i-to-der-die-das
+status: entwurf
+
+vocab_introduced:
+  # ── Artikel (Grammatik-Neueinführung; η wurde in Kap. 3 rezeptiv gestreift) ──
+  - lemma: ο
+    pos: art
+    gender: m
+    gloss_de: 'der (bestimmter Artikel, männlich, Nominativ Singular)'
+    notes: 'Kurzes, offenes „o". Steht im Griechischen auch vor Eigennamen: ο Κώστας.'
+
+  - lemma: το
+    pos: art
+    gender: n
+    gloss_de: 'das (bestimmter Artikel, sächlich, Nominativ Singular)'
+    notes: 'Als ganze Silbe „to" gesprochen — nicht mit dem bloßen ο verwechseln.'
+
+  # ── Orte / Stadtviertel (Themen: Nachbarschaft, Stadtviertel, Orte) ──
+  - lemma: γειτονιά
+    pos: noun
+    gender: f
+    gloss_de: 'Nachbarschaft, Viertel (das soziale Netz im Viertel)'
+
+  - lemma: πλατεία
+    pos: noun
+    gender: f
+    gloss_de: 'Platz (zentraler Platz im Viertel)'
+
+  - lemma: δρόμος
+    pos: noun
+    gender: m
+    gloss_de: 'Straße, Weg'
+    notes: 'Endung -ος → typisch männlich. Achtung: deutsch „die Straße" ist weiblich, griechisch ο δρόμος männlich.'
+
+  - lemma: μαγαζί
+    pos: noun
+    gender: n
+    gloss_de: 'Laden, Geschäft'
+
+  - lemma: εκκλησία
+    pos: noun
+    gender: f
+    gloss_de: 'Kirche'
+
+  - lemma: σχολείο
+    pos: noun
+    gender: n
+    gloss_de: 'Schule'
+    notes: 'Endung -ο → sächlich. Deutsch „die Schule" weiblich, griechisch το σχολείο sächlich.'
+
+  - lemma: σπίτι
+    pos: noun
+    gender: n
+    gloss_de: 'Haus, Wohnung, Zuhause'
+    notes: 'Endung -ι → sächlich; hier deckungsgleich mit deutsch „das Haus".'
+
+  - lemma: φούρνος
+    pos: noun
+    gender: m
+    gloss_de: 'Bäckerei; auch: Backofen'
+    notes: 'Nur in der Grammatik als -ος-Beispiel, rezeptiv.'
+
+  - lemma: αγορά
+    pos: noun
+    gender: f
+    gloss_de: 'Markt; auch: das Einkaufen'
+    notes: 'Endung -α → weiblich. Deutsch „der Markt" männlich, griechisch η αγορά weiblich.'
+
+  - lemma: φαρμακείο
+    pos: noun
+    gender: n
+    gloss_de: 'Apotheke'
+    notes: 'Endung -ο → sächlich; nur in der Grammatik als Kontrastbeispiel (deutsch „die Apotheke" weiblich).'
+
+  # ── Personen / Rollen im Viertel (Thema: Personen) ──
+  - lemma: γείτονας
+    pos: noun
+    gender: m
+    gloss_de: 'Nachbar'
+
+  - lemma: γειτόνισσα
+    pos: noun
+    gender: f
+    gloss_de: 'Nachbarin'
+    notes: 'Weibliche Entsprechung zu ο γείτονας; nur in der Grammatik, rezeptiv.'
+
+  - lemma: άντρας
+    pos: noun
+    gender: m
+    gloss_de: 'Mann'
+
+  - lemma: γυναίκα
+    pos: noun
+    gender: f
+    gloss_de: 'Frau'
+    notes: 'Genus deckungsgleich mit dem Deutschen (η γυναίκα — die Frau).'
+
+  - lemma: παιδί
+    pos: noun
+    gender: n
+    gloss_de: 'Kind'
+    notes: 'Sächlich (το παιδί), gleich ob Junge oder Mädchen — wie deutsch „das Kind".'
+
+  - lemma: σκύλος
+    pos: noun
+    gender: m
+    gloss_de: 'Hund'
+
+  # ── Funktionswort (Pendant zum bekannten εδώ aus Kap. 3) ──
+  - lemma: εκεί
+    pos: adv
+    gloss_de: 'dort, da (drüben)'
+    notes: 'Gegenstück zum bekannten εδώ (hier): εδώ = bei mir, εκεί = weiter weg.'
+
+grammar_introduced:
+  - id: artikel-genus-nom-sg
+    label_de: 'Bestimmter Artikel und Genus im Nominativ Singular (ο männlich / η weiblich / το sächlich); der Artikel verrät das Genus'
+
+grammar_recycled:
+  - praesens-omega-sg
+  - hoeflichkeitsformeln
+
+vocab_recycled:
+  - καλημέρα
+  - γεια
+  - σου
+  - σας
+  - εσύ
+  - ευχαριστώ
+  - ναι
+  - πολύ
+  - ωραία
+  - καλά
+  - εδώ
+  - και
+  - λοιπόν
+  - κάνω
+  - μένω
+  - η
+  - καλώς ήρθες
+
+exercises:
+  count: 7
+  types:
+    - article-recognition
+    - genus-sorting
+    - gap-fill
+    - contrast-multiple-choice
+    - matching
+    - guided-production
+    - free-production
