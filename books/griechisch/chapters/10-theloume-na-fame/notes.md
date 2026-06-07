@@ -241,3 +241,10 @@ Baseline: validate_schema 0 Fehler, continuity_check 0 Verstöße. Orchestrator-
   - [x] K3/K5 [fakt] Landeskunde differenziert: Salate/Beilagen kommen oft als gemeinsame Schüssel in die Mitte, Hauptgerichte werden häufig pro Person bestellt (Dialog als Modell: Lena Fisch, Níkos Hähnchen). „alles in die Mitte" jetzt explizit den Mezedes-Lokalen (Ouzerí/Mezedopolío) zugeordnet. „nur für sich = steif" gestrichen → „für sich allein zu bestellen ist völlig normal und kein Fauxpas". → teacher
   - [x] K4 [stereotyp] „viele Schüsseln / ohne Eile" entschärft: kein tägliches Festessen; geteiltes Essen eher Abend/Wochenende/Familie, „je nach Anlass und Runde"; „viele Schüsseln" gestrichen, Fokus auf Miteinander statt Menge. → teacher
   - [x] K6/K7: korrekt (μεζέδες-Umschreibung, mündliches Tagesangebot) — keine Aktion
+
+## Phase 4 — Re-Review Runde 1 + Abschluss
+- continuity-checker: KONTINUITÄT OK (φάουμε getilgt; θέλω-να nur Chunks; Plural nur Verben; nur στην)
+- reviewer: FREIGABE (Runde 1; R1 vom exercise-designer behoben); ai-guard: FREIGABE; cultural: FREIGABE (K1–K5 gelöst, Dialog logisch konsistent)
+- reader: kein COMPREHENSION-FAILURE; L1 κάρτα by design (deklariert), L2 „Nominativ" → „Grundform (Einzahl)" (Orchestrator-Fix), L3 minor
+- validate_schema 0 Fehler, continuity_check 0 Verstöße
+- **Status → draft-complete** (volle Pipeline, 1 Überarbeitungsrunde + Mikrofixes; φάω/φάμε-Block, κάρτα-Dialoglogik, Landeskunde-Differenzierung, Meta-Floskeln, Nominativ→Grundform)

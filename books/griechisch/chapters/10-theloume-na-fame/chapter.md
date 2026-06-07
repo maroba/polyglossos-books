@@ -325,7 +325,7 @@ Such dir Speisen und Getränke aus dem Kasten. Denk daran: Beim gemeinsamen
 Wunsch nach einer Handlung nimmst du den festen Block **θέλουμε να φάμε**, fürs
 Trinken **θέλω να πιω**.
 
-**Speisen und Getränke (im Nominativ Singular)**
+**Speisen und Getränke (in der Grundform, Einzahl)**
 > το ψάρι · το κοτόπουλο · η σαλάτα · το ψωμί · η πατάτα · η φέτα ·
 > το νερό · η μπίρα · το κρασί
 
@@ -410,7 +410,7 @@ Die **-ετε**-Form trägt zwei Bedeutungen: *ihr* (mehrere) und höfliches *Si
 Die wir-Endung schreibt man immer **-ουμε** mit vollem *u*-Laut, nie auf
 **-ομε**. Ein eigenes Wort für *wir* oder *sie* braucht es nicht — die Endung
 am Verb trägt die Person; deshalb steht in 1 und 4 nichts vor dem Verb. Die
-Nomen dahinter (σαλάτα, ψάρι, κρασί) bleiben unverändert im Nominativ Singular —
+Nomen dahinter (σαλάτα, ψάρι, κρασί) bleiben unverändert in der Grundform (Einzahl) —
 nur das Verb steht im Plural.
 
 ### Übung 4
@@ -488,5 +488,5 @@ Trinkwunsch mit **θέλω να πιω** ausgedrückt wird.
 Was nicht geht, ist die Blöcke selbst zusammenzubauen oder die Form hinter
 **να** in eine andere Person zu setzen — **θέλω να φάω** (ich), **θέλουμε να
 φάμε** (wir) und **θέλω να πιω** (trinken) bleiben feste Bausteine. Die Speisen
-und Getränke stehen im Nominativ Singular (η σαλάτα, το ψωμί), nicht im
-Plural.
+und Getränke stehen in der Grundform, Einzahl (η σαλάτα, το ψωμί), nicht in der
+Mehrzahl.
