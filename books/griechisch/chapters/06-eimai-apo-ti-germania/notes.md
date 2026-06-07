@@ -200,3 +200,11 @@ Baseline: validate_schema 0 Fehler, continuity_check 0 Verstöße.
   - [x] G2 [rhythmus] chapter.md:107-110 „Das ist dein Anker" KI-Abschluss → erledigt (teacher, Runde 2): ersetzt durch „Dreimal hören, dreimal nachsprechen — danach verwechselst du sie nicht mehr."
   - [x] G3 [hedging] chapter.md:160-164 „noch nicht zu sortieren" → erledigt (teacher, Runde 2): direktiver formuliert ohne (falschen) Kapitelverweis — „Wann **στην**, wann **στη** — das hängt am Folgewort und kommt als System später. Für jetzt: nimm die Form aus dem Dialog und pack den Ortsnamen als Block dazu." Keine Nummer genannt.
   - [x] G1 [liste] Lernziel 3. Punkt schwächer → erledigt (teacher, Runde 2): nach Urteil mit Inhalt gefüllt statt nur gestrafft — „**είμαι**, **είσαι**, **είναι** auseinanderhalten und richtig einsetzen — ich, du oder ein Dritter, je nach Person." Trägt jetzt eigene Substanz (Personenunterscheidung) wie die anderen beiden Punkte.
+
+## Phase 4 — Re-Review Runde 2 + Abschluss
+- exercise-designer: Übung 4 auf Block-Auswahl (chunk-selection) umgestellt; στη(ν)-Notation → στην/στη (ν-Token-Fix)
+- teacher: ai-guard G1-G5 bereinigt
+- reader: **keine comprehension-gaps mehr** — alle 7 Übungen lösbar, kein Raten ausgeklammerter Regeln
+- ai-guard: **FREIGABE**; cultural: FREIGABE; reviewer: FREIGABE
+- validate_schema 0 Fehler, continuity_check 0 Verstöße
+- **Status → draft-complete** (volle Pipeline, 2 Überarbeitungsrunden + Notations-Fix)
