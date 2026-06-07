@@ -1,0 +1,146 @@
+chapter: 5
+slug: enas-mia-ena
+status: entwurf
+
+vocab_introduced:
+  # ── Unbestimmter Artikel (Grammatik-Neueinführung) ──
+  # ένας/ένα/έναν sind bereits in Kap. 2 als Bestell-Chunk deklariert und werden
+  # hier nur recycelt; NEU systematisiert wird die weibliche Nominativform μία.
+  - lemma: μία
+    pos: art
+    gender: f
+    gloss_de: 'eine (unbestimmter Artikel, weiblich, Nominativ Singular); auch Zahlwort „eins"'
+    notes: 'Zweisilbig mí-a. Kürzere Schreibweise μια ist dieselbe Form; im Buch durchgängig μία. Gegenstück zu ένας (m) / ένα (n).'
+    inflected_forms:
+      - μια
+
+  # ── Getränke (Themen: Café, Getränke, Bestellen) ──
+  - lemma: πορτοκαλάδα
+    pos: noun
+    gender: f
+    gloss_de: 'Orangenlimonade'
+    notes: 'Endung -α → weiblich: μία πορτοκαλάδα. Beim Bestellen unverändert (weibliche Wörter ändern die Form nicht).'
+
+  - lemma: λεμονάδα
+    pos: noun
+    gender: f
+    gloss_de: 'Limonade, Zitronenlimonade'
+    notes: 'Nur in der Landeskunde, rezeptiv. Endung -α → weiblich (η λεμονάδα), parallel zu πορτοκαλάδα.'
+
+  - lemma: χυμός
+    pos: noun
+    gender: m
+    gloss_de: 'Saft (frisch gepresster Fruchtsaft)'
+    notes: 'Endung -ος → männlich: ένας χυμός. Im Dialog als Nominativ-Benennung (ένας χυμός εκεί;).'
+
+  - lemma: μπίρα
+    pos: noun
+    gender: f
+    gloss_de: 'Bier'
+    notes: 'Endung -α → weiblich: μία μπίρα. Genus deckungsgleich mit deutsch „das Bier"? Nein — deutsch sächlich, griechisch weiblich (Genus-Kontrast).'
+
+  - lemma: γάλα
+    pos: noun
+    gender: n
+    gloss_de: 'Milch'
+    notes: 'Nur in der Landeskunde, rezeptiv (Kaffee mit Milch). Sächlich (το γάλα) trotz Endung -α — eine Ausnahme; hier nur zum Wiedererkennen.'
+
+  - lemma: τσίπουρο
+    pos: noun
+    gender: n
+    gloss_de: 'Tsípouro (klarer, hochprozentiger Tresterbrand)'
+    notes: 'Endung -ο → sächlich: ένα τσίπουρο. Abendgetränk, zu μεζέδες getrunken (Landeskunde).'
+
+  - lemma: ελληνικός
+    pos: adj
+    gloss_de: 'griechisch; hier: ο ελληνικός (καφές) = der griechische Kaffee'
+    notes: 'Nur in der Landeskunde, rezeptiv als feste Café-Bezeichnung (ελληνικός καφές). Adjektiv-Kongruenz wird erst in Kap. 8 behandelt; hier nicht als flektierbares Adjektiv gelehrt.'
+
+  # ── Gegenstände auf dem Tisch (Thema: Gegenstände) ──
+  - lemma: ποτήρι
+    pos: noun
+    gender: n
+    gloss_de: 'Glas (Trinkglas)'
+    notes: 'Endung -ι → sächlich: ένα ποτήρι. Im Dialog ένα ποτήρι νερό (ein Glas Wasser).'
+
+  - lemma: πιάτο
+    pos: noun
+    gender: n
+    gloss_de: 'Teller'
+    notes: 'Endung -ο → sächlich: ένα πιάτο.'
+
+  - lemma: τραπέζι
+    pos: noun
+    gender: n
+    gloss_de: 'Tisch'
+    notes: 'Endung -ι → sächlich: ένα τραπέζι. Deutsch „der Tisch" männlich, griechisch το τραπέζι sächlich (Genus-Kontrast).'
+
+  - lemma: καρέκλα
+    pos: noun
+    gender: f
+    gloss_de: 'Stuhl'
+    notes: 'Endung -α → weiblich: μία καρέκλα. Deutsch „der Stuhl" männlich, griechisch η καρέκλα weiblich (Genus-Kontrast).'
+
+  - lemma: φλιτζάνι
+    pos: noun
+    gender: n
+    gloss_de: 'Tasse (für Kaffee oder Tee)'
+    notes: 'Endung -ι → sächlich: ένα φλιτζάνι. Deutsch „die Tasse" weiblich, griechisch το φλιτζάνι sächlich (Genus-Kontrast).'
+
+  - lemma: μενού
+    pos: noun
+    gender: n
+    gloss_de: 'Speisekarte, Menü'
+    notes: 'Sächlich (το μενού), unveränderlich (Fremdwort). Im Dialog: Το μενού, παρακαλώ.'
+
+  # ── Funktionswort ──
+  - lemma: ή
+    pos: conj
+    gloss_de: 'oder'
+    notes: 'Trägt einen Akzent (ή) und ist dadurch vom Artikel η (die) unterschieden — das Auge entscheidet. Im Kapitel in der Genus-Frage: Ένας, μία ή ένα;'
+
+grammar_introduced:
+  - id: artikel-unbestimmt-nom-sg
+    label_de: 'Unbestimmter Artikel im Nominativ Singular (ένας männlich / μία weiblich / ένα sächlich); parallel zu ο/η/το, Wahl nach Genus'
+
+grammar_recycled:
+  - artikel-genus-nom-sg
+  - praesens-omega-sg
+
+vocab_recycled:
+  - ο
+  - η
+  - το
+  - ένας
+  - ένα
+  - καφές
+  - νερό
+  - φραπές
+  - και
+  - εδώ
+  - εκεί
+  - ναι
+  - όχι
+  - παρακαλώ
+  - ευχαριστώ
+  - ωραία
+  - ορίστε
+  - πολύ
+  - καλά
+  - τι
+  - κάνω
+  - καλησπέρα
+  - λοιπόν
+  - τώρα
+  - κύριος
+
+exercises:
+  count: 7
+  types:
+    - article-recognition
+    - genus-sorting
+    - gap-fill
+    - contrast-multiple-choice
+    - definite-indefinite-transform
+    - communicative-cafe-ordering
+    - free-production
