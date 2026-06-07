@@ -20,8 +20,9 @@ Wenn du dieses Kapitel durch hast, kannst du
 
 - die nächsten Familienmitglieder benennen — **η μητέρα**, **ο πατέρας**, **ο
   αδελφός**,
-- sagen, dass etwas *deins*, *meins*, *seins* oder *ihres* ist — **το σπίτι
-  μου**, **η αδελφή σου**,
+- sagen, dass etwas *meins*, *deins*, *seins* oder *ihres* ist — mit den vier
+  Wörtchen **μου**, **σου**, **του** und **της**: **το σπίτι μου**, **η αδελφή
+  σου**, **το όνομά του**, **το σπίτι της**,
 - in ein paar Sätzen über deine eigene Familie sprechen, so wie Lena es María
   über das Foto erzählt.
 
@@ -34,7 +35,7 @@ der Wortschatz-Box.
 
 Nachmittag im Kafenío. Lena hat ein Foto auf dem Handy, María schaut mit.
 
-**Μαρία:** Ωραία φωτογραφία! Η οικογένειά σου;
+**Μαρία:** Ωραία! Η οικογένειά σου;
 
 **Λένα:** Ναι, η οικογένειά μου. Εδώ η μητέρα μου και ο πατέρας μου.
 
@@ -47,14 +48,14 @@ Nachmittag im Kafenío. Lena hat ein Foto auf dem Handy, María schaut mit.
 **Λένα:** Στη γειτονιά, εδώ. Και ο αδελφός μου — εκεί, ο Μάρκος. Εδώ η γιαγιά μου
 και ο παππούς μου.
 
-**Μαρία:** Ωραία οικογένεια! Η οικογένειά μου είναι στη Νάξο. Η μητέρα μου, ο
+**Μαρία:** Ωραία! Η οικογένειά μου είναι στη Νάξο. Η μητέρα μου, ο
 πατέρας μου, ο αδελφός μου. Το όνομά του είναι Δημήτρης.
 
 **Λένα:** Και εδώ;
 
 **Μαρία:** Εδώ ο άντρας μου. Και ο γιος μου, η κόρη μου.
 
-**Λένα:** Πολύ ωραία οικογένεια, Μαρία!
+**Λένα:** Πολύ ωραία, Μαρία!
 
 Mehr braucht es nicht: ein paar Verwandte und ein nachgestelltes Wörtchen, und
 schon erzählst du, wer zu dir gehört.
@@ -115,55 +116,65 @@ fragst du nach María: **η κόρη σου;** — *deine Tochter?*
 ### σου ist dir schon einmal begegnet
 
 Eines der vier Wörtchen kennst du längst. **σου** sagst du seit Kapitel 1, jeden
-Tag, im Gruß **γεια σου**. Dort heißt es *dir* — *Hallo dir*, eine vertraute
-Anrede. Jetzt taucht dasselbe **σου** wieder auf, diesmal als *dein*: **η
-αδελφή σου** — *deine Schwester*.
+Tag, im Gruß **γεια σου**. Dort ist es die vertraute Anrede, das *du*, mit dem du
+jemanden duzt — so wie du es in Kapitel 1 kennengelernt hast. Jetzt taucht
+dasselbe **σου** wieder auf, diesmal als *dein*: **η αδελφή σου** — *deine
+Schwester*.
 
 Ein und dasselbe Wörtchen, zwei Aufgaben. Das ist kein Tippfehler und nichts,
-was du dir merken müsstest wie zwei Vokabeln — der Zusammenhang sagt dir jedes
-Mal, welche der beiden gemeint ist. Steht **σου** allein im Gruß, ist es die
-Anrede. Klebt es hinten an einem Nomen (**το σπίτι σου**), ist es *dein*. Sein
-Gegenstück **μου** ist neu und arbeitet genauso: *mein*.
+was du dir merken müsstest wie zwei Vokabeln. Steht **σου** allein im Gruß, ist
+es die vertraute Anrede; klebt es hinten an einem Nomen (**το σπίτι σου**), ist
+es *dein*. Der Zusammenhang sagt dir jedes Mal, welche der beiden gemeint ist.
+Sein Gegenstück **μου** ist neu und arbeitet genauso: *mein*.
 
 ### του und της — der feine Unterschied
 
-Zwei der Wörtchen verwechseln Deutschsprachige am Anfang gern, weil sie sich
-ähnlich anhören: **του** heißt *sein* (ein Mann besitzt), **της** heißt *ihr*
-(eine Frau besitzt). Wer gerade gemeint ist, sagt dir der Zusammenhang — geht es
-um den Bruder oder um die Schwester.
+Diese beiden verwechseln Deutschsprachige am Anfang gern, weil sie ähnlich
+klingen. **του** heißt *sein*, **της** heißt *ihr* — das eine für einen
+männlichen Besitzer, das andere für einen weiblichen. Ob gerade der Bruder oder
+die Schwester gemeint ist, ergibt sich aus dem Satz drumherum.
 
 > Ο αδελφός μου: το όνομά **του** είναι Δημήτρης. — *Mein Bruder: sein Name ist
 > Dimítris.*
 > Η αδελφή μου: το σπίτι **της** είναι στην Αθήνα. — *Meine Schwester: ihr Haus
 > ist in Athen.*
 
-Geht es um einen Mann, nimmst du **του**; geht es um eine Frau, **της**. Achte
-auf den letzten Buchstaben: **του** endet auf **-υ**, **της** auf **-ς**.
+Wenn du dir unsicher bist, hilft das Schriftbild: **του** endet auf **-υ**,
+**της** auf **-ς**.
 
-### Achtung: der zweite Akzent bei langen Wörtern
+### Achtung: der zweite Akzent
 
 Ein Wort im Titel sieht seltsam aus: **η οικογένειά μου**. Da steht ein Akzent
-auf dem vorletzten **-ά**, obwohl das Wort allein **οικογένεια** geschrieben
+auf dem letzten **-ά**, obwohl das Wort allein **οικογένεια** geschrieben
 wird — mit dem Akzent weiter vorn. Das ist kein Druckfehler.
 
-Wenn das Besitzwort an ein langes Wort tritt, das seinen Akzent weit vorn trägt,
-bekommt das Wort einen zweiten Akzent hinzu: **οικογένεια** wird zu
-**οικογένειά μου**, **όνομα** wird zu **όνομά του**. Du musst die Regel dahinter
-jetzt nicht durchdringen — lern diese beiden Formen einfach so, wie sie im
-Dialog stehen, mit dem zusätzlichen Akzent. Bei den kurzen Wörtern (**μητέρα**,
-**σπίτι**, **αδελφή**) passiert das nicht, da bleibt alles, wie du es kennst:
-**η μητέρα μου**, **το σπίτι σου**.
+Es kommt darauf an, wo das Wort von sich aus betont ist. Sprich es einmal
+langsam: **οι-κο-ΓΕ-νεια**, **Ο-νο-μα** — die Betonung liegt auf der
+*drittletzten* Silbe. Genau solche Wörter bekommen einen zweiten Akzent dazu,
+sobald das Besitzwort dahinterklebt: **οικογένεια** wird zu **οικογένειά μου**,
+**όνομα** wird zu **όνομά του**. Bei Wörtern, die ihren Akzent näher am Ende
+tragen — **μη-ΤΕ-ρα**, **ΣΠΙ-τι**, **α-δελ-ΦΗ** —, passiert nichts; da bleibt
+alles, wie du es kennst: **η μητέρα μου**, **το σπίτι σου**.
 
-### Kein Genitiv, keine Tabelle zum Auswendiglernen
+Die Regel dahinter musst du jetzt nicht durchdringen. Es reicht, wenn du
+**οικογένειά μου** und **όνομά του** als feste Formen mit dem zweiten Akzent
+übernimmst, so wie sie im Dialog stehen.
+
+### Vier feste Bausteine, keine Tabelle zum Auswendiglernen
+
+Diese kleinen, unbetonten Wörtchen haben einen Namen: man nennt sie **Klitika**
+(Einzahl: Klitikon). Das Wort hilft dir nicht beim Sprechen, aber du wirst ihm in
+den Übungen begegnen — gemeint sind immer genau diese vier: **μου, σου, του,
+της**.
 
 Vielleicht hast du schon gehört, dass das Griechische ein Kasussystem hat —
-Fälle, die Wörter verändern. Das stimmt, und es kommt später. Diese vier
-Wörtchen aber sind keine solche Tabelle, die du durchkonjugieren müsstest. Es
-sind vier feste kleine Bausteine, die du hinten an ein Nomen klebst, fertig.
-Behandle sie genau so: **μου, σου, του, της** — anhängen und gut.
+Fälle, die Wörter verändern, der Genitiv ist einer davon. Das stimmt, und es
+kommt später. Unsere vier Klitika sind aber keine solche Tabelle zum
+Durchkonjugieren, sondern feste kleine Bausteine, die du hinten an ein Nomen
+klebst. Behandle sie genau so: anhängen, fertig.
 
 > **Das Wichtigste für den Anfang:** Besitz steht *hinter* dem Nomen, nicht
-> davor. Bauplan: **Artikel + Nomen + Wörtchen** — **το σπίτι μου** (mein Haus),
+> davor. Bauplan: **Artikel + Nomen + Klitikon** — **το σπίτι μου** (mein Haus),
 > **η αδελφή σου** (deine Schwester), **το όνομά του** (sein Name), **το σπίτι
 > της** (ihr Haus). Das **σου** aus **γεια σου** ist dasselbe Wörtchen, hier in
 > der Rolle *dein*.
@@ -215,9 +226,9 @@ auf **-ς**.
 
 1. Η αδελφή μου, η Σοφία: το σπίτι ____ είναι στην Αθήνα.
 2. Ο παππούς μου: το σπίτι ____ είναι εδώ, στη γειτονιά.
-3. Η μητέρα μου: η οικογένεια ____ είναι στη Νάξο.
-4. Ο αδελφός μου, ο Μάρκος: το όνομα ____ είναι Μάρκος.
-5. Η κόρη μου: το όνομα ____ είναι Σοφία.
+3. Η μητέρα μου: η οικογένειά ____ είναι στη Νάξο.
+4. Ο αδελφός μου, ο Μάρκος: το όνομά ____ είναι Μάρκος.
+5. Η κόρη μου: το όνομά ____ είναι Σοφία.
 
 ### Übung 4 — μου anhängen (über die eigene Familie)
 
@@ -255,7 +266,7 @@ Verwandten, steht **σου** (*dein*). Die Frage erkennst du am Fragezeichen.
 
 1. Λένα über sich: Εκεί ο αδελφός ____ , ο Μάρκος.
 2. Λένα fragt María: Και η οικογένειά ____ ; *(das Nomen trägt schon den
-   zweiten Akzent — du setzt nur das Klitikon ein)*
+   zweiten Akzent — du setzt nur das Klitikon (das Besitzwörtchen) ein)*
 3. Λένα über sich: Εδώ η γιαγιά ____ και ο παππούς ____ .
 4. Λένα fragt María: Πού είναι το σπίτι ____ ;
 
@@ -280,13 +291,13 @@ passende Klitikon: **μου** (*mein*), wenn María über die eigene Familie spr
 und in der letzten Zeile **του** (*sein*) für ihren Bruder Dimítris. Orientier
 dich am Dialog im Kapitel.
 
-> **Λένα:** Ωραία φωτογραφία! Η οικογένειά ________ ;
+> **Λένα:** Ωραία! Η οικογένειά ________ ;
 >
 > **Μαρία:** Ναι. Εδώ η μητέρα ________ και ο πατέρας ________ .
 >
 > **Λένα:** Και εκεί;
 >
-> **Μαρία:** Εκεί ο αδελφός ________ . Το όνομα ________ είναι Δημήτρης.
+> **Μαρία:** Εκεί ο αδελφός ________ . Το όνομά ________ είναι Δημήτρης.
 >
 > **Λένα:** Και εδώ;
 >
@@ -321,11 +332,13 @@ dem zweiten Akzent so im Dialog, du übernimmst sie als Block.
 
 ## Landeskunde: Familie — der erste Bezugsrahmen
 
-Wenn María Lena fragt **Πού είναι η οικογένειά σου;**, ist das keine bloße
-Höflichkeit. Wer du bist, ergibt sich in Griechenland traditionell zuerst über
-die Familie — über die Eltern, die Geschwister, das Dorf, aus dem die Familie
-stammt. Die Frage nach den Angehörigen kommt im Gespräch früh und gilt nicht als
-zu privat, anders als man es aus Deutschland vielleicht kennt.
+Wenn María und Lena im Kafenío über das Foto reden — demselben Kafenío aus
+Kapitel 2, wo Níkos hinterm Tresen steht —, ist die Frage **Πού είναι η
+οικογένειά σου;** keine bloße Höflichkeit. Wer du bist, ergibt sich in
+Griechenland traditionell zuerst über die Familie: über die Eltern, die
+Geschwister, das Dorf, aus dem man stammt. Die Frage nach den Angehörigen kommt
+im Gespräch früh, und sie gilt nicht als zu privat — anders, als man es aus
+Deutschland vielleicht kennt.
 
 Lange war die griechische Familie weit mehr als Eltern und Kinder. Großeltern,
 Onkel, Tanten, Cousinen wohnten im selben Ort, oft im selben Haus oder Tür an
@@ -338,12 +351,16 @@ nach dem Studium zurück zu den Eltern zogen oder von ihnen unterstützt wurden.
 
 Heute ist das Bild vielschichtiger. In Athen und Thessaloniki leben Menschen in
 kleinen Haushalten wie überall in Europa, man heiratet später und bekommt
-weniger Kinder; auf den Inseln und in den Dörfern sind die Wege zwischen den
-Generationen oft noch kürzer. Aber selbst wer als junger Mensch in die Stadt
-zieht, fährt zu Ostern und zum Namenstag nach Hause, telefoniert sonntags mit
-der Mutter und weiß, dass im Hintergrund ein Netz gespannt ist. Wenn du also
-ein Foto zeigst und sagst **εδώ η μητέρα μου**, triffst du einen Nerv — über die
-eigene Familie zu sprechen, öffnet hier fast immer ein Gespräch.
+weniger Kinder; auf den Inseln und in den Dörfern dagegen sind die Wege zwischen
+den Generationen oft noch kürzer. Aber selbst wer als junger Mensch in die Stadt
+zieht, fährt zu Ostern und zum Namenstag nach Hause. Der Namenstag — der Tag des
+Heiligen, dessen Namen man trägt — war lange wichtiger als der Geburtstag;
+inzwischen feiern Jüngere zunehmend auch den Geburtstag, manche beides.
+
+Und so telefoniert man sonntags mit der Mutter. Im Hintergrund, das weiß man,
+ist immer noch ein Netz gespannt — aus Geschwistern, Großeltern, ein paar
+Verwandten im Dorf, die man seit der Kindheit kennt. Wenn du ein Foto zeigst und
+sagst **εδώ η μητέρα μου**, triffst du einen Nerv.
 
 <!-- @section: loesungen -->
 
@@ -372,11 +389,14 @@ Artikel — Bruder männlich (**ο**), Schwester weiblich (**η**).
 
 ### Übung 3
 
-1. **της** — η Σοφία ist eine Frau, also *ihr* Haus.
-2. **του** — ο παππούς ist ein Mann, also *sein* Haus.
-3. **της** — η μητέρα ist eine Frau, also *ihre* Familie.
-4. **του** — ο Μάρκος ist ein Mann, also *sein* Name.
-5. **της** — η κόρη ist eine Frau, also *ihr* Name.
+1. **της** — το σπίτι **της**; η Σοφία ist eine Frau, also *ihr* Haus.
+2. **του** — το σπίτι **του**; ο παππούς ist ein Mann, also *sein* Haus.
+3. **της** — η οικογένειά **της**; η μητέρα ist eine Frau, also *ihre*
+   Familie. (Zweiter Akzent auf **-ά**, weil das Klitikon anklebt.)
+4. **του** — το όνομά **του**; ο Μάρκος ist ein Mann, also *sein* Name.
+   (Zweiter Akzent auf **-ά**: το όνομά του, nicht *το όνομα του*.)
+5. **της** — το όνομά **της**; η κόρη ist eine Frau, also *ihr* Name.
+   (Ebenfalls mit zweitem Akzent: το όνομά της.)
 
 Merkhilfe fürs Schriftbild: **του** endet auf **-υ** (Mann besitzt), **της**
 auf **-ς** (Frau besitzt). Das Genus des Nomens davor (το όνομα, το σπίτι)
@@ -424,13 +444,13 @@ gemeint ist.
 
 ### Übung 7
 
-> **Λένα:** Ωραία φωτογραφία! Η οικογένειά **σου** ;
+> **Λένα:** Ωραία! Η οικογένειά **σου** ;
 >
 > **Μαρία:** Ναι. Εδώ η μητέρα **μου** και ο πατέρας **μου** .
 >
 > **Λένα:** Και εκεί;
 >
-> **Μαρία:** Εκεί ο αδελφός **μου** . Το όνομα **του** είναι Δημήτρης.
+> **Μαρία:** Εκεί ο αδελφός **μου** . Το όνομά **του** είναι Δημήτρης.
 >
 > **Λένα:** Και εδώ;
 >
