@@ -81,7 +81,7 @@ das Griechische, nur mit anderen Wörtern.
 
 ### Erst schauen: drei kleine Wörter im Dialog
 
-Sieh dir an, was María vor jedem Ding sagt:
+Vor jedem Ding im Dialog steht ein kurzes Wörtchen:
 
 > **η πλατεία** — *der Platz*
 > **ο δρόμος** — *die Straße*
@@ -107,38 +107,44 @@ Das **η** ist dir nicht ganz fremd: In Kapitel 3 stand es schon vor Lenas Namen
 System dahinter: **η** ist der weibliche Artikel, und Lena ist nun einmal eine
 Frau, also **η Λένα**.
 
-Ein Hinweis fürs Ohr: Das **ο** ist ein kurzes, offenes „o" wie in *Sonne* —
-verwechsle es beim Lesen nicht mit dem **το**, das du als ganze Silbe „to"
-sprichst. Und das **η** klingt schlicht wie ein langes „i" (wie in *Biene*),
-nicht wie ein deutsches „h".
+Ein Hinweis fürs Ohr: Das **ο** sprichst du als kurzes, offenes o wie in
+*Sonne* — verwechsle es beim Lesen nicht mit dem **το**, das eine ganze Silbe
+ist. Und das **η** klingt schlicht wie ein langes i wie in *Biene*, nie wie ein
+deutsches h.
 
-### Woran erkenne ich das Genus? — am Artikel, nicht am Wort
+### Woran erkenne ich das Genus? — schau auf das geschriebene Wortende
 
-Jetzt kommt der Punkt, an dem das Griechische dir tatsächlich hilft. Bei vielen
-Wörtern verrät dir schon der Wortausgang, welcher Artikel dazugehört. Lies die
-folgenden Beispiele laut und hör auf den Schluss jedes Wortes:
+Bei vielen Wörtern verrät dir schon das Ende des **geschriebenen** Wortes, ob
+es männlich, weiblich oder sächlich ist. Achte dabei wirklich auf das Wortbild,
+nicht auf den Klang: Manche Wörter hören gleich auf, klingen aber am Ende doch
+verschieden geschrieben — und umgekehrt. Das Auge entscheidet hier, nicht das
+Ohr.
 
-- Klingt das Wort am Ende nach „-os", ist es fast immer **männlich**:
-  **ο δρόμος**, **ο φούρνος**, **ο σκύλος**.
-- Klingt es nach „-a" oder nach einem „-i" (das im Schriftbild wie ein
-  langgezogenes „n" mit Bein aussieht — der Buchstabe Eta), ist es oft
-  **weiblich**: **η πλατεία**, **η αγορά**, **η εκκλησία**.
-- Klingt es nach „-o", nach einem schlichten „-i" (dem kleinen Jota) oder nach
-  „-ma", ist es meist **sächlich**: **το σχολείο**, **το μαγαζί**, **το σπίτι**.
+Schau dir die Beispiele aus dem Rundgang an und merk dir, wie sie aufhören:
 
-Das sind verlässliche Faustregeln, keine eisernen Gesetze — Ausnahmen gibt es,
-und du wirst ihnen begegnen. Deshalb gilt für den Anfang die sicherste Methode:
-**Lern jedes neue Hauptwort gleich mit seinem Artikel.** Nicht *πλατεία*,
-sondern **η πλατεία**. Nicht *δρόμος*, sondern **ο δρόμος**. Der Artikel ist
-nicht Beiwerk — er ist Teil des Wortes, so wie im Deutschen *die* zu *Straße*
-gehört.
+- Wörter, die wie **ο δρόμος**, **ο φούρνος** und **ο σκύλος** aufhören, sind
+  fast immer **männlich**.
+- Wörter, die wie **η πλατεία**, **η αγορά** und **η εκκλησία** aufhören, sind
+  meist **weiblich**.
+- Wörter, die wie **το σχολείο**, **το μαγαζί** und **το σπίτι** aufhören, sind
+  meist **sächlich**.
+
+Das sind Faustregeln, keine Gesetze. Verlass dich nicht blind darauf. **ο
+άντρας** etwa hört am Ende aus wie ein weibliches Wort — und ist trotzdem
+männlich, weil es eben ein Mann ist. Solche Ausnahmen begegnen dir von Anfang
+an.
+
+Deshalb hilft am Ende nur eins. Lern jedes neue Hauptwort gleich mit seinem
+Artikel. Nicht *πλατεία*, sondern **η πλατεία**. Nicht *δρόμος*, sondern **ο
+δρόμος**. Der Artikel ist kein Beiwerk — er gehört zum Wort, so wie im Deutschen
+*die* zu *Straße* gehört.
 
 ### Vorsicht, deutsche Falle: das Genus ist nicht dasselbe
 
-Hier liegt der teuerste Fehler des Kapitels, und fast jeder
-Deutschsprachige tappt anfangs hinein: Man überträgt das deutsche Genus
-einfach aufs Griechische. Das geht oft schief, denn die beiden Sprachen sind
-sich beim Genus überhaupt nicht einig.
+Hier liegt der teuerste Fehler des Kapitels, und fast jeder Deutschsprachige
+tappt anfangs hinein: Man überträgt das deutsche Genus einfach aufs Griechische.
+Das geht schief. Denn beim Genus sind sich die beiden Sprachen überhaupt nicht
+einig.
 
 Schau dir diese Paare an:
 
@@ -157,25 +163,21 @@ falsch. Das Genus eines griechischen Worts steckt im **griechischen** Wort, nich
 in seiner deutschen Übersetzung — und genau deshalb lernst du es von Anfang an
 mit dem griechischen Artikel.
 
-Manchmal stimmen die beiden Sprachen natürlich überein — **η γυναίκα** ist die
-Frau (beide weiblich), **το σπίτι** ist das Haus (beide sächlich). Das ist
-angenehm, aber verlass dich nicht darauf. Behandle jede Übereinstimmung als
-glücklichen Zufall, nicht als Regel.
+Manchmal stimmen die beiden Sprachen überein: **η γυναίκα** ist die Frau,
+**το σπίτι** ist das Haus, beide Male dasselbe Genus. Behandle solche Treffer
+als Zufall, nicht als Regel.
 
 ### Auch Personen haben ein grammatisches Genus
 
-Bei Menschen ist es meist leicht, weil das Genus dem Geschlecht folgt:
-**ο άντρας** (der Mann) ist männlich, **η γυναίκα** (die Frau) ist weiblich.
-Auch die Berufs- und Rollenwörter trennen oft Mann und Frau:
+Bei Menschen ist es zum Glück einfach: Das Genus folgt dem Geschlecht. Ein Mann
+ist männlich (**ο άντρας**), eine Frau ist weiblich (**η γυναίκα**), und das gilt
+genauso für Rollen- und Berufswörter, die oft eine eigene Form für Mann und Frau
+haben — der Nachbar heißt **ο γείτονας**, die Nachbarin **η γειτόνισσα**.
 
-> **ο γείτονας** — der Nachbar
-> **η γειτόνισσα** — die Nachbarin
-
-Eine Besonderheit hat das Griechische bei Kindern: **το παιδί** — *das Kind* —
-ist **sächlich**, ganz gleich, ob ein Junge oder ein Mädchen gemeint ist. Im
-Deutschen ist das genauso (*das* Kind), also fällt es dir leicht. Merk es dir
-trotzdem bewusst, denn es ist eines der ganz wenigen Personenwörter mit dem
-Artikel **το**.
+Eine Ausnahme musst du dir merken: das Kind. **το παιδί** ist **sächlich**, egal
+ob ein Junge oder ein Mädchen gemeint ist. Das kennst du aus dem Deutschen, wo es
+ebenfalls *das* Kind heißt — leicht zu behalten, und doch eines der ganz wenigen
+Personenwörter, das den Artikel **το** trägt.
 
 > **Das Wichtigste für den Anfang:** Drei kleine Wörter — **ο**, **η**,
 > **το** — und jedes neue Hauptwort kommt ab jetzt mit einem davon im Gepäck.
@@ -204,9 +206,10 @@ dem Hauptwort steht. Der Artikel verrät dir gleich das Genus: **ο** männlich,
 ### Übung 2 — Drei Körbchen: nach Genus sortieren
 
 María räumt im Kopf auf. Ordne jedes Hauptwort dem richtigen Artikel zu, indem
-du es in die passende Spalte schreibst. Hör auf den Wortausgang: „-ος" meist
-**ο**, „-α" oder das lange „-i" (Eta) meist **η**, „-ο" / „-ι" / „-μα" meist
-**το**.
+du es in die passende Spalte schreibst. Schau auf das **geschriebene** Wortende:
+Wörter, die wie **ο δρόμος** aufhören, sind meist männlich; Wörter, die wie
+**η αγορά** aufhören, meist weiblich; Wörter, die wie **το σχολείο** oder
+**το σπίτι** aufhören, meist sächlich.
 
 Wörter: **σπίτι · αγορά · φούρνος · σχολείο · γυναίκα · άντρας · γειτονιά ·
 φαρμακείο**
@@ -226,7 +229,7 @@ zum Wort dazu.
 1. Εδώ ________ πλατεία.
 2. Και εκεί ________ δρόμος.
 3. Εκεί ________ εκκλησία.
-4. ________ Κώστας! ________ γείτονας.
+4. Εκεί ________ σκύλος. Εκεί ________ παιδί.
 5. Εδώ ________ γειτονιά, Λένα!
 6. Εκεί ________ μαγαζί.
 
@@ -244,10 +247,10 @@ Wort passen würde.
 5. der Laden — ________ μαγαζί → ☐ ο  ☐ η  ☐ το
 6. die Apotheke — ________ φαρμακείο → ☐ ο  ☐ η  ☐ το
 
-### Übung 5 — Wort und Bedeutung verbinden (Wiederholung)
+### Übung 5 — Wort und Bedeutung verbinden (Wortschatz festigen)
 
 Verbinde jedes griechische Wort aus der Nachbarschaft mit seiner deutschen
-Bedeutung. Hier wiederholst du den Wortschatz des Kapitels.
+Bedeutung. So festigst du den neuen Wortschatz des Kapitels.
 
 | Griechisch | | Deutsch |
 | --- | --- | --- |
@@ -267,7 +270,7 @@ seinem richtigen Artikel — so wie María es im Dialog macht.
 1. Λένα: **Εκεί ___ εκκλησία;** → Μαρία: **Ναι, ________.**
 2. Λένα: **Εκεί ___ μαγαζί;** → Μαρία: **Ναι, ________.**
 3. Λένα: **Εδώ ___ πλατεία;** → Μαρία: **Ναι, ________.**
-4. Λένα: **___ Κώστας;** → Μαρία: **Ναι, ________ γείτονας.**
+4. Λένα: **Εκεί ___ σχολείο;** → Μαρία: **Ναι, ________.**
 
 ### Übung 7 — Du zeigst dein Viertel (freie Produktion)
 
@@ -282,27 +285,33 @@ Zeig auf: einen Platz, eine Straße, einen Laden und eine Person aus dem Viertel
 
 <!-- @section: landeskunde -->
 
-## Landeskunde: η γειτονιά — das Viertel als kleines Dorf
+## Landeskunde: η γειτονιά — Viertel, Nachbarschaft, soziales Netz
 
 Das griechische Wort **η γειτονιά** lässt sich mit *Nachbarschaft* oder
 *Viertel* übersetzen, aber beides trifft es nur halb. Eine γειτονιά ist weniger
 ein Stück Stadtplan als ein soziales Netz — ein überschaubarer Kreis von
-Menschen, die einander kennen, grüßen und im Blick haben.
+Menschen, die einander kennen, grüßen und im Blick haben. Am spürbarsten ist das
+in kleineren Städten, auf den Inseln und in gewachsenen Wohnstraßen, aber auch
+mitten in Athen oder Thessaloniki gibt es alte Viertel, in denen dieses Netz
+noch trägt.
 
-Das Herz dieses Netzes sind ein paar feste Orte, und sie sind dir in diesem
+Das Herz so eines Netzes sind ein paar feste Orte, und sie sind dir in diesem
 Kapitel alle begegnet: der Platz, wo man sich trifft; der kleine Laden an der
 Ecke, in dem der Inhaber deinen Namen kennt; die Bäckerei, deren Duft morgens
-über die Straße zieht; die Kirche, um die herum das alte Viertel oft gewachsen
-ist. In einer echten γειτονιά erledigst du den halben Tag zu Fuß, und auf dem
-Weg grüßt du ein Dutzend Bekannte.
+über die Straße zieht; und die Kirche. Eine Kirche hat jede γειτονιά —
+mindestens eine, und oft gibt sie dem ganzen Viertel den Namen: Wer nach Agios
+Pandeleïmonas oder Agia Paraskevi fragt, meint nicht nur das Gotteshaus, sondern
+das Viertel rundherum. In vielen Vierteln erledigst du den halben Tag zu Fuß und
+grüßt auf dem Weg ein Dutzend Bekannte. Auch die Apotheke, **το φαρμακείο**,
+gehört dazu: Bei kleinen Beschwerden geht man oft zuerst dorthin und fragt um
+Rat, bevor man an einen Arzt denkt.
 
 María ist für Lena der Schlüssel zu diesem Netz. Eine Nachbarin, die dich an die
-Hand nimmt und herumzeigt, ist in Griechenland nichts Ungewöhnliches — im
-Gegenteil. Wer neu zuzieht, wird oft schneller Teil der Gemeinschaft, als ihm
-lieb ist: Man fragt, woher du kommst, ob du gut untergebracht bist, ob du etwas
-brauchst. Diese Aufmerksamkeit kann für jemanden, der die deutsche Distanz
-gewohnt ist, anfangs überraschen. Aber sie ist gut gemeint — sie ist die Art,
-wie eine γειτονιά jemanden aufnimmt.
+Hand nimmt und herumzeigt, ist in Griechenland nichts Ungewöhnliches. Wer neu
+zuzieht, dem begegnet oft viel Neugier und Offenheit: Man fragt, woher du
+kommst, ob du gut untergebracht bist, ob du etwas brauchst. Das kann anfangs
+überraschen. Wirklich dazuzugehören braucht trotzdem seine Zeit — die ersten
+Fragen sind ein freundlicher Anfang, nicht schon die ganze Aufnahme.
 
 Und ganz nebenbei: Wer im Viertel angekommen ist und seine Nachbarn grüßt, übt
 dabei genau das Griechisch, das du gerade lernst. Ein **καλημέρα** auf dem Platz,
@@ -314,12 +323,12 @@ ein kurzes **τι κάνεις;** vor dem Laden — und schon gehörst du ein bi
 
 ### Übung 1
 
-1. **η** πλατεία — Endung „-α", weiblich.
-2. **το** μαγαζί — Endung „-ι" (kleines Jota), sächlich.
-3. **ο** γείτονας — Mann, männlich.
-4. **η** εκκλησία — Endung „-α", weiblich.
+1. **η** πλατεία — endet wie η αγορά, weiblich.
+2. **το** μαγαζί — endet wie το σπίτι, sächlich.
+3. **ο** γείτονας — bezeichnet einen Mann, männlich.
+4. **η** εκκλησία — endet wie η πλατεία, weiblich.
 5. **το** παιδί — sächlich, ganz gleich ob Junge oder Mädchen (το παιδί).
-6. **ο** σκύλος — Endung „-ος", männlich.
+6. **ο** σκύλος — endet wie ο δρόμος, männlich.
 
 ### Übung 2
 
@@ -327,17 +336,19 @@ ein kurzes **τι κάνεις;** vor dem Laden — und schon gehörst du ein bi
 | --- | --- | --- |
 | ο φούρνος, ο άντρας | η αγορά, η γυναίκα, η γειτονιά | το σπίτι, το σχολείο, το φαρμακείο |
 
-Faustregel: „-ος" → **ο** (φούρνος); „-α" → **η** (αγορά, γυναίκα, γειτονιά);
-„-ο" / „-ι" → **το** (σχολείο, φαρμακείο, σπίτι). άντρας ist ein Mann, also
-**ο**, auch wenn das Wort auf „-ας" endet.
+Faustregel am geschriebenen Wortende: ο φούρνος endet wie ο δρόμος (männlich);
+η αγορά, η γυναίκα und η γειτονιά enden wie η πλατεία (weiblich); το σχολείο,
+το φαρμακείο und το σπίτι enden wie το μαγαζί (sächlich). Bei ο άντρας hilft die
+Faustregel nicht — das Wort sieht am Ende aus wie ein weibliches, ist aber
+männlich, weil es einen Mann bezeichnet.
 
 ### Übung 3
 
 1. **η** πλατεία — weiblich.
-2. **ο** δρόμος — männlich (Endung „-ος").
+2. **ο** δρόμος — männlich (endet wie ο φούρνος).
 3. **η** εκκλησία — weiblich.
-4. **Ο** Κώστας! **Ο** γείτονας. — vor männlichen Namen steht **ο**; γείτονας ist
-   männlich.
+4. **ο** σκύλος — männlich (endet wie ο δρόμος); **το** παιδί — sächlich, gleich
+   ob Junge oder Mädchen.
 5. **η** γειτονιά — weiblich.
 6. **το** μαγαζί — sächlich.
 
@@ -364,10 +375,10 @@ e) το παιδί → **4. das Kind**
 
 ### Übung 6
 
-1. **Ναι, η εκκλησία.** — weiblich.
-2. **Ναι, το μαγαζί.** — sächlich.
+1. **Ναι, η εκκλησία.** — weiblich (endet wie η πλατεία).
+2. **Ναι, το μαγαζί.** — sächlich (endet wie το σπίτι).
 3. **Ναι, η πλατεία.** — weiblich.
-4. **Ναι, ο γείτονας.** — männlich; vor dem Namen stünde ebenso **ο** Κώστας.
+4. **Ναι, το σχολείο.** — sächlich (endet wie το μαγαζί).
 
 ### Übung 7
 

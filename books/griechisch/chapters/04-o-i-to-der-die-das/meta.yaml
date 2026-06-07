@@ -71,7 +71,7 @@ vocab_introduced:
     pos: noun
     gender: n
     gloss_de: 'Apotheke'
-    notes: 'Endung -ο → sächlich; nur in der Grammatik als Kontrastbeispiel (deutsch „die Apotheke" weiblich).'
+    notes: 'Endung -ο → sächlich (deutsch „die Apotheke" weiblich, Genus-Kontrast). In Griechenland oft erste Anlaufstelle bei kleinen Beschwerden.'
 
   # ── Personen / Rollen im Viertel (Thema: Personen) ──
   - lemma: γείτονας

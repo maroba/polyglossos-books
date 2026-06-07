@@ -59,19 +59,25 @@ Baseline nach exercise-designer: validate_schema 0 Fehler, continuity_check 0 Ve
 ### Befunde Runde 1
 - continuity-checker: **KONTINUITÄT OK** (0 Verstöße; durchgehend Nominativ Singular, kein Plural/Kasus/unbestimmter Artikel; alle Tokens deklariert/recycelt)
 - reviewer: **überarbeitung nötig** (Genus aller 16 Nomen, Akzente, Übungslogik korrekt):
-  - [ ] R1 [major] chapter.md:121-127 — Genus-Endungsregeln in lateinischer Umschrift („-os/-a/-i/-ma") statt griechischer Schrift → Transliterationsverbot (didaktik.md) verletzt. Auf griechische Endungen umstellen (-ος/-α/-η/-ο/-ι/-μα).
-  - [ ] R2 [major] chapter.md:207-208 (Übung 2 Aufgabenstellung) — gleiche Transliteration, zusätzlich INKONSISTENT (-ος/-α griechisch, „-i" lateinisch in einem Satz). → exercise-designer.
-  - [ ] R3 [minor] chapter.md:110-113 — Aussprache-Lautannäherungen („o"/„to"/„i") Grenzfall; als echte Aussprachehilfe vertretbar, teacher-Urteil.
-  - [ ] R4 [minor] chapter.md:247 (Übung 5) — Titel „Wiederholung" irreführend (prüft NEU eingeführtes Vokabular) → „Wortschatz festigen". → exercise-designer.
+  - [x] R1 [major] chapter.md:121-127 — Genus-Endungsregeln umgebaut: keine lateinische Umschrift mehr, Regel knüpft an die GESCHRIEBENE Endung an, gezeigt an ganzen deklarierten Beispielwörtern (ο δρόμος/φούρνος/σκύλος; η πλατεία/αγορά/εκκλησία; το σχολείο/μαγαζί/σπίτι). Keine isolierten Endungsfragmente.
+  - [x] R2 [major] chapter.md (Übung 2 Aufgabenstellung) — erledigt (exercise-designer, 2026-06-07): Faustregel jetzt vollständig in griechischer Schrift an ganzen deklarierten Beispielwörtern (Wörter, die wie **ο δρόμος** aufhören → männlich; wie **η αγορά** → weiblich; wie **το σχολείο**/**το σπίτι** → sächlich). Keine Transliteration, keine isolierten Endungsfragmente; konsistent mit dem überarbeiteten Grammatikteil (Anknüpfung an die GESCHRIEBENE Endung am ganzen Wort).
+  - [x] R3 [minor] chapter.md:110-113 — Aussprache-Hinweis als echte Aussprachehilfe belassen, aber rein verbal umformuliert (keine quotierten Latein-Laute mehr außer den vollen deutschen Vergleichswörtern Sonne/Biene).
+  - [x] R4 [minor] chapter.md (Übung 5) — erledigt (exercise-designer, 2026-06-07): Titel jetzt „(Wortschatz festigen)", Untertext „So festigst du den neuen Wortschatz des Kapitels". Kein irreführendes „Wiederholung" mehr.
 - reader: **COMPREHENSION-FAILURE** → an Nutzer eskaliert; Entscheidung: „Fixen & weiterlaufen" (Box-Failure ist design-bedingtes Falsch-Positiv, Build füllt aus meta.yaml). Befunde:
   - [ ] L1/L4/L5 leere Wortschatz-Box & Übungswörter nur in Grammatik → BY DESIGN (Build generiert Box aus meta.yaml; alle Wörter deklariert — von continuity+reviewer bestätigt). Keine inhaltliche Aktion.
-  - [ ] L2/L3 [gap, ECHT] Eta(η)/Jota(ι)-Unterscheidung am Schriftbild/Klang, bevor Alphabet eingeführt — η und ι klingen beide „i", am Klang nicht trennbar; Schriftbild-Beschreibung („n mit Bein") setzt Alphabetkenntnis voraus. → Genusregel auf die GESCHRIEBENE Endung in griechischer Schrift umstellen (deckt R1/R2 mit ab), nicht auf Hören/Buchstabenform.
-  - [ ] L6 [pacing] Genus-Erkennungs-Abschnitt zu dicht (4 Konzepte/10 Zeilen) → beim Umbau entzerren.
-  - [ ] L7 [gap] Übung 6 verlangt aktiv Artikel vor Eigennamen (___ Κώστας;), im Kapitel nicht aktiv vorbereitet → exercise-designer: Item anpassen oder im Text die Artikel-vor-Namen-Produktion knapp decken.
+  - [x] L2/L3 [gap, ECHT] Genus-Abschnitt komplett auf das GESCHRIEBENE Wortende umgestellt; keine Eta/Jota-Namen, keine Buchstabenform-Beschreibung mehr. Regel knüpft ausdrücklich ans Wortbild („das Auge entscheidet, nicht das Ohr"), gezeigt an ganzen deklarierten Beispielwörtern. Klang nur noch in der separaten Aussprachehilfe (R3).
+  - [x] L6 [pacing] Genus-Erkennungs-Abschnitt entzerrt: Faustregel (3 Wortgruppen) → Ausnahme (ο άντρας) → zentraler Rat (jedes Nomen mit Artikel lernen), nacheinander statt 4 Konzepte auf einmal.
+  - [x] L7 [gap] erledigt (exercise-designer, 2026-06-07): Lösung (a) gewählt — das Eigennamen-Item entfernt; Übung 6 verlangt jetzt durchgehend nur Artikel-vor-Ding mit gewöhnlichen, eingeführten Nomen (η εκκλησία, το μαγαζί, η πλατεία, το σχολείο). Artikel-vor-Name bleibt der freien Produktion (Ü7, mit ο Κώστας als optionalem, im Dialog modelliertem Angebot) vorbehalten; keine ungedeckte aktive Produktion mehr.
 - ai-guard: **überwiegend menschlich**, KI-Schablone v. a. im Genus-Mittelteil:
-  - [ ] G1/G2/G4 chapter.md:117-127 — leere Meta-Ankündigung „Jetzt kommt der Punkt, an dem das Griechische dir tatsächlich hilft" + schematischer Dreier-Bullet-Block → in Fließtext/variieren (deckt sich mit L6/R1-Umbau)
-  - [ ] G3 [hedging] chapter.md:129-130 „verlässliche Faustregeln, keine eisernen Gesetze" → direkter, mit konkretem Ausnahmebeispiel (ο άντρας)
-  - [ ] G5 [rhythmus] chapter.md:138-141 drei mittellange Sätze → Kurzschlag einbauen
-  - [ ] G6 [hedging] chapter.md:160-163 „Das ist angenehm" Mittelsatz streichen
-  - [ ] G7 [floskel] chapter.md:82-84 „Sieh dir an, was María vor jedem Ding sagt" Meta-Ankündigung straffen
-  - [ ] G8 [symmetrie] Dreischritt zeigen→erklären→tabellieren wiederholt sich (Z.82-103/117-134/165-178) → einen Abschnitt anders bauen
+  - [x] G1/G2/G4 chapter.md — Meta-Floskel „Jetzt kommt der Punkt …" gestrichen; Genus-Abschnitt steigt direkt mit der Sachaussage ein. Bullet-Block bleibt als Faustregel-Liste, aber rhythmisch eingebettet (Faustregel → Ausnahme im Fließtext → Rat).
+  - [x] G3 chapter.md — „Faustregeln, keine Gesetze. Verlass dich nicht blind darauf." direkt, mit konkretem Ausnahmebeispiel **ο άντρας** (endet wie ein weibliches Wort, ist männlich).
+  - [x] G5 chapter.md — Kurzschlag eingebaut: „Deshalb hilft am Ende nur eins." als kurzer Satz vor dem Rat, jedes Nomen mit Artikel zu lernen.
+  - [x] G6 chapter.md — Übereinstimmungs-Absatz gestrafft; Mittelsatz weg, Pointe (**η γυναίκα**/**το σπίτι** = Zufall, keine Regel) trägt allein.
+  - [x] G7 chapter.md — Meta-Ankündigung gestrafft: „Vor jedem Ding im Dialog steht ein kurzes Wörtchen:" statt der ausgewalzten Aufforderung.
+  - [x] G8 chapter.md — Abschnitt „Auch Personen haben ein grammatisches Genus" umgebaut: kein Zeig-Block + Tabelle mehr, sondern durchlaufende Prosa (Mann/Frau/Rollenwörter in einem Satz, Kind-Ausnahme als eigener Gedanke) — bricht den Dreischritt-Rhythmus.
+- cultural-reviewer: **Befunde** (Landeskunde atmosphärisch gut, aber γειτονιά leicht verklärt):
+  - [x] K1 chapter.md — Untertitel neutral: „η γειτονιά — Viertel, Nachbarschaft, soziales Netz". Gegenwartsbezug abgesichert: „Am spürbarsten … in kleineren Städten, auf den Inseln und in gewachsenen Wohnstraßen, aber auch mitten in Athen oder Thessaloniki …" — keine Allgemeingültigkeit mehr.
+  - [x] K3 chapter.md — präzisiert: „Eine Kirche hat jede γειτονιά — mindestens eine, und oft gibt sie dem ganzen Viertel den Namen". Kirchen-Eigennamen lateinisch umschrieben (Agios Pandeleïmonas, Agia Paraskevi) → Continuity-neutral, keine griechischen Tokens nötig.
+  - [x] K4 chapter.md — „deutsche Distanz" ersatzlos gestrichen. Einbindung differenziert: „Wer neu zuzieht, dem begegnet oft viel Neugier und Offenheit … Wirklich dazuzugehören braucht trotzdem seine Zeit — die ersten Fragen sind ein freundlicher Anfang, nicht schon die ganze Aufnahme."
+  - [x] K5 chapter.md — Satz zum φαρμακείο ergänzt: erste Anlaufstelle bei kleinen Beschwerden, bevor man an einen Arzt denkt. Überlädt die Sektion nicht.
+  - [x] K7 chapter.md — regionale/soziale Differenzierung im selben Satz wie K1: lebendiger in Kleinstädten/auf Inseln/in gewachsenen Wohnstraßen, aber auch in alten Vierteln Athens/Thessalonikis.
