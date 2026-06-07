@@ -198,3 +198,14 @@ Baseline: validate_schema 0 Fehler, continuity_check 0 Verstöße. Orchestrator-
   - [x] K1 [fakt] „Kafenío–Bäckerei–Kiosk" nuanciert: Períptero stark rückläufig (viele dichtgemacht); traditionelles Kafenío in Städten teils Männerdomäne älterer Generation, gemischte junge Gruppen eher Kafé-Bar. Kulturbegriffe bewusst in deutscher Lehnwort-Schreibung (Kafenío, Períptero), nicht als undeklarierte griechische Tokens.
   - [x] K4 [stereotyp] „Dorf oder Insel" um Kleinstadt + nordgriechische Provinzstädte erweitert; Sozialkontroll-Satz entschärft und als subjektive Beobachtung gekennzeichnet („fällt nach eigenem Bekunden schnell auf").
   - [x] K2/K6 [minor] Lern-Tipp jahreszeitlich verortet („an einem milden Abend"); Kafenío-Bezug ist nun ans Wohnviertel/Café-Ökosystem gebunden. (Wohnviertel-Verortung des „ein Kaffee zwei Stunden" implizit über den umgebauten K1-Absatz.)
+
+### Befunde Runde 2 (exercise-designer, 2026-06-07)
+- [x] R1-neu [reviewer] Übung 3 Lösung Item 6 (μεγάλη βρύση): irreführende Begründung „η βρύση endet selbst auf -η" entfernt. Neu formuliert: der Artikel **η** (= Genus weiblich) steuert die Endung, **μεγάλη** bekommt -η, weil sein Stamm auf einen Konsonanten endet (μεγάλ-); dass βρύση zufällig auch auf -η endet, ist nur Merkhilfe, kein Grund — die Nomen-Endung steuert die Adjektivform nie (Gegenbeispiel η μεγάλη πλατεία: Nomen auf -α, Adjektiv trotzdem -η). Lösung μεγάλη selbst unverändert korrekt.
+- [x] L4 [reader] Übung 2 Spaltenkopf „weiblich (-η)" → „weiblich (-η/-α)" (Aufgaben-Tabelle + Lösungs-Tabelle), da παλιός/ωραίος die weibliche Form auf -α bilden. Aufgabenstellung um knappen Hinweis ergänzt (nach Vokal -α statt -η, Verweis auf Grammatik). Lösungen (μικρή, παλιά, ήσυχη, ωραία) konsistent zum neuen Spaltenkopf; Übung-4-Lösungen verwendeten die -η/-α-Notation bereits.
+
+## Phase 4 — Re-Review Runde 1 + Abschluss
+- continuity-checker: KONTINUITÄT OK; reviewer: FREIGABE (R1/R2/R3 + neue Nomen παγκάκι/βρύση korrekt); ai-guard: FREIGABE (alte Muster weg); reader: kein COMPREHENSION-FAILURE (L1/L2 -α-Regel jetzt in Grammatik gelöst)
+- Restpunkte Runde 1 behoben: K3 Mittagsruhe-Zeit „von zwei bis halb sechs" (Läden schließen ab ~14 Uhr); R1-neu Übung-3-Lösung (Genus steuert, nicht Nomen-Endung); L4 Übung-2-Spaltenkopf „weiblich (-η/-α)"
+- L3 (artikellose Ausrufe Καλό μαγαζί!) als minor akzeptiert — parallel zum erklärten „Ωραία η πλατεία!"; kein Blocker
+- validate_schema 0 Fehler, continuity_check 0 Verstöße
+- **Status → draft-complete** (volle Pipeline, 1 Überarbeitungsrunde + Mikrofixes; vocab bewusst 10 Lemmata mit breiter Genus-Drill-Dichte)
