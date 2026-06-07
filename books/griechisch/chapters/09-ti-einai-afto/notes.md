@@ -168,3 +168,26 @@
   φρέσκια/φρέσκο); dass τι/πού als Recycling (Kap. 3/6) erkannt werden; dass die
   rezeptive Wendung εκείνο το μεγάλο μαγαζί nicht als Plural/Kasus-Verstoß oder
   als undeklarierte Verschmelzung gewertet wird.
+
+## /new-chapter griechisch 9 — Phase 2 (parallele Prüfung) — 2026-06-07
+Baseline: validate_schema 0 Fehler, continuity_check 0 Verstöße. Orchestrator-Fix: σε+Artikel-Fusionen στον δρόμο/στο μαγαζί (Akkusativ, Kap.13) → bekannte Chunks στην πλατεία/στη λαϊκή.
+
+### Befunde Runde 1
+- continuity-checker: **KONTINUITÄT OK** (Demonstrativa/ποιος Nom Sg, 3 Formen deklariert; nur στη/στην-Chunks; kein Plural/Kasus)
+- reviewer: **FREIGABE** (Akzente/Genus/φρέσκια korrekt):
+  - [ ] R1 [minor] chapter.md:14 πού-Beleg „Από πού είσαι;" = „woher", passt nicht zur Glosse „wo" → Beleg „Πού μένεις;" (Kap. 6)
+  - [ ] R2 [minor] chapter.md:55 „Εκείνη εκεί, εκείνο το μικρό μαγαζί" holprig (Person f + Ding n unverbunden) → glätten (deckt sich mit L1)
+  - [ ] R3 [minor] chapter.md:159-161 „ποιος … nicht als Artikel zu lesen" sachlich schief → korrigieren (betontes Fragewort vs. unbetont; πού/που-Kontrast)
+- reader: **kein COMPREHENSION-FAILURE**:
+  - [ ] L2 [gap, KRITISCH] φρέσκια (weibl. von φρέσκος) endet auf -ια — von Kap. 8 (-η/-α) nicht abgedeckt, unerklärt im Dialog+Übungen → teacher: φρέσκος-Femininum φρέσκια kurz als Sonderform erklären (als Block lernen)
+  - [ ] L5 [confusing] τι vs. ποιο bei Sachen nicht erklärt, aber abgefragt → teacher: kurze Abgrenzung (τι = was ist das (unbekannt) / ποιο = welches (Auswahl aus Bekanntem))
+  - [ ] L1 [gap] εκείνη im Dialog vor Grammatik-Tabelle; Lernziel nennt nur αυτό/εκείνο → Lernziel/Vorab leicht anpassen (deckt sich mit R2)
+  - [ ] L3 [confusing] Übung 1 Kopf „-ος / -ς" — bloßes -ς unerklärt/verwirrend → exercise-designer: streichen, nur -ος
+  - [ ] L4 [pacing] Demonstrativ+Artikel+Nomen schon im Dialog, in Grammatik als „Blick voraus" vertagt → Hinweis früher/klarer; optional
+  - [ ] L6 [pacing] viel auf einmal (6 Demonstrativformen + ποιος + τι/πού-Abgrenzung) → optional entzerren
+- ai-guard: **überwiegend menschlich** (Positiv: Landeskunde Zugaben/Beziehung):
+  - [ ] G1 [floskel] chapter.md:76 „Das Schöne daran ist, dass…" → direkt
+  - [ ] G4 [hedging] chapter.md:143-145 „frag ruhig … kein Fehler, sondern genau richtig" Doppel-Absicherung → einmal
+  - [ ] G5 [floskel] chapter.md:190-192 „staune nur darüber" → konkreter Voraus-Verweis
+  - [ ] G6 [symmetrie] zwei aufeinanderfolgende Abschnitte enden mit Mini-Formel → einen variieren
+  - [ ] G2/G3 [rhythmus] gleichförmige Erklärsätze / verkappte Listenprose bei den Fragewörtern → auflockern
