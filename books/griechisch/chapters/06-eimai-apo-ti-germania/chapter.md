@@ -23,7 +23,8 @@ Wenn du dieses Kapitel durch hast, kannst du
   στην Αθήνα**,
 - ein paar Länder und die passenden Bezeichnungen für ihre Bewohner benennen —
   **η Γερμανία**, **ο Γερμανός**, **η Γερμανίδα**,
-- **είμαι**, **είσαι**, **είναι** gebrauchen — drei Formen, die schnell sitzen.
+- **είμαι**, **είσαι**, **είναι** auseinanderhalten und richtig einsetzen — ich,
+  du oder ein Dritter, je nach Person.
 
 <!-- @section: dialog lang=el -->
 
@@ -107,7 +108,8 @@ ein paar Tagen von selbst über die Lippen kommen.
 Achte beim Lesen auf die Mitte des Wortes: Anfang und Ende sind bei allen drei
 Formen gleich, der Unterschied sitzt im mittleren Buchstaben. Sprich sie einmal
 langsam nach: Im **είμαι** summt es, im **είσαι** zischt es, im **είναι** klingt
-es nasal. Das ist dein Anker.
+es nasal. Dreimal hören, dreimal nachsprechen — danach verwechselst du sie nicht
+mehr.
 
 ### Eine Form für drei: είναι
 
@@ -121,8 +123,8 @@ wer oder was gemeint ist.
 Dasselbe **είναι** trägt auch die schlichte Gleichsetzung *X ist Y*: **Ο κύριος
 εκεί είναι ο Κώστας** — *Der Mann dort ist Kostas*. Und es ist dir schon einmal
 begegnet, ohne dass wir es benannt haben — wann immer man auf etwas zeigt und
-fragt, was es *ist*. Von jetzt an weißt du, was dahintersteckt: die dritte Form
-von **είμαι**.
+fragt, was es *ist*. Du hast es also schon benutzt, ohne es zu wissen. Jetzt
+weißt du: Es war immer **είναι**.
 
 ### Woher? — από + Land, als Wendung
 
@@ -159,9 +161,9 @@ Das **μένω** aus Kapitel 3 hieß *wohnen, bleiben*. Damit kannst du jetzt sa
 
 Auch hier steht ein kleines **στην** bzw. **στη** vor dem Ort — und auch das ist
 für jetzt eine feste Wendung, kein neues System. Du merkst dir schlicht: *woher*
-heißt **από** + Ort, *wo* heißt **στην / στη** + Ort. Wann das eine **στην** und
-wann das kürzere **στη** ist, brauchst du noch nicht zu sortieren; nimm die Form,
-die du im Dialog gesehen hast, und benutz den Ortsnamen als Block.
+heißt **από** + Ort, *wo* heißt **στην / στη** + Ort. Wann **στην**, wann
+**στη** — das hängt am Folgewort und kommt als System später. Für jetzt: nimm
+die Form aus dem Dialog und pack den Ortsnamen als Block dazu.
 
 ### Ich bin Deutsche — die Bezeichnung für Herkunft
 
@@ -243,19 +245,23 @@ María, Kostas, ο κύριος) → είναι.
 5. Εσύ ________ Ελληνίδα;
 6. Ο κύριος εκεί ________ ο Κώστας.
 
-### Übung 4 — Woher? Setze die Wendung ein (από / στην)
+### Übung 4 — Woher oder wo? Wähle die ganze Wendung (από… / στη(ν)…)
 
-In den Wendungen sagst du *woher* mit **από** und *wo (du wohnst)* mit
-**στην / στη** — genau so, wie sie im Dialog stehen. Setze das fehlende kleine
-Wort ein. Den Ortsnamen daneben übernimmst du unverändert als Block.
+*Woher* jemand kommt, sagst du mit **είμαι από** + Land; *wo* jemand wohnt, mit
+**μένω στη(ν)** + Ort. Such dir für jede Lücke die passende **ganze Wendung**
+aus dem Kasten daneben aus und setze sie als Block ein — die kleinen Wörter
+**από / στη / στην** sind in jeder Wendung schon fertig dabei, du musst sie
+nicht selbst bilden. Entscheide nur: geht es ums **Woher** (από…) oder ums
+**Wo wohnen** (στη(ν)…)?
 
-> **Beispiel:** Είμαι ________ τη Γερμανία. → **από** *(woher = από)*
+> **Beispiel:** Ο Κώστας είναι ________ . *(woher? — από τη Θεσσαλονίκη /
+> στη Θεσσαλονίκη)* → **από τη Θεσσαλονίκη** *(woher = από)*
 
-1. Είμαι ________ την Ελλάδα.
-2. Μένω ________ Αθήνα.
-3. Είσαι ________ τη Θεσσαλονίκη;
-4. Η Μαρία μένει ________ γειτονιά.
-5. Ο Κώστας είναι ________ τη Θεσσαλονίκη.
+1. Είμαι ________ . *(από την Ελλάδα / στην Ελλάδα)*
+2. Μένω ________ . *(από την Αθήνα / στην Αθήνα)*
+3. Είσαι ________ ; *(από τη Θεσσαλονίκη / στη Θεσσαλονίκη)*
+4. Η Μαρία μένει ________ . *(από τη γειτονιά / στη γειτονιά)*
+5. Η Λένα είναι ________ . *(από τη Γερμανία / στη Γερμανία)*
 
 ### Übung 5 — Land und Nationalität zusammenbringen (Wendungen wiedererkennen)
 
@@ -341,10 +347,8 @@ grenzt es an Albanien, im Norden an Nordmazedonien und Bulgarien, im Osten an di
 Türkei; nach Italien führt eine der großen Fährrouten Europas, von Patras oder
 Igoumenitsa übers Ionische Meer Richtung Ancona oder Brindisi. Diese Nähe
 spiegelt sich im Alltag wider — in der Küche, in der Musik, in den vielen
-Menschen aus den Nachbarländern, die hier leben und arbeiten. Wenn du also nach
-deiner Herkunft gefragt wirst, stehst du in einer langen Reihe von Leuten, die
-genau dieselbe Frage schon beantwortet haben. Frag ruhig zurück: **Και εσύ; Από
-πού είσαι;** Damit wird aus der Neugier ein Gespräch.
+Menschen aus den Nachbarländern, die hier leben und arbeiten. Frag ruhig zurück:
+**Και εσύ; Από πού είσαι;** Damit wird aus der Neugier ein Gespräch.
 
 <!-- @section: loesungen -->
 
@@ -382,13 +386,16 @@ Für Mann und Frau gibt es je ein eigenes Wort, kein angepasstes — Lena sagt
 
 ### Übung 4
 
-1. **από** — *woher* = από + Land (από την Ελλάδα).
-2. **στην** — *wo wohnen* = μένω στην + Ort (στην Αθήνα, wie im Dialog).
-3. **από** — από τη Θεσσαλονίκη.
-4. **στη** — μένει στη γειτονιά, genau wie María es im Dialog sagt.
-5. **από** — από τη Θεσσαλονίκη. Die kleinen Artikel τη / την übernimmst du als
-   Teil der Wendung; sie sind hier keine Regel zum Sortieren, sondern fest
-   mitgelernt.
+1. **από την Ελλάδα** — nach **είμαι** geht es ums *Woher* → die από-Wendung.
+2. **στην Αθήνα** — nach **μένω** geht es ums *Wo wohnen* → die στη(ν)-Wendung
+   (στην Αθήνα, wie im Dialog).
+3. **από τη Θεσσαλονίκη** — *Woher bist du?* → από-Wendung.
+4. **στη γειτονιά** — **μένει** = *wo sie wohnt* → στη(ν)-Wendung, genau wie
+   María es im Dialog sagt.
+5. **από τη Γερμανία** — Lena ist *aus* Deutschland → από-Wendung. Die kleinen
+   Wörter από / στη / στην stecken jeweils fertig in der Wendung; du wählst nur
+   zwischen *woher* (από) und *wo* (στη(ν)) und sortierst στη / στην nicht
+   selbst.
 
 ### Übung 5
 
