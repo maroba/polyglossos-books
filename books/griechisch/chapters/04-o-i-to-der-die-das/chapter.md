@@ -62,9 +62,9 @@ Ein Hund trottet vorbei, dahinter ein Kind mit einem Ball.
 
 **Μαρία:** Ναι, το παιδί και ο σκύλος. Εδώ η γειτονιά, Λένα!
 
-Mehr braucht so ein erster Rundgang nicht. María zeigt, Lena benennt — und ganz
-nebenbei taucht vor jedem Ding ein kleines Wort auf: mal **ο**, mal **η**, mal
-**το**. Genau das schauen wir uns jetzt an.
+Mehr braucht so ein erster Rundgang nicht. María zeigt, Lena benennt — und vor
+jedem Ding taucht ein kleines Wort auf: mal **ο**, mal **η**, mal **το**. Genau
+das schauen wir uns jetzt an.
 
 <!-- @section: vokabeln -->
 
@@ -75,9 +75,9 @@ nebenbei taucht vor jedem Ding ein kleines Wort auf: mal **ο**, mal **η**, mal
 ## Grammatik: ο, η, το — der Artikel verrät das Genus
 
 Im Deutschen sagst du *der Platz*, *die Straße*, *das Haus*. Diese drei
-Wörtchen — *der*, *die*, *das* — sind der bestimmte Artikel, und sie zeigen das
-**Genus** des Hauptworts an: männlich, weiblich, sächlich. Genau dasselbe macht
-das Griechische, nur mit anderen Wörtern.
+Wörtchen — *der*, *die*, *das* — sind der bestimmte Artikel. Sie zeigen das
+**Genus** des Hauptworts an: männlich, weiblich, sächlich. Das Griechische macht
+es genauso, nur mit anderen Wörtern.
 
 ### Erst schauen: drei kleine Wörter im Dialog
 
@@ -89,10 +89,9 @@ Vor jedem Ding im Dialog steht ein kurzes Wörtchen:
 > **το παιδί** — *das Kind*
 > **ο γείτονας** — *der Nachbar*
 
-Vor jedem Hauptwort steht ein kurzes Wörtchen: einmal **η**, einmal **ο**,
-einmal **το**. Das ist der bestimmte Artikel. Und so wie du im Deutschen an
-*der/die/das* das Genus ablesen kannst, liest du es im Griechischen an
-**ο/η/το** ab.
+Mal **η**, mal **ο**, mal **το** — das ist der bestimmte Artikel. Und so wie du
+im Deutschen an *der/die/das* das Genus ablesen kannst, liest du es im
+Griechischen an **ο/η/το** ab.
 
 ### Das Muster
 
@@ -116,23 +115,19 @@ deutsches h.
 
 Bei vielen Wörtern verrät dir schon das Ende des **geschriebenen** Wortes, ob
 es männlich, weiblich oder sächlich ist. Achte dabei wirklich auf das Wortbild,
-nicht auf den Klang: Manche Wörter hören gleich auf, klingen aber am Ende doch
-verschieden geschrieben — und umgekehrt. Das Auge entscheidet hier, nicht das
-Ohr.
+nicht auf den Klang — das Auge entscheidet hier, nicht das Ohr.
 
-Schau dir die Beispiele aus dem Rundgang an und merk dir, wie sie aufhören:
+Drei Endungen solltest du dir merken. Wörter auf **-ος** wie ο δρόμ**ος**, ο
+φούρν**ος** oder ο σκύλ**ος** sind fast immer **männlich**. Wörter auf **-α** wie
+η αγορ**ά** oder auf **-εία** wie η πλατ**εία**, η εκκλησ**ία** sind meist
+**weiblich**. Und Wörter auf **-ι** wie το μαγαζ**ί**, το σπίτ**ι** oder auf **-ο**
+wie το σχολεί**ο** sind meist **sächlich**. So liest du das Genus oft schon am
+Wortende ab.
 
-- Wörter, die wie **ο δρόμος**, **ο φούρνος** und **ο σκύλος** aufhören, sind
-  fast immer **männlich**.
-- Wörter, die wie **η πλατεία**, **η αγορά** und **η εκκλησία** aufhören, sind
-  meist **weiblich**.
-- Wörter, die wie **το σχολείο**, **το μαγαζί** und **το σπίτι** aufhören, sind
-  meist **sächlich**.
-
-Das sind Faustregeln, keine Gesetze. Verlass dich nicht blind darauf. **ο
-άντρας** etwa hört am Ende aus wie ein weibliches Wort — und ist trotzdem
-männlich, weil es eben ein Mann ist. Solche Ausnahmen begegnen dir von Anfang
-an.
+Aber Vorsicht — das sind Faustregeln, keine Garantien. Nimm **ο άντρας**: Das Wort
+hört auf **-ας**, sieht damit beinahe weiblich aus, und ist trotzdem männlich,
+weil es nun einmal einen Mann bezeichnet. Solche Ausnahmen begegnen dir von
+Anfang an, und deshalb steht die Ausnahme hier gleich neben der Regel.
 
 Deshalb hilft am Ende nur eins. Lern jedes neue Hauptwort gleich mit seinem
 Artikel. Nicht *πλατεία*, sondern **η πλατεία**. Nicht *δρόμος*, sondern **ο
@@ -262,15 +257,16 @@ Bedeutung. So festigst du den neuen Wortschatz des Kapitels.
 
 ### Übung 6 — Mit ο, η, το antworten
 
-Lena zeigt mit dem Finger und fragt nach. Antworte jeweils mit dem Hauptwort und
-seinem richtigen Artikel — so wie María es im Dialog macht.
+Lena zeigt mit dem Finger und fragt nach. In Lenas Frage steht der Artikel schon
+da — füll **nur Marías Antwort** aus: mit dem Hauptwort und seinem richtigen
+Artikel, so wie María es im Dialog macht.
 
-> **Beispiel:** Λένα: **Εδώ ___ δρόμος;** → Μαρία: **Ναι, ο δρόμος.**
+> **Beispiel:** Λένα: **Εδώ ο δρόμος;** → Μαρία: **Ναι, ο δρόμος.**
 
-1. Λένα: **Εκεί ___ εκκλησία;** → Μαρία: **Ναι, ________.**
-2. Λένα: **Εκεί ___ μαγαζί;** → Μαρία: **Ναι, ________.**
-3. Λένα: **Εδώ ___ πλατεία;** → Μαρία: **Ναι, ________.**
-4. Λένα: **Εκεί ___ σχολείο;** → Μαρία: **Ναι, ________.**
+1. Λένα: **Εκεί η εκκλησία;** → Μαρία: **Ναι, ________.**
+2. Λένα: **Εκεί το μαγαζί;** → Μαρία: **Ναι, ________.**
+3. Λένα: **Εδώ η πλατεία;** → Μαρία: **Ναι, ________.**
+4. Λένα: **Εκεί το σχολείο;** → Μαρία: **Ναι, ________.**
 
 ### Übung 7 — Du zeigst dein Viertel (freie Produktion)
 
@@ -313,9 +309,9 @@ kommst, ob du gut untergebracht bist, ob du etwas brauchst. Das kann anfangs
 überraschen. Wirklich dazuzugehören braucht trotzdem seine Zeit — die ersten
 Fragen sind ein freundlicher Anfang, nicht schon die ganze Aufnahme.
 
-Und ganz nebenbei: Wer im Viertel angekommen ist und seine Nachbarn grüßt, übt
-dabei genau das Griechisch, das du gerade lernst. Ein **καλημέρα** auf dem Platz,
-ein kurzes **τι κάνεις;** vor dem Laden — und schon gehörst du ein bisschen dazu.
+Wer im Viertel angekommen ist und seine Nachbarn grüßt, übt dabei genau das
+Griechisch, das du gerade lernst. Ein **καλημέρα** auf dem Platz, ein kurzes
+**τι κάνεις;** vor dem Laden — und schon gehörst du ein bisschen dazu.
 
 <!-- @section: loesungen -->
 
