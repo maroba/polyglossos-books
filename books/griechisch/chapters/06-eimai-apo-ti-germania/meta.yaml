@@ -1,0 +1,149 @@
+chapter: 6
+slug: eimai-apo-ti-germania
+status: entwurf
+
+vocab_introduced:
+  # ── Verb είμαι (Grammatik-Neueinführung; Kern des Kapitels) ──
+  - lemma: είμαι
+    pos: verb
+    gloss_de: 'sein. Singular: είμαι (ich bin) / είσαι (du bist) / είναι (er/sie/es ist)'
+    notes: 'είναι kennen manche aus Hörensagen; hier zum ersten Mal sauber eingeführt. Unregelmäßig, läuft nicht nach dem -ω-Muster aus Kap. 3.'
+    inflected_forms:
+      - είσαι
+      - είναι
+
+  # ── Herkunft / Wohnort: feste Wendungen (Chunks), KEIN Kasus-Paradigma ──
+  - lemma: από
+    pos: prep
+    gloss_de: 'aus, von (Herkunft): είμαι από τη Γερμανία = ich bin aus Deutschland'
+    notes: 'Als Wendung είμαι από + Land gelernt. Nach από verschiebt sich der Artikel des Landes leicht (η Γερμανία → από τη Γερμανία, η Ελλάδα → από την Ελλάδα). Diese kleine Formänderung ist hier NICHT als System (Kasus) gelehrt — der Lernende benutzt από + Land als Block. Kasus kommt später (vgl. έναν καφέ in Kap. 5). Die rezeptiven Artikelformen τη/την nach από werden hier als Backstop mitgeführt, nicht als Paradigma gelehrt.'
+    inflected_forms:
+      - τη
+      - την
+
+  - lemma: σε
+    pos: prep
+    gloss_de: 'in, auf, nach (Ort); verschmilzt mit dem Artikel zu στην/στη'
+    notes: 'Nur rezeptiv und nur in der festen Wendung μένω στην/στη + Ort (στην Αθήνα, στη Νάξο, στη γειτονιά). Die Verschmelzung σε + Artikel und der Kasus dahinter werden hier NICHT als System gelehrt — als Block gelernt; die Verschmelzungsregel kommt in Kap. 13.'
+    inflected_forms:
+      - στην
+      - στη
+
+  - lemma: πού
+    pos: adv
+    gloss_de: 'wo; mit από: από πού = woher (Από πού είσαι; = woher kommst du?)'
+    notes: 'Trägt einen Akzent (πού) — das unterscheidet es vom unbetonten που (das/welches), das später kommt. Fragewort; eigenständiges System (τι/ποιος/πού) erst Kap. 9, hier nur in Από πού…; und Πού μένεις;'
+
+  # ── Länder (Thema: Länder) — Nennform mit Artikel + verwendete Wendungsform ──
+  - lemma: Γερμανία
+    pos: noun
+    gender: f
+    gloss_de: 'Deutschland (η Γερμανία)'
+    notes: 'Nennform η Γερμανία (weiblich, Endung -α). In der Herkunftswendung: από τη Γερμανία (rezeptive Form τη, nicht als Kasus gelehrt).'
+    inflected_forms:
+      - Γερμανία
+
+  - lemma: Ελλάδα
+    pos: noun
+    gender: f
+    gloss_de: 'Griechenland (η Ελλάδα)'
+    notes: 'Nennform η Ελλάδα (weiblich, Endung -α). In den Wendungen: από την Ελλάδα; στην Ελλάδα (rezeptive Formen την/στην, nicht als Kasus gelehrt).'
+    inflected_forms:
+      - Ελλάδα
+
+  # ── Städte / Inseln (Thema: Wohnort) — als Ortsnamen mit στη(ν)-Wendung ──
+  - lemma: Αθήνα
+    pos: noun
+    gender: f
+    gloss_de: 'Athen (η Αθήνα)'
+    notes: 'Stadtname, weiblich. In der Wohnort-Wendung: μένω στην Αθήνα (σε + Artikel verschmolzen zu στην; rezeptiv als Block, kein Kasus/keine Verschmelzungsregel gelehrt — das kommt in Kap. 13).'
+    inflected_forms:
+      - Αθήνα
+
+  - lemma: Θεσσαλονίκη
+    pos: noun
+    gender: f
+    gloss_de: 'Thessaloniki (η Θεσσαλονίκη)'
+    notes: 'Stadtname, weiblich, Endung -η. In der Wendung: από τη Θεσσαλονίκη (σε/από + Artikel; rezeptiv als Block).'
+    inflected_forms:
+      - Θεσσαλονίκη
+
+  - lemma: Νάξος
+    pos: noun
+    gender: f
+    gloss_de: 'Náxos (η Νάξος, Kykladeninsel)'
+    notes: 'Inselname, weiblich trotz Endung -ος (wie viele Ortsnamen). In den Wendungen: από τη Νάξο, στη Νάξο (rezeptive Form Νάξο als Block).'
+    inflected_forms:
+      - Νάξο
+
+  # ── Nationalitäten: Personenbezeichnungen (Nomen), getrennt m/f. KEINE Adjektiv-Kongruenz. ──
+  - lemma: Γερμανός
+    pos: noun
+    gender: m
+    gloss_de: 'Deutscher (ο Γερμανός)'
+    notes: 'Lexikalisch als Personenbezeichnung gelernt, nicht als flektierendes Adjektiv. Männliche Form; die weibliche ist η Γερμανίδα. Adjektiv-Kongruenz erst Kap. 8.'
+
+  - lemma: Γερμανίδα
+    pos: noun
+    gender: f
+    gloss_de: 'Deutsche (η Γερμανίδα)'
+    notes: 'Weibliche Personenbezeichnung zu ο Γερμανός. Eigene Form für die Frau, kein angepasstes Adjektiv.'
+
+  - lemma: Έλληνας
+    pos: noun
+    gender: m
+    gloss_de: 'Grieche (ο Έλληνας)'
+    notes: 'Männliche Personenbezeichnung; weiblich η Ελληνίδα. Lexikalisch, nicht als Adjektiv.'
+
+  - lemma: Ελληνίδα
+    pos: noun
+    gender: f
+    gloss_de: 'Griechin (η Ελληνίδα)'
+    notes: 'Weibliche Personenbezeichnung zu ο Έλληνας.'
+
+  # ── Personalpronomen (Gegenstück zum bekannten εσύ aus Kap. 1) ──
+  - lemma: εγώ
+    pos: pron
+    gloss_de: 'ich (betont)'
+    notes: 'Gegenstück zum bekannten εσύ (du, Kap. 1). Wie εσύ nur zur Betonung gesetzt — die Person steckt schon in der Verbendung (είμαι = ich bin). Im Dialog: εγώ Γερμανίδα.'
+
+grammar_introduced:
+  - id: eimai-singular
+    label_de: 'Das Verb είμαι (sein), Singular: είμαι (ich) / είσαι (du) / είναι (er/sie/es)'
+
+grammar_recycled:
+  - praesens-omega-sg
+  - artikel-genus-nom-sg
+
+vocab_recycled:
+  - εσύ
+  - καλημέρα
+  - ναι
+  - όχι
+  - και
+  - ωραία
+  - ευχαριστώ
+  - τι
+  - κάνω
+  - μένω
+  - καλά
+  - εδώ
+  - τώρα
+  - ο
+  - η
+  - κύριος
+  - εκεί
+  - λοιπόν
+  - γειτονιά
+  - καλώς ήρθες
+
+exercises:
+  count: 7
+  types:
+    - person-recognition
+    - matching
+    - conjugation-gap-fill
+    - chunk-gap-fill
+    - matching
+    - dialogue-gap-fill
+    - free-production
