@@ -211,3 +211,27 @@
   Lücke mehr (per Grep bestätigt: keine weiteren Stamm+Lücke-Stellen in Ü1–Ü8).
   Weiterhin nur eingeführtes Material, Nomen Nom Sg, keine ausgeschriebenen
   Falschformen; θέλω-να-Chunks unberührt (nur in Ü5/Ü7/Ü8, ganz).
+
+## /new-chapter griechisch 10 — Phase 2 (parallele Prüfung) — 2026-06-07
+Baseline: validate_schema 0 Fehler, continuity_check 0 Verstöße. Orchestrator-/Designer-Fixes: εμείς/αυτοί/άλλο getilgt; Übung-3-Stamm+Lücke → ganze Verbform.
+
+### Befunde Runde 1
+- reviewer: **FREIGABE** (Plural-Paradigmen/θέλω/Chunks/Genus korrekt; κάνω/μένω-Doppeldeklaration technisch+didaktisch unbedenklich):
+  - [ ] R1 [minor] chapter.md:237 + :287 — „der bekannte Gruß aus Kapitel 3" identisch bei Ü3.5 (κάνετε) und Ü6.5 (κάνεις), löst sich gegensätzlich → einen Hinweis variieren → exercise-designer
+  - [ ] R2 [minor] Aussprachehinweis „-ume" OK (keine Aktion)
+- reader: **kein COMPREHENSION-FAILURE**:
+  - [ ] L1 [gap] chapter.md:169 „φάω … in derselben Form, die du bisher kanntest" — φάω ist NEU (nie vorher gesehen), „bisher kanntest" sachlich falsch → teacher
+  - [ ] L2 [gap] θέλω να φάω vs. θέλουμε να φάμε — φάμε statt erwartetem *φάουμε erzeugt aktive Verwirrung; kurz erklären, dass φάω/φάμε/πιω Sonderformen eines unregelmäßigen Verbs sind (als Block, NICHT die -ουμε-Regel anwenden) → teacher
+  - [ ] L4 [continuity/Bedeutung] Ü3.1 „Κάνουμε μία σαλάτα" — κάνω in „bestellen/zubereiten"-Bedeutung; in Kap. 3 nur „machen/tun (wie geht's)" → klären/entschärfen (κάνω eindeutig im bekannten „machen"-Sinn ODER Verb tauschen) → exercise-designer
+  - [ ] L3 [gap] να nicht als Wörtchen/Partikel benannt → teacher: knapp einordnen
+  - [ ] L5 [pacing] Ü3.5-Aha-Moment vor Grammatik-Auflösung — Klammerhinweis rettet; minor
+  - [ ] L6 [pacing] großer Schritt (6 Formen + θέλω + να-Konstruktion + 3 Blöcke) → optionale Wegmarke
+- ai-guard: **überwiegend menschlich** (Positiv: Landeskunde „kein tägliches Festgelage"):
+  - [ ] G1/G2 [meta/floskel] chapter.md:77-79 „Dieses Kapitel hat zwei Teile … Hand in Hand" → streichen
+  - [ ] G3 [floskel] Überschrift „Erst schauen: …" → Vorderteil streichen
+  - [ ] G4 [floskel] chapter.md:83 „Sieh dir … an" → direkt
+  - [ ] G5 [floskel] Überschrift „Der Aha-Moment" → Inhalt selbst sprechen lassen
+  - [ ] G6 [hedging] chapter.md:168 „ehrliche Vorwarnung" → einfach sachlich (deckt sich mit L1)
+  - [ ] G7 [rhythmus] chapter.md:109-118 zwei gleichgebaute Absätze → einen straffen
+  - [ ] G8 [liste] Lernziel-Parallelismus (optional)
+  - [ ] G10 [floskel/redundanz] „Achtung deutsche Falle" 3× (Z.109/183/229); eigener -ομε-Abschnitt wiederholt Z.109-113 → zusammenführen
