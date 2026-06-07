@@ -74,8 +74,8 @@ das schauen wir uns jetzt an.
 
 ## Grammatik: ο, η, το — der Artikel verrät das Genus
 
-Im Deutschen sagst du *der Platz*, *die Straße*, *das Haus*. Diese drei
-Wörtchen — *der*, *die*, *das* — sind der bestimmte Artikel. Sie zeigen das
+Im Deutschen sagst du *der Platz*, *die Straße*, *das Haus* — diese drei
+Wörtchen *der*, *die*, *das* sind der bestimmte Artikel. Sie zeigen das
 **Genus** des Hauptworts an: männlich, weiblich, sächlich. Das Griechische macht
 es genauso, nur mit anderen Wörtern.
 
@@ -119,10 +119,9 @@ nicht auf den Klang — das Auge entscheidet hier, nicht das Ohr.
 
 Drei Endungen solltest du dir merken. Wörter auf **-ος** wie ο δρόμ**ος**, ο
 φούρν**ος** oder ο σκύλ**ος** sind fast immer **männlich**. Wörter auf **-α** wie
-η αγορ**ά** oder auf **-εία** wie η πλατ**εία**, η εκκλησ**ία** sind meist
-**weiblich**. Und Wörter auf **-ι** wie το μαγαζ**ί**, το σπίτ**ι** oder auf **-ο**
-wie το σχολεί**ο** sind meist **sächlich**. So liest du das Genus oft schon am
-Wortende ab.
+η αγορ**ά**, η πλατεί**α** oder η εκκλησί**α** sind meist **weiblich**. Und Wörter
+auf **-ι** wie το μαγαζ**ί**, το σπίτ**ι** oder auf **-ο** wie το σχολεί**ο** sind
+meist **sächlich**. So liest du das Genus oft schon am Wortende ab.
 
 Aber Vorsicht — das sind Faustregeln, keine Garantien. Nimm **ο άντρας**: Das Wort
 hört auf **-ας**, sieht damit beinahe weiblich aus, und ist trotzdem männlich,
@@ -155,8 +154,7 @@ Schau dir diese Paare an:
 Lies die Tabelle einmal Zeile für Zeile laut: *der* Platz, aber **η** πλατεία;
 *die* Straße, aber **ο** δρόμος. Wer hier nach dem deutschen Gefühl rät, rät
 falsch. Das Genus eines griechischen Worts steckt im **griechischen** Wort, nicht
-in seiner deutschen Übersetzung — und genau deshalb lernst du es von Anfang an
-mit dem griechischen Artikel.
+in seiner deutschen Übersetzung.
 
 Manchmal stimmen die beiden Sprachen überein: **η γυναίκα** ist die Frau,
 **το σπίτι** ist das Haus, beide Male dasselbe Genus. Behandle solche Treffer

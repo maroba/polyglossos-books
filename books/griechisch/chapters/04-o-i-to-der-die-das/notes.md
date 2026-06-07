@@ -97,6 +97,23 @@ Baseline nach exercise-designer: validate_schema 0 Fehler, continuity_check 0 Ve
   - [x] G3 [floskel] chapter.md:316 — erledigt (teacher, Runde 2): „Und ganz nebenbei" im Landeskunde-Schluss gestrichen, Absatz steigt direkt mit der Sachaussage ein; Pointe (echtes Griechisch beim Grüßen) trägt allein. Zusätzlich Runde 2 (Re-Review): Die Floskel stand noch wortgleich im Dialog-Nachsatz (Z.65 „und ganz nebenbei taucht vor jedem Ding …") → dort entfernt: „und vor jedem Ding taucht ein kleines Wort auf …". Keine Floskel-Doppelung mehr zwischen Dialog-Schluss und Landeskunde.
   - [x] G4 [rhythmus] chapter.md:77-80 — erledigt (teacher, Runde 2): vier gleichlange Sätze aufgebrochen, Kurzsatz „Sie zeigen das **Genus** des Hauptworts an: …" + „Das Griechische macht es genauso, nur mit anderen Wörtern." → variierender Rhythmus, Lehrerstimme.
 
+### Fokussierte Korrektur (teacher, 2026-06-07) — Genus-Faustregel + Stil-Politur
+- [x] L1 [sprachlicher Fehler, zwingend] chapter.md:121-123 — Genus-Faustregel
+  korrigiert: εκκλησία endet auf **-ία** (σ-ία), NICHT auf **-εία**; nur πλατεία
+  endet auf -εία. Die fehlerhafte Unterkategorie **-εία** ist gestrichen. Alle drei
+  femininen Beispiele jetzt korrekt unter der gemeinsamen, geschriebenen Endung
+  **-α** zusammengefasst (η αγορ**ά**, η πλατεί**α**, η εκκλησί**α**) — Hervorhebung
+  am letzten Buchstaben -α, konsistent mit der behaupteten Endung. Zweite typische
+  feminine Endung -η bewusst weggelassen: kein deklariertes Vokabular dieses Typs im
+  bisherigen Wortschatz, eine abstrakte Erwähnung würde im „Schau aufs Wortende"-Kapitel
+  nur verwirren. Keine isolierten Endungsfragmente in der Prosa.
+- [x] G1 [stil] chapter.md:77-80 — erste Satzhälfte zusammengezogen (Gedankenstrich
+  statt Punkt-Reihung), löst die vier gleichlangen Sätze auf, mehr Schwung.
+- [x] G4 [stil] chapter.md:155-159 — Echo „und genau deshalb lernst du es von Anfang
+  an mit dem griechischen Artikel" gestrichen; der Gedanke steht bereits in Z.132-135
+  (Tabelle endet jetzt auf der Pointe „nicht in seiner deutschen Übersetzung").
+- G2/G3: nach Urteil belassen, keine Änderung (kein Risiko-/Mehrwert-Verhältnis).
+
 ### Fokussierte Re-Review Runde 2 (teacher, 2026-06-07) — Verifikation + Restfix
 - Kern L3/G2: Genusregel ist benennbar — drei Endungen im Fließtext benannt und am ganzen Wort fett hervorgehoben (**-ος** an ο δρόμ**ος**/φούρν**ος**/σκύλ**ος**; **-α**/**-εία** an η αγορ**ά**/πλατ**εία**/εκκλησ**ία**; **-ι**/**-ο** an το μαγαζ**ί**/σπίτ**ι**/σχολεί**ο**). Auf Übung 2 anwendbar. Kein Bullet-Block mehr.
 - Tokenizer-Verifikation gegen lib/greek.py: (1) tokenize() entfernt `**` vor dem Matchen → δρόμ**ος** = ganzes Token δρόμος (deklariert). (2) GREEK_TOKEN_RE-Lookbehind `(?<![…-])` blockiert jedes Match nach Bindestrich → freistehende **-ος**/**-α**/**-εία**/**-ι**/**-ο**/**-ας** erzeugen KEINE Tokens. Continuity-neutral, kein isoliertes Fragment.
@@ -105,3 +122,10 @@ Baseline nach exercise-designer: validate_schema 0 Fehler, continuity_check 0 Ve
 - G1: Dialog-Blockquote-Einleitung und Prosa-Nachsatz nicht mehr wortgleich („Mal **η**, mal **ο**, mal **το** — das ist der bestimmte Artikel.") — bestätigt.
 - G3: Restfix im Dialog-Schluss (s. o.) durchgeführt.
 - G4: Rhythmus im Grammatik-Einstieg variiert — bestätigt.
+
+## Phase 4 — Re-Review Runde 2 + Abschluss
+- reviewer: FREIGABE (Runde 1); cultural: FREIGABE (Runde 1)
+- ai-guard: **FREIGABE** (Reste optional, G1/G4 nachgezogen)
+- reader: kein COMPREHENSION-FAILURE; L1 [sprachlicher Fehler] εκκλησία fälschlich unter -εία → korrigiert (αγορά/πλατεία/εκκλησία jetzt korrekt unter Endung -α). L2 (γυναίκα) by design (deklariert, Build-Box).
+- continuity_check: 0 Verstöße; validate_schema: 0 Fehler
+- **Status → draft-complete** (volle /new-chapter-Pipeline durchlaufen, 2 Überarbeitungsrunden)
