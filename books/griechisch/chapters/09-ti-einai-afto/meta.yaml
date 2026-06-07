@@ -1,0 +1,160 @@
+chapter: 9
+slug: ti-einai-afto
+status: entwurf
+
+vocab_introduced:
+  # ── Demonstrativa (Grammatik-Neueinführung; Kern des Kapitels) ──
+  # Jeweils mit allen drei Nominativ-Singular-Formen als inflected_forms.
+  # Sie folgen demselben -ος/-η/-ο-Muster wie die Adjektive aus Kap. 8.
+  - lemma: αυτός
+    pos: pron
+    gloss_de: 'dieser, das hier (αυτός m / αυτή f / αυτό n); beim Zeigen auf Nahes'
+    notes: 'Demonstrativum „nah", Gegenstück zu εκείνος. Drei Genus-Formen nach dem -ος/-η/-ο-Muster (wie μεγάλος, Kap. 8). αυτό ist die neutrale Standardform beim Fragen nach einem noch unbenannten Ding: Τι είναι αυτό; Gehört zu εδώ (Kap. 3). Nur Nominativ Singular, kein Plural, kein anderer Kasus. Vorerst allein, ohne Nomen (Αυτό είναι ντομάτα). Die Konstruktion αυτό + Artikel + Nomen (αυτό το ψάρι) nur als rezeptive feste Wendung gezeigt.'
+    inflected_forms:
+      - αυτή
+      - αυτό
+
+  - lemma: εκείνος
+    pos: pron
+    gloss_de: 'jener, das dort (εκείνος m / εκείνη f / εκείνο n); beim Zeigen auf Fernes'
+    notes: 'Demonstrativum „fern", Gegenstück zu αυτός. Drei Genus-Formen nach dem -ος/-η/-ο-Muster. Gehört zu εκεί (Kap. 4): αυτό εδώ / εκείνο εκεί. Nur Nominativ Singular. Konstruktion εκείνος + Artikel + Nomen (εκείνος ο άντρας) nur rezeptiv als feste Wendung.'
+    inflected_forms:
+      - εκείνη
+      - εκείνο
+
+  # ── Fragewort ποιος (Grammatik-Neueinführung) ──
+  # τι (Kap. 3) und πού (Kap. 6) sind bekannt und werden nur recycelt.
+  - lemma: ποιος
+    pos: pron
+    gloss_de: 'wer? / welcher? (ποιος m / ποια f / ποιο n)'
+    notes: 'Fragewort nach Person oder Auswahl. Richtet sich wie ein Adjektiv nach Genus der gemeinten Person/Sache, dieselben -ος/-η/-ο-Endungen wie αυτός. Ποιος είναι αυτός; (ein Mann) / Ποια είναι αυτή; (eine Frau) / Ποιο είναι το ψωμί; (sächlich). Akzent auf dem ersten ο (ποιος), nicht mit dem Artikel zu verwechseln. Nur Nominativ Singular.'
+    inflected_forms:
+      - ποια
+      - ποιο
+
+  # ── Adjektiv φρέσκος (Markt; -ος/-η/-ο-Typ, recycelt das Kap.-8-Muster) ──
+  - lemma: φρέσκος
+    pos: adj
+    gloss_de: 'frisch (φρέσκος m / φρέσκια f / φρέσκο n)'
+    notes: 'Adjektiv -ος/-η/-ο (Muster aus Kap. 8). Markt-Schlüsselwort. Die weibliche Form lautet φρέσκια (-ια nach Vokal, wie καινούρια aus Kap. 8): φρέσκια ντομάτα. Sächlich φρέσκο: φρέσκο ψάρι, φρέσκο ψωμί. Nur Nominativ Singular.'
+    inflected_forms:
+      - φρέσκια
+      - φρέσκο
+
+  # ── Markt / Wochenmarkt (Themen: Markt) ──
+  - lemma: λαϊκή
+    pos: noun
+    gender: f
+    gloss_de: 'Wochenmarkt (η λαϊκή, kurz für η λαϊκή αγορά)'
+    notes: 'Endung -ή → weiblich: η λαϊκή. Ursprünglich Adjektiv „volkstümlich" zu αγορά (Markt, Kap. 4); im Alltag als Nomen verselbständigt (η λαϊκή = der Wochenmarkt). Hier lexikalisch als Nomen gelernt. Das Trema (zwei Pünktchen) auf dem ι zeigt, dass α und ι getrennt gesprochen werden: la-i-kí.'
+
+  # ── Lebensmittel (Themen: Lebensmittel; Genus-Mix für Demonstrativ-Drill) ──
+  - lemma: ντομάτα
+    pos: noun
+    gender: f
+    gloss_de: 'Tomate'
+    notes: 'Endung -α → weiblich: η ντομάτα. Kernbeispiel: Αυτό είναι ντομάτα. / αυτή η ντομάτα. Auch τομάτα geschrieben; im Buch durchgängig ντομάτα.'
+
+  - lemma: πατάτα
+    pos: noun
+    gender: f
+    gloss_de: 'Kartoffel'
+    notes: 'Endung -α → weiblich: η πατάτα. Genus deckungsgleich mit deutsch „die Kartoffel".'
+
+  - lemma: ελιά
+    pos: noun
+    gender: f
+    gloss_de: 'Olive; auch: Olivenbaum'
+    notes: 'Endung -ά (auf der letzten Silbe betont) → weiblich: η ελιά.'
+
+  - lemma: φέτα
+    pos: noun
+    gender: f
+    gloss_de: 'Feta (Schafs-/Ziegenkäse in Salzlake)'
+    notes: 'Endung -α → weiblich: η φέτα. Geschützte Ursprungsbezeichnung; im Dialog als Antwort auf Τι τυρί είναι αυτό;'
+
+  - lemma: πορτοκάλι
+    pos: noun
+    gender: n
+    gloss_de: 'Orange (Frucht)'
+    notes: 'Endung -ι → sächlich: το πορτοκάλι. Verwandt mit πορτοκαλάδα (Orangenlimonade, Kap. 5) — dieselbe Wortfamilie. Beispiel beim Zeigen: εκείνο είναι πορτοκάλι.'
+
+  - lemma: μήλο
+    pos: noun
+    gender: n
+    gloss_de: 'Apfel'
+    notes: 'Endung -ο → sächlich: το μήλο. Deutsch „der Apfel" männlich, griechisch το μήλο sächlich (Genus-Kontrast).'
+
+  - lemma: ψωμί
+    pos: noun
+    gender: n
+    gloss_de: 'Brot'
+    notes: 'Endung -ι → sächlich: το ψωμί. Auf der letzten Silbe betont (pso-MÍ). Im Dialog: φρέσκο ψωμί.'
+
+  - lemma: τυρί
+    pos: noun
+    gender: n
+    gloss_de: 'Käse'
+    notes: 'Endung -ί → sächlich: το τυρί. Auf der letzten Silbe betont. Im Dialog: Τι τυρί είναι αυτό; → Φέτα.'
+
+  - lemma: ψάρι
+    pos: noun
+    gender: n
+    gloss_de: 'Fisch'
+    notes: 'Endung -ι → sächlich: το ψάρι. Im Dialog und in der Landeskunde: φρέσκο ψάρι (frischer Fisch, Marktruf).'
+
+  - lemma: λάδι
+    pos: noun
+    gender: n
+    gloss_de: 'Öl, Olivenöl'
+    notes: 'Endung -ι → sächlich: το λάδι. Im Alltag meist Olivenöl. Verwandt mit ελιά (Olive).'
+
+  - lemma: αγγούρι
+    pos: noun
+    gender: n
+    gloss_de: 'Gurke'
+    notes: 'Endung -ι → sächlich: το αγγούρι. Doppel-γγ wird wie „ng" gesprochen (an-GÚ-ri). Deutsch „die Gurke" weiblich, griechisch το αγγούρι sächlich (Genus-Kontrast).'
+
+grammar_introduced:
+  - id: fragewoerter-demonstrativa
+    label_de: 'Fragewörter (τι, ποιος, πού) und Demonstrativa (αυτός/εκείνος). τι (was, Kap. 3) und πού (wo, Kap. 6) konsolidiert und unveränderlich; ποιος (wer/welcher) und die Demonstrativa αυτός (das hier, zu εδώ) / εκείνος (das dort, zu εκεί) folgen dem -ος/-η/-ο-Genus-Muster aus Kap. 8. Kernsatz Τι είναι αυτό; mit αυτό als neutraler Standardform beim Fragen nach einer unbekannten Sache; prädikative Antwort Αυτό είναι ντομάτα. Nur Nominativ Singular, kein Plural, kein anderer Kasus. Konstruktion Demonstrativ + Artikel + Nomen (αυτό το ψάρι) nur rezeptiv als feste Wendung.'
+
+grammar_recycled:
+  - eimai-singular
+  - adjektiv-kongruenz-nom-sg
+
+vocab_recycled:
+  - τι           # Kap. 3 — Τι είναι αυτό; (jetzt als eigenständiges Fragewort konsolidiert)
+  - πού          # Kap. 6 — Πού είναι το μήλο; (Frage nach dem Ort)
+  - είμαι        # Kap. 6 — είναι trägt jede Frage und Antwort (Τι είναι αυτό;)
+  - εδώ          # Kap. 3 — αυτό εδώ (Demonstrativ-Anker „nah")
+  - εκεί         # Kap. 4 — εκείνο εκεί (Demonstrativ-Anker „fern")
+  - ο            # Kap. 4 — Genus-Anker für ποιος/αυτός/εκείνος
+  - η            # Kap. 3/4
+  - το           # Kap. 4
+  - μεγάλος      # Kap. 8 — ένα μεγάλο πορτοκάλι; εκείνο το μεγάλο μαγαζί
+  - μικρός       # Kap. 8 — εκείνο το μικρό μαγαζί
+  - καλός        # Kap. 8 — Καλός άντρας; Πολύ καλή φέτα
+  - παλιός       # Kap. 8 — (Muster-Anknüpfung -ος/-η/-ο)
+  - ωραίος       # Kap. 8 — Ωραίο! (als Bewertung im Dialog)
+  - άντρας       # Kap. 4 — Καλός άντρας; εκείνος ο άντρας
+  - γείτονας     # Kap. 4 — καλός γείτονας
+  - μαγαζί       # Kap. 4 — στο μεγάλο μαγαζί
+  - αγορά        # Kap. 4 — λαϊκή αγορά (Landeskunde)
+  - και          # Kap. 2
+  - ναι          # Kap. 1
+  - πολύ         # Kap. 2 — πολύ φρέσκια, πολύ καλή
+  - ένας         # Kap. 2/5 — ένα μεγάλο πορτοκάλι
+  - καλημέρα     # Kap. 1 — Γιώργος' Begrüßung
+
+exercises:
+  count: 8
+  types:
+    - ending-genus-matching
+    - demonstrative-agreement-gapfill
+    - near-far-demonstrative-gapfill
+    - question-word-agreement-gapfill
+    - question-word-choice-gapfill
+    - contrast-multiple-choice
+    - dialogue-gapfill
+    - free-production
