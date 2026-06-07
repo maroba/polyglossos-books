@@ -127,3 +127,65 @@
   Ausführungsrecht nicht selbst gelaufen; Abgleich manuell. Besonders prüfen:
   Tokenisierung von τη/την/στη/στην (als inflected_forms hinterlegt) und der
   Nominativ-/Wendungsformen der Ortsnamen (Νάξο, Θεσσαλονίκη).
+
+### Phase 2 (Übungen — exercise-designer, 2026-06-07)
+
+- 7 Übungen + vollständiger Lösungsschlüssel in @section: uebungen /
+  @section: loesungen geschrieben; meta.yaml exercises auf count 7 + Typen
+  gesetzt. Progression rezeptiv → gelenkt → frei wie Kap. 4/5:
+  1. person-recognition — είμαι/είσαι/είναι der Person zuordnen (rezeptiv,
+     Kerntyp; Beispiel-Item, da Übungstyp im Buch passend wiederholt).
+  2. matching — Nationalität Mann/Frau zuordnen (Γερμανός/Γερμανίδα,
+     Έλληνας/Ελληνίδα als Lexempaare, KEINE Adjektiv-Kongruenz).
+  3. conjugation-gap-fill — είμαι/είσαι/είναι einsetzen, Person über
+     εγώ/εσύ/3. Person vorgegeben.
+  4. chunk-gap-fill — από / στην als Block einsetzen, Ortsname unverändert
+     daneben; KEIN στην-vs-στη-Sortieren, KEINE από-Form selbst bilden.
+  5. matching — Herkunfts-Wendung ↔ Nationalität, Frau/Mann beachten.
+  6. dialogue-gap-fill — kommunikativ: auf Από πού είσαι; / πού μένεις; mit
+     είμαι από + Land und μένω στην + Ort als Block antworten.
+  7. free-production — eigene Vorstellung in drei Sätzen (Herkunft,
+     Nationalität, Wohnort), Musterlösung + Variantenhinweis.
+
+- **Recycling:** Ü4 reaktiviert μένω/μένει (praesens-omega-sg, Wohnort-
+  Wendung); Ü2/Ü5 stützen sich auf das Genus-/Personen-Wissen (ο/η, Mann/Frau)
+  aus artikel-genus-nom-sg (Kap. 4). Die geforderten grammar_recycle-Ziele sind
+  damit abgedeckt.
+
+- **Eiserne-Regel-Selbstprüfung (Übungen+Lösungen):** Alle griechischen Tokens
+  manuell gegen kumulatives Vokabular Kap. 1–5 + 16 Neudeklarationen Kap. 6
+  abgeglichen — kein Restbefund, auch Distraktoren/Antwortoptionen nur aus
+  bekanntem Material (ich/du/er-sie-es bzw. από/στην, Lexempaare). από+Land und
+  στην/στη+Ort ausschließlich als Chunks abgefragt (kein Akkusativ-Paradigma,
+  keine Verschmelzungsregel σε+Artikel — bleibt Kap. 13). Nationalitäten nur als
+  Lexem-Zuordnung m/f (keine Kongruenz — bleibt Kap. 8). πού mit Akzent
+  (Fragewort) durchgängig. Keine Transliteration, keine isolierten Fragmente in
+  deutscher Prosa. Eigennamen (Λένα, Μαρία, Κώστας) und deklarierte Orts-/
+  Ländernamen erlaubt. Übungen verwenden durchgängig den Kapitel-Schauplatz
+  (πλατεία, Lena/María/Kostas) weiter.
+
+## /new-chapter griechisch 6 — Phase 2 (parallele Prüfung) — 2026-06-07
+Baseline: validate_schema 0 Fehler, continuity_check 0 Verstöße.
+
+### Befunde Runde 1
+- continuity-checker: **KONTINUITÄT OK** (τη/την/στη/στην als inflected_forms von από/σε; Νάξο deklariert; kein Akkusativ-/Adjektiv-Paradigma)
+- reviewer: **FREIGABE** (είμαι-Formen, Länder-Genus, Nationalitäten-Lexeme, από/στην-Chunks alle korrekt; keine Transliteration):
+  - [x] R1 [minor] chapter.md:96-100 — Tabelle ohne Spaltenköpfe → erledigt: Spaltenköpfe „Person / Form / Beispiel" gesetzt.
+  - [x] R2 [minor] είναι auch für Gleichsetzung „X ist Y" → erledigt: Halbsatz im Abschnitt „Eine Form für drei" ergänzt (Ο κύριος εκεί είναι ο Κώστας als Gleichsetzung), nur deklariertes Material.
+- reader: **kein COMPREHENSION-FAILURE**; Gaps:
+  - [x] L1/L2/L4 [gap] τη vs. την und στη vs. στην nicht herleitbar → erledigt (exercise-designer, 2026-06-07): Scaffolding ohne Kasus-Regel. Ü7 (free-production) auf drei Auswahlkästen mit FERTIGEN Blöcken umgestellt (Woher: από τη Γερμανία / από την Ελλάδα; Was: Γερμανός/Γερμανίδα/Έλληνας/Ελληνίδα; Wo: στην Αθήνα / στη Θεσσαλονίκη / στη Νάξο / στη γειτονιά) — από/τη/την/στη/στην sind im Baustein bereits enthalten, werden nicht selbst gebildet. Musterlösung nutzt nur Kasten-Blöcke (στη Θεσσαλονίκη jetzt als Block vorhanden). Ü6 (dialogue-gap-fill): Aufgabenstellung präzisiert — die einzusetzenden Kleinwörter (από τη Γερμανία / στην Αθήνα / από πού) stehen exakt so im Dialog, keine neue Form zu bilden. Kasus-Regel NICHT geöffnet (bleibt Kap. 13). Tokens στη/στην, Θεσσαλονίκη, Νάξο als inflected_forms von σε/Θεσσαλονίκη/Νάξος deklariert — kein nacktes neues Token. στη Θεσσαλονίκη/στη Νάξο grammatisch korrekt (beide f).
+  - [x] L3 [gap] Kasus-Parallele zu Kap. 5 hinkt → erledigt: Parallele entschärft („ähnlich wie … auch wenn das eine andere Stelle im Satz war"), kein falsches Gleichsetzen mehr; „System heißt Kasus, kommt später" beibehalten.
+  - [ ] L5 [pacing] drei Artikelveränderungs-Phänomene → inhärent; keine Aktion (nicht zwingend, Substanz unverändert nötig).
+  - [x] L6 [gap] „kein eine vor Nationalität" als Randbemerkung → erledigt: eigener Satz, abgesichert (nach είμαι bei Nationalität und Beruf kein unbestimmter Artikel), kein neues Paradigma.
+- ai-guard: **überwiegend menschlich**, Reste:
+  - [x] G1 [liste] Lernziel 3. Punkt → erledigt: gestrafft zu „είμαι, είσαι, είναι gebrauchen — drei Formen, die schnell sitzen".
+  - [x] G2 [rhythmus] Wort-Mitte-Absatz → erledigt: von fünf auf drei Sätze gekürzt, kürzerer Schluss. Nachschliff: „fangen alle gleich an und hören gleich auf" zu „Anfang und Ende sind bei allen drei Formen gleich" gestrafft, Schluss von „Diese Stelle ist dein Anker" zu „Das ist dein Anker" verkürzt (Restredundanz Mitte/Stelle entfernt).
+  - [x] G3 [hedging] Doppel-Hedging → erledigt: „ein klein wenig"/„ein bisschen" entfernt, „heißt wieder Kasus" zu „heißt Kasus und kommt später" gestrafft (deckt sich mit L3). Nachschliff: enge Wiederholung „im Satz … im Satz" durch „dort eine andere Position" aufgelöst.
+  - [x] G4 [floskel] „Schauen wir uns das Verb an" → erledigt: gestrichen.
+  - [x] G5 [symmetrie] doppelter Dreierschritt → erledigt: zweiter Dreierschritt (Mann/Frau/Sache) zu „egal, wer oder was gemeint ist" zusammengezogen.
+  - [x] G6 [rhythmus] Landeskunde-Wanderungsabsatz → erledigt: pointiert (konkrete 1960er/70er Gastarbeiter, Krise 2010, Pointe „Suche nach einer geteilten Geschichte"); Leerformel-Auftakt entschärft.
+  - [x] G7 [floskel] „genau das ist der Sinn der Sache" → erledigt: gestrichen, Schluss endet auf „wird aus der Neugier ein Gespräch".
+- cultural-reviewer: **solide**, zwei Faktenfixes:
+  - [x] K1 [fakt] Türkei-Grenze → erledigt: Nachbarn korrekt angeordnet — „im Nordwesten an Albanien, im Norden an Nordmazedonien und Bulgarien, im Osten an die Türkei".
+  - [x] K2 [fakt] Italien/Adria/Nachtfähre → erledigt: korrekt umformuliert — „eine der großen Fährrouten Europas, von Patras oder Igoumenitsa übers Ionische Meer Richtung Ancona oder Brindisi"; falsche „Nachtfähre/Adria"-Aussage entfernt.
+  - [x] K3-K8: korrekt — keine Aktion.

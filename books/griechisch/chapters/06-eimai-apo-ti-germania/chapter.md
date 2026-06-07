@@ -23,8 +23,7 @@ Wenn du dieses Kapitel durch hast, kannst du
   στην Αθήνα**,
 - ein paar Länder und die passenden Bezeichnungen für ihre Bewohner benennen —
   **η Γερμανία**, **ο Γερμανός**, **η Γερμανίδα**,
-- das Verb **είμαι** in den drei Singularformen gebrauchen — **είμαι**,
-  **είσαι**, **είναι**.
+- **είμαι**, **είσαι**, **είναι** gebrauchen — drei Formen, die schnell sitzen.
 
 <!-- @section: dialog lang=el -->
 
@@ -63,7 +62,7 @@ sitzt.
 
 Mehr ist für den Anfang nicht nötig. Drei kurze Formen — **είμαι**, **είσαι**,
 **είναι** — und eine Handvoll Länder, und schon kannst du das Wichtigste über
-dich und andere sagen. Schauen wir uns das Verb an.
+dich und andere sagen.
 
 <!-- @section: vokabeln -->
 
@@ -93,7 +92,7 @@ aus Kapitel 3 kennst.
 
 ### Das Muster
 
-| | Form | |
+| Person | Form | Beispiel |
 | --- | --- | --- |
 | ich | **είμαι** | Είμαι από τη Γερμανία. |
 | du | **είσαι** | Είσαι από την Αθήνα; |
@@ -105,26 +104,25 @@ von den ganz wenigen, die du dir einfach so merken musst. Die gute Nachricht:
 Es sind nur drei kurze Wörter, und du wirst sie so oft brauchen, dass sie dir in
 ein paar Tagen von selbst über die Lippen kommen.
 
-Achte beim Lesen auf die Mitte des Wortes. **Είμαι**, **είσαι** und **είναι**
-fangen alle mit denselben zwei Buchstaben an und hören auch gleich auf — der
-Unterschied sitzt jeweils im mittleren Buchstaben. Sprich die drei Formen einmal
-langsam nach: Im **είμαι** summt es in der Mitte, im **είσαι** zischt es, im
-**είναι** klingt es nasal. Wenn du beim Hören oder Lesen unsicher bist, wer
-gemeint ist, ist genau diese Stelle dein Anker.
+Achte beim Lesen auf die Mitte des Wortes: Anfang und Ende sind bei allen drei
+Formen gleich, der Unterschied sitzt im mittleren Buchstaben. Sprich sie einmal
+langsam nach: Im **είμαι** summt es, im **είσαι** zischt es, im **είναι** klingt
+es nasal. Das ist dein Anker.
 
 ### Eine Form für drei: είναι
 
-Eine Sache ist im Griechischen sogar bequemer als im Deutschen. Im Deutschen
-heißt es *er ist*, *sie ist*, *es ist* — dreimal eine eigene Form drumherum.
-Im Griechischen gibt es dafür **eine einzige** Form: **είναι**. Ob ein Mann, eine
-Frau oder eine Sache gemeint ist — **είναι** bleibt **είναι**.
+Eine Sache ist im Griechischen sogar bequemer als im Deutschen. Wo wir *er ist*,
+*sie ist*, *es ist* sagen, steht hier **eine einzige** Form: **είναι** — egal,
+wer oder was gemeint ist.
 
 > Ο Κώστας **είναι** από τη Θεσσαλονίκη. — *Kostas ist aus Thessaloniki.*
 > Η Μαρία **είναι** από τη Νάξο. — *María ist aus Náxos.*
 
-Dasselbe **είναι** ist dir übrigens schon einmal begegnet, ohne dass wir es
-benannt haben — wann immer man auf etwas zeigt und fragt, was es *ist*. Von jetzt
-an weißt du, was dahintersteckt: die dritte Form von **είμαι**.
+Dasselbe **είναι** trägt auch die schlichte Gleichsetzung *X ist Y*: **Ο κύριος
+εκεί είναι ο Κώστας** — *Der Mann dort ist Kostas*. Und es ist dir schon einmal
+begegnet, ohne dass wir es benannt haben — wann immer man auf etwas zeigt und
+fragt, was es *ist*. Von jetzt an weißt du, was dahintersteckt: die dritte Form
+von **είμαι**.
 
 ### Woher? — από + Land, als Wendung
 
@@ -141,12 +139,11 @@ Fragewort für *wo*; mit **από** davor wird daraus *woher*.
 Jetzt fällt dir vielleicht etwas auf. Das Land heißt **η Γερμανία** — mit **η**,
 also weiblich, wie du es in Kapitel 4 gelernt hast. In **είμαι από τη Γερμανία**
 steht aber **τη**, nicht **η**. Genauso wird aus **η Ελλάδα** in der Wendung
-**από την Ελλάδα**. Der Artikel verändert sich also ein klein wenig, sobald
-**από** davorsteht.
+**από την Ελλάδα**. Der Artikel verändert sich also, sobald **από** davorsteht.
 
-Das ist derselbe Mechanismus, der dir in Kapitel 5 bei **έναν καφέ** begegnet
-ist: Ein Wort ändert seine Form ein bisschen, je nach seiner Rolle im Satz. Das
-System dahinter heißt wieder Kasus, und es kommt später dran. Für jetzt lernst du
+Auch hier ändert ein Wort seine Form je nach seiner Rolle im Satz — ähnlich wie
+bei **έναν καφέ** in Kapitel 5, auch wenn das dort eine andere Position war.
+Das System dahinter heißt Kasus und kommt später dran. Für jetzt lernst du
 **από + Land** als feste Wendung, als ein Stück — so, wie du **έναν καφέ,
 παρακαλώ** als ein Stück gelernt hast. Merk dir das Land doppelt: einmal in der
 Grundform mit **η** (η Γερμανία, η Ελλάδα), wenn du es schlicht benennst, und
@@ -179,8 +176,11 @@ Das sind keine kniffligen Endungen, die du anpassen musst, sondern einfach zwei
 verschiedene Wörter, die du als Paar lernst — eines für den Mann, eines für die
 Frau, so wie du in Kapitel 4 **ο γείτονας** (der Nachbar) und **η γειτόνισσα**
 (die Nachbarin) als Paar gelernt hast. Lena, die das sagt, nimmt **Γερμανίδα**;
-María nimmt **Ελληνίδα**. Anders als im Deutschen steht hier übrigens kein
-*eine* davor: **Είμαι Γερμανίδα**, nicht *ich bin eine Deutsche*.
+María nimmt **Ελληνίδα**.
+
+Eine Sache solltest du dir gleich merken: Nach **είμαι** steht bei Nationalität
+(und genauso später beim Beruf) **kein** unbestimmter Artikel — anders als im
+Deutschen. Es heißt **Είμαι Γερμανίδα**, nicht *ich bin eine Deutsche*.
 
 ### Vorsicht, deutsche Falle: nicht zu viel *sein*
 
@@ -273,8 +273,10 @@ ob eine Frau oder ein Mann spricht.
 
 María fragt dich auf der Bank nach deiner Herkunft und deinem Wohnort. Antworte
 mit den ganzen Wendungen aus dem Dialog — übernimm **είμαι από + Land** und
-**μένω στην + Ort** als Block. Die Wahl von **είμαι / είσαι / είναι** verrät dir
-das **εγώ** bzw. **εσύ** in der Frage.
+**μένω στην + Ort** als Block. Die kleinen Wörter, die hier fehlen, stehen genau
+so im Dialog (**από τη Γερμανία**, **στην Αθήνα**, **από πού**); du musst keine
+neue Form bilden, sondern nur die aus dem Gespräch bekannte einsetzen. Die Wahl
+von **είμαι / είσαι / είναι** verrät dir das **εγώ** bzw. **εσύ** in der Frage.
 
 > **Beispiel:** Μαρία: **Από πού είσαι;** → Du: **________ από τη Γερμανία.**
 > → **Είμαι** *(εσύ in der Frage → εγώ in der Antwort)*
@@ -288,14 +290,28 @@ das **εγώ** bzw. **εσύ** in der Frage.
 
 Jetzt bist du dran. Du sitzt mit María auf der πλατεία und sagst in drei kurzen
 Sätzen, woher du kommst, was du bist und wo du jetzt wohnst — so knapp wie Lena
-im Dialog. Nimm **είμαι από + Land**, eine Nationalität (Γερμανός / Γερμανίδα /
-Έλληνας / Ελληνίδα) und **μένω στην + Ort** jeweils als Block.
+im Dialog.
+
+Such dir aus den drei Kästen je eine **ganze Wendung** aus und setze sie als
+Block ein — die kleinen Wörter **από / στη / στην** sind in jedem Baustein schon
+fertig dabei, du musst sie nicht selbst bilden. Achte nur darauf, dass die
+Nationalität zu dir passt (eine Frau sagt **Γερμανίδα / Ελληνίδα**, ein Mann
+**Γερμανός / Έλληνας**).
+
+**Woher? (είμαι …)**
+> από τη Γερμανία · από την Ελλάδα
+
+**Was bist du?**
+> Γερμανός · Γερμανίδα · Έλληνας · Ελληνίδα
+
+**Wo wohnst du jetzt? (μένω …)**
+> στην Αθήνα · στη Θεσσαλονίκη · στη Νάξο · στη γειτονιά
 
 > **Beispiel:** **Είμαι από τη Γερμανία. Είμαι Γερμανίδα. Τώρα μένω στην
 > Αθήνα.**
 
-Verwende die Länder, Nationalitäten und Orte aus dem Kapitel (Γερμανία /
-Ελλάδα; Αθήνα / Θεσσαλονίκη / Νάξος).
+Nimm nur die fertigen Wendungen aus den Kästen — so bleibt jede Form richtig,
+ohne dass du **τη / την / στη / στην** selbst sortieren musst.
 
 <!-- @section: landeskunde -->
 
@@ -311,23 +327,24 @@ bist und woher du kommst, ist der schnellste Weg, einen gemeinsamen Faden zu
 finden — eine Insel, die man kennt, ein Cousin, der einmal in Deutschland
 gearbeitet hat.
 
-Dass eine Antwort wie **Είμαι από τη Γερμανία** so oft Wärme auslöst, hat auch
-einen handfesten Grund: Kaum eine griechische Familie ist ohne eigene
-Wanderungsgeschichte. Über Jahrzehnte sind Hunderttausende zum Arbeiten nach
-Deutschland gegangen, viele wieder zurückgekehrt, und in den Jahren der
-Wirtschaftskrise nach 2010 zog eine neue, junge Generation aus. Sagst du
-*Deutschland*, ist die Chance groß, dass dein Gegenüber selbst dort gelebt hat
-oder jemanden kennt, der es tat.
+Dass eine Antwort wie **Είμαι από τη Γερμανία** so oft Wärme auslöst, hat einen
+handfesten Grund: Kaum eine griechische Familie ist ohne eigene
+Wanderungsgeschichte. Allein in den 1960er und 70er Jahren gingen Hunderttausende
+als Gastarbeiter nach Deutschland — viele kehrten zurück, andere blieben, und in
+der Wirtschaftskrise nach 2010 zog eine neue, junge Generation aus. Sagst du
+*Deutschland*, hat dein Gegenüber gut und gern selbst dort gelebt oder kennt
+jemanden, der es tat. Die Frage nach deiner Herkunft ist also oft auch die Suche
+nach einer geteilten Geschichte.
 
-Geografisch liegt Griechenland an einer vielbefahrenen Kreuzung. Im Norden grenzt
-es an Bulgarien und Nordmazedonien, im Nordwesten an Albanien, im Nordosten an
-die Türkei; nach Italien ist es über die Adria nur eine Nachtfähre weit. Diese
-Nähe spiegelt sich im Alltag wider — in der Küche, in der Musik, in den vielen
+Geografisch liegt Griechenland an einer vielbefahrenen Kreuzung. Im Nordwesten
+grenzt es an Albanien, im Norden an Nordmazedonien und Bulgarien, im Osten an die
+Türkei; nach Italien führt eine der großen Fährrouten Europas, von Patras oder
+Igoumenitsa übers Ionische Meer Richtung Ancona oder Brindisi. Diese Nähe
+spiegelt sich im Alltag wider — in der Küche, in der Musik, in den vielen
 Menschen aus den Nachbarländern, die hier leben und arbeiten. Wenn du also nach
 deiner Herkunft gefragt wirst, stehst du in einer langen Reihe von Leuten, die
 genau dieselbe Frage schon beantwortet haben. Frag ruhig zurück: **Και εσύ; Από
-πού είσαι;** Damit wird aus der Neugier ein Gespräch, und genau das ist der Sinn
-der Sache.
+πού είσαι;** Damit wird aus der Neugier ein Gespräch.
 
 <!-- @section: loesungen -->
 
@@ -396,9 +413,10 @@ darin, dass die Frau **Ελληνίδα** sagt und der Mann **Έλληνας**.
 
 ### Übung 7
 
-Musterlösung — andere Länder, Nationalitäten und Orte sind möglich, solange
-**είμαι από + Land**, die passende Nationalität (Frau/Mann) und **μένω στην /
-στη + Ort** jeweils als ganze Wendung stehen.
+Musterlösung — andere Kombinationen sind möglich, solange du die fertigen
+Bausteine aus den drei Kästen nimmst (**είμαι από …**, eine passende
+Nationalität, **μένω στη / στην …**). Jede Wendung steht so als Block im Kasten;
+**από / τη / την / στη / στην** musst du nicht selbst bilden.
 
 > **Είμαι από την Ελλάδα. Είμαι Ελληνίδα. Τώρα μένω στη Θεσσαλονίκη.**
 
