@@ -129,3 +129,72 @@
   ωραία korrekt als Recycling (Kap. 2) bzw. als inflected_form von ωραίος
   erkannt wird; dass kein attributives Adjektiv aus Kap. 7 „durchgesickert" ist
   (in Kap. 7 war attributives Adjektiv noch verboten — hier ist es das Thema).
+
+### Phase 2 (Übungen + Lösungen — exercise-designer, 2026-06-07)
+
+- @section: uebungen und @section: loesungen ausgefüllt (Platzhalter ersetzt);
+  exercises-Block in meta.yaml auf count 8 + types (Liste von Strings) gesetzt.
+- **Progression rezeptiv → gelenkt → frei** (wie Kap. 4/5/6/7):
+  - Ü1 ending-genus-matching: Endung -ος/-η/-ο dem Genus zuordnen (reines
+    Muster-Erkennen, Anker am Artikel ο/η/το = grammar_recycle).
+  - Ü2 form-table-completion: die drei Formen je Adjektiv (μικρός/παλιός/
+    ήσυχος/ωραίος) ins Genus-Raster eintragen; Beispiel-Item gesetzt.
+  - Ü3 adjective-agreement-gapfill: Kerntyp — ein Adjektiv (μεγάλος) attributiv
+    ans Genus aller sechs Kap.-4-Nomen anpassen; Beispiel-Item.
+  - Ü4 contrast-multiple-choice: drei Optionen = dasselbe Adjektiv in allen drei
+    Genus-Formen; Distraktoren = falsch angepasstes Adjektiv (η παλιός statt
+    παλιά usw.), genau der vorgegebene Deutschsprachigen-Fehler; Beispiel-Item.
+  - Ü5 predicative-gapfill: prädikative Stellung hinter είναι (Kap. 6), volle
+    Genus-Endung behalten (deutsche Falle endungsloses *μικρ-* adressiert).
+  - Ü6 evaluation-poli-adjective: Bewertung πολύ + Adjektiv (πολύ ωραία!),
+    πολύ unveränderlich.
+  - Ü7 dialogue-gapfill: Mini-Dialog Lena/María auf der Bank (Kapieltext
+    weiterverwendet), attributiv + prädikativ gemischt.
+  - Ü8 free-production: eigenes Viertel/Zimmer beschreiben, Bausteinkästen
+    (Nomen mit Artikel/Genus + Adjektive in Grundform), Pflicht mind. 1× πολύ;
+    Musterlösung mit Varianten-Hinweis.
+- **Recycling-Übung (Vorgabe „mind. eine reine Wiederholung"):** Ü1 + Ü3
+  reaktivieren artikel-genus-nom-sg (ο/η/το, Kap. 4) und die Nachbarschafts-
+  Nomen (Kap. 4); Ü7 nutzt zusätzlich η γάτα μου (possessiv-klitikon, Kap. 7).
+- **Kommunikativ + frei (Vorgabe):** Ü6/Ü7 bewerten/beschreiben in Kontext,
+  Ü8 freie Produktion.
+- **Eiserne-Regel-Selbstprüfung (Übungen + Lösungen):** alle griechischen
+  Tokens manuell gegen Kap. 1–7 + Kap.-8-Deklarationen abgeglichen — Restbefund
+  keiner. Nur Adjektive vom Typ -ος/-η/-ο, ausschließlich Nominativ Singular;
+  KEIN Plural, KEIN anderer Kasus, KEIN Komparativ, keine unregelmäßigen
+  Adjektivtypen. Distraktoren ausnahmslos bekanntes Material (= dasselbe
+  Adjektiv mit falscher Genus-Endung). Lösungsschlüssel vollständig, je Lücke
+  kurze deutsche Begründung (Genus → Endung); freie Aufgabe mit Musterlösung +
+  Varianten-Hinweis. Keine Transliteration, keine isolierten Fragmente in
+  deutscher Prosa (Endungen als gebundene „-ος/-η/-ο"-Notation), Akzente
+  Monotoniko korrekt (ωραία/παλιά mit -α statt -η nach Vokal; ήσυχος
+  Akzent stabil drittletzte Silbe).
+
+## /new-chapter griechisch 8 — Phase 2 (parallele Prüfung) — 2026-06-07
+Baseline: validate_schema 0 Fehler, continuity_check 0 Verstöße. Orchestrator-Fix: „ε;"-Partikel (isolierter Buchstabe) aus Übung 7 entfernt.
+
+### Befunde Runde 1
+- continuity-checker: **KONTINUITÄT OK** (nur -ος/-η/-ο Nom Sg; alle 3 Formen deklariert; kein Plural/Kasus/Komparativ)
+- reviewer: **FREIGABE** (alle Adjektivformen/Akzente/Kongruenzen korrekt):
+  - [x] R1 [minor] „dieselbe drei" → „dieselben drei" korrigiert (ωραίος-Abschnitt).
+  - [x] R2 [minor] Schriftbild-Aussage auf das Paar -η/-ο eingegrenzt; bei -α/-ο ist der Unterschied auch hörbar, daher „Genau bei diesem Paar verlass dich aufs Auge".
+  - [x] R3 [minor] Übung-8-Musterlösung von verbloser Apposition auf gelehrte Muster umgestellt: jetzt durchgängig vollständige Sätze mit είναι (Η γειτονιά μου είναι ήσυχη. Η πλατεία είναι μεγάλη και ωραία. Ο δρόμος είναι μικρός. Το παγκάκι είναι παλιό. Πολύ ωραία γειτονιά!). Zusatzhinweis ergänzt, dass der knappe Ausruf ohne είναι (Ωραία η πλατεία!) zulässig, die verblose Aufzählung dagegen kein Muster ist.
+  - [x] R-vocab [Empfehlung] Zwei frische Alltags-Nomen ergänzt und natürlich eingewoben: **παγκάκι** (n, Sitzbank — Dialog: το παγκάκι … καινούριο;/παλιό) und **βρύση** (f, Brunnen — Dialog + Grammatik prädikativ: η βρύση είναι παλιά). Beide in meta.yaml deklariert (Genus n bzw. f). Damit 10 Lemmata; Nomen-Basis um ein frisches Neutrum auf -ι und ein frisches Femininum auf -η verbreitert (βρύση spiegelt sogar die weibliche -η-Adjektivendung). Bewusst nicht auf exakt 16 aufgefüllt — Kern bleibt: wenige Adjektive in allen drei Genus-Formen mehrfach durchgespielt.
+- reader: **kein COMPREHENSION-FAILURE**:
+  - [x] L1/L2 [gap, ERNST] -α-statt-η-nach-Vokal-Regel steht jetzt als eigene Grammatik-Unterüberschrift „Die weibliche Form nach einem Vokal: -α statt -η" VOR den Übungen, ans Wortbild geknüpft, mit παλιά/ωραία/καινούρια (und Abgrenzung μεγάλη/μικρή/καλή/ήσυχη bei Mitlaut).
+  - [x] L3 [gap] Eigener Absatz: „Ωραία!" als alleinstehender Ausruf ist eine feste, eingefrorene (neutrale) Form, die sich nach nichts richtet; mit Nomen wieder normales, genus-kongruentes Adjektiv.
+  - [x] L4 [confusing] Absatz zu den Kurzantworten (Μικρός. / Παλιό.): Form richtet sich nach dem vorher genannten, mitgedachten Nomen (μικρός ← ο δρόμος, παλιό ← το παγκάκι). An den geänderten Dialog angepasst (παγκάκι statt μαγαζί).
+  - [x] L5 [pacing] elliptische Kurzantwort jetzt geübt: Übung 5 um einen zweiten Teil (Items 7–9) erweitert — Frage „Είναι μεγάλος ο δρόμος;" → Kurzantwort „Μικρός." usw. (παγκάκι/βρύση mitgenommen), Lösungen mit Begründung (mitgedachtes Nomen bestimmt die Genus-Endung).
+  - [x] L6 [gap] Attributive Wortstellung als feste Regel festgehalten: Artikel + Adjektiv + Nomen (ο μεγάλος δρόμος, nicht *μεγάλος ο δρόμος).
+- ai-guard: **überwiegend menschlich**:
+  - [x] G2/G3 [rhythmus] μεγάλος-Belegblock und Muster-Abschnitt gestrafft; Ohr/Auge-Merksatz in den Fließtext integriert statt abrupt angehängt.
+  - [x] G4 [floskel] „stark … stark" → „Wie sehr eine πλατεία … prägt, hängt vom Ort ab".
+  - [x] G5 [floskel] „ruhiger Anker" → „ruhige Insel mitten im dichten Häusermeer".
+  - [x] G6 [hedging] „Fast jedes … oft" → „Viele griechische Viertel haben … und oft".
+  - [x] G7 [meta] Zusammenfassungskasten „Das Wichtigste für den Anfang" aufgelöst; der starke ωραία-Rückbezug (seit Kap. 2 unwissentlich benutzte Adjektivform; Artikel verrät die Endung) sitzt jetzt im Fließtext des ωραίος-Abschnitts.
+  - [ ] G1 [liste] Lernziel-Parallelismus optional — nicht angefasst.
+- cultural-reviewer: **solide/anti-klischee** (K5 umkämpfter öffentlicher Raum gelobt):
+  - [x] K3 [fakt] Mittagsruhe ergänzt: zwischen Mittag und spätem Nachmittag (ca. drei bis halb sechs) leert sich der Platz, viele Läden schließen.
+  - [x] K1 [fakt] „Kafenío–Bäckerei–Kiosk" nuanciert: Períptero stark rückläufig (viele dichtgemacht); traditionelles Kafenío in Städten teils Männerdomäne älterer Generation, gemischte junge Gruppen eher Kafé-Bar. Kulturbegriffe bewusst in deutscher Lehnwort-Schreibung (Kafenío, Períptero), nicht als undeklarierte griechische Tokens.
+  - [x] K4 [stereotyp] „Dorf oder Insel" um Kleinstadt + nordgriechische Provinzstädte erweitert; Sozialkontroll-Satz entschärft und als subjektive Beobachtung gekennzeichnet („fällt nach eigenem Bekunden schnell auf").
+  - [x] K2/K6 [minor] Lern-Tipp jahreszeitlich verortet („an einem milden Abend"); Kafenío-Bezug ist nun ans Wohnviertel/Café-Ökosystem gebunden. (Wohnviertel-Verortung des „ein Kaffee zwei Stunden" implizit über den umgebauten K1-Absatz.)
