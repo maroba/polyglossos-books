@@ -106,14 +106,14 @@ Du musst also nur wissen, welches Genus ein Hauptwort hat — und das verrät di
 wie schon im letzten Kapitel, der bestimmte Artikel oder die geschriebene
 Endung. Die Tabelle oben hält das fest: zu jedem **ο/η/το** gehört genau eine
 unbestimmte Form. Das Genus, das du dir im letzten Kapitel mühsam zu jedem Wort
-gemerkt hast, zahlt sich hier zum ersten Mal aus.
+gemerkt hast, zahlt sich hier aus. Zum ersten Mal.
 
 Probier es gleich an den Dingen aus, die auf einem Kafenío-Tisch stehen. Der
 Tisch — **το τραπέζι**, sächlich — wird zu **ένα τραπέζι**, und das ist die
 erste kleine Überraschung, denn im Deutschen ist *der* Tisch ja männlich. Der
 Stuhl überrascht gleich noch einmal: **η καρέκλα**, weiblich, also **μία
 καρέκλα**. Beim sächlichen **το φλιτζάνι** (der Tasse) und beim ebenso
-sächlichen **πιάτο** (dem Teller, auf dem oft ein kleiner Keks liegt) wird es
+sächlichen **πιάτο** (dem Teller) wird es
 dann ruhig — beide nehmen schlicht **ένα**. Du siehst: Das richtige Kleid für
 *ein* liest du jedes Mal am Artikel ab, ganz gleich, was dein deutsches Gefühl
 dazu meint.
@@ -130,7 +130,7 @@ nicht.
 Erinnerst du dich, wie in Kapitel 3 ein und dasselbe Verb seine Endung leicht
 verschoben hat, je nachdem, wer gerade handelt? Etwas Ähnliches gibt es auch bei
 den Hauptwörtern: Auch sie können ihre Form ein wenig ändern, je nach ihrer
-Rolle im Satz. Keine Sorge — wir bauen hier kein neues System auf. Es geht nur
+Rolle im Satz. Wir bauen hier kein neues System auf. Es geht nur
 darum, dass du eine bekannte Wendung wiedererkennst, wenn sie dir begegnet.
 
 Schau dir das einmal an. Aus Kapitel 2 kennst du **έναν καφέ**. In diesem
@@ -150,8 +150,9 @@ ohne Umstand: Benennen und Bestellen sind beim weiblichen Wort dieselbe Form.
 Diese zweite Form lernst du hier *nicht* aktiv — du musst sie nicht bilden, nur
 wiedererkennen. Merk dir einfach zwei Wendungen: Wenn du im Kafenío einen Kaffee
 *bestellst*, sagst du wie gehabt **έναν καφέ, παρακαλώ**; wenn du eine Sache nur
-*benennst*, nimmst du die Grundform **ένας / μία / ένα**. Das ganze System
-dahinter — es heißt Kasus — bekommst du später in Ruhe.
+*benennst*, nimmst du die Grundform **ένας / μία / ένα**. Das System dahinter
+heißt Kasus; das kommt erst viel später dran — hier brauchst du nur die zwei
+Wendungen.
 
 ### Vorsicht, deutsche Falle: nicht nach dem deutschen *ein/eine* gehen
 

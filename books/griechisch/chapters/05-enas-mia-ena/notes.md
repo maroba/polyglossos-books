@@ -179,3 +179,25 @@ Baseline: validate_schema 0 Fehler, continuity_check 0 Verstöße (nur Eigenname
   - [x] K4 [fakt] chapter.md:304-307 — Wasser „oft umsonst" → „kostenlos" — ERLEDIGT: jetzt „ein Glas Wasser, ένα ποτήρι νερό, kostenlos" — konsistent mit Kap. 2 („kostet nichts").
   - [x] K6 [wiederholung] „Platz und Zeit"-Satz fast wörtlich aus Kap. 2 → leicht variieren oder Rückverweis — ERLEDIGT: variiert + bewusster Rückverweis: „die schon aus Kapitel 2 bekannte Logik des Ortes: Du zahlst hier weniger für das Getränk als für den Platz und die Zeit."
   - [ ] K5 Bezahlen/Schreibgeste: korrekt, neu ggü. Kap. 2 — keine Aktion
+
+## Schluss-Politur (teacher, 2026-06-07) — nur Prosa, keine Übungen
+
+- [x] G1 [rhythmus] „Du musst also nur wissen …"-Absatz: drei mittellange Sätze →
+  letzter Gedanke als knapper Schnitt „… zahlt sich hier aus. Zum ersten Mal."
+  Rhythmus belebt, kein neues Token.
+- [x] L1 landeskundlicher Keks-Einschub bei πιάτο gestrichen: „(dem Teller, auf
+  dem oft ein kleiner Keks liegt)" → „(dem Teller)". Genus-Erklärung läuft jetzt
+  ungestört.
+- [x] G2 [floskel] „Keine Sorge — " vor „wir bauen hier kein neues System auf"
+  gestrichen; die Info trägt der Folgesatz.
+- [x] L2/G3 [floskel/falsches Versprechen] „bekommst du später in Ruhe" ersetzt
+  durch „Das System dahinter heißt Kasus; das kommt erst viel später dran — hier
+  brauchst du nur die zwei Wendungen." Kein erfundener Kapitelverweis.
+- Selbstprüfung: keine neuen griechischen Tokens, keine isolierten Fragmente,
+  Akzente unverändert (Monotoniko); griechischer Text unberührt.
+
+## Abschluss — alle Prüfer grün → draft-complete
+- continuity: 0 Verstöße; reviewer: FREIGABE; cultural: FREIGABE (K1–K4/K6 sachlich korrekt + konsistent mit Kap. 2)
+- ai-guard: FREIGABE; reader: kein COMPREHENSION-FAILURE, keine echten gaps (Mikro-Politur L1/L2/G1/G2 umgesetzt)
+- validate_schema 0 Fehler, continuity_check 0 Verstöße
+- **Status → draft-complete** (volle /new-chapter-Pipeline, 1 Überarbeitungsrunde + Mikro-Politur)
