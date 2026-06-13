@@ -102,9 +102,9 @@ Der unbestimmte Artikel läuft parallel dazu:
 | weiblich | η | **μία** | μία μπίρα |
 | sächlich | το | **ένα** | ένα ποτήρι |
 
-Du musst also nur wissen, welches Genus ein Hauptwort hat — und das verrät dir,
-wie schon im letzten Kapitel, der bestimmte Artikel oder die geschriebene
-Endung. Die Tabelle oben hält das fest: zu jedem **ο/η/το** gehört genau eine
+Du musst also nur wissen, welches Genus ein Hauptwort hat — und das Genus steht
+im Artikel oder im Wortende, das kennst du schon. Die Tabelle oben hält das fest:
+zu jedem **ο/η/το** gehört genau eine
 unbestimmte Form. Das Genus, das du dir im letzten Kapitel mühsam zu jedem Wort
 gemerkt hast, zahlt sich hier aus. Zum ersten Mal.
 
@@ -128,10 +128,11 @@ nicht.
 ### Die alte Bestellung wiedergesehen: έναν καφέ
 
 Erinnerst du dich, wie in Kapitel 3 ein und dasselbe Verb seine Endung leicht
-verschoben hat, je nachdem, wer gerade handelt? Etwas Ähnliches gibt es auch bei
-den Hauptwörtern: Auch sie können ihre Form ein wenig ändern, je nach ihrer
-Rolle im Satz. Wir bauen hier kein neues System auf. Es geht nur
-darum, dass du eine bekannte Wendung wiedererkennst, wenn sie dir begegnet.
+verschoben hat, je nachdem, wer gerade handelt? Bei den Hauptwörtern passiert
+mitunter etwas Ähnliches — auch sie ändern ihre Form ein wenig, je nach ihrer
+Rolle im Satz (das System dahinter heißt Kasus, ein Fachbegriff, den du dir hier
+nicht merken musst; es kommt viel später dran). Für dieses Kapitel reicht es,
+dass du eine bekannte Wendung wiedererkennst, wenn sie dir begegnet.
 
 Schau dir das einmal an. Aus Kapitel 2 kennst du **έναν καφέ**. In diesem
 Kapitel hast du gerade **ένας χυμός** gelernt — beide männlich, und trotzdem
@@ -147,12 +148,10 @@ weiblichen und beim sächlichen Wort ändert sich beim Bestellen gar nichts —
 bestellst. Genau deshalb bestellt Lena ihre **μία πορτοκαλάδα** im Dialog ganz
 ohne Umstand: Benennen und Bestellen sind beim weiblichen Wort dieselbe Form.
 
-Diese zweite Form lernst du hier *nicht* aktiv — du musst sie nicht bilden, nur
-wiedererkennen. Merk dir einfach zwei Wendungen: Wenn du im Kafenío einen Kaffee
-*bestellst*, sagst du wie gehabt **έναν καφέ, παρακαλώ**; wenn du eine Sache nur
-*benennst*, nimmst du die Grundform **ένας / μία / ένα**. Das System dahinter
-heißt Kasus; das kommt erst viel später dran — hier brauchst du nur die zwei
-Wendungen.
+Diese zweite Form musst du nicht bilden — nur wiedererkennen. Merk dir einfach
+zwei Wendungen: Wenn du im Kafenío einen Kaffee *bestellst*, sagst du wie gehabt
+**έναν καφέ, παρακαλώ**; wenn du eine Sache nur *benennst*, nimmst du die
+Grundform **ένας / μία / ένα**. Mehr brauchst du hier nicht.
 
 ### Vorsicht, deutsche Falle: nicht nach dem deutschen *ein/eine* gehen
 
@@ -318,8 +317,10 @@ Ab dem Nachmittag verschiebt sich das Bild. Dann erscheinen das **τσίπουρ
 der Ouzo — klare, hochprozentige Spirituosen, die man nie allein trinkt, sondern
 in Gesellschaft und zu kleinen, geteilten Häppchen, in winzigen Schlucken über
 Stunden. Die beiden sind nicht dasselbe, und auch nicht überall gleich zu Hause:
-Das τσίπουρο ist vor allem ein Getränk des Festlands, Nordgriechenlands und
-Thessaliens, während der Ouzo eher auf den Inseln und im Süden den Ton angibt.
+Das τσίπουρο ist vor allem in Thessalien und Makedonien zu Hause, wo es eigene
+Lokale dafür gibt, die Tsipourádika. Der Ouzo dagegen ist in ganz Griechenland
+vertraut — produziert wird er von Nordgriechenland bis zu den Inseln, am
+berühmtesten auf Lesbos.
 Der ältere Herr im Dialog, κύριος Κώστας, mit seinem einen τσίπουρο ist kein
 Zufall: Für viele Stammgäste gehört genau dieses eine Glas zur festen
 Nachmittags- oder Abendroutine.

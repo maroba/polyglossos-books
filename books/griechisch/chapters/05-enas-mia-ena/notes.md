@@ -196,8 +196,35 @@ Baseline: validate_schema 0 Fehler, continuity_check 0 Verstöße (nur Eigenname
 - Selbstprüfung: keine neuen griechischen Tokens, keine isolierten Fragmente,
   Akzente unverändert (Monotoniko); griechischer Text unberührt.
 
+## /review-chapter — Feinschliff (teacher, 2026-06-13) — nur Prosa, keine Übungen
+
+- [x] G1 (chapter.md:~105) Meta-Floskel „wie schon im letzten Kapitel" gestrafft:
+  jetzt „und das Genus steht im Artikel oder im Wortende, das kennst du schon."
+- [x] G2/G3 (chapter.md:~131-134) Vier gleichförmige Hauptsätze + Doppel-Hedging
+  aufgelöst: Verb-Rückgriff bleibt als Frage, dann ein Satz mit der Form-Änderung
+  und eingeschobenem Kasus-Klammerhinweis; Doppel-Hedging zu EINER Entlastung
+  („Für dieses Kapitel reicht es, dass du eine bekannte Wendung wiedererkennst")
+  zusammengezogen. „Wir bauen hier kein neues System auf." gestrichen.
+- [x] reader L3 (chapter.md:~130) Fachbegriff „Kasus" entschärft: knapper
+  Klammerhinweis im G2/G3-Umbau („ein Fachbegriff, den du dir hier nicht merken
+  musst; es kommt viel später dran"). Doppelnennung am Abschnittsende entfernt.
+- [x] G4 (chapter.md:~150) Lehrplan-Meta „lernst du hier nicht aktiv" → direkt:
+  „Diese zweite Form musst du nicht bilden — nur wiedererkennen." Schlusssatz auf
+  „Mehr brauchst du hier nicht." gekürzt (Kasus-Erklärung steht jetzt oben).
+- [x] cultural K1 (chapter.md:~320-323) regionale Verortung korrigiert: τσίπουρο
+  vor allem in Thessalien/Makedonien mit eigenen Lokalen (Tsipourádika — nur als
+  deutsches Lehnwort, NICHT in griechischer Schrift); Ouzo in ganz Griechenland
+  vertraut, Produktion von Nordgriechenland bis zu den Inseln, am berühmtesten
+  auf Lesbos. Falsche Einschränkung auf Inseln/Süden entfernt.
+- Selbstprüfung: keine neuen griechischen Tokens, keine isolierten Fragmente,
+  Akzente unverändert (Monotoniko); griechischer Text unberührt.
+
 ## Abschluss — alle Prüfer grün → draft-complete
 - continuity: 0 Verstöße; reviewer: FREIGABE; cultural: FREIGABE (K1–K4/K6 sachlich korrekt + konsistent mit Kap. 2)
 - ai-guard: FREIGABE; reader: kein COMPREHENSION-FAILURE, keine echten gaps (Mikro-Politur L1/L2/G1/G2 umgesetzt)
 - validate_schema 0 Fehler, continuity_check 0 Verstöße
 - **Status → draft-complete** (volle /new-chapter-Pipeline, 1 Überarbeitungsrunde + Mikro-Politur)
+
+## /review-chapter — Abschluss → geprueft
+- reviewer: FREIGABE; continuity-checker: KONTINUITÄT OK; cultural: K1 (Ouzo-Region) behoben → FREIGABE; ai-guard: G1-G4 umgesetzt → FREIGABE; reader: kein failure (L3 Kasus entschärft; L1/L2/L4 by design/minor)
+- Schema 0 Fehler, continuity 0 Verstöße → **Status draft-complete → geprueft**
