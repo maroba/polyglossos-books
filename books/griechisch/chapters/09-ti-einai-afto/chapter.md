@@ -155,6 +155,12 @@ das -ια dagegen echte Ausnahme. Lern **φρέσκια** deshalb einfach als fe
 Block — wenn du es als Wortbild vor Augen hast, schreibst du nicht versehentlich
 die Form auf -η.
 
+Mach dir aber keine neue Großbaustelle daraus: **φρέσκος** gehört zu einer
+kleinen, abzählbaren Gruppe von Adjektiven mit weiblicher Form auf -ια, und die
+ist selten. Die allermeisten Adjektive folgen weiter brav der bekannten Regel
+aus Kapitel 8 (**-ος / -η (-α) / -ο**). Du merkst dir also genau diesen einen
+Block — kein Massenphänomen, das sich über deinen ganzen Wortschatz legt.
+
 ### Eine Falle für deutsche Ohren: αυτό als Standardform
 
 Im Deutschen sagst du *Was ist das?* — immer *das*, egal ob am Ende eine Tomate,
@@ -178,9 +184,10 @@ dieselben drei Endungen wie **αυτός** — also auch hier kein neues Muster:
 
 Die Form richtet sich nach dem Ding oder der Person, nach denen du fragst:
 **ποιος** für einen Mann, **ποια** für eine Frau, **ποιο** für eine sächliche
-Sache. Beachte die Aussprache: **ποιος** wird einsilbig gesprochen, das οι und
-das ο verschmelzen zu einem Laut. Geschrieben trägt das Wort deshalb keinen
-Akzent — **ποιος**, **ποια**, **ποιο** stehen alle ohne Akzentzeichen.
+Sache. Beachte die Aussprache: **ποιος** ist einsilbig — das ι gleitet rasch vor das
+ο, ungefähr wie ein deutsches *j*, sodass alles in einer Silbe zusammenfällt.
+Geschrieben trägt das Wort deshalb keinen Akzent — **ποιος**, **ποια**,
+**ποιο** stehen alle ohne Akzentzeichen.
 
 **τι oder ποιο?** Beide können sich auf eine Sache beziehen, fragen aber nach
 Verschiedenem. **τι** fragt nach etwas, das du noch gar nicht kennst — du weißt
@@ -217,8 +224,9 @@ An einer Stelle stand das Zeigewort aber direkt vor einem Nomen: **εκείνο 
 Griechischen der Artikel mit dazu — **αυτό το ψάρι**, **αυτή η ντομάτα**,
 **εκείνος ο άντρας**. Merk dir diese paar Wendungen vorerst als feste Blöcke;
 warum sich der Artikel hier dazwischenschiebt, nimmst du dir später als ganzes
-System vor (Demonstrativ + Artikel + Nomen). Dein eigenes Handwerkszeug bleibt
-das einfache **Τι είναι αυτό;** — und das reicht weit.
+System vor (Demonstrativ + Artikel + Nomen). Fürs Erste genügt dir die
+prädikative Frage **Τι είναι αυτό;** — mit ihr kommst du am Marktstand überall
+durch.
 
 <!-- @section: uebungen -->
 

@@ -210,3 +210,14 @@ Baseline: validate_schema 0 Fehler, continuity_check 0 Verstöße. Orchestrator-
 - Verifikation (Orchestrator + Tooling): beide Sachfehler sprachlich korrekt gelöst; continuity_check 0 Verstöße, validate_schema 0 Fehler
 - reviewer Runde 1: FREIGABE bis auf die zwei Blocker (jetzt behoben); reader: kein COMPREHENSION-FAILURE; ai-guard: FREIGABE (G1 erledigt); cultural: FREIGABE (K5)
 - **Status → draft-complete** (volle Pipeline, 2 Überarbeitungsrunden; σε-Fusionen, φρέσκη-Falschformen, ποιος-Akzent, φρέσκος-Morphologie korrigiert)
+
+## /review-chapter — Feinschliff (teacher, 2026-06-13)
+
+- [x] reviewer R1 [minor] (ποιος-Akzenterklärung, ~Z.182): „das οι und das ο verschmelzen zu einem Laut" war phonetisch ungenau. Jetzt: ποιος ist einsilbig, das ι gleitet rasch vor das ο (ungefähr wie ein deutsches *j*), darum kein eigener Akzent. Kein isoliertes Einzelzeichen in der Prosa (ι/ο stehen jeweils im Erklärsatz eingebettet, kein freistehendes Fragment).
+- [x] ai-guard G1 [symmetrie] (~Z.221 vs. ~Z.406-407): Grammatik-Abschnitt-Ende umformuliert/gestrafft — statt „… das einfache Τι είναι αυτό; — und das reicht weit." jetzt „Fürs Erste genügt dir die prädikative Frage Τι είναι αυτό; — mit ihr kommst du am Marktstand überall durch." Der Landeskunde-/Lösungsschluss (Z.406-407) bleibt als Einzellandung unverändert; kein doppelter Jingle mehr.
+- [x] reader L2 [klarheit] (φρέσκος/φρέσκια, ~Z.144-156): beruhigenden Block ergänzt — φρέσκος gehört zu einer kleinen, abzählbaren Gruppe mit weiblicher Form auf -ια; selten. Die allermeisten Adjektive folgen weiter der bekannten -ος/-η(-α)/-ο-Regel aus Kapitel 8. Als einen Block merken, kein neues Massenphänomen.
+- Keine neuen griechischen Tokens hinzugefügt (alle verwendeten Wörter — ποιος/ποια/ποιο, φρέσκος/φρέσκια/φρέσκο, Τι είναι αυτό; — bereits in meta.yaml deklariert). Akzente Monotoniko korrekt. Übungen nicht angefasst.
+
+## /review-chapter — Abschluss → geprueft
+- reviewer: FREIGABE (R1 ποιος-Phonetik präzisiert; R2 curriculum-Kosmetik notiert); continuity: KONTINUITÄT OK; cultural: FREIGABE; ai-guard: FREIGABE (G1 doppelte Schlussformel variiert); reader: kein failure (L2 φρέσκια-Hinweis ergänzt; L1/L3/L4 by design dialog-first)
+- Schema 0 Fehler, continuity 0 Verstöße → **Status draft-complete → geprueft**
