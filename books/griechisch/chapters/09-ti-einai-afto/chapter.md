@@ -184,8 +184,8 @@ dieselben drei Endungen wie **αυτός** — also auch hier kein neues Muster:
 
 Die Form richtet sich nach dem Ding oder der Person, nach denen du fragst:
 **ποιος** für einen Mann, **ποια** für eine Frau, **ποιο** für eine sächliche
-Sache. Beachte die Aussprache: **ποιος** ist einsilbig — das ι gleitet rasch vor das
-ο, ungefähr wie ein deutsches *j*, sodass alles in einer Silbe zusammenfällt.
+Sache. Beachte die Aussprache: **ποιος** ist einsilbig — der vordere Vokal
+gleitet j-artig in den folgenden hinein, sodass alles in einer Silbe zusammenfällt.
 Geschrieben trägt das Wort deshalb keinen Akzent — **ποιος**, **ποια**,
 **ποιο** stehen alle ohne Akzentzeichen.
 
