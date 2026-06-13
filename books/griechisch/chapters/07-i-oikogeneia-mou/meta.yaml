@@ -1,6 +1,6 @@
 chapter: 7
 slug: i-oikogeneia-mou
-status: draft-complete
+status: geprueft
 
 vocab_introduced:
   # ── Possessiv-Klitika (Grammatik-Neueinführung; Kern des Kapitels) ──
@@ -9,7 +9,7 @@ vocab_introduced:
   - lemma: μου
     pos: pron
     gloss_de: 'mein (nachgestellt: το σπίτι μου = mein Haus); unbetont, steht hinter Artikel + Nomen'
-    notes: 'Possessiv-Klitikon. Unbetont, klebt hinten an: Artikel + Nomen + μου (η μητέρα μου). Anders als deutsch „mein", das vorn steht. Bei lang/weit vorn betonten Wörtern tritt ein zweiter Akzent auf das Nomen (η οικογένειά μου, το όνομά μου) — als Form gelernt, nicht als Regel.'
+    notes: 'Possessiv-Klitikon. Unbetont, klebt hinten an: Artikel + Nomen + μου (η μητέρα μου). Anders als deutsch „mein", das vorn steht. Bei proparoxytonen (auf der drittletzten Silbe betonten) Wörtern tritt ein zweiter Akzent auf das Nomen (η οικογένειά μου, το όνομά μου) — als Form gelernt, nicht als Regel.'
 
   - lemma: του
     pos: pron
@@ -26,7 +26,7 @@ vocab_introduced:
     pos: noun
     gender: f
     gloss_de: 'Familie'
-    notes: 'Endung -α → weiblich: η οικογένεια. Weit vorn betont (-γέ-); mit Klitikon zweiter Akzent: η οικογένειά μου. Diese Klitikon-Form als Block gelernt.'
+    notes: 'Endung -α → weiblich: η οικογένεια. Proparoxytonon (auf der drittletzten Silbe betont, οι-κο-γέ-νει-α); deshalb mit nachgestelltem Klitikon zweiter Akzent: η οικογένειά μου. Diese Klitikon-Form als Block gelernt.'
     inflected_forms:
       - οικογένειά
 
@@ -34,7 +34,7 @@ vocab_introduced:
     pos: noun
     gender: f
     gloss_de: 'Mutter'
-    notes: 'Endung -α → weiblich: η μητέρα μου. Kurz genug, kein zweiter Akzent mit Klitikon.'
+    notes: 'Endung -α → weiblich: η μητέρα μου. Paroxytonon (auf der vorletzten Silbe betont, μη-τέ-ρα); deshalb kein zweiter Akzent mit nachgestelltem Klitikon.'
 
   - lemma: πατέρας
     pos: noun
@@ -83,7 +83,7 @@ vocab_introduced:
     pos: noun
     gender: n
     gloss_de: 'Name'
-    notes: 'Sächlich (το όνομα) trotz Endung -α — wie το γάλα aus Kap. 5 eine Ausnahme. Weit vorn betont; mit Klitikon zweiter Akzent: το όνομά μου, το όνομά του. Klitikon-Form als Block gelernt.'
+    notes: 'Sächlich (το όνομα) trotz Endung -α — wie το γάλα aus Kap. 5 eine Ausnahme. Proparoxytonon (auf der drittletzten Silbe betont, ό-νο-μα); deshalb mit nachgestelltem Klitikon zweiter Akzent: το όνομά μου, το όνομά του. Klitikon-Form als Block gelernt.'
     inflected_forms:
       - όνομά
 
@@ -108,6 +108,7 @@ vocab_recycled:
   - ο            # Kap. 4
   - η            # Kap. 3/4
   - το           # Kap. 4
+  - μία          # Kap. 5 — μία φωτογραφία (Lena benennt das Foto im Dialog)
   - σπίτι        # Kap. 4 — Kernbeispiel το σπίτι μου / το σπίτι της
   - γειτονιά     # Kap. 4
   - άντρας       # Kap. 4 — ο άντρας μου (Ehemann)

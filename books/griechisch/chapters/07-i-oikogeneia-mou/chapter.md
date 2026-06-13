@@ -35,6 +35,8 @@ der Wortschatz-Box.
 
 Nachmittag im Kafenío. Lena hat ein Foto auf dem Handy, María schaut mit.
 
+**Λένα:** Εδώ μία φωτογραφία.
+
 **Μαρία:** Ωραία! Η οικογένειά σου;
 
 **Λένα:** Ναι, η οικογένειά μου. Εδώ η μητέρα μου και ο πατέρας μου.
@@ -96,12 +98,16 @@ es hinten an.
 | sein | **του** | το όνομά **του** (sein Name) |
 | ihr | **της** | το σπίτι **της** (ihr Haus) |
 
-Der Bauplan ist immer derselbe: **Artikel + Nomen + Wörtchen**. Den Artikel
+Die Struktur bleibt fest: **Artikel + Nomen + Wörtchen**. Den Artikel
 kennst du schon aus Kapitel 4 — **ο** vor Männlichem, **η** vor Weiblichem,
 **το** vor Sächlichem. Er bleibt vorn stehen; das Besitzwort kommt dahinter.
-Das Genus richtet sich dabei nach dem *besessenen* Ding, nicht nach dem
-Besitzer: **το σπίτι** ist sächlich, also **το** — egal, ob es ihr Haus oder
-sein Haus ist.
+
+Achte auf die doppelte Buchführung: Der Artikel und damit das Genus richten
+sich nach dem *besessenen* Ding — **το σπίτι** ist sächlich, also **το**,
+egal, ob es ihr Haus oder sein Haus ist. Das Klitikon dagegen richtet sich
+nach dem *Besitzer*: **του** für einen männlichen (sein), **της** für einen
+weiblichen (ihr). Beim selben Wort **το σπίτι** entscheidet also der Artikel
+(immer **το**) über das eine, das Klitikon über das andere.
 
 Das läuft mit jedem Verwandten gleich. Nimm die Großeltern und die Kinder aus
 Marías Foto und häng das **μου** an:
@@ -148,13 +154,13 @@ Ein Wort im Titel sieht seltsam aus: **η οικογένειά μου**. Da steh
 auf dem letzten **-ά**, obwohl das Wort allein **οικογένεια** geschrieben
 wird — mit dem Akzent weiter vorn. Das ist kein Druckfehler.
 
-Es kommt darauf an, wo das Wort von sich aus betont ist. Sprich es einmal
-langsam: **οι-κο-ΓΕ-νεια**, **Ο-νο-μα** — die Betonung liegt auf der
-*drittletzten* Silbe. Genau solche Wörter bekommen einen zweiten Akzent dazu,
-sobald das Besitzwort dahinterklebt: **οικογένεια** wird zu **οικογένειά μου**,
-**όνομα** wird zu **όνομά του**. Bei Wörtern, die ihren Akzent näher am Ende
-tragen — **μη-ΤΕ-ρα**, **ΣΠΙ-τι**, **α-δελ-ΦΗ** —, passiert nichts; da bleibt
-alles, wie du es kennst: **η μητέρα μου**, **το σπίτι σου**.
+Es kommt darauf an, wo das Wort von sich aus betont ist. Sprich
+**οικογένεια** einmal langsam: **οι-κο-ΓΕ-νει-α**, fünf Silben, die Betonung
+auf der *drittletzten*. Genau solche weit vorn betonten Wörter — auch
+**όνομα** gehört dazu — bekommen einen zweiten Akzent dazu, sobald das
+Besitzwort dahinterklebt: **οικογένειά μου**, **όνομά του**. Bei den
+übrigen Familienwörtern, die ihren Akzent näher am Ende tragen, passiert
+nichts; **η μητέρα μου** und **το σπίτι σου** bleiben, wie du sie kennst.
 
 Die Regel dahinter musst du jetzt nicht durchdringen. Es reicht, wenn du
 **οικογένειά μου** und **όνομά του** als feste Formen mit dem zweiten Akzent
@@ -167,9 +173,8 @@ Diese kleinen, unbetonten Wörtchen haben einen Namen: man nennt sie **Klitika**
 den Übungen begegnen — gemeint sind immer genau diese vier: **μου, σου, του,
 της**.
 
-Vielleicht hast du schon gehört, dass das Griechische ein Kasussystem hat —
-Fälle, die Wörter verändern, der Genitiv ist einer davon. Das stimmt, und es
-kommt später. Unsere vier Klitika sind aber keine solche Tabelle zum
+Das Griechische hat ein Kasussystem — Fälle, die Wörter verändern. Der kommt
+später. Unsere vier Klitika sind aber keine solche Tabelle zum
 Durchkonjugieren, sondern feste kleine Bausteine, die du hinten an ein Nomen
 klebst. Behandle sie genau so: anhängen, fertig.
 
@@ -354,11 +359,12 @@ kleinen Haushalten wie überall in Europa, man heiratet später und bekommt
 weniger Kinder; auf den Inseln und in den Dörfern dagegen sind die Wege zwischen
 den Generationen oft noch kürzer. Aber selbst wer als junger Mensch in die Stadt
 zieht, fährt zu Ostern und zum Namenstag nach Hause. Der Namenstag — der Tag des
-Heiligen, dessen Namen man trägt — war lange wichtiger als der Geburtstag;
-inzwischen feiern Jüngere zunehmend auch den Geburtstag, manche beides.
+Heiligen, dessen Namen man trägt — war lange wichtiger als der Geburtstag.
+Jüngere, besonders in den Städten, feiern heute zunehmend den Geburtstag —
+manche statt, manche zusätzlich zum Namenstag.
 
-Und so telefoniert man sonntags mit der Mutter. Im Hintergrund, das weiß man,
-ist immer noch ein Netz gespannt — aus Geschwistern, Großeltern, ein paar
+Und so telefoniert man sonntags mit der Mutter. Im Hintergrund ist immer noch
+ein Netz gespannt — aus Geschwistern, Großeltern, ein paar
 Verwandten im Dorf, die man seit der Kindheit kennt. Wenn du ein Foto zeigst und
 sagst **εδώ η μητέρα μου**, triffst du einen Nerv.
 
