@@ -208,3 +208,18 @@ Baseline: validate_schema 0 Fehler, continuity_check 0 Verstöße.
 - ai-guard: **FREIGABE**; cultural: FREIGABE; reviewer: FREIGABE
 - validate_schema 0 Fehler, continuity_check 0 Verstöße
 - **Status → draft-complete** (volle Pipeline, 2 Überarbeitungsrunden + Notations-Fix)
+
+## /review-chapter — Feinschliff (teacher, 2026-06-13)
+- [x] R1/L2 [major, sachlich falsch] chapter.md:123-127 — falsche Rückschau „είναι hast du schon benutzt, ohne es zu wissen" → korrigiert: είναι kommt in Kap. 1–5 nirgends vor. Passage zu ehrlicher VORAUSSCHAU umformuliert: „Dieses είναι wirst du von nun an ständig brauchen … so eine Frage lernst du in Kapitel 9." Keine falsche Rückschau mehr. Hinweis: das in der Vorgabe vorgeschlagene Beispiel **Τι είναι αυτό;** NICHT als griechisches Zitat gesetzt — αυτό ist in Kap. 6 nicht deklariert (kommt erst Kap. 9), Zitat hätte ein neues Token eingeführt. Stattdessen auf Deutsch umschrieben („wenn du auf einen Gegenstand zeigst und wissen willst, was das ist") mit Kapitelverweis (9). Kein neues Token.
+- [x] R2 [minor] chapter.md:108-109 (Grammatik) + Merkbox (~196) — „im mittleren Buchstaben" unpräzise (Formen zweisilbig) → beide Stellen auf „in der Wortmitte" geändert. Merkhilfe summt/zischt/nasal (μ/σ/ν) unverändert.
+- [x] ai-guard G1 chapter.md:104 — stehende Floskel „Die gute Nachricht:" gestrichen; Restsatz trägt unverändert.
+- [x] R3 [optional] chapter.md:160 — μένει (3. Sg.) erstmals aktiv über Wohnort → Halbsatz-Verweis auf bekanntes μένω/μένεις (Kap. 3) und das -ω-Schema ergänzt. μένει war bereits deklariert (praesens-omega-sg recycelt). Kein neues Token.
+- Selbstprüfung: kein neues griechisches Token hinzugekommen; keine isolierten Fragmente in deutscher Prosa; Akzente Monotoniko korrekt; Übungen nicht angefasst (Übung 6 bleibt exercise-designer).
+
+## /review-chapter — Übungs-Fix (exercise-designer, 2026-06-13)
+- [x] L3 [gap/widerspruch] Übung 6 Nr. 2 „Τώρα μένω ________ Αθήνα." (Lösung „στην") isolierte das στη/στην-Präfix — genau die vom Kapitel ausgeklammerte Entscheidung (στην vs. στη „kommt als System später") und Widerspruch zur eigenen Ankündigung „übernimm μένω στην + Ort als Block". → erledigt: Übung 6 analog zu Übung 4 auf **ganze Block-Wendungen** umgestellt. Nr. 1 Lücke jetzt = „από τη Γερμανία" (Hinweis „woher kommst du — aus dem Dialog"), Nr. 2 Lücke = „στην Αθήνα" (Hinweis „wo wohnst du — aus dem Dialog") — die komplette fertige Wendung wird erinnert/eingesetzt, kein isoliertes Präfix από/στη/στην, keine στη-vs-στην-Wahl. Nr. 3 unkritisch (Verbform είμαι, keine Ortswendung) — Hinweis εγώ→Form präzisiert. Nr. 4 vorher isolierte πού-Lücke mitten in „Από ___ είσαι;" → auf ganze Frage-Eröffnung „Από πού" umgestellt (Lücke = „Από πού", Distraktoren από πού / από τι / από εδώ, alle aus bekanntem Material). Beispiel-Item + Aufgabenstellung entsprechend umgeschrieben (Block statt Kleinwort). Lösungsschlüssel zeigt jeweils die ganze korrekte Wendung mit Begründung woher/wo. Übrige Übungen widerspruchsfrei geprüft: Ü4 (chunk-selection) bereits block-konform; nur Ü6 betroffen. Kein neues Token; στην/στη nur als Teil fertiger Blöcke; Akzente Monotoniko; griechische Schrift korrekt. meta.yaml exercises unverändert (Typ Ü6 bleibt dialogue-gap-fill, jetzt block-basiert).
+
+## /review-chapter — Abschluss → geprueft
+- reviewer: FREIGABE (R1 είναι-„schon benutzt" zu ehrlicher Vorausschau, R2/R3 Feinschliff); continuity: OK; cultural: FREIGABE; ai-guard: FREIGABE (G1 „Die gute Nachricht" gestrichen)
+- reader: kein failure; L2 (είναι-Behauptung) behoben; L3 Übung 6 auf Block-Basis (kein στη/στην-Zwang mehr, analog Übung 4)
+- Schema 0 Fehler, continuity 0 Verstöße → **Status draft-complete → geprueft**
