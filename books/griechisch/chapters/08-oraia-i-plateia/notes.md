@@ -209,3 +209,48 @@ Baseline: validate_schema 0 Fehler, continuity_check 0 Verstöße. Orchestrator-
 - L3 (artikellose Ausrufe Καλό μαγαζί!) als minor akzeptiert — parallel zum erklärten „Ωραία η πλατεία!"; kein Blocker
 - validate_schema 0 Fehler, continuity_check 0 Verstöße
 - **Status → draft-complete** (volle Pipeline, 1 Überarbeitungsrunde + Mikrofixes; vocab bewusst 10 Lemmata mit breiter Genus-Drill-Dichte)
+
+## /review-chapter — Feinschliff (teacher, 2026-06-13)
+Nur deutsche Prosa/Grammatik/Landeskunde angefasst; Übungen unberührt. Kein neues
+griechisches Token, keine isolierten Fragmente, keine ausgeschriebenen
+Falschformen, Akzente Monotoniko unverändert korrekt.
+
+Verständnis/Didaktik (reader):
+- [x] L1 [echt] -α-nach-Vokal-Prozedur: bereits vollständig im Grammatikteil
+  vorhanden (Abschnitt „Die weibliche Form nach einem Vokal", „Streich von der
+  männlichen Form das -ος ab … bleibt ein Vokal → -α, bleibt ein Mitlaut → -η",
+  mit παλι-/ωραί-/καινούρι- bzw. μεγάλ-/μικρ-/καλ-/ήσυχ-). καινούριος ist als
+  anwendbares Beispiel genannt. Forderung erfüllt, keine Änderung nötig.
+- [x] L2 [wichtig] „Genus steuert, nicht das Wortende des Nomens": steht bereits
+  im Grammatikteil direkt nach der Muster-Tabelle (η μεγάλη πλατεία — Nomen auf
+  -α, Adjektiv trotzdem -η). Forderung erfüllt, keine Änderung nötig.
+
+Stil (ai-guard):
+- [x] G1 Lernziele: bereits Fließtext (Progression beschreibend), keine
+  Dreier-Bullet-Liste mehr. Keine Änderung nötig.
+- [x] G2 vollgestopfter Satz (Muster-Abschnitt): in zwei Sätze getrennt
+  („… tut längst dasselbe. Beide zusammen zeigen an, ob …").
+- [x] G3 παλιός/ωραίος/καινούριος-Blockzeilen: bereits gestrafft (zwei
+  Blockzitat-Belege παλιός/ωραίος + καινούριος im Fließtext, „(nicht auf -η)"
+  beibehalten). Keine Änderung nötig.
+- [x] G4 Wiederholung der ωραίος-Dreierfolge im ωραίος-Abschnitt: zweite Stelle
+  von voller Dreierliste auf zwei Belege + Verweis aufs bekannte Muster gekürzt
+  („ωραία πλατεία, ωραίος δρόμος und so fort … nach demselben -ος/-η/-ο-Muster
+  wie μεγάλος").
+- [x] G5 Teaser „Und noch eine Kleinigkeit …“: bereits zu direkter Aussage
+  umgebaut („Hinter είναι bleibt das Adjektiv in der vollen Form mit Endung —
+  hier verschlucken sich Deutschsprachige besonders oft"). Keine Änderung nötig.
+
+Pacing (reader L3/L5):
+- [x] Elliptische/verblose Variante „Ωραία η πλατεία!" steht bereits als eigener
+  dritter Absatz NACH attributiver und prädikativer Stellung, mit ausdrücklicher
+  Abgrenzung zur Attributiv-Regel (Artikel + Adjektiv + Nomen). Reihenfolge wie
+  gefordert. Keine Änderung nötig.
+
+Landeskunde (cultural K1):
+- [x] „bis halb sechs" → „bis gegen sechs Uhr" (Mittagsruhe/Ladenschluss; viele
+  öffnen erst gegen 18 Uhr wieder). Auf Deutsch, kein neues griechisches Token.
+
+## /review-chapter — Abschluss → geprueft
+- reviewer: FREIGABE (keine Befunde); continuity: KONTINUITÄT OK; cultural: FREIGABE (K1 Mittagsruhe „bis gegen sechs"); ai-guard: FREIGABE (G2/G4 gestrafft, Bullet-Blöcke Fließtext); reader: kein failure (L1 Stamm-Prozedur, L2 in Grammatik — bereits/jetzt erfüllt)
+- Schema 0 Fehler, continuity 0 Verstöße → **Status draft-complete → geprueft**
