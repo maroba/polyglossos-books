@@ -63,8 +63,7 @@ Ein Hund trottet vorbei, dahinter ein Kind mit einem Ball.
 **Μαρία:** Ναι, το παιδί και ο σκύλος. Εδώ η γειτονιά, Λένα!
 
 Mehr braucht so ein erster Rundgang nicht. María zeigt, Lena benennt — und vor
-jedem Ding taucht ein kleines Wort auf: mal **ο**, mal **η**, mal **το**. Genau
-das schauen wir uns jetzt an.
+jedem Ding taucht ein kleines Wort auf: mal **ο**, mal **η**, mal **το**.
 
 <!-- @section: vokabeln -->
 
@@ -95,11 +94,16 @@ Griechischen an **ο/η/το** ab.
 
 ### Das Muster
 
-| Artikel | Genus | Beispiel | wörtlich |
+| Artikel | griechisches Genus | Beispiel | Bedeutung |
 | --- | --- | --- | --- |
-| **ο** | männlich | ο δρόμος | „der" Straße |
-| **η** | weiblich | η πλατεία | „die" Platz |
-| **το** | sächlich | το σπίτι | „das" Haus |
+| **ο** | männlich | ο δρόμος | die Straße |
+| **η** | weiblich | η πλατεία | der Platz |
+| **το** | sächlich | το σπίτι | das Haus |
+
+Lies die Spalte „griechisches Genus" wörtlich: Sie sagt dir, welches Genus das
+**griechische** Wort hat — **ο** δρόμος ist im Griechischen männlich, ganz gleich
+dass es auf Deutsch *die* Straße heißt. Das deutsche Genus steht hier bewusst
+nicht; um das kümmern wir uns gleich im eigenen Abschnitt.
 
 Das **η** ist dir nicht ganz fremd: In Kapitel 3 stand es schon vor Lenas Namen
 — **η Λένα**. Damals hast du es nur wiedererkannt. Jetzt siehst du das ganze
@@ -117,11 +121,12 @@ Bei vielen Wörtern verrät dir schon das Ende des **geschriebenen** Wortes, ob
 es männlich, weiblich oder sächlich ist. Achte dabei wirklich auf das Wortbild,
 nicht auf den Klang — das Auge entscheidet hier, nicht das Ohr.
 
-Drei Endungen solltest du dir merken. Wörter auf **-ος** wie ο δρόμ**ος**, ο
-φούρν**ος** oder ο σκύλ**ος** sind fast immer **männlich**. Wörter auf **-α** wie
-η αγορ**ά**, η πλατεί**α** oder η εκκλησί**α** sind meist **weiblich**. Und Wörter
-auf **-ι** wie το μαγαζ**ί**, το σπίτ**ι** oder auf **-ο** wie το σχολεί**ο** sind
-meist **sächlich**. So liest du das Genus oft schon am Wortende ab.
+Drei Endungen solltest du dir merken. Endet ein Wort auf **-ος** — ο δρόμ**ος**,
+ο φούρν**ος**, ο σκύλ**ος** —, ist es fast immer **männlich**. Auf der femininen
+Seite stehen die Wörter auf **-α** wie η αγορ**ά**, η πλατεί**α** oder
+η εκκλησί**α**; sie sind meist **weiblich**. Und endet ein Wort auf **-ι** oder
+**-ο** — το μαγαζ**ί**, το σπίτ**ι**, το σχολεί**ο** —, kannst du ziemlich sicher
+auf **sächlich** tippen. So liest du das Genus oft schon am Wortende ab.
 
 Aber Vorsicht — das sind Faustregeln, keine Garantien. Nimm **ο άντρας**: Das Wort
 hört auf **-ας**, sieht damit beinahe weiblich aus, und ist trotzdem männlich,

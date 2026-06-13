@@ -129,3 +129,14 @@ Baseline nach exercise-designer: validate_schema 0 Fehler, continuity_check 0 Ve
 - reader: kein COMPREHENSION-FAILURE; L1 [sprachlicher Fehler] εκκλησία fälschlich unter -εία → korrigiert (αγορά/πλατεία/εκκλησία jetzt korrekt unter Endung -α). L2 (γυναίκα) by design (deklariert, Build-Box).
 - continuity_check: 0 Verstöße; validate_schema: 0 Fehler
 - **Status → draft-complete** (volle /new-chapter-Pipeline durchlaufen, 2 Überarbeitungsrunden)
+
+## /review-chapter — Feinschliff (teacher, 2026-06-13)
+- [x] ai-guard G2 (Dialog-Nachsatz) — leere Meta-Ankündigung „Genau das schauen wir uns jetzt an." ersatzlos gestrichen. Der vorhergehende Satz schließt das Dialogbild ab, die folgende Grammatik-Überschrift leitet über; keine Ankündigung nötig. Keine neuen Tokens.
+- [x] ai-guard G1 (Genus-Faustregel) — Dreierstruktur aufgebrochen: statt dreimal „Wörter auf X sind Y" jetzt drei verschiedene Satzkonstruktionen („Endet ein Wort auf -ος …", „Auf der femininen Seite stehen …", „endet ein Wort auf -ι oder -ο, kannst du … tippen"). Relativierung variiert (fast immer / meist / ziemlich sicher) statt gestapeltem „fast immer/meist/meist". Endungen weiterhin am ganzen, deklarierten Wort (Bindestrich-Notation, continuity-neutral); Ausnahme-Erklärung (ο άντρας) unverändert dahinter.
+- [x] reader L3 (Muster-Tabelle) — scheinbarer der/die-Widerspruch beseitigt: Spalte „wörtlich" mit „der" Straße / „die" Platz ersetzt durch Spalte „Bedeutung" mit korrekter deutscher Übersetzung (ο δρόμος = die Straße, η πλατεία = der Platz, το σπίτι = das Haus). Die Genus-Spalte heißt jetzt eindeutig „griechisches Genus"; ein klärender Satz nach der Tabelle sagt explizit, dass diese Spalte das GRIECHISCHE Genus meint und das deutsche Genus bewusst erst im eigenen Falle-Abschnitt kommt. Kein Widerspruch zum Kontrast-Abschnitt mehr.
+- Keine neuen griechischen Tokens, keine isolierten Fragmente, Akzente unverändert korrekt. Übungen nicht angefasst.
+
+## /review-chapter — Abschluss → geprueft
+- reviewer: FREIGABE (keine Befunde); continuity: OK; cultural: FREIGABE; ai-guard: FREIGABE (G1/G2 Feinschliff umgesetzt)
+- reader: kein COMPREHENSION-FAILURE; L1/L2/L4 (φούρνος/γυναίκα/σπίτι) by design (in meta.yaml deklariert, Build-Box); L3 (Tabellen-der/die) behoben
+- Schema 0 Fehler, continuity 0 Verstöße → **Status draft-complete → geprueft**
