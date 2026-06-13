@@ -248,3 +248,13 @@ Baseline: validate_schema 0 Fehler, continuity_check 0 Verstöße. Orchestrator-
 - reader: kein COMPREHENSION-FAILURE; L1 κάρτα by design (deklariert), L2 „Nominativ" → „Grundform (Einzahl)" (Orchestrator-Fix), L3 minor
 - validate_schema 0 Fehler, continuity_check 0 Verstöße
 - **Status → draft-complete** (volle Pipeline, 1 Überarbeitungsrunde + Mikrofixes; φάω/φάμε-Block, κάρτα-Dialoglogik, Landeskunde-Differenzierung, Meta-Floskeln, Nominativ→Grundform)
+
+## /review-chapter — Feinschliff
+- [x] **ai-guard G4** [floskel] Slogan-Schlusssatz der Landeskunde („Es geht weniger um die Menge als um das Miteinander: Der Tisch ist der Ort … sichtbare Ausdruck davon.") ersetzt durch eine konkrete Beobachtung: „Oft sitzt man am Ende länger, als man vorhatte, und der Tisch ist längst abgeräumt, während noch geredet wird." Kein Werbe-Abbinder mehr. → teacher
+- [x] **ai-guard G5** [floskel] Leere Meta-Ankündigung „Diese kleinen Teilgerichte haben einen eigenen Namen, den du später noch lernst." umformuliert zu „Diese kleinen Teilgerichte sind ein Kapitel für sich, mit eigenem griechischem Namen und eigenen Spielregeln; sie bekommen weiter hinten im Buch ihren eigenen Platz." — verweist sachlich auf das spätere eigene Thema, ohne hohle „lernst du später"-Floskel und OHNE den Begriff μεζέδες in griechischer Schrift. → teacher
+- [x] **ai-guard G1** [optional/rhythmus] Aphoristischer Dreischritt-Schluss „Der Stamm bleibt, die Endung erzählt, wer gemeint ist." konkreter gefasst: „Du tauschst also nur das Ende aus — am θέλ- davor musst du nichts ändern." Keine isolierten Fragmente (θέλ- bleibt mit Bindestrich-Endungsnotation, wie im ganzen Kapitel). → teacher
+- Kein neues griechisches Token hinzugekommen (insbesondere kein μεζέδες in griechischer Schrift); nur deutsche Prosa der Landeskunde + ein Grammatik-Schlusssatz geändert. Übungen unberührt. Akzente Monotoniko korrekt (θέλ- mit Bindestrich).
+
+## /review-chapter — Abschluss → geprueft
+- reviewer: FREIGABE (R1 „-ume"-Aussprachehilfe Grenzfall, akzeptiert); continuity: KONTINUITÄT OK; cultural: FREIGABE; ai-guard: FREIGABE (G4 Landeskunde-Schluss konkret, G5 Meta-Floskel weg, G1 variiert); reader: kein failure (L1 pacing, nicht blockierend)
+- Schema 0 Fehler, continuity 0 Verstöße → **Status draft-complete → geprueft**

@@ -83,7 +83,7 @@ Zwei Zeilen aus dem Dialog, direkt nebeneinander:
 Der vordere Teil ist gleich geblieben — **θέλ-** —, nur das Ende hat gewechselt:
 aus **-ω** (ich) wurde **-ουμε** (wir). Genau dieselbe Bewegung, die du in
 Kapitel 3 schon im Singular gemacht hast, als aus **μένω** ein **μένεις** wurde.
-Der Stamm bleibt, die Endung erzählt, wer gemeint ist.
+Du tauschst also nur das Ende aus — am **θέλ-** davor musst du nichts ändern.
 
 ### Das vollständige Muster
 
@@ -355,8 +355,9 @@ seinen eigenen Hauptgang.
 Das durchgängige „alles in die Mitte", bei dem die ganze Runde aus denselben
 Schüsseln isst, gehört eher in eine andere Sorte Lokal — das Ouzerí oder
 Mezedopolío, wo man von vornherein viele kleine Gerichte zum gemeinsamen
-Probieren bestellt. Diese kleinen Teilgerichte haben einen eigenen Namen, den du
-später noch lernst.
+Probieren bestellt. Diese kleinen Teilgerichte sind ein Kapitel für sich, mit
+eigenem griechischem Namen und eigenen Spielregeln; sie bekommen weiter hinten
+im Buch ihren eigenen Platz.
 
 Das hat Folgen für die Sprache. Beim gemeinsam Bestellten fällt am Tisch oft das
 **wir**: **θέλουμε να φάμε**, **θέλουμε μία σαλάτα**. Beim eigenen Hauptgang oder
@@ -370,9 +371,8 @@ der Woche, mittags zwischen Arbeit und Erledigungen, isst man auch in
 Griechenland schnell und schlicht, oft jeder für sich. Das ausgiebigere,
 geteilte Essen gehört eher zum Abend, zum Wochenende, zum Beisammensein mit
 Familie oder Freunden — und auch dann fällt es ganz unterschiedlich aus, je nach
-Anlass und Runde. Es geht weniger um die Menge als um das Miteinander: Der Tisch
-ist der Ort, an dem man zusammenkommt, und das Teilen ist der sichtbare Ausdruck
-davon.
+Anlass und Runde. Oft sitzt man am Ende länger, als man vorhatte, und der Tisch
+ist längst abgeräumt, während noch geredet wird.
 
 <!-- @section: loesungen -->
 
